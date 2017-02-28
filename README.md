@@ -3,3 +3,5 @@
 * Outline: [tentative outline](DataScience2Outline.pdf)
 * If a file does not open in the interface, use the __View Raw__ or __download__ links. Jupyter notebooks (.ipynb files), can be opened with the [nbviewer] (https://nbviewer.jupyter.org/) if they fail to open directly from Github.
 * All material here is provided under the __Creative Commons Non Commercial License__: [CC BY-NC 4.0] (https://creativecommons.org/licenses/by-nc/4.0/)
+
+*Last updated: February 28, 2017*
