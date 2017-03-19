@@ -5,7 +5,7 @@
 * Outline (subject to adjustments): [tentative outline](DataScience2Outline.pdf). 
 * The course (48 training hours) will focus on practical cases and will include different algorithms and data types (including text and images). Trainees also work on a project and present it at the end of the training.
 * If a file does not open in the interface, use the __View Raw__ or __download__ links. Jupyter notebooks (.ipynb files), can be opened with the [nbviewer] (https://nbviewer.jupyter.org/) if they fail to open directly from Github.
-* Datasets and general resources: see resources and datasets in the [Data Science Foundations](../../../ds1/) part.
+* Datasets and general resources: see resources and datasets in the [Data Science Foundations](../../../ds1/) part. Also, check this [Kaggle wiki](https://www.kaggle.com/wiki/Satendra) for additional links.
 * You should have a GitHub account by now (create one if you don't). Also, make sure you follow the trainer on GitHub.
 * All material here is provided under the __Creative Commons Non Commercial License__: [CC BY-NC 4.0] (https://creativecommons.org/licenses/by-nc/4.0/)
 
