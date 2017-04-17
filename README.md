@@ -1,7 +1,8 @@
 # Applied Data Science (DS2)
 ## Updates: 
 April 17, 2017: added 2 examples (in this repo) in caret (students for linear regression and titanic for logistic regression)  
-April 13, 2015: Session 2 material is online: [ADS (Applied Data Science)](https://github.com/Abdel-Razzak/ADS)   
+April 13, 2015: Session 2 material is online: [ADS (Applied Data Science)](https://github.com/Abdel-Razzak/ADS)  
+## Info and Resources  
 * Planned start date and time: April 8, 2017, 1:30PM (at CCE, Masa bldg, 6th floor in Ramallah). For registration, see the [Ad at Ritaj](https://ritaj.birzeit.edu/bzu-msgs/msg?mid=1330550)
 * __Trainer's notes__: available at [ADS (Applied Data Science)](https://github.com/Abdel-Razzak/ADS) repository. Use the ReadMe file for links to sessions and sub-sessions. 
 Note: html files may display as source (markup) on GitHub. You can either download (or clone) the branch or use an online viewer like [RawGit](https://rawgit.com/). In RawGit, you should paste the address of the html source. The RBasics notebooks above may also help as a quick R review. A good source on caret (R's equivalent to Scikit-Learn in Python) is [the caret package](http://topepo.github.io/caret) site (by the author of Caret). There is also a book online called [R for Data Science](https://github.com/hadley/r4ds) by an active R contributor. Here's another good [introduction to caret](https://www.r-project.org/nosvn/conferences/useR-2013/Tutorials/kuhn/user_caret_2up.pdf).
