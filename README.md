@@ -1,6 +1,6 @@
 # Applied Data Science (DS2)
 ## Updates: 
-April 20, 2015: Session 3 material is online: open links from [ADS (Applied Data Science)](https://github.com/Abdel-Razzak/ADS)   
+April 20, 2015: Session 3 material is online: open links from [ADS (Applied Data Science)](https://github.com/Abdel-Razzak/ADS). Tip: to practice, clone or download [branch](https://github.com/Abdel-Razzak/ADS/tree/Module-3-%26-4-Supervised-learning)   
 April 17, 2017: added 2 examples (in this repo) in caret (students for linear regression and titanic for logistic regression)  
 ## Info and Resources  
 * Planned start date and time: April 8, 2017, 1:30PM (at CCE, Masa bldg, 6th floor in Ramallah). For registration, see the [Ad at Ritaj](https://ritaj.birzeit.edu/bzu-msgs/msg?mid=1330550)
