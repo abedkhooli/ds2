@@ -1,7 +1,8 @@
 # Applied Data Science (DS2)
 ## Updates: 
-April 27, 2017: Session 5 material is online: open links from [ADS (Applied Data Science)](https://github.com/Abdel-Razzak/ADS). Tip: to practice, clone or download [branch](https://github.com/Abdel-Razzak/ADS/tree/Module-5--Natural-Language-Processing)   
-April 17, 2017: added 2 examples (in this repo) in caret (students for linear regression and titanic for logistic regression)  
+May 2, 2017: Projects presentations are planned for May 20th. Please create a workspace on your github and start adding your work. You are expected to brief your trainer on your progress during session 8. Your draft work should be ready before the 17th.
+May 1, 2017: Session 6 material is online: open links from [ADS (Applied Data Science)](https://github.com/Abdel-Razzak/ADS). Tip: to practice, clone or download [branch](https://github.com/Abdel-Razzak/ADS/tree/Module-6--SVM-%26-PCA)   
+April 30, 2017: added examples (in this repo) and updated this file with more resources for text, images and sound/voice.  
 ## Info and Resources  
 * Planned start date and time: April 8, 2017, 1:30PM (at CCE, Masa bldg, 6th floor in Ramallah). For registration, see the [Ad at Ritaj](https://ritaj.birzeit.edu/bzu-msgs/msg?mid=1330550)
 * __Trainer's notes__: available at [ADS (Applied Data Science)](https://github.com/Abdel-Razzak/ADS) repository. Use the ReadMe file for links to sessions and sub-sessions. 
@@ -20,4 +21,4 @@ Note: html files may display as source (markup) on GitHub. You can either downlo
 * Technology and real life DS: you should familiarize yourself with computational limits and solutions (big data and distributed file systems, parallel processing, using GPU and cloud computing). You can use cloud resources on different platforms for free (limited time and computing power). For example, [Azure ML Studio](https://studio.azureml.net) offers free trials and you can start from [this tutorial](https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-create-experiment). Azure ML has drag/drop and GUI interface for model creation, training and publishing (prediction via API). See [this screenshot](azureml.png). The [Cortana Gallery](https://gallery.cortanaintelligence.com/) is also a good resource of ML solutions.
 * All material here is provided under the __Creative Commons Non Commercial License__: [CC BY-NC 4.0] (https://creativecommons.org/licenses/by-nc/4.0/)
 
-*Last updated: April 30, 2017*
+*Last updated: May 2, 2017*
