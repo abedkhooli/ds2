@@ -1,5 +1,6 @@
 # Applied Data Science (DS2)
 ## Updates: 
+May 3, 2017: uploaded a notebook with multi-layer perceptron (basic neural net) example (see perceptrons.ipynb above)  
 May 2, 2017: Projects presentations are planned for May 20th. Please create a workspace on your github and start adding your work. You are expected to brief your trainer on your progress during session 8. Your draft work should be ready before the 17th.
 May 1, 2017: Session 6 material is online: open links from [ADS (Applied Data Science)](https://github.com/Abdel-Razzak/ADS). Tip: to practice, clone or download [branch](https://github.com/Abdel-Razzak/ADS/tree/Module-6--SVM-%26-PCA)   
 April 30, 2017: added examples (in this repo) and updated this file with more resources for text, images and sound/voice.  
