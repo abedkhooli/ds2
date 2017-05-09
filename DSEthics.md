@@ -2,6 +2,7 @@
 The following is a starter list of resources about ethics in data science - including data aqcuisition, security, privacy, fairness and accountability of algorithms, moral issues, legal and regulatory considerations, and more. You are expected to have a section about ethics in your project presentation.
 * [Data Science Ethics](https://www.edx.org/course/data-science-ethics-michiganx-ds101x-1): edX MOOC from the University of Michigan 
 * [Machine intelligence makes human morals more important](https://www.ted.com/talks/zeynep_tufekci_machine_intelligence_makes_human_morals_more_important): excellent TED talk by Zeynep Tufekci 
+* [Fighting bias in algorithms](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms): another great TED talk (around 9 minutes)
 * [Keynote of Ethical Machine Learning](http://kjamistan.com/pydata-amsterdam-keynote-on-ethical-machine-learning/): Jupyter notebook and list of related talks, resources and articles 
 * [What are the ethical considerations of machines learning?](https://www.quora.com/What-are-the-ethical-considerations-of-machines-learning): Question on Quora with different answers
 * [Ethical Considerations in Artificial Intelligence Courses](https://arxiv.org/pdf/1701.07769.pdf): excellent paper and interesting questions 
@@ -11,4 +12,4 @@ The following is a starter list of resources about ethics in data science - incl
 * [Ethical Issues in Data Science](https://www.youtube.com/watch?v=qgAoLKiUPMM): talk focusing on biomedical data
 * [Ethics & Data Science](https://www.youtube.com/watch?v=zCtHQXugrO0): keynote at DataEDGE 2014 
 
-*Last Updated: May 7, 2017*
+*Last Updated: May 9, 2017*
