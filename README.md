@@ -1,10 +1,9 @@
 # Applied Data Science (DS2)
 ## Updates: 
-May 7, 2017: added a new file on [data science ethics resources](DSEthics.md)  
+May 11, 2017: __Projects presentations__ are planned for May 20th at 1:30 PM. You are expected to brief your trainer on your progress during session 8. Your near-final work should be ready on github on or before the 17th of May, 2017.   
+May 7-11, 2017: added a new file on [data science ethics resources](DSEthics.md) and uploaded an example on sentiment analysis in Keras (using Word2Vec).   
 May 4, 2017: Session 7-8 material is online: open links from [ADS (Applied Data Science)](https://github.com/Abdel-Razzak/ADS). Tip: to practice, clone or download [branch](https://github.com/Abdel-Razzak/ADS/tree/Module-7--Deep-Learning)   
-May 3-4, 2017: uploaded 3 notebooks for NNs (see perceptrons.ipynb, tf_learn.ipynb and keras.ipynb in same folder)  
-May 2, 2017: Projects presentations are planned for May 20th. Please create a workspace on your github and start adding your work. You are expected to brief your trainer on your progress during session 8. Your draft work should be ready before the 17th.
-April 30, 2017: added examples (in this repo) and updated this file with more resources for text, images and sound/voice.  
+
 ## Info and Resources  
 * Planned start date and time: April 8, 2017, 1:30PM (at CCE, Masa bldg, 6th floor in Ramallah). For registration, see the [Ad at Ritaj](https://ritaj.birzeit.edu/bzu-msgs/msg?mid=1330550)
 * __Trainer's notes__: available at [ADS (Applied Data Science)](https://github.com/Abdel-Razzak/ADS) repository. Use the ReadMe file for links to sessions and sub-sessions. 
@@ -23,4 +22,4 @@ Note: html files may display as source (markup) on GitHub. You can either downlo
 * __Technology and real life DS__: you should familiarize yourself with computational limits and solutions (big data and distributed file systems, parallel processing, using GPU and cloud computing). You can use cloud resources on different platforms for free (limited time and computing power). For example, [Azure ML Studio](https://studio.azureml.net) offers free trials and you can start from [this tutorial](https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-create-experiment). Azure ML has drag/drop and GUI interface for model creation, training and publishing (prediction via API). See [this screenshot](azureml.png). The [Cortana Gallery](https://gallery.cortanaintelligence.com/) is also a good resource of ML solutions. Machine learning is now integrated with databases like MS SQL server 2017 - see [this video](https://www.youtube.com/watch?v=XFzrRyca_HU) for more (ex. demo at 12 min).
 * All material here is provided under the __Creative Commons Non Commercial License__: [CC BY-NC 4.0] (https://creativecommons.org/licenses/by-nc/4.0/)
 
-*Last updated: May 10, 2017*
+*Last updated: May 11, 2017*
