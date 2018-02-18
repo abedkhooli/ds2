@@ -11,8 +11,15 @@ https://towardsdatascience.com/learning-note-starspace-for-multi-label-text-clas
 http://anie.me/On-Torchtext/  (see also repos at https://github.com/windweller)   
 https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-4-2048a26d58aa   series from Fast.ai learner. See all at https://medium.com/@hiromi_suenaga   
 
-## TextaCy   (based on spaCy, GH https://github.com/chartbeat-labs/textacy)  
-https://towardsdatascience.com/summarizing-tweets-in-a-disaster-e6b355a41732  tweets corpora. Also https://medium.com/data-for-democracy/learning-to-track-refugees-a90aa334a0a2  
+## TextaCy   
+(based on spaCy, GH https://github.com/chartbeat-labs/textacy)   
+https://towardsdatascience.com/summarizing-tweets-in-a-disaster-e6b355a41732  tweets corpora. Also https://medium.com/data-for-democracy/learning-to-track-refugees-a90aa334a0a2   
+https://towardsdatascience.com/twitter-api-and-nlp-7a386758eb31  Tweets by different users (code, with tweets miner class at https://github.com/elaiken3/twitter_api-nlp-project1)  
+
+## Twitter tools
+https://github.com/bear/python-twitter Python Twitter (see also Tweepy)
+
+
 
 
 
