@@ -1,3 +1,4 @@
+Note/disclaimer: this doc is not part of this repo in the logical sense but is being hosted here for now. It is currently a set of misc links and notes in no specific structure or purpose or maintenance plan. Use it if you find it useful.
 # NLP 
 ## General 
 https://www.seas.upenn.edu/~romap/nlp-resources.html  great collection by Univ. Penn.  
