@@ -16,8 +16,14 @@ https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-4-2048a26d58aa 
 https://towardsdatascience.com/summarizing-tweets-in-a-disaster-e6b355a41732  tweets corpora. Also https://medium.com/data-for-democracy/learning-to-track-refugees-a90aa334a0a2   
 https://towardsdatascience.com/twitter-api-and-nlp-7a386758eb31  Tweets by different users (code, with tweets miner class at https://github.com/elaiken3/twitter_api-nlp-project1)  
 
+## Allen NLP 
+.....
+
 ## Twitter tools
-https://github.com/bear/python-twitter Python Twitter (see also Tweepy)
+https://github.com/bear/python-twitter Python Twitter (see also Tweepy)  
+
+## RegEx 
+https://www.youtube.com/watch?v=r6I-Ahc0HB4  (series 4 or more)
 
 
 
