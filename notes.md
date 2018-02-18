@@ -1,6 +1,7 @@
 # NLP 
 ## General 
-https://www.seas.upenn.edu/~romap/nlp-resources.html  
+https://www.seas.upenn.edu/~romap/nlp-resources.html  great collection by Univ. Penn.  
+https://news.ycombinator.com/item?id=14639295   by YC.  
 
 ## TorchText 
 https://github.com/mjc92/TorchTextTutorial  
@@ -10,7 +11,7 @@ https://towardsdatascience.com/learning-note-starspace-for-multi-label-text-clas
 http://anie.me/On-Torchtext/  (see also repos at https://github.com/windweller)   
 https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-4-2048a26d58aa   series from Fast.ai learner. See all at https://medium.com/@hiromi_suenaga   
 
-## TextaCy  (based on spaCy)  
+## TextaCy  (based on spaCy, GH https://github.com/chartbeat-labs/textacy)  
 https://towardsdatascience.com/summarizing-tweets-in-a-disaster-e6b355a41732  tweets corpora. Also https://medium.com/data-for-democracy/learning-to-track-refugees-a90aa334a0a2  
 
 
