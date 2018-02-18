@@ -24,7 +24,8 @@ https://towardsdatascience.com/twitter-api-and-nlp-7a386758eb31  Tweets by diffe
 https://github.com/bear/python-twitter Python Twitter (see also Tweepy)  
 
 ## RegEx 
-https://regex101.com/ online tool
+https://regex101.com/ online tool  
+https://www.youtube.com/watch?v=sa-TUpSx1JA  in general (see below, same person)  
 https://www.youtube.com/watch?v=K8L6KVGG-7o in Python using re  
 https://www.youtube.com/watch?v=r6I-Ahc0HB4  (series 4 or more: https://github.com/iamshaunjp/regex-playlist)
 
