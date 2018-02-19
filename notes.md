@@ -17,6 +17,9 @@ https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-4-2048a26d58aa 
 https://towardsdatascience.com/summarizing-tweets-in-a-disaster-e6b355a41732  tweets corpora. Also https://medium.com/data-for-democracy/learning-to-track-refugees-a90aa334a0a2   
 https://towardsdatascience.com/twitter-api-and-nlp-7a386758eb31  Tweets by different users (code, with tweets miner class at https://github.com/elaiken3/twitter_api-nlp-project1)  
 
+## spaCy  
+https://dataflume.wordpress.com/2017/03/17/intro-nlp-python-spacy/ 
+
 ## Allen NLP 
 .....
 
@@ -25,11 +28,18 @@ https://github.com/bear/python-twitter Python Twitter (see also Tweepy)
 
 ## RegEx 
 https://regex101.com/ online tool  
+https://www.youtube.com/watch?v=VU60rEXaOXk jupyter notebook
+https://github.com/CoreyMSchafer/code_snippets/blob/master/Python-Regular-Expressions/snippets.txt  regex codes  
 https://www.youtube.com/watch?v=sa-TUpSx1JA  in general (see below, same person)  
-https://www.youtube.com/watch?v=K8L6KVGG-7o in Python using re  
-https://www.youtube.com/watch?v=r6I-Ahc0HB4  (series 4 or more: https://github.com/iamshaunjp/regex-playlist)
+https://www.youtube.com/watch?v=K8L6KVGG-7o in Python using re  (code at https://github.com/CoreyMSchafer/code_snippets/tree/master/Python-Regular-Expressions)   
+https://www.youtube.com/watch?v=zN8rwVXwRUE   python from edureka  
+https://www.youtube.com/watch?v=ZdDOauFIDkw  oldish, Python  
+https://www.youtube.com/watch?v=sZyAn2TW7GY oldish, python  
+https://www.youtube.com/watch?v=r6I-Ahc0HB4  (very basic series 4 or more: https://github.com/iamshaunjp/regex-playlist)
 
 
+## Misc 
+https://www.analyticsvidhya.com/blog/2018/02/top-5-github-repositories-january-2018  (Top 5 Data Science & Machine Learning Repositories)  
 
 
 
