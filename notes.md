@@ -40,6 +40,8 @@ https://www.youtube.com/watch?v=r6I-Ahc0HB4  (very basic series 4 or more: https
 
 ## Misc 
 https://www.analyticsvidhya.com/blog/2018/02/top-5-github-repositories-january-2018  (Top 5 Data Science & Machine Learning Repositories)  
+https://testdriven.io/building-a-concurrent-web-scraper-with-python-and-selenium#.WorbWQNWXbw.twitter  
+https://arxiv.org/ftp/arxiv/papers/1702/1702.07835.pdf  survey of free Arabic corpora 
 
 
 
