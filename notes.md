@@ -28,7 +28,7 @@ https://github.com/bear/python-twitter Python Twitter (see also Tweepy)
 
 ## RegEx 
 https://regex101.com/ online tool  
-https://www.youtube.com/watch?v=VU60rEXaOXk jupyter notebook
+https://www.youtube.com/watch?v=VU60rEXaOXk jupyter notebook (many episodes)
 https://github.com/CoreyMSchafer/code_snippets/blob/master/Python-Regular-Expressions/snippets.txt  regex codes  
 https://www.youtube.com/watch?v=sa-TUpSx1JA  in general (see below, same person)  
 https://www.youtube.com/watch?v=K8L6KVGG-7o in Python using re  (code at https://github.com/CoreyMSchafer/code_snippets/tree/master/Python-Regular-Expressions)   
@@ -41,7 +41,10 @@ https://www.youtube.com/watch?v=r6I-Ahc0HB4  (very basic series 4 or more: https
 ## Misc 
 https://www.analyticsvidhya.com/blog/2018/02/top-5-github-repositories-january-2018  (Top 5 Data Science & Machine Learning Repositories)  
 https://testdriven.io/building-a-concurrent-web-scraper-with-python-and-selenium#.WorbWQNWXbw.twitter  
-https://arxiv.org/ftp/arxiv/papers/1702/1702.07835.pdf  survey of free Arabic corpora 
+https://arxiv.org/ftp/arxiv/papers/1702/1702.07835.pdf  survey of free Arabic corpora (great list)  <=====   
+UN corpora: http://www.uncorpora.org/   
+https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906  Announcing Jupyter lab beta  
+https://machinelearningmastery.com/resources-for-linear-algebra-in-machine-learning/  linear algebra resources
 
 
 
