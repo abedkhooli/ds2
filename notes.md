@@ -2,7 +2,12 @@ Note/disclaimer: this doc is not part of this repo in the logical sense but is b
 # NLP 
 ## General 
 https://www.seas.upenn.edu/~romap/nlp-resources.html  great collection by Univ. Penn.  
+https://docs.google.com/document/d/1mkB6KA7KuzNeoc9jW3mfOthv_6Uberxs8l2H7BmJdzg/edit#  NLUCS NYDC Sam Bowman  
 https://news.ycombinator.com/item?id=14639295   by YC.  
+https://nlp.stanford.edu/projects/glove/   pretrained glove vecs ( see https://machinelearningmastery.com/develop-word-embeddings-python-gensim/  for working with w2v and glove at end of article and https://github.com/stanfordnlp/GloVe)     
+https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md FB pretrained fastText  
+https://dumps.wikimedia.org/arwiki/   Arabic wiki dumps   
+
 
 ## TorchText 
 https://github.com/mjc92/TorchTextTutorial  
