@@ -1,8 +1,10 @@
 Note/disclaimer: this doc is not part of this repo in the logical sense but is being hosted here for now. It is currently a set of misc links and notes in no specific structure or purpose or maintenance plan. Use it if you find it useful.
 # NLP 
 ## General 
-https://www.seas.upenn.edu/~romap/nlp-resources.html  great collection by Univ. Penn.  
+https://www.seas.upenn.edu/~romap/nlp-resources.html  great collection by Univ. Penn.   
+https://t.co/BcBOaeBhUw  Stanford nlp book
 https://docs.google.com/document/d/1mkB6KA7KuzNeoc9jW3mfOthv_6Uberxs8l2H7BmJdzg/edit#  NLUCS NYDC Sam Bowman  
+https://www.kdnuggets.com/2017/07/5-free-resources-getting-started-deep-learning-nlp.html  
 https://news.ycombinator.com/item?id=14639295   by YC.  
 https://nlp.stanford.edu/projects/glove/   pretrained glove vecs ( see https://machinelearningmastery.com/develop-word-embeddings-python-gensim/  for working with w2v and glove at end of article and https://github.com/stanfordnlp/GloVe)     
 https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md FB pretrained fastText  
