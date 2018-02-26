@@ -51,7 +51,11 @@ https://testdriven.io/building-a-concurrent-web-scraper-with-python-and-selenium
 https://arxiv.org/ftp/arxiv/papers/1702/1702.07835.pdf  survey of free Arabic corpora (great list)  <=====   
 UN corpora: http://www.uncorpora.org/   
 https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906  Announcing Jupyter lab beta  
-https://machinelearningmastery.com/resources-for-linear-algebra-in-machine-learning/  linear algebra resources
+https://machinelearningmastery.com/resources-for-linear-algebra-in-machine-learning/  linear algebra resources 
+https://fossbytes.com/10-cheat-sheets-programming-languages/   
+https://github.com/zhezhaoa/ngram2vec  https://github.com/maciejkula/glove-python   ***    
+https://towardsdatascience.com/word-embeddings-exploration-explanation-and-exploitation-with-code-in-python-5dac99d5d795   
+
 
 
 
