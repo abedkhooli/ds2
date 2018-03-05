@@ -25,7 +25,8 @@ https://towardsdatascience.com/summarizing-tweets-in-a-disaster-e6b355a41732  tw
 https://towardsdatascience.com/twitter-api-and-nlp-7a386758eb31  Tweets by different users (code, with tweets miner class at https://github.com/elaiken3/twitter_api-nlp-project1)  
 
 ## spaCy  
-https://dataflume.wordpress.com/2017/03/17/intro-nlp-python-spacy/ 
+https://dataflume.wordpress.com/2017/03/17/intro-nlp-python-spacy/   
+https://nbviewer.jupyter.org/github/repmax/topic-model/blob/master/topic-modelling.ipynb  *****
 
 ## Allen NLP 
 .....
