@@ -56,8 +56,12 @@ https://machinelearningmastery.com/resources-for-linear-algebra-in-machine-learn
 https://fossbytes.com/10-cheat-sheets-programming-languages/   
 https://github.com/zhezhaoa/ngram2vec  https://github.com/maciejkula/glove-python   ***    
 https://towardsdatascience.com/word-embeddings-exploration-explanation-and-exploitation-with-code-in-python-5dac99d5d795   
+https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng   ****   
 
-
+## To watch on Ch9  
+https://channel9.msdn.com/Events/Connect/2017/AI1  intro to MS AI 
+https://channel9.msdn.com/Events/Connect/2017/AI2 intro to bots 
+https://channel9.msdn.com/Events/Connect/2017/T100  use Azure bot srvice  
 
 
 
