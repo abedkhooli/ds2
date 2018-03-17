@@ -59,6 +59,7 @@ https://towardsdatascience.com/word-embeddings-exploration-explanation-and-explo
 https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng   ****   
 https://github.com/ilkarman/DeepLearningFrameworks/tree/master/notebooks  deep learning frameworks comparison notebooks  
 https://github.com/lukas/ml-class    Keras and Scikit class notes   
+https://github.com/janniec/GinsBot use Gensim W2vec to predict sentence completion (legal opinions)  
 
 ## To watch on Ch9  
 https://channel9.msdn.com/Events/Connect/2017/AI1  intro to MS AI 
