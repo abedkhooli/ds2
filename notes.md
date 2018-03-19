@@ -9,7 +9,7 @@ https://news.ycombinator.com/item?id=14639295   by YC.
 https://nlp.stanford.edu/projects/glove/   pretrained glove vecs ( see https://machinelearningmastery.com/develop-word-embeddings-python-gensim/  for working with w2v and glove at end of article and https://github.com/stanfordnlp/GloVe)     
 https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md FB pretrained fastText  
 https://dumps.wikimedia.org/arwiki/   Arabic wiki dumps   
-
+https://github.com/allenai/arc-solvers  ARC solvers (see https://arxiv.org/pdf/1803.05457.pdf)
 
 ## TorchText 
 https://github.com/mjc92/TorchTextTutorial  
@@ -65,6 +65,24 @@ https://github.com/janniec/GinsBot use Gensim W2vec to predict sentence completi
 https://channel9.msdn.com/Events/Connect/2017/AI1  intro to MS AI 
 https://channel9.msdn.com/Events/Connect/2017/AI2 intro to bots 
 https://channel9.msdn.com/Events/Connect/2017/T100  use Azure bot srvice  
+
+## Bots  
+https://github.com/SherifElMahdi/botsfromzerotohero  
+https://github.com/DanielEgan/BotWorkshop  
+https://github.com/jamescarpinter/bot-service  
+https://github.com/RobStand/Ignite201701   (see other repos)  
+(see also https://mva.microsoft.com/search/SearchResults.aspx#!q=ASP.NET%20Core&lang=1033)  
+https://docs.microsoft.com/en-us/bot-framework/dotnet/bot-builder-dotnet-quickstart  **** Bot Framework (VS2017)  
+https://docs.microsoft.com/en-us/bot-framework/dotnet/bot-builder-dotnet-overview Bot SDK docs   
+https://github.com/Microsoft/BotBuilder-Samples/tree/master/CSharp  Samples <==============  
+https://github.com/Microsoft/BotBuilder/tree/master/CSharp/Samples other samples  
+https://channel9.msdn.com/events/DEVintersection/DEVintersection-2017-Las-Vegas/GB009?term=bot *************  
+https://channel9.msdn.com/events/Connect/2017/AI2?term=bot James Carpinter (https://github.com/jamescarpinter)  
+https://channel9.msdn.com/events/Ignite/Microsoft-Ignite-Orlando-2017/BRK3301?term=bot   
+
+https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/linux-dsvm-intro   
+https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/linux-dsvm-walkthrough  
+
 
 
 
