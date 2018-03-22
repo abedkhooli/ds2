@@ -26,7 +26,9 @@ https://towardsdatascience.com/twitter-api-and-nlp-7a386758eb31  Tweets by diffe
 
 ## spaCy  
 https://dataflume.wordpress.com/2017/03/17/intro-nlp-python-spacy/   
-https://nbviewer.jupyter.org/github/repmax/topic-model/blob/master/topic-modelling.ipynb  *****
+https://nbviewer.jupyter.org/github/repmax/topic-model/blob/master/topic-modelling.ipynb  *****  
+https://github.com/oudalab/Arabic-NER  Spacy Ar NER 
+http://mlreference.com/spacy   
 
 ## Allen NLP 
 .....
@@ -67,13 +69,15 @@ https://channel9.msdn.com/Events/Connect/2017/AI1  intro to MS AI
 https://channel9.msdn.com/Events/Connect/2017/AI2 intro to bots 
 https://channel9.msdn.com/Events/Connect/2017/T100  use Azure bot srvice  
 
-## Bots  
+## Bots 
+https://gitter.im/Microsoft/BotBuilder <== gitter  blog.botframework.com  
 https://github.com/SherifElMahdi/botsfromzerotohero  
 https://github.com/DanielEgan/BotWorkshop  
 https://github.com/jamescarpinter/bot-service  
 https://github.com/RobStand/IgniteDemoThr   (see other repos)  
 https://youtu.be/cumYtCVjl6Q?t=1013 (cards)  
-https://github.com/JoeMayo/MSBotFrameworkBook  book chapters code   
+https://github.com/JoeMayo/MSBotFrameworkBook  and https://github.com/JoeMayo/BotDemos  MS Press book chapters code (see http://blog.botcontext.com/) and https://github.com/DanielEgan/BotWorkshop (see pdf in isamara folder 70 p)      
+https://docs.microsoft.com/en-us/bot-framework/dotnet/bot-builder-dotnet-quickstart  <=====    
 https://mva.microsoft.com/en-US/training-courses/17590?l=ALwJe9kqD_4000115881   intro  
 https://channel9.msdn.com/Series/Explain/Bots-101-Scenarios-for-bots <=== no tech intro  
 https://channel9.msdn.com/Shows/AI-Show/Announcing-General-Availability-of-Azure-Bot-Service-and-Language-Understanding-service?term=bot  Announcing GA of Bot Framework  
