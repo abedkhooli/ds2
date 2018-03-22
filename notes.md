@@ -63,6 +63,7 @@ https://github.com/ilkarman/DeepLearningFrameworks/tree/master/notebooks  deep l
 https://github.com/lukas/ml-class    Keras and Scikit class notes   
 https://github.com/janniec/GinsBot use Gensim W2vec to predict sentence completion (legal opinions)  
 http://serialmentor.com/dataviz/aesthetic-mapping.html   Fata Viz e-book   
+https://github.com/geopandas/geopandas   GeoPandas mapping    
 
 ## To watch on Ch9  
 https://channel9.msdn.com/Events/Connect/2017/AI1  intro to MS AI 
