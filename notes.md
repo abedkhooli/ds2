@@ -29,6 +29,11 @@ https://dataflume.wordpress.com/2017/03/17/intro-nlp-python-spacy/
 https://nbviewer.jupyter.org/github/repmax/topic-model/blob/master/topic-modelling.ipynb  *****  
 https://github.com/oudalab/Arabic-NER  Spacy Ar NER 
 http://mlreference.com/spacy   
+https://twitter.com/julien_c/status/977189681283633153  Neuralcoref v2.0 Stanford NLP, Coref link   
+https://twitter.com/spacy_io/status/977286812510060545  visualize spacy with tensorborad  
+
+## Gensim  
+https://github.com/RaRe-Technologies/talks/tree/master/2018-03-23_MLPrague-workshop  Notebooks on W2Vec, FT, etc.   
 
 ## Allen NLP 
 .....
@@ -49,6 +54,7 @@ https://www.youtube.com/watch?v=r6I-Ahc0HB4  (very basic series 4 or more: https
 
 
 ## Misc 
+http://www.datasciencefree.com/cheatsheets.html    ****    
 https://www.analyticsvidhya.com/blog/2018/02/top-5-github-repositories-january-2018  (Top 5 Data Science & Machine Learning Repositories)  
 https://testdriven.io/building-a-concurrent-web-scraper-with-python-and-selenium#.WorbWQNWXbw.twitter  
 https://arxiv.org/ftp/arxiv/papers/1702/1702.07835.pdf  survey of free Arabic corpora (great list)  <=====   
@@ -61,7 +67,8 @@ https://towardsdatascience.com/word-embeddings-exploration-explanation-and-explo
 https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng   ****   
 https://github.com/ilkarman/DeepLearningFrameworks/tree/master/notebooks  deep learning frameworks comparison notebooks  
 https://github.com/lukas/ml-class    Keras and Scikit class notes   
-https://github.com/janniec/GinsBot use Gensim W2vec to predict sentence completion (legal opinions)  
+https://github.com/janniec/GinsBot use Gensim W2vec to predict sentence completion (legal opinions) 
+https://realpython.com/python-speech-recognition/ speech recognition in Python     
 http://serialmentor.com/dataviz/aesthetic-mapping.html   Fata Viz e-book   
 https://github.com/geopandas/geopandas   GeoPandas mapping    
 
