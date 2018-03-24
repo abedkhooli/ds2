@@ -70,7 +70,8 @@ https://github.com/lukas/ml-class    Keras and Scikit class notes
 https://github.com/janniec/GinsBot use Gensim W2vec to predict sentence completion (legal opinions) 
 https://realpython.com/python-speech-recognition/ speech recognition in Python     
 http://serialmentor.com/dataviz/aesthetic-mapping.html   Fata Viz e-book   
-https://github.com/geopandas/geopandas   GeoPandas mapping    
+https://github.com/geopandas/geopandas   GeoPandas mapping   
+https://github.com/anati89/wazen  (see https://www.linkedin.com/pulse/wazen-arabic-nlp-project-find-word-variation-pattern-root-al-anati/)  
 
 ## To watch on Ch9  
 https://channel9.msdn.com/Events/Connect/2017/AI1  intro to MS AI 
