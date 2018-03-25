@@ -81,6 +81,8 @@ https://channel9.msdn.com/Events/Connect/2017/T100  use Azure bot srvice
 
 ## Bots 
 https://gitter.im/Microsoft/BotBuilder <== gitter  blog.botframework.com  
+https://code.msdn.microsoft.com/ look for bot stuff   
+https://www.c-sharpcorner.com/article/getting-started-chatbot-using-azure-bot-service/   
 https://github.com/SherifElMahdi/botsfromzerotohero  Sherif elMahdi ??   
 https://github.com/DanielEgan/BotWorkshop  <-------------------
 https://github.com/mithun-prasad/Bot/ <-------------- MS, slides and code, testing bots etc.  
