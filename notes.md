@@ -9,7 +9,8 @@ https://news.ycombinator.com/item?id=14639295   by YC.
 https://nlp.stanford.edu/projects/glove/   pretrained glove vecs ( see https://machinelearningmastery.com/develop-word-embeddings-python-gensim/  for working with w2v and glove at end of article and https://github.com/stanfordnlp/GloVe)     
 https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md FB pretrained fastText  
 https://dumps.wikimedia.org/arwiki/   Arabic wiki dumps   
-https://github.com/allenai/arc-solvers  ARC solvers (see https://arxiv.org/pdf/1803.05457.pdf)
+https://github.com/allenai/arc-solvers  ARC solvers (see https://arxiv.org/pdf/1803.05457.pdf)  
+https://github.com/awesomedata/awesome-public-datasets   <-----   
 
 ## TorchText 
 https://github.com/mjc92/TorchTextTutorial  
@@ -80,13 +81,19 @@ https://channel9.msdn.com/Events/Connect/2017/T100  use Azure bot srvice
 
 ## Bots 
 https://gitter.im/Microsoft/BotBuilder <== gitter  blog.botframework.com  
-https://github.com/SherifElMahdi/botsfromzerotohero  
-https://github.com/DanielEgan/BotWorkshop  
+https://github.com/SherifElMahdi/botsfromzerotohero  Sherif elMahdi ??   
+https://github.com/DanielEgan/BotWorkshop  <-------------------
+https://github.com/mithun-prasad/Bot/ <-------------- MS, slides and code, testing bots etc.  
+https://ankitbko.github.io/2017/03/human-handover-bot/  hand-over  
+https://github.com/tompaana/bot-message-routing   intermediator see above .. 
+https://github.com/alyssaong1/botfwk-scenarios   
 https://github.com/jamescarpinter/bot-service  
 https://github.com/RobStand/IgniteDemoThr   (see other repos)  
 https://youtu.be/cumYtCVjl6Q?t=1013 (cards)  
-https://github.com/JoeMayo/MSBotFrameworkBook  and https://github.com/JoeMayo/BotDemos  MS Press book chapters code (see http://blog.botcontext.com/) and https://github.com/DanielEgan/BotWorkshop (see pdf in isamara folder 70 p)      
+https://github.com/JoeMayo/MSBotFrameworkBook  and https://github.com/JoeMayo/BotDemos  MS Press book chapters code (see http://blog.botcontext.com/) and https://github.com/DanielEgan/BotWorkshop (see pdf in isamara folder 70 p)  
+https://github.com/alyssaong1?tab=repositories  <--- node.js examples   
 https://docs.microsoft.com/en-us/bot-framework/dotnet/bot-builder-dotnet-quickstart  <=====    
+https://github.com/MicrosoftBotFrameworkDiplomado/TanukiBOT   <-- Cosmosdb   
 https://mva.microsoft.com/en-US/training-courses/17590?l=ALwJe9kqD_4000115881   intro  
 https://channel9.msdn.com/Series/Explain/Bots-101-Scenarios-for-bots <=== no tech intro  
 https://channel9.msdn.com/Shows/AI-Show/Announcing-General-Availability-of-Azure-Bot-Service-and-Language-Understanding-service?term=bot  Announcing GA of Bot Framework  
