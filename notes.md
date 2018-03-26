@@ -71,7 +71,8 @@ https://github.com/lukas/ml-class    Keras and Scikit class notes
 https://github.com/janniec/GinsBot use Gensim W2vec to predict sentence completion (legal opinions) 
 https://realpython.com/python-speech-recognition/ speech recognition in Python     
 http://serialmentor.com/dataviz/aesthetic-mapping.html   Fata Viz e-book   
-https://github.com/geopandas/geopandas   GeoPandas mapping   
+https://github.com/geopandas/geopandas   GeoPandas mapping      
+https://www.kdnuggets.com/2018/03/catboost-vs-light-gbm-vs-xgboost.html   XG/CAT/boost & LightGBM  
 https://github.com/anati89/wazen  (see https://www.linkedin.com/pulse/wazen-arabic-nlp-project-find-word-variation-pattern-root-al-anati/)  
 
 ## To watch on Ch9  
@@ -81,8 +82,9 @@ https://channel9.msdn.com/Events/Connect/2017/T100  use Azure bot srvice
 
 ## Bots 
 https://gitter.im/Microsoft/BotBuilder <== gitter  blog.botframework.com  
-https://code.msdn.microsoft.com/ look for bot stuff   
-https://www.c-sharpcorner.com/article/getting-started-chatbot-using-azure-bot-service/   
+https://code.msdn.microsoft.com/ look for bot stuff  
+https://twitter.com/jssuthahar  (https://www.c-sharpcorner.com/article/getting-started-with-receipt-card-design-using-microsoft-bot-framework/)  
+https://www.c-sharpcorner.com/article/getting-started-chatbot-using-azure-bot-service/ (https://www.c-sharpcorner.com/search/bot)     
 https://github.com/SherifElMahdi/botsfromzerotohero  Sherif elMahdi ??   
 https://github.com/DanielEgan/BotWorkshop  <-------------------
 https://github.com/mithun-prasad/Bot/ <-------------- MS, slides and code, testing bots etc.  
