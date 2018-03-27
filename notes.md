@@ -74,6 +74,8 @@ http://serialmentor.com/dataviz/aesthetic-mapping.html   Fata Viz e-book
 https://github.com/geopandas/geopandas   GeoPandas mapping      
 https://www.kdnuggets.com/2018/03/catboost-vs-light-gbm-vs-xgboost.html   XG/CAT/boost & LightGBM  
 https://github.com/anati89/wazen  (see https://www.linkedin.com/pulse/wazen-arabic-nlp-project-find-word-variation-pattern-root-al-anati/)  
+https://www.kdnuggets.com/2017/09/essential-data-science-machine-learning-deep-learning-cheat-sheets.html   
+https://realpython.com/python-matplotlib-guide
 
 ## To watch on Ch9  
 https://channel9.msdn.com/Events/Connect/2017/AI1  intro to MS AI 
@@ -83,7 +85,8 @@ https://channel9.msdn.com/Events/Connect/2017/T100  use Azure bot srvice
 ## Bots 
 https://gitter.im/Microsoft/BotBuilder <== gitter  blog.botframework.com  
 https://code.msdn.microsoft.com/ look for bot stuff  
-https://twitter.com/jssuthahar  (https://www.c-sharpcorner.com/article/getting-started-with-receipt-card-design-using-microsoft-bot-framework/)  
+https://twitter.com/jssuthahar  (https://www.c-sharpcorner.com/article/getting-started-with-receipt-card-design-using-microsoft-bot-framework/)    
+https://twitter.com/rajeeshmenoth  ()
 https://www.c-sharpcorner.com/article/getting-started-chatbot-using-azure-bot-service/ (https://www.c-sharpcorner.com/search/bot)     
 https://github.com/SherifElMahdi/botsfromzerotohero  Sherif elMahdi ??   
 https://github.com/DanielEgan/BotWorkshop  <-------------------
