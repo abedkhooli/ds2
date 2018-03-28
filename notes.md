@@ -75,7 +75,10 @@ https://github.com/geopandas/geopandas   GeoPandas mapping
 https://www.kdnuggets.com/2018/03/catboost-vs-light-gbm-vs-xgboost.html   XG/CAT/boost & LightGBM  
 https://github.com/anati89/wazen  (see https://www.linkedin.com/pulse/wazen-arabic-nlp-project-find-word-variation-pattern-root-al-anati/)  
 https://www.kdnuggets.com/2017/09/essential-data-science-machine-learning-deep-learning-cheat-sheets.html   
-https://realpython.com/python-matplotlib-guide
+https://realpython.com/python-matplotlib-guide  
+https://github.com/fastai/fastai  
+https://aischool.microsoft.com/  
+https://www.kdnuggets.com/2018/03/5-things-sentiment-analysis-classification.html    
 
 ## To watch on Ch9  
 https://channel9.msdn.com/Events/Connect/2017/AI1  intro to MS AI 
