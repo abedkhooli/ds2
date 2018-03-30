@@ -10,7 +10,7 @@ https://nlp.stanford.edu/projects/glove/   pretrained glove vecs ( see https://m
 https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md FB pretrained fastText  
 https://dumps.wikimedia.org/arwiki/   Arabic wiki dumps   
 https://github.com/allenai/arc-solvers  ARC solvers (see https://arxiv.org/pdf/1803.05457.pdf)  
-https://github.com/awesomedata/awesome-public-datasets   <-----   
+https://github.com/awesomedata/awesome-public-datasets   <-----    
 
 ## TorchText 
 https://github.com/mjc92/TorchTextTutorial  
