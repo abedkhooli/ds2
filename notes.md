@@ -79,6 +79,7 @@ https://realpython.com/python-matplotlib-guide
 https://github.com/fastai/fastai  
 https://aischool.microsoft.com/  
 https://www.kdnuggets.com/2018/03/5-things-sentiment-analysis-classification.html    
+https://www.kaggle.com/rtatman/data-cleaning-challenge-handling-missing-values <=====     
 
 ## To watch on Ch9  
 https://channel9.msdn.com/Events/Connect/2017/AI1  intro to MS AI 
