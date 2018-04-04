@@ -12,7 +12,8 @@ https://dumps.wikimedia.org/arwiki/   Arabic wiki dumps
 https://github.com/allenai/arc-solvers  ARC solvers (see https://arxiv.org/pdf/1803.05457.pdf)  
 https://github.com/awesomedata/awesome-public-datasets   <-----    
 https://www.kdnuggets.com/2018/03/text-data-preprocessing-walkthrough-python.html  <=== 
-https://github.com/niderhoff/nlp-datasets/blob/master/README.md <===== NLP datasets <====    
+https://github.com/niderhoff/nlp-datasets/blob/master/README.md <===== NLP datasets ====  
+https://github.com/keon/awesome-nlp  <======================= Awesome NLP ===============
 
 ## TorchText 
 https://github.com/mjc92/TorchTextTutorial  
