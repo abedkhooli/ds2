@@ -2,7 +2,8 @@ Note/disclaimer: this doc is not part of this repo in the logical sense but is b
 # NLP 
 ## General 
 https://www.seas.upenn.edu/~romap/nlp-resources.html  great collection by Univ. Penn.   
-https://t.co/BcBOaeBhUw  Stanford nlp book
+https://t.co/BcBOaeBhUw  Stanford nlp book  
+http://web.stanford.edu/class/cs224n/reports.html  Stanford NLP student projects   
 https://docs.google.com/document/d/1mkB6KA7KuzNeoc9jW3mfOthv_6Uberxs8l2H7BmJdzg/edit#  NLUCS NYDC Sam Bowman  
 https://www.kdnuggets.com/2017/07/5-free-resources-getting-started-deep-learning-nlp.html  
 https://news.ycombinator.com/item?id=14639295   by YC.  
@@ -12,6 +13,8 @@ https://dumps.wikimedia.org/arwiki/   Arabic wiki dumps
 https://github.com/allenai/arc-solvers  ARC solvers (see https://arxiv.org/pdf/1803.05457.pdf)  
 https://github.com/awesomedata/awesome-public-datasets   <-----    
 https://www.kdnuggets.com/2018/03/text-data-preprocessing-walkthrough-python.html  <=== 
+https://github.com/Stephen-Rimac/Python-for-Data-Scientists  <=== short notebook (good 4 fast.ai) 
+https://nbviewer.jupyter.org/github/groverpr/learn_python_libraries/blob/master/pandas/pandas_cheatsheet.ipynb  Pandas cheatsheet  
 https://github.com/niderhoff/nlp-datasets/blob/master/README.md <===== NLP datasets ====  
 https://github.com/keon/awesome-nlp  <======================= Awesome NLP ===============
 
