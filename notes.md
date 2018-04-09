@@ -101,7 +101,8 @@ https://channel9.msdn.com/Events/Connect/2017/AI1  intro to MS AI
 https://channel9.msdn.com/Events/Connect/2017/AI2 intro to bots 
 https://channel9.msdn.com/Events/Connect/2017/T100  use Azure bot srvice  
 
-## Bots 
+## Bots  
+https://github.com/deepmipt <==== see DeepPavlov and Intent-Classifier.  See also: https://github.com/snipsco/snips-nlu  and other repos     
 https://gitter.im/Microsoft/BotBuilder <== gitter  blog.botframework.com  
 https://code.msdn.microsoft.com/ look for bot stuff  
 https://twitter.com/jssuthahar  (https://www.c-sharpcorner.com/article/getting-started-with-receipt-card-design-using-microsoft-bot-framework/)    
@@ -130,10 +131,9 @@ https://github.com/Microsoft/BotBuilder-Samples/tree/master/CSharp  Samples <===
 https://github.com/Microsoft/BotBuilder/tree/master/CSharp/Samples other samples  
 https://channel9.msdn.com/events/DEVintersection/DEVintersection-2017-Las-Vegas/GB009?term=bot *************  
 https://channel9.msdn.com/events/Connect/2017/AI2?term=bot James Carpinter (https://github.com/jamescarpinter)  
-https://channel9.msdn.com/events/Ignite/Microsoft-Ignite-Orlando-2017/BRK3301?term=bot   
-
+https://channel9.msdn.com/events/Ignite/Microsoft-Ignite-Orlando-2017/BRK3301?term=bot    
 https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/linux-dsvm-intro   
-https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/linux-dsvm-walkthrough  
+https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/linux-dsvm-walkthrough   
 
 
 
