@@ -17,6 +17,7 @@ https://github.com/Stephen-Rimac/Python-for-Data-Scientists  <=== short notebook
 https://nbviewer.jupyter.org/github/groverpr/learn_python_libraries/blob/master/pandas/pandas_cheatsheet.ipynb  Pandas cheatsheet  
 https://github.com/niderhoff/nlp-datasets/blob/master/README.md <===== NLP datasets ====  
 https://github.com/keon/awesome-nlp  <======================= Awesome NLP ===============
+https://github.com/niderhoff/nlp-datasets <=== NLP datasets in alphabetical order ====
 
 ## TorchText 
 https://github.com/mjc92/TorchTextTutorial  
