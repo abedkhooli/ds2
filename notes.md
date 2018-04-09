@@ -43,6 +43,12 @@ https://twitter.com/spacy_io/status/977286812510060545  visualize spacy with ten
 ## Gensim  
 https://github.com/RaRe-Technologies/talks/tree/master/2018-03-23_MLPrague-workshop  Notebooks on W2Vec, FT, etc.   
 
+## Rasa / Intents   
+https://github.com/RasaHQ/rasa_nlu  figure out intents   
+See also: https://github.com/mlehman/nlp-intent-toolkit   (Java)  
+Techniques: https://www.quora.com/What-techniques-are-generally-used-for-intent-recognition-in-NLP    
+From [ChatBotsLife](https://chatbotslife.com/), see [Text Classification](https://chatbotslife.com/text-classification-using-algorithms-e4d50dcba45)   
+
 ## Allen NLP 
 .....
 
