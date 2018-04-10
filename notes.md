@@ -69,6 +69,7 @@ https://www.youtube.com/watch?v=r6I-Ahc0HB4  (very basic series 4 or more: https
 
 ## Misc 
 http://www.datasciencefree.com/cheatsheets.html    ****  
+https://www.kaggle.com/learn/overview  Hands-On data science edu from Kaggle   
 https://github.com/shik3519/machine-learning/blob/master/tutorials/003-python-basics-numpy-regex.ipynb  Py/NP/RegEx  ***  
 https://www.analyticsvidhya.com/blog/2018/02/top-5-github-repositories-january-2018  (Top 5 Data Science & Machine Learning Repositories)  
 https://testdriven.io/building-a-concurrent-web-scraper-with-python-and-selenium#.WorbWQNWXbw.twitter  
