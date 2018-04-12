@@ -2,7 +2,8 @@ Note/disclaimer: this doc is not part of this repo in the logical sense but is b
 # NLP 
 ## General 
 https://www.seas.upenn.edu/~romap/nlp-resources.html  great collection by Univ. Penn.   
-https://t.co/BcBOaeBhUw  Stanford nlp book  
+https://t.co/BcBOaeBhUw  Stanford nlp book    
+https://www.youtube.com/watch?v=mhHfnhh-pB4  NLU (1:25 about dialogs) **************       
 http://web.stanford.edu/class/cs224n/reports.html  Stanford NLP student projects   
 https://docs.google.com/document/d/1mkB6KA7KuzNeoc9jW3mfOthv_6Uberxs8l2H7BmJdzg/edit#  NLUCS NYDC Sam Bowman  
 https://www.kdnuggets.com/2017/07/5-free-resources-getting-started-deep-learning-nlp.html  
@@ -44,7 +45,7 @@ https://twitter.com/spacy_io/status/977286812510060545  visualize spacy with ten
 https://github.com/RaRe-Technologies/talks/tree/master/2018-03-23_MLPrague-workshop  Notebooks on W2Vec, FT, etc.   
 
 ## Rasa / Intents   
-https://github.com/RasaHQ/rasa_nlu  figure out intents   
+https://github.com/RasaHQ/rasa_nlu  figure out intents See also: https://www.youtube.com/watch?v=0hZay4KSLFw      <======================      
 See also: https://github.com/mlehman/nlp-intent-toolkit   (Java)  
 Techniques: https://www.quora.com/What-techniques-are-generally-used-for-intent-recognition-in-NLP    
 From [ChatBotsLife](https://chatbotslife.com/), see [Text Classification](https://chatbotslife.com/text-classification-using-algorithms-e4d50dcba45)   
