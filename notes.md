@@ -41,7 +41,8 @@ http://mlreference.com/spacy
 https://twitter.com/julien_c/status/977189681283633153  Neuralcoref v2.0 Stanford NLP, Coref link   
 https://twitter.com/spacy_io/status/977286812510060545  visualize spacy with tensorborad  
 https://github.com/explosion/talks/blob/master/2018-04-12__Embed-Encode-Attend-Predict.pdf  **************    
-https://github.com/explosion/talks/blob/master/2018-04_12__Rapid-NLP-Annotation.pdf         **************         
+https://github.com/explosion/talks/blob/master/2018-04_12__Rapid-NLP-Annotation.pdf         **************     
+See https://github.com/explosion/talks    
 
 ## Gensim  
 https://github.com/RaRe-Technologies/talks/tree/master/2018-03-23_MLPrague-workshop  Notebooks on W2Vec, FT, etc.   
