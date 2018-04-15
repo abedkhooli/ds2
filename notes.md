@@ -20,6 +20,7 @@ https://www.rankred.com/javascript-cheat-sheets    JS cheat sheets
 https://github.com/niderhoff/nlp-datasets/blob/master/README.md <===== NLP datasets ====  
 https://github.com/keon/awesome-nlp  <======================= Awesome NLP ===============
 https://github.com/niderhoff/nlp-datasets <=== NLP datasets in alphabetical order ====
+https://catalog.ldc.upenn.edu/ldc2013t19 is the Ontonotes dataset (includes Arabic) <=======      
 
 ## TorchText 
 https://github.com/mjc92/TorchTextTutorial  
