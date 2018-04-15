@@ -50,7 +50,8 @@ See https://github.com/explosion/talks
 https://github.com/RaRe-Technologies/talks/tree/master/2018-03-23_MLPrague-workshop  Notebooks on W2Vec, FT, etc.   
 
 ## CoreNLP  
-https://stanfordnlp.github.io/CoreNLP/ v 3.9.1    
+https://stanfordnlp.github.io/CoreNLP/ v 3.9.1   
+https://stanfordnlp.github.io/CoreNLP/human-languages.html Level of support for Arabic (limited)     
 https://www.khalidalnajjar.com/setup-use-stanford-corenlp-server-python/   
 
 ## Rasa / Intents   
