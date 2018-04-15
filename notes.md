@@ -142,7 +142,7 @@ https://channel9.msdn.com/events/Ignite/Microsoft-Ignite-Orlando-2017/BRK3301?te
 https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/linux-dsvm-intro   
 https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/linux-dsvm-walkthrough   
 
-#Extra 
+# Extra   
 These were shared on Linked In:
 1. Stanford’s Natural Language Processing with Deep Learning: 
 - Video lectures
