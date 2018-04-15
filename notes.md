@@ -49,6 +49,10 @@ See https://github.com/explosion/talks
 ## Gensim  
 https://github.com/RaRe-Technologies/talks/tree/master/2018-03-23_MLPrague-workshop  Notebooks on W2Vec, FT, etc.   
 
+## CoreNLP  
+https://stanfordnlp.github.io/CoreNLP/ v 3.9.1    
+https://www.khalidalnajjar.com/setup-use-stanford-corenlp-server-python/   
+
 ## Rasa / Intents   
 https://github.com/RasaHQ/rasa_nlu  figure out intents See also: https://www.youtube.com/watch?v=0hZay4KSLFw      <======================     
 and https://www.youtube.com/watch?v=2kaILO_ERgY  (recast.ai now taken by SAP)     
