@@ -16,6 +16,7 @@ https://github.com/awesomedata/awesome-public-datasets   <-----
 https://www.kdnuggets.com/2018/03/text-data-preprocessing-walkthrough-python.html  <=== 
 https://github.com/Stephen-Rimac/Python-for-Data-Scientists  <=== short notebook (good 4 fast.ai) 
 https://nbviewer.jupyter.org/github/groverpr/learn_python_libraries/blob/master/pandas/pandas_cheatsheet.ipynb  Pandas cheatsheet  
+https://www.rankred.com/javascript-cheat-sheets    JS cheat sheets   
 https://github.com/niderhoff/nlp-datasets/blob/master/README.md <===== NLP datasets ====  
 https://github.com/keon/awesome-nlp  <======================= Awesome NLP ===============
 https://github.com/niderhoff/nlp-datasets <=== NLP datasets in alphabetical order ====
@@ -141,7 +142,29 @@ https://channel9.msdn.com/events/Ignite/Microsoft-Ignite-Orlando-2017/BRK3301?te
 https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/linux-dsvm-intro   
 https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/linux-dsvm-walkthrough   
 
-
+#Extra 
+These were shared on Linked In:
+1. Stanford’s Natural Language Processing with Deep Learning: 
+- Video lectures
+https://lnkd.in/ecUNbs5   
+- Resources  
+https://lnkd.in/ef4tqwW   
+2. Oxford’s Natural Language Processing with Deep Learning
+https://lnkd.in/eraYdz5    
+3. Scikit-learn tutorial
+https://lnkd.in/eVHdni8   
+4. edX – Microsoft
+https://lnkd.in/eWH6Vr2     
+5. Deep Learning for Natural Language Processing: Tutorials with Jupyter Notebooks
+https://lnkd.in/e3HRKiv    
+6. Natural Language Processing with Python
+http://www.nltk.org/book/   
+7. How to solve 90% of NLP problems: a step-by-step guide
+https://lnkd.in/e-vU2az    
+8. NLP with Keras
+https://lnkd.in/eFirb_6    
+9. Twitter Sentiment Analysis Using Combined LSTM-CNN Models
+https://lnkd.in/er8fzRC 
 
 
 
