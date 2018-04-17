@@ -44,14 +44,14 @@ https://twitter.com/julien_c/status/977189681283633153  Neuralcoref v2.0 Stanfor
 https://twitter.com/spacy_io/status/977286812510060545  visualize spacy with tensorborad  
 https://github.com/explosion/talks/blob/master/2018-04-12__Embed-Encode-Attend-Predict.pdf  **************    
 https://github.com/explosion/talks/blob/master/2018-04_12__Rapid-NLP-Annotation.pdf         **************     
-See https://github.com/explosion/talks    
+See https://github.com/explosion/talks   (latest in SF: https://www.youtube.com/watch?v=jB1-NukGZm0)    
 
 ## Gensim  
 https://github.com/RaRe-Technologies/talks/tree/master/2018-03-23_MLPrague-workshop  Notebooks on W2Vec, FT, etc.   
 
 ## CoreNLP  
 https://stanfordnlp.github.io/CoreNLP/ v 3.9.1   
-https://stanfordnlp.github.io/CoreNLP/human-languages.html Level of support for Arabic (limited)     
+https://stanfordnlp.github.io/CoreNLP/human-languages.html Level of support for Arabic (limited). For an Arabic lemmatizer, check http://oujda-nlp-team.net/en/programms/lemmatizer/  (not tested)          
 https://www.khalidalnajjar.com/setup-use-stanford-corenlp-server-python/   
 
 ## Rasa / Intents   
