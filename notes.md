@@ -51,7 +51,7 @@ https://github.com/RaRe-Technologies/talks/tree/master/2018-03-23_MLPrague-works
 
 ## CoreNLP  
 https://stanfordnlp.github.io/CoreNLP/ v 3.9.1   
-https://stanfordnlp.github.io/CoreNLP/human-languages.html Level of support for Arabic (limited). For an Arabic lemmatizer, check http://oujda-nlp-team.net/en/programms/lemmatizer/  (not tested)          
+https://stanfordnlp.github.io/CoreNLP/human-languages.html Level of support for Arabic (limited). For an Arabic lemmatizer, check http://oujda-nlp-team.net/en/programms/lemmatizer/  (not tested), this abstract (https://arxiv.org/pdf/1710.06700.pdf) and their related Farasah tool (Java): http://alt.qcri.org/farasa/segmenter.html (http://qatsdemo.cloudapp.net/farasa/) See also earlier work called SALMA (https://www.researchgate.net/publication/261313488_SALMA_Standard_Arabic_Language_Morphological_Analysis) and Madamira: https://camel.abudhabi.nyu.edu/madamira/  or http://innovation.columbia.edu/technologies/cu14012_morphological-analysis-and-disambiguation-for-dialectal-arabic-madamira               
 https://www.khalidalnajjar.com/setup-use-stanford-corenlp-server-python/   
 
 ## Rasa / Intents   
