@@ -108,6 +108,7 @@ https://aischool.microsoft.com/
 https://www.kdnuggets.com/2018/03/5-things-sentiment-analysis-classification.html    
 https://www.kaggle.com/rtatman/data-cleaning-challenge-handling-missing-values <=====     
 https://www.kaggle.com/athoul01/predicting-interview-attendence  uses fast.ai  
+https://github.com/collections/machine-learning   <==== ML collection     
 
 ## To watch on Ch9  
 https://channel9.msdn.com/Events/Connect/2017/AI1  intro to MS AI 
