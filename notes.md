@@ -8,6 +8,8 @@ http://web.stanford.edu/class/cs224n/reports.html  Stanford NLP student projects
 https://docs.google.com/document/d/1mkB6KA7KuzNeoc9jW3mfOthv_6Uberxs8l2H7BmJdzg/edit#  NLUCS NYDC Sam Bowman  
 https://www.kdnuggets.com/2017/07/5-free-resources-getting-started-deep-learning-nlp.html  
 https://news.ycombinator.com/item?id=14639295   by YC.  
+https://www.kdnuggets.com/2018/03/text-data-preprocessing-walkthrough-python.html  text data processing by 
+https://www.kdnuggets.com/author/matt-mayo (https://github.com/mmmayo13)    <----------    
 https://nlp.stanford.edu/projects/glove/   pretrained glove vecs ( see https://machinelearningmastery.com/develop-word-embeddings-python-gensim/  for working with w2v and glove at end of article and https://github.com/stanfordnlp/GloVe)     
 https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md FB pretrained fastText  
 https://dumps.wikimedia.org/arwiki/   Arabic wiki dumps   
@@ -21,6 +23,8 @@ https://github.com/niderhoff/nlp-datasets/blob/master/README.md <===== NLP datas
 https://github.com/keon/awesome-nlp  <======================= Awesome NLP ===============
 https://github.com/niderhoff/nlp-datasets <=== NLP datasets in alphabetical order ====
 https://catalog.ldc.upenn.edu/ldc2013t19 is the Ontonotes dataset (includes Arabic) <=======      
+https://github.com/slanglab/phrasemachine   (En only)   
+https://www.kaggle.com/hoonkeng/deep-eda-word-embeddings-sentiment-analysis/notebook   word embeddings and sentiment analysis    
 
 ## TorchText 
 https://github.com/mjc92/TorchTextTutorial  
