@@ -73,6 +73,7 @@ https://github.com/bear/python-twitter Python Twitter (see also Tweepy)
 
 ## RegEx 
 https://regex101.com/ online tool  
+https://www.kdnuggets.com/2018/04/python-regular-expressions-cheat-sheet.html  <=========  
 https://www.youtube.com/watch?v=VU60rEXaOXk jupyter notebook (many episodes)
 https://github.com/CoreyMSchafer/code_snippets/blob/master/Python-Regular-Expressions/snippets.txt  regex codes  
 https://www.youtube.com/watch?v=sa-TUpSx1JA  in general (see below, same person)  
