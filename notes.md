@@ -25,7 +25,7 @@ https://github.com/niderhoff/nlp-datasets <=== NLP datasets in alphabetical orde
 https://catalog.ldc.upenn.edu/ldc2013t19 is the Ontonotes dataset (includes Arabic) <=======      
 https://github.com/slanglab/phrasemachine   (En only)   
 https://www.kaggle.com/hoonkeng/deep-eda-word-embeddings-sentiment-analysis/notebook   word embeddings and sentiment analysis    
-
+http://newsletter.ruder.io/issues/nlp-pytorch-libraries-gan-tutorial-jupyter-tricks-tensorflow-things-representation-learning-making-nlp-more-accessible-michael-jordan-essay-reproducing-deep-rl-rakuten-data-challenge-naacl-outstanding-papers-106347   <==== (see other issues)    
 ## TorchText 
 https://github.com/mjc92/TorchTextTutorial  
 https://towardsdatascience.com/use-torchtext-to-load-nlp-datasets-part-i-5da6f1c89d84 (see also part II and FB's StarSpace) 
