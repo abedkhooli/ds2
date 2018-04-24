@@ -24,6 +24,8 @@ https://github.com/keon/awesome-nlp  <======================= Awesome NLP ======
 https://github.com/niderhoff/nlp-datasets <=== NLP datasets in alphabetical order ====
 https://catalog.ldc.upenn.edu/ldc2013t19 is the Ontonotes dataset (includes Arabic) <=======      
 https://github.com/slanglab/phrasemachine   (En only)   
+https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec   
+https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-sequence-to-sequence-modelling-with-attention-part-i/  
 https://www.kaggle.com/hoonkeng/deep-eda-word-embeddings-sentiment-analysis/notebook   word embeddings and sentiment analysis    
 http://newsletter.ruder.io/issues/nlp-pytorch-libraries-gan-tutorial-jupyter-tricks-tensorflow-things-representation-learning-making-nlp-more-accessible-michael-jordan-essay-reproducing-deep-rl-rakuten-data-challenge-naacl-outstanding-papers-106347   <==== (see other issues)    
 ## TorchText 
@@ -65,6 +67,7 @@ and https://www.youtube.com/watch?v=2kaILO_ERgY  (recast.ai now taken by SAP)
 See also: https://github.com/mlehman/nlp-intent-toolkit   (Java)  
 Techniques: https://www.quora.com/What-techniques-are-generally-used-for-intent-recognition-in-NLP    
 From [ChatBotsLife](https://chatbotslife.com/), see [Text Classification](https://chatbotslife.com/text-classification-using-algorithms-e4d50dcba45)   
+https://www.analyticsvidhya.com/blog/2018/01/faq-chatbots-the-future-of-information-searching   
 
 ## Allen NLP 
 .....
