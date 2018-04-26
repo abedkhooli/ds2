@@ -28,6 +28,7 @@ https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec
 https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-sequence-to-sequence-modelling-with-attention-part-i/  
 https://www.kaggle.com/hoonkeng/deep-eda-word-embeddings-sentiment-analysis/notebook   word embeddings and sentiment analysis    
 http://newsletter.ruder.io/issues/nlp-pytorch-libraries-gan-tutorial-jupyter-tricks-tensorflow-things-representation-learning-making-nlp-more-accessible-michael-jordan-essay-reproducing-deep-rl-rakuten-data-challenge-naacl-outstanding-papers-106347   <==== (see other issues)    
+
 ## TorchText 
 https://github.com/mjc92/TorchTextTutorial  
 https://towardsdatascience.com/use-torchtext-to-load-nlp-datasets-part-i-5da6f1c89d84 (see also part II and FB's StarSpace) 
@@ -60,6 +61,7 @@ https://github.com/RaRe-Technologies/talks/tree/master/2018-03-23_MLPrague-works
 https://stanfordnlp.github.io/CoreNLP/ v 3.9.1   
 https://stanfordnlp.github.io/CoreNLP/human-languages.html Level of support for Arabic (limited). For an Arabic lemmatizer, check http://oujda-nlp-team.net/en/programms/lemmatizer/  (not tested), this abstract (https://arxiv.org/pdf/1710.06700.pdf) and their related Farasah tool (Java): http://alt.qcri.org/farasa/segmenter.html (http://qatsdemo.cloudapp.net/farasa/) See also earlier work called SALMA (https://www.researchgate.net/publication/261313488_SALMA_Standard_Arabic_Language_Morphological_Analysis) and Madamira: https://camel.abudhabi.nyu.edu/madamira/  or http://innovation.columbia.edu/technologies/cu14012_morphological-analysis-and-disambiguation-for-dialectal-arabic-madamira               
 https://www.khalidalnajjar.com/setup-use-stanford-corenlp-server-python/   
+https://blog.sicara.com/train-ner-model-with-nltk-stanford-tagger-english-french-german-6d90573a9486  <====     
 
 ## Rasa / Intents   
 https://github.com/RasaHQ/rasa_nlu  figure out intents See also: https://www.youtube.com/watch?v=0hZay4KSLFw      <======================     
