@@ -89,6 +89,7 @@ https://www.youtube.com/watch?v=r6I-Ahc0HB4  (very basic series 4 or more: https
 
 
 ## Misc 
+http://www.cs.columbia.edu/~amueller/comsw4995s18/schedule/   Applied Machine Learning Spring 2018    
 http://www.datasciencefree.com/cheatsheets.html    ****  
 https://www.kaggle.com/learn/overview  Hands-On data science edu from Kaggle   
 https://github.com/shik3519/machine-learning/blob/master/tutorials/003-python-basics-numpy-regex.ipynb  Py/NP/RegEx  ***  
