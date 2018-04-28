@@ -124,6 +124,8 @@ https://www.kaggle.com/rtatman/data-cleaning-challenge-handling-missing-values <
 https://www.kaggle.com/athoul01/predicting-interview-attendence  uses fast.ai  
 https://github.com/collections/machine-learning   <==== ML collection     
 https://www.kdnuggets.com/2018/04/right-metric-evaluating-machine-learning-models-1.html <== eval metrics   
+https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf  Pandas cheat sheet 
+http://www.dataschool.io/learn/     
 
 ## To watch on Ch9  
 https://channel9.msdn.com/Events/Connect/2017/AI1  intro to MS AI 
