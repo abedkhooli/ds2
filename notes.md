@@ -28,7 +28,8 @@ https://github.com/slanglab/phrasemachine   (En only)
 https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec   
 https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-sequence-to-sequence-modelling-with-attention-part-i/  
 https://www.kaggle.com/hoonkeng/deep-eda-word-embeddings-sentiment-analysis/notebook   word embeddings and sentiment analysis    
-http://newsletter.ruder.io/issues/nlp-pytorch-libraries-gan-tutorial-jupyter-tricks-tensorflow-things-representation-learning-making-nlp-more-accessible-michael-jordan-essay-reproducing-deep-rl-rakuten-data-challenge-naacl-outstanding-papers-106347   <==== (see other issues)    
+http://newsletter.ruder.io/issues/nlp-pytorch-libraries-gan-tutorial-jupyter-tricks-tensorflow-things-representation-learning-making-nlp-more-accessible-michael-jordan-essay-reproducing-deep-rl-rakuten-data-challenge-naacl-outstanding-papers-106347   <==== (see other issues)   
+http://web.stanford.edu/class/cs224n/lectures/lecture10.pdf   seq2seq translation  
 
 ## TorchText 
 https://github.com/mjc92/TorchTextTutorial  
@@ -122,6 +123,7 @@ https://www.kdnuggets.com/2018/03/5-things-sentiment-analysis-classification.htm
 https://www.kaggle.com/rtatman/data-cleaning-challenge-handling-missing-values <=====     
 https://www.kaggle.com/athoul01/predicting-interview-attendence  uses fast.ai  
 https://github.com/collections/machine-learning   <==== ML collection     
+https://www.kdnuggets.com/2018/04/right-metric-evaluating-machine-learning-models-1.html <== eval metrics   
 
 ## To watch on Ch9  
 https://channel9.msdn.com/Events/Connect/2017/AI1  intro to MS AI 
