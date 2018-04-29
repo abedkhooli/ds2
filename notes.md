@@ -30,6 +30,9 @@ https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-sequenc
 https://www.kaggle.com/hoonkeng/deep-eda-word-embeddings-sentiment-analysis/notebook   word embeddings and sentiment analysis    
 http://newsletter.ruder.io/issues/nlp-pytorch-libraries-gan-tutorial-jupyter-tricks-tensorflow-things-representation-learning-making-nlp-more-accessible-michael-jordan-essay-reproducing-deep-rl-rakuten-data-challenge-naacl-outstanding-papers-106347   <==== (see other issues)   
 http://web.stanford.edu/class/cs224n/lectures/lecture10.pdf   seq2seq translation  
+https://github.com/ArthurSpirling/Text-as-Data-Class-Spring-2018-  lectures in R   
+https://blogs.technet.microsoft.com/machinelearning/2018/04/24/deep-learning-for-emojis-with-vs-code-tools-for-ai/   
+https://www.kaggle.com/arthurtok/spooky-nlp-and-topic-modelling-tutorial    
 
 ## TorchText 
 https://github.com/mjc92/TorchTextTutorial  
@@ -55,6 +58,7 @@ https://twitter.com/spacy_io/status/977286812510060545  visualize spacy with ten
 https://github.com/explosion/talks/blob/master/2018-04-12__Embed-Encode-Attend-Predict.pdf  **************    
 https://github.com/explosion/talks/blob/master/2018-04_12__Rapid-NLP-Annotation.pdf         **************     
 See https://github.com/explosion/talks   (latest in SF: https://www.youtube.com/watch?v=jB1-NukGZm0)    
+https://spacy.io/usage/linguistic-features   edit and run in browser    
 
 ## Gensim  
 https://github.com/RaRe-Technologies/talks/tree/master/2018-03-23_MLPrague-workshop  Notebooks on W2Vec, FT, etc.   
@@ -126,6 +130,7 @@ https://github.com/collections/machine-learning   <==== ML collection
 https://www.kdnuggets.com/2018/04/right-metric-evaluating-machine-learning-models-1.html <== eval metrics   
 https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf  Pandas cheat sheet 
 http://www.dataschool.io/learn/     
+http://gael-varoquaux.info/interpreting_ml_tuto/index.html   
 
 ## To watch on Ch9  
 https://channel9.msdn.com/Events/Connect/2017/AI1  intro to MS AI 
