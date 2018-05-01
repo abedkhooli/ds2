@@ -33,6 +33,7 @@ http://web.stanford.edu/class/cs224n/lectures/lecture10.pdf   seq2seq translatio
 https://github.com/ArthurSpirling/Text-as-Data-Class-Spring-2018-  lectures in R   
 https://blogs.technet.microsoft.com/machinelearning/2018/04/24/deep-learning-for-emojis-with-vs-code-tools-for-ai/   
 https://www.kaggle.com/arthurtok/spooky-nlp-and-topic-modelling-tutorial    
+https://datascienceplus.com/scikit-learn-for-text-analysis-of-amazon-fine-food-reviews/    
 
 ## TorchText 
 https://github.com/mjc92/TorchTextTutorial  
@@ -42,6 +43,8 @@ https://towardsdatascience.com/learning-note-starspace-for-multi-label-text-clas
 http://anie.me/On-Torchtext/  (see also repos at https://github.com/windweller)   
 https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-4-2048a26d58aa   series from Fast.ai learner. See all at https://medium.com/@hiromi_suenaga   
 https://github.com/PetrochukM/PyTorch-NLP Torch NLP (new)  and https://github.com/outcastofmusic/quick-nlp   
+https://www.cpuheater.com/deep-learning/introduction-to-recurrent-neural-networks-in-pytorch/   
+https://rockt.github.io/2018/04/30/einsum  <=== EinSum  https://github.com/rockt    
 
 ## TextaCy   
 (based on spaCy, GH https://github.com/chartbeat-labs/textacy)   
@@ -58,7 +61,8 @@ https://twitter.com/spacy_io/status/977286812510060545  visualize spacy with ten
 https://github.com/explosion/talks/blob/master/2018-04-12__Embed-Encode-Attend-Predict.pdf  **************    
 https://github.com/explosion/talks/blob/master/2018-04_12__Rapid-NLP-Annotation.pdf         **************     
 See https://github.com/explosion/talks   (latest in SF: https://www.youtube.com/watch?v=jB1-NukGZm0)    
-https://spacy.io/usage/linguistic-features   edit and run in browser    
+https://spacy.io/usage/linguistic-features   edit and run in browser  
+https://spacy.io/universe/  stuff built for or with spaCy
 
 ## Gensim  
 https://github.com/RaRe-Technologies/talks/tree/master/2018-03-23_MLPrague-workshop  Notebooks on W2Vec, FT, etc.   
@@ -93,7 +97,8 @@ https://www.youtube.com/watch?v=K8L6KVGG-7o in Python using re  (code at https:/
 https://www.youtube.com/watch?v=zN8rwVXwRUE   python from edureka  
 https://www.youtube.com/watch?v=ZdDOauFIDkw  oldish, Python  
 https://www.youtube.com/watch?v=sZyAn2TW7GY oldish, python  
-https://www.youtube.com/watch?v=r6I-Ahc0HB4  (very basic series 4 or more: https://github.com/iamshaunjp/regex-playlist)
+https://www.youtube.com/watch?v=r6I-Ahc0HB4  (very basic series 4 or more: https://github.com/iamshaunjp/regex-playlist)   
+https://www.dataquest.io/blog/large_files/python-regular-expressions-cheat-sheet.pdf    <=== cheatsheet   
 
 
 ## Misc 
@@ -130,7 +135,10 @@ https://github.com/collections/machine-learning   <==== ML collection
 https://www.kdnuggets.com/2018/04/right-metric-evaluating-machine-learning-models-1.html <== eval metrics   
 https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf  Pandas cheat sheet 
 http://www.dataschool.io/learn/     
-http://gael-varoquaux.info/interpreting_ml_tuto/index.html   
+http://gael-varoquaux.info/interpreting_ml_tuto/index.html       
+https://github.com/NavinManaswi/Book-Deep-Learning-Applications-with-Applications-Using-Python  
+https://github.com/awesomedata/awesome-public-datasets   
+https://www.reddit.com/r/datasets/   
 
 ## To watch on Ch9  
 https://channel9.msdn.com/Events/Connect/2017/AI1  intro to MS AI 
