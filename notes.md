@@ -32,7 +32,7 @@ http://newsletter.ruder.io/issues/nlp-pytorch-libraries-gan-tutorial-jupyter-tri
 http://web.stanford.edu/class/cs224n/lectures/lecture10.pdf   seq2seq translation  
 https://github.com/ArthurSpirling/Text-as-Data-Class-Spring-2018-  lectures in R   
 https://blogs.technet.microsoft.com/machinelearning/2018/04/24/deep-learning-for-emojis-with-vs-code-tools-for-ai/   
-https://www.kaggle.com/arthurtok/spooky-nlp-and-topic-modelling-tutorial    
+https://www.kaggle.com/arthurtok/spooky-nlp-and-topic-modelling-tutorial     
 https://datascienceplus.com/scikit-learn-for-text-analysis-of-amazon-fine-food-reviews/    
 
 ## TorchText 
