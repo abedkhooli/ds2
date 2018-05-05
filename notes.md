@@ -1,6 +1,11 @@
-Note/disclaimer: this doc is not part of this repo in the logical sense but is being hosted here for now. It is currently a set of misc links and notes in no specific structure or purpose or maintenance plan. Use it if you find it useful.
+### Note/disclaimer:  
+this doc is not part of this repo in the logical sense but is being hosted here for now. 
+It is currently a set of misc links and notes in no specific structure or purpose or maintenance plan.  
+Use it if you find it useful.
+
 # NLP 
 ## General 
+https://www.lfd.uci.edu/~gohlke/pythonlibs/ <---- Python wheels (esp. for Windows installation issues)   
 https://www.seas.upenn.edu/~romap/nlp-resources.html  great collection by Univ. Penn.   
 https://t.co/BcBOaeBhUw  Stanford nlp book    
 https://www.youtube.com/watch?v=mhHfnhh-pB4  NLU (1:25 about dialogs) **************       
