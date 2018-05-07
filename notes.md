@@ -145,6 +145,9 @@ https://github.com/NavinManaswi/Book-Deep-Learning-Applications-with-Application
 https://github.com/awesomedata/awesome-public-datasets   
 https://www.reddit.com/r/datasets/   
 https://www.pyimagesearch.com/2018/05/07/multi-label-classification-with-keras/  Image classification (clothes) <===== 
+https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68  *********    
+http://scikit-learn.org/stable/auto_examples/applications/plot_topics_extraction_with_nmf_lda.html   
+http://scikit-learn.org/stable/modules/clustering.html  Clustering in scikit-learn <==========    
 
 ## To watch on Ch9  
 https://channel9.msdn.com/Events/Connect/2017/AI1  intro to MS AI 
