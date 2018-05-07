@@ -144,6 +144,7 @@ http://gael-varoquaux.info/interpreting_ml_tuto/index.html
 https://github.com/NavinManaswi/Book-Deep-Learning-Applications-with-Applications-Using-Python  
 https://github.com/awesomedata/awesome-public-datasets   
 https://www.reddit.com/r/datasets/   
+https://www.pyimagesearch.com/2018/05/07/multi-label-classification-with-keras/  Image classification (clothes) <===== 
 
 ## To watch on Ch9  
 https://channel9.msdn.com/Events/Connect/2017/AI1  intro to MS AI 
