@@ -50,7 +50,8 @@ https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-4-2048a26d58aa 
 https://github.com/PetrochukM/PyTorch-NLP Torch NLP (new)  and https://github.com/outcastofmusic/quick-nlp   
 https://www.cpuheater.com/deep-learning/introduction-to-recurrent-neural-networks-in-pytorch/   
 https://rockt.github.io/2018/04/30/einsum  <=== EinSum  https://github.com/rockt    
-https://medium.com/@hiromi_suenaga/deep-learning-2-part-2-lesson-8-5ae195c49493   Fast.ai notes   
+https://medium.com/@hiromi_suenaga/deep-learning-2-part-2-lesson-8-5ae195c49493   Fast.ai notes  
+https://towardsdatascience.com/deep-learning-book-notes-chapter-3-part-1-introduction-to-probability-49d13c997f2a    
 
 ## TextaCy   
 (based on spaCy, GH https://github.com/chartbeat-labs/textacy)   
@@ -78,7 +79,8 @@ https://github.com/RaRe-Technologies/talks/tree/master/2018-03-23_MLPrague-works
 https://stanfordnlp.github.io/CoreNLP/ v 3.9.1   
 https://stanfordnlp.github.io/CoreNLP/human-languages.html Level of support for Arabic (limited). For an Arabic lemmatizer, check http://oujda-nlp-team.net/en/programms/lemmatizer/  (not tested), this abstract (https://arxiv.org/pdf/1710.06700.pdf) and their related Farasah tool (Java): http://alt.qcri.org/farasa/segmenter.html (http://qatsdemo.cloudapp.net/farasa/) See also earlier work called SALMA (https://www.researchgate.net/publication/261313488_SALMA_Standard_Arabic_Language_Morphological_Analysis) and Madamira: https://camel.abudhabi.nyu.edu/madamira/  or http://innovation.columbia.edu/technologies/cu14012_morphological-analysis-and-disambiguation-for-dialectal-arabic-madamira               
 https://www.khalidalnajjar.com/setup-use-stanford-corenlp-server-python/   
-https://blog.sicara.com/train-ner-model-with-nltk-stanford-tagger-english-french-german-6d90573a9486  <====     
+https://blog.sicara.com/train-ner-model-with-nltk-stanford-tagger-english-french-german-6d90573a9486  <====  
+http://web.stanford.edu/class/cs224n/reports.html   SQuAd projects    
 
 ## Rasa / Intents   
 https://github.com/RasaHQ/rasa_nlu  figure out intents See also: https://www.youtube.com/watch?v=0hZay4KSLFw      <======================     
@@ -160,6 +162,8 @@ https://channel9.msdn.com/Events/Connect/2017/T100  use Azure bot srvice
 
 ## Bots  
 https://github.com/deepmipt <==== see DeepPavlov and Intent-Classifier.  See also: https://github.com/snipsco/snips-nlu  and other repos     
+https://ankitbko.github.io/2017/03/human-handover-bot/    
+
 https://gitter.im/Microsoft/BotBuilder <== gitter  blog.botframework.com  
 https://code.msdn.microsoft.com/ look for bot stuff  
 https://twitter.com/jssuthahar  (https://www.c-sharpcorner.com/article/getting-started-with-receipt-card-design-using-microsoft-bot-framework/)    
@@ -191,6 +195,8 @@ https://channel9.msdn.com/events/Connect/2017/AI2?term=bot James Carpinter (http
 https://channel9.msdn.com/events/Ignite/Microsoft-Ignite-Orlando-2017/BRK3301?term=bot    
 https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/linux-dsvm-intro   
 https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/linux-dsvm-walkthrough   
+http://nlp.town/blog/sentence-similarity/    comparing sentence similarity    
+https://www.kdnuggets.com/2018/05/50-useful-machine-learning-prediction-apis-2018-edition.html  50 prediction APIs    
 
 # Extra   
 These were shared on Linked In:
