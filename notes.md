@@ -38,7 +38,8 @@ http://web.stanford.edu/class/cs224n/lectures/lecture10.pdf   seq2seq translatio
 https://github.com/ArthurSpirling/Text-as-Data-Class-Spring-2018-  lectures in R   
 https://blogs.technet.microsoft.com/machinelearning/2018/04/24/deep-learning-for-emojis-with-vs-code-tools-for-ai/   
 https://www.kaggle.com/arthurtok/spooky-nlp-and-topic-modelling-tutorial     
-https://datascienceplus.com/scikit-learn-for-text-analysis-of-amazon-fine-food-reviews/    
+https://datascienceplus.com/scikit-learn-for-text-analysis-of-amazon-fine-food-reviews/   
+https://medium.com/@alyafey22/sentiment-classification-from-keras-to-the-browser-7eda0d87cdc6    
 
 ## TorchText 
 https://github.com/mjc92/TorchTextTutorial  
@@ -88,7 +89,8 @@ and https://www.youtube.com/watch?v=2kaILO_ERgY  (recast.ai now taken by SAP)
 See also: https://github.com/mlehman/nlp-intent-toolkit   (Java)  
 Techniques: https://www.quora.com/What-techniques-are-generally-used-for-intent-recognition-in-NLP    
 From [ChatBotsLife](https://chatbotslife.com/), see [Text Classification](https://chatbotslife.com/text-classification-using-algorithms-e4d50dcba45)   
-https://www.analyticsvidhya.com/blog/2018/01/faq-chatbots-the-future-of-information-searching   
+https://www.analyticsvidhya.com/blog/2018/01/faq-chatbots-the-future-of-information-searching     
+https://medium.com/rasa-blog/supervised-word-vectors-from-scratch-in-rasa-nlu-6daf794efcd8    
 
 ## Allen NLP 
 .....
@@ -163,6 +165,11 @@ https://channel9.msdn.com/Events/Connect/2017/T100  use Azure bot srvice
 ## Bots  
 https://github.com/deepmipt <==== see DeepPavlov and Intent-Classifier.  See also: https://github.com/snipsco/snips-nlu  and other repos     
 https://ankitbko.github.io/2017/03/human-handover-bot/    
+https://www.gobeyond.ai/    
+https://github.com/vishwanathsrikanth/mycode/tree/master/SimpleProactiveBot 
+https://github.com/jamesemann/botframeworkresources   
+https://blog.botframework.com/2017/12/13/conversational-bots-deep-dive-whats-new-general-availability-azure-bot-service-language-understanding/    
+https://github.com/jamesemann/dotnetyork    
 
 https://gitter.im/Microsoft/BotBuilder <== gitter  blog.botframework.com  
 https://code.msdn.microsoft.com/ look for bot stuff  
