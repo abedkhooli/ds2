@@ -50,6 +50,7 @@ https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-4-2048a26d58aa 
 https://github.com/PetrochukM/PyTorch-NLP Torch NLP (new)  and https://github.com/outcastofmusic/quick-nlp   
 https://www.cpuheater.com/deep-learning/introduction-to-recurrent-neural-networks-in-pytorch/   
 https://rockt.github.io/2018/04/30/einsum  <=== EinSum  https://github.com/rockt    
+https://medium.com/@hiromi_suenaga/deep-learning-2-part-2-lesson-8-5ae195c49493   Fast.ai notes   
 
 ## TextaCy   
 (based on spaCy, GH https://github.com/chartbeat-labs/textacy)   
@@ -67,7 +68,8 @@ https://github.com/explosion/talks/blob/master/2018-04-12__Embed-Encode-Attend-P
 https://github.com/explosion/talks/blob/master/2018-04_12__Rapid-NLP-Annotation.pdf         **************     
 See https://github.com/explosion/talks   (latest in SF: https://www.youtube.com/watch?v=jB1-NukGZm0)    
 https://spacy.io/usage/linguistic-features   edit and run in browser  
-https://spacy.io/universe/  stuff built for or with spaCy
+https://spacy.io/universe/  stuff built for or with spaCy   
+http://www.joshblog.co.uk/posts/20180210_python_text_visualization_coffee_analysis_part_III  
 
 ## Gensim  
 https://github.com/RaRe-Technologies/talks/tree/master/2018-03-23_MLPrague-workshop  Notebooks on W2Vec, FT, etc.   
@@ -149,6 +151,7 @@ https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-
 http://scikit-learn.org/stable/auto_examples/applications/plot_topics_extraction_with_nmf_lda.html   
 http://scikit-learn.org/stable/modules/clustering.html  Clustering in scikit-learn <==========   
 https://towardsdatascience.com/improving-the-interpretation-of-topic-models-87fd2ee3847d  
+https://stackoverflow.com/questions/45145368/python-scikit-learn-get-documents-per-topic-in-lda   assign topics   
 
 ## To watch on Ch9  
 https://channel9.msdn.com/Events/Connect/2017/AI1  intro to MS AI 
