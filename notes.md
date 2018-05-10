@@ -205,6 +205,12 @@ https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-mac
 http://nlp.town/blog/sentence-similarity/    comparing sentence similarity    
 https://www.kdnuggets.com/2018/05/50-useful-machine-learning-prediction-apis-2018-edition.html  50 prediction APIs    
 
+# VS and AI  
+https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vstoolsai-vs2017   Tools for AI in VS  
+https://github.com/Microsoft/vs-tools-for-ai/   
+http://onnx.ai/  
+https://www.microsoft.com/en-us/aiforearth  
+
 # Extra   
 These were shared on Linked In:
 1. Stanford’s Natural Language Processing with Deep Learning: 
