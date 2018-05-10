@@ -208,6 +208,7 @@ https://www.kdnuggets.com/2018/05/50-useful-machine-learning-prediction-apis-201
 # VS and AI  
 https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vstoolsai-vs2017   Tools for AI in VS  
 https://github.com/Microsoft/vs-tools-for-ai/   
+https://blogs.msdn.microsoft.com/visualstudio/2018/05/07/introducing-visual-studio-intellicode/  
 http://onnx.ai/  
 https://www.microsoft.com/en-us/aiforearth  
 
