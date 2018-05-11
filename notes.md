@@ -40,6 +40,10 @@ https://blogs.technet.microsoft.com/machinelearning/2018/04/24/deep-learning-for
 https://www.kaggle.com/arthurtok/spooky-nlp-and-topic-modelling-tutorial     
 https://datascienceplus.com/scikit-learn-for-text-analysis-of-amazon-fine-food-reviews/   
 https://medium.com/@alyafey22/sentiment-classification-from-keras-to-the-browser-7eda0d87cdc6    
+https://www.reddit.com/r/textdatamining/    text mining reddit  
+https://medium.com/@datancoffee/predicting-user-engagement-with-news-on-reddit-using-kaggle-or-colab-d5ef0dcaff6a  Kaggle GPU   
+https://www.kaggle.com/dansbecker/running-kaggle-kernels-with-a-gpu   <====  Kaggle GPU example <======     
+https://summari.es/  dataset for many articles for text summarization   
 
 ## TorchText 
 https://github.com/mjc92/TorchTextTutorial  
@@ -72,6 +76,7 @@ See https://github.com/explosion/talks   (latest in SF: https://www.youtube.com/
 https://spacy.io/usage/linguistic-features   edit and run in browser  
 https://spacy.io/universe/  stuff built for or with spaCy   
 http://www.joshblog.co.uk/posts/20180210_python_text_visualization_coffee_analysis_part_III  
+http://wp.arenji.com/2018/05/09/beyond-intents-and-entities/   
 
 ## Gensim  
 https://github.com/RaRe-Technologies/talks/tree/master/2018-03-23_MLPrague-workshop  Notebooks on W2Vec, FT, etc.   
@@ -93,7 +98,7 @@ https://www.analyticsvidhya.com/blog/2018/01/faq-chatbots-the-future-of-informat
 https://medium.com/rasa-blog/supervised-word-vectors-from-scratch-in-rasa-nlu-6daf794efcd8    
 
 ## Allen NLP 
-.....
+http://wp.arenji.com/2018/05/09/beyond-intents-and-entities/  
 
 ## Twitter tools
 https://github.com/bear/python-twitter Python Twitter (see also Tweepy)  
