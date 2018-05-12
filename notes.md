@@ -44,6 +44,8 @@ https://www.reddit.com/r/textdatamining/    text mining reddit
 https://medium.com/@datancoffee/predicting-user-engagement-with-news-on-reddit-using-kaggle-or-colab-d5ef0dcaff6a  Kaggle GPU   
 https://www.kaggle.com/dansbecker/running-kaggle-kernels-with-a-gpu   <====  Kaggle GPU example <======     
 https://summari.es/  dataset for many articles for text summarization   
+https://github.com/Mybridge/machine-learning-articles   Top 10 ML articles monthly    
+https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-may-2018-681489a05135  Top 10 May   
 
 ## TorchText 
 https://github.com/mjc92/TorchTextTutorial  
@@ -161,6 +163,7 @@ http://scikit-learn.org/stable/auto_examples/applications/plot_topics_extraction
 http://scikit-learn.org/stable/modules/clustering.html  Clustering in scikit-learn <==========   
 https://towardsdatascience.com/improving-the-interpretation-of-topic-models-87fd2ee3847d  
 https://stackoverflow.com/questions/45145368/python-scikit-learn-get-documents-per-topic-in-lda   assign topics   
+https://elitedatascience.com/category/tutorials   
 
 ## To watch on Ch9  
 https://channel9.msdn.com/Events/Connect/2017/AI1  intro to MS AI 
