@@ -47,6 +47,7 @@ https://summari.es/  dataset for many articles for text summarization
 https://github.com/Mybridge/machine-learning-articles   Top 10 ML articles monthly    
 https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-may-2018-681489a05135  Top 10 May   
 https://machinelearningmastery.com/best-practices-document-classification-deep-learning/   
+https://github.com/eisenjulian/nlp_estimator_tutorial (https://opendatascience.com/text-classification-with-tensorflow-estimators/)   NLP Tutorial *********************  
 
 ## TorchText 
 https://github.com/mjc92/TorchTextTutorial  
@@ -166,6 +167,8 @@ https://towardsdatascience.com/improving-the-interpretation-of-topic-models-87fd
 https://stackoverflow.com/questions/45145368/python-scikit-learn-get-documents-per-topic-in-lda   assign topics   
 https://elitedatascience.com/category/tutorials   
 https://docs.google.com/document/d/1dr4GvVtnOf60x1uj4PbYeoFDZMumzic11S_drqjlT08/edit  PyCon2018 resources <========
+https://www.youtube.com/watch?v=q42hCs2E4So <=== API design  
+https://www.youtube.com/watch?v=PXJtFc8DjsE  Siraj Raval - AI Education channel  
 
 ## To watch on Ch9  
 https://channel9.msdn.com/Events/Connect/2017/AI1  intro to MS AI 
