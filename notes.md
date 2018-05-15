@@ -169,7 +169,7 @@ https://elitedatascience.com/category/tutorials
 https://docs.google.com/document/d/1dr4GvVtnOf60x1uj4PbYeoFDZMumzic11S_drqjlT08/edit  PyCon2018 resources <========
 https://www.youtube.com/watch?v=q42hCs2E4So <=== API design  
 https://www.youtube.com/watch?v=PXJtFc8DjsE  Siraj Raval - AI Education channel  
-
+https://www.reddit.com/r/MachineLearning/comments/8j9rx8/d_what_are_the_best_libraries_frameworks_out/    
 ## To watch on Ch9  
 https://channel9.msdn.com/Events/Connect/2017/AI1  intro to MS AI 
 https://channel9.msdn.com/Events/Connect/2017/AI2 intro to bots 
@@ -217,6 +217,7 @@ https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-mac
 https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/linux-dsvm-walkthrough   
 http://nlp.town/blog/sentence-similarity/    comparing sentence similarity    
 https://www.kdnuggets.com/2018/05/50-useful-machine-learning-prediction-apis-2018-edition.html  50 prediction APIs    
+https://github.com/neerjad/DataVisualization   dataviz in different packages  
 
 # VS and AI  
 https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vstoolsai-vs2017   Tools for AI in VS  
@@ -247,7 +248,10 @@ https://lnkd.in/e-vU2az
 8. NLP with Keras
 https://lnkd.in/eFirb_6    
 9. Twitter Sentiment Analysis Using Combined LSTM-CNN Models
-https://lnkd.in/er8fzRC 
+https://lnkd.in/er8fzRC  
+
+
+https://www.reddit.com/r/MachineLearning/comments/8j9rx8/d_what_are_the_best_libraries_frameworks_out/ 
 
 
 
