@@ -169,7 +169,9 @@ https://elitedatascience.com/category/tutorials
 https://docs.google.com/document/d/1dr4GvVtnOf60x1uj4PbYeoFDZMumzic11S_drqjlT08/edit  PyCon2018 resources <========
 https://www.youtube.com/watch?v=q42hCs2E4So <=== API design  
 https://www.youtube.com/watch?v=PXJtFc8DjsE  Siraj Raval - AI Education channel  
-https://www.reddit.com/r/MachineLearning/comments/8j9rx8/d_what_are_the_best_libraries_frameworks_out/    
+https://www.reddit.com/r/MachineLearning/comments/8j9rx8/d_what_are_the_best_libraries_frameworks_out/   <++++++++++     
+https://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/
+
 ## To watch on Ch9  
 https://channel9.msdn.com/Events/Connect/2017/AI1  intro to MS AI 
 https://channel9.msdn.com/Events/Connect/2017/AI2 intro to bots 
@@ -252,6 +254,9 @@ https://lnkd.in/er8fzRC
 
 
 https://www.reddit.com/r/MachineLearning/comments/8j9rx8/d_what_are_the_best_libraries_frameworks_out/ 
+https://github.com/ioam/holoviews (https://t.co/Ke7QTFQpIY) <=== dataviz  
+https://github.com/jupyter/nbdime diff/merge for notebooks 
+http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html
 
 
 
