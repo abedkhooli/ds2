@@ -259,8 +259,15 @@ https://lnkd.in/er8fzRC
 https://www.reddit.com/r/MachineLearning/comments/8j9rx8/d_what_are_the_best_libraries_frameworks_out/ 
 https://github.com/ioam/holoviews (https://t.co/Ke7QTFQpIY) <=== dataviz  
 https://github.com/jupyter/nbdime diff/merge for notebooks 
+
+# Transfer Learning  
 http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html + http://nlp.fast.ai/category/model_zoo.html  +   
 http://forums.fast.ai/t/language-model-zoo-gorilla/14623   
+https://github.com/binga/fastai_notes/blob/master/experiments/notebooks/lang_models/WikiExtractor.py   
+https://github.com/sgugger/Deep-Learning/blob/master/Building%20a%20French%20LM.ipynb   
+https://github.com/nafizh/Neural_language_model_bangla   
+https://github.com/binga/fastai_notes/blob/master/experiments/notebooks/lang_models/Telugu_Language_Model.ipynb  
+https://www.kaggle.com/anshulrai/preprocessing-train-and-test-data/code  sentencepiece  
 
 
 
