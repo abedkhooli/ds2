@@ -48,6 +48,7 @@ https://github.com/Mybridge/machine-learning-articles   Top 10 ML articles month
 https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-may-2018-681489a05135  Top 10 May   
 https://machinelearningmastery.com/best-practices-document-classification-deep-learning/   
 https://github.com/eisenjulian/nlp_estimator_tutorial (https://opendatascience.com/text-classification-with-tensorflow-estimators/)   NLP Tutorial *********************  
+https://github.com/google/sentencepiece   / https://www.kaggle.com/lefant/example-usage-pre-trained-bpe-embeddings/code    
 
 ## TorchText 
 https://github.com/mjc92/TorchTextTutorial  
@@ -81,6 +82,8 @@ https://spacy.io/usage/linguistic-features   edit and run in browser
 https://spacy.io/universe/  stuff built for or with spaCy   
 http://www.joshblog.co.uk/posts/20180210_python_text_visualization_coffee_analysis_part_III  
 http://wp.arenji.com/2018/05/09/beyond-intents-and-entities/   
+https://www.reddit.com/r/textdatamining/comments/8k3tpk/getting_started_with_spacy_for_natural_language/?st=jhai93us&sh=d8ab3dc3     
+
 
 ## Gensim  
 https://github.com/RaRe-Technologies/talks/tree/master/2018-03-23_MLPrague-workshop  Notebooks on W2Vec, FT, etc.   
@@ -256,7 +259,8 @@ https://lnkd.in/er8fzRC
 https://www.reddit.com/r/MachineLearning/comments/8j9rx8/d_what_are_the_best_libraries_frameworks_out/ 
 https://github.com/ioam/holoviews (https://t.co/Ke7QTFQpIY) <=== dataviz  
 https://github.com/jupyter/nbdime diff/merge for notebooks 
-http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html
+http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html + http://nlp.fast.ai/category/model_zoo.html  +   
+http://forums.fast.ai/t/language-model-zoo-gorilla/14623   
 
 
 
