@@ -270,6 +270,11 @@ https://github.com/binga/fastai_notes/blob/master/experiments/notebooks/lang_mod
 https://www.kaggle.com/anshulrai/preprocessing-train-and-test-data/code  sentencepiece  
 
 
+https://github.com/jupyter-widgets/ipyleaflet   
+https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2   
+https://machinelearningmastery.com/develop-neural-machine-translation-system-keras/    
+https://www.kdnuggets.com/2018/05/data-labeling-machine-learning.html/2 data labeling   @@@@@@@@    
+
 
 
 
