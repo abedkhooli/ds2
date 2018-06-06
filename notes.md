@@ -3,6 +3,8 @@ this doc is not part of this repo in the logical sense but is being hosted here 
 It is currently a set of misc links and notes in no specific structure or purpose or maintenance plan.  
 Use it if you find it useful.
 
+# DataScience 
+http://www.dataschool.io/start/  great collection
 # NLP 
 ## General 
 https://www.lfd.uci.edu/~gohlke/pythonlibs/ <---- Python wheels (esp. for Windows installation issues)   
@@ -48,7 +50,8 @@ https://github.com/Mybridge/machine-learning-articles   Top 10 ML articles month
 https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-may-2018-681489a05135  Top 10 May   
 https://machinelearningmastery.com/best-practices-document-classification-deep-learning/   
 https://github.com/eisenjulian/nlp_estimator_tutorial (https://opendatascience.com/text-classification-with-tensorflow-estimators/)   NLP Tutorial *********************  
-https://github.com/google/sentencepiece   / https://www.kaggle.com/lefant/example-usage-pre-trained-bpe-embeddings/code    
+https://github.com/google/sentencepiece   / https://www.kaggle.com/lefant/example-usage-pre-trained-bpe-embeddings/code   
+Berkeley Neural Parser: https://github.com/nikitakit/self-attentive-parser   
 
 ## TorchText 
 https://github.com/mjc92/TorchTextTutorial  
