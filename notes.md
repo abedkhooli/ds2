@@ -53,7 +53,8 @@ https://github.com/eisenjulian/nlp_estimator_tutorial (https://opendatascience.c
 https://github.com/google/sentencepiece   / https://www.kaggle.com/lefant/example-usage-pre-trained-bpe-embeddings/code   
 Berkeley Neural Parser: https://github.com/nikitakit/self-attentive-parser   
 http://www.arabicnlp.pro/alp/  Arabic ALP - An online Arabic linguistic tool <========== 
-https://github.com/Barqawiz/Shakkala Shakkala project
+https://github.com/Barqawiz/Shakkala Shakkala project 
+https://github.com/sebastianruder/NLP-progress  <==== 
 
 ## TorchText 
 https://github.com/mjc92/TorchTextTutorial  
