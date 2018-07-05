@@ -4,7 +4,7 @@ It is currently a set of misc links and notes in no specific structure or purpos
 Use it if you find it useful.
 
 # DataScience 
-http://www.dataschool.io/start/  great collection
+http://www.dataschool.io/start/  great collection   
 http://www.r2d3.us/visual-intro-to-machine-learning-part-2/   Bias-Variance Trade-off
 # NLP 
 ## General 
