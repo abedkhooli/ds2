@@ -3,9 +3,12 @@ this doc is not part of this repo in the logical sense but is being hosted here 
 It is currently a set of misc links and notes in no specific structure or purpose or maintenance plan.  
 Use it if you find it useful.
 
-# DataScience 
+# DataScience   
+https://www.kaggle.com/learn/python  
 http://www.dataschool.io/start/  great collection   
-http://www.r2d3.us/visual-intro-to-machine-learning-part-2/   Bias-Variance Trade-off
+http://www.r2d3.us/visual-intro-to-machine-learning-part-2/   Bias-Variance Trade-off  
+https://machinelearningmastery.com/all-of-statistics-for-machine-learning/   
+
 # NLP 
 ## General 
 https://www.lfd.uci.edu/~gohlke/pythonlibs/ <---- Python wheels (esp. for Windows installation issues)   
@@ -29,7 +32,8 @@ https://nbviewer.jupyter.org/github/groverpr/learn_python_libraries/blob/master/
 https://www.rankred.com/javascript-cheat-sheets    JS cheat sheets    
 http://overapi.com/   <========== All cheat sheets in one place    
 https://github.com/niderhoff/nlp-datasets/blob/master/README.md <===== NLP datasets ====  
-https://github.com/keon/awesome-nlp  <======================= Awesome NLP ===============
+https://github.com/keon/awesome-nlp  <======================= Awesome NLP =============== 
+https://machinelearningmastery.com/develop-word-embeddings-python-gensim/   
 https://github.com/niderhoff/nlp-datasets <=== NLP datasets in alphabetical order ====
 https://catalog.ldc.upenn.edu/ldc2013t19 is the Ontonotes dataset (includes Arabic) <=======      
 https://github.com/slanglab/phrasemachine   (En only)   
