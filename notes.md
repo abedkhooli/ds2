@@ -9,7 +9,8 @@ http://www.dataschool.io/start/  great collection
 http://www.r2d3.us/visual-intro-to-machine-learning-part-2/   Bias-Variance Trade-off  
 https://machinelearningmastery.com/all-of-statistics-for-machine-learning/   
 https://github.com/scikit-learn-contrib/imbalanced-learn (https://beckernick.github.io/oversampling-modeling/)   
-
+https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-1-602f73869197  fast.ai notes   
+http://crawles.com/lr-scratch/   crossing features in Titanic   
 
 # NLP 
 ## General 
