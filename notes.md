@@ -11,12 +11,13 @@ https://machinelearningmastery.com/all-of-statistics-for-machine-learning/
 https://github.com/scikit-learn-contrib/imbalanced-learn (https://beckernick.github.io/oversampling-modeling/)   
 https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-1-602f73869197  fast.ai notes   
 http://crawles.com/lr-scratch/   crossing features in Titanic   
+https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects  Randy Olson
 
 # NLP 
 ## General 
 https://www.lfd.uci.edu/~gohlke/pythonlibs/ <---- Python wheels (esp. for Windows installation issues)   
 https://www.seas.upenn.edu/~romap/nlp-resources.html  great collection by Univ. Penn.   
-https://t.co/BcBOaeBhUw  Stanford nlp book    
+https://t.co/BcBOaeBhUw  Stanford nlp book  (https://web.stanford.edu/~jurafsky/slp3/ <=====SSSSSSSSSSSS  
 https://www.youtube.com/watch?v=mhHfnhh-pB4  NLU (1:25 about dialogs) **************       
 http://web.stanford.edu/class/cs224n/reports.html  Stanford NLP student projects   
 https://docs.google.com/document/d/1mkB6KA7KuzNeoc9jW3mfOthv_6Uberxs8l2H7BmJdzg/edit#  NLUCS NYDC Sam Bowman  
@@ -84,6 +85,8 @@ https://towardsdatascience.com/summarizing-tweets-in-a-disaster-e6b355a41732  tw
 https://towardsdatascience.com/twitter-api-and-nlp-7a386758eb31  Tweets by different users (code, with tweets miner class at https://github.com/elaiken3/twitter_api-nlp-project1)  
 
 ## spaCy  
+https://github.com/kororo/excelcy <====================== train and annotate from Excel   =====================
+https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e    
 https://dataflume.wordpress.com/2017/03/17/intro-nlp-python-spacy/   
 https://nbviewer.jupyter.org/github/repmax/topic-model/blob/master/topic-modelling.ipynb  *****  
 https://github.com/oudalab/Arabic-NER  Spacy Ar NER 
