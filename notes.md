@@ -12,7 +12,7 @@ https://github.com/scikit-learn-contrib/imbalanced-learn (https://beckernick.git
 https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-1-602f73869197  fast.ai notes   
 http://crawles.com/lr-scratch/   crossing features in Titanic   
 https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects  Randy Olson
-
+https://www.kaggle.com/rtatman/download-a-csv-file-from-a-kernel/
 # NLP 
 ## General 
 https://www.lfd.uci.edu/~gohlke/pythonlibs/ <---- Python wheels (esp. for Windows installation issues)   
@@ -112,6 +112,7 @@ https://stanfordnlp.github.io/CoreNLP/human-languages.html Level of support for 
 https://www.khalidalnajjar.com/setup-use-stanford-corenlp-server-python/   
 https://blog.sicara.com/train-ner-model-with-nltk-stanford-tagger-english-french-german-6d90573a9486  <====  
 http://web.stanford.edu/class/cs224n/reports.html   SQuAd projects    
+https://gitlab.com/tcool/nlpviz-batch  NLP Viz  
 
 ## Rasa / Intents   
 https://github.com/RasaHQ/rasa_nlu  figure out intents See also: https://www.youtube.com/watch?v=0hZay4KSLFw      <======================     
