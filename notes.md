@@ -293,7 +293,9 @@ https://github.com/jupyter-widgets/ipyleaflet
 https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2   
 https://machinelearningmastery.com/develop-neural-machine-translation-system-keras/    
 https://www.kdnuggets.com/2018/05/data-labeling-machine-learning.html/2 data labeling   @@@@@@@@    
-
+https://www.kdnuggets.com/2018/07/ultimate-list-web-scraping-tools-software.html   
+https://www.kdnuggets.com/2018/07/receiver-operating-characteristic-curves-demystified-python.html    
+https://www.datasciencecentral.com/profiles/blogs/comparison-of-top-6-python-nlp-libraries
 
 
 
