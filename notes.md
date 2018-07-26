@@ -297,5 +297,5 @@ https://www.kdnuggets.com/2018/07/ultimate-list-web-scraping-tools-software.html
 https://www.kdnuggets.com/2018/07/receiver-operating-characteristic-curves-demystified-python.html    
 https://www.datasciencecentral.com/profiles/blogs/comparison-of-top-6-python-nlp-libraries
 
-
+https://t.co/CdPyuEE4eb
 
