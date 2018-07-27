@@ -13,6 +13,8 @@ https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-1-602f73869197 
 http://crawles.com/lr-scratch/   crossing features in Titanic   
 https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects  Randy Olson
 https://www.kaggle.com/rtatman/download-a-csv-file-from-a-kernel/
+http://nlpprogress.com/    tracking progress in nlp
+
 # NLP 
 ## General 
 https://www.lfd.uci.edu/~gohlke/pythonlibs/ <---- Python wheels (esp. for Windows installation issues)   
