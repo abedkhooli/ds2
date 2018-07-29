@@ -18,6 +18,7 @@ http://nlpprogress.com/    tracking progress in nlp
 # NLP 
 ## General 
 https://www.lfd.uci.edu/~gohlke/pythonlibs/ <---- Python wheels (esp. for Windows installation issues)   
+https://machinelearningmastery.com/datasets-natural-language-processing/ nlp datasets   
 https://www.seas.upenn.edu/~romap/nlp-resources.html  great collection by Univ. Penn.   
 https://t.co/BcBOaeBhUw  Stanford nlp book  (https://web.stanford.edu/~jurafsky/slp3/ <=====SSSSSSSSSSSS  
 https://www.youtube.com/watch?v=mhHfnhh-pB4  NLU (1:25 about dialogs) **************       
@@ -68,6 +69,7 @@ https://github.com/Barqawiz/Shakkala Shakkala project
 https://github.com/sebastianruder/NLP-progress  <==== 
 
 ## TorchText 
+https://www.analyticsvidhya.com/blog/2018/02/pytorch-tutorial/   <==== pyTorch  
 https://github.com/mjc92/TorchTextTutorial  
 https://towardsdatascience.com/use-torchtext-to-load-nlp-datasets-part-i-5da6f1c89d84 (see also part II and FB's StarSpace) 
 https://towardsdatascience.com/use-torchtext-to-load-nlp-datasets-part-ii-f146c8b9a496  
