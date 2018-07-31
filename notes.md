@@ -302,4 +302,11 @@ https://www.kdnuggets.com/2018/07/receiver-operating-characteristic-curves-demys
 https://www.datasciencecentral.com/profiles/blogs/comparison-of-top-6-python-nlp-libraries
 
 https://t.co/CdPyuEE4eb
+https://www.kdnuggets.com/2018/07/5-quick-easy-data-visualizations-python-code.html   
+https://medium.com/@shub777_56374/learn-deep-learning-with-gpu-enabled-kaggle-kernels-and-fastai-mooc-72fee41bb4b5   
+https://towardsdatascience.com/semantic-code-search-3cd6d244a39c    
+
+
+https://medium.com/apache-mxnet/gluonnlp-deep-learning-toolkit-for-natural-language-processing-98e684131c8a   
+https://github.com/dmlc/gluon-nlp   
 
