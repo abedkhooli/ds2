@@ -13,8 +13,10 @@ https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-1-602f73869197 
 http://crawles.com/lr-scratch/   crossing features in Titanic   
 https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects  Randy Olson
 https://www.kaggle.com/rtatman/download-a-csv-file-from-a-kernel/
-http://nlpprogress.com/    tracking progress in nlp
-
+http://nlpprogress.com/    tracking progress in nlp  
+https://github.com/lmcinnes/umap  Uniform Manifold Approximation and Projection  
+http://tomaugspurger.github.io/modern-7-timeseries.html   
+  
 # NLP 
 ## General 
 https://www.lfd.uci.edu/~gohlke/pythonlibs/ <---- Python wheels (esp. for Windows installation issues)   
@@ -309,4 +311,7 @@ https://towardsdatascience.com/semantic-code-search-3cd6d244a39c
 
 https://medium.com/apache-mxnet/gluonnlp-deep-learning-toolkit-for-natural-language-processing-98e684131c8a   
 https://github.com/dmlc/gluon-nlp   
+
+https://github.com/akshaybahadur21/DigiEncoder   OpenCV, Keras, TF  
+https://akshaydominator.wixsite.com/akshaybahadur21  (author)  
 
