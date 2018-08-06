@@ -4,6 +4,7 @@ It is currently a set of misc links and notes in no specific structure or purpos
 Use it if you find it useful.
 
 # DataScience   
+https://github.com/jhfjhfj1/autokeras <=== Auto Keras   
 https://www.kaggle.com/learn/python  
 http://www.dataschool.io/start/  great collection   
 http://www.r2d3.us/visual-intro-to-machine-learning-part-2/   Bias-Variance Trade-off  
@@ -18,8 +19,12 @@ https://github.com/lmcinnes/umap  Uniform Manifold Approximation and Projection
 http://tomaugspurger.github.io/modern-7-timeseries.html   
   
 # NLP 
+## Translation corpora (UN): https://twitter.com/stanfordnlp/status/1025458331500961792
+## https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72  
+
 ## General 
 https://www.lfd.uci.edu/~gohlke/pythonlibs/ <---- Python wheels (esp. for Windows installation issues)   
+https://www.analyticsvidhya.com/blog/2017/11/flashtext-a-library-faster-than-regular-expressions      
 https://machinelearningmastery.com/datasets-natural-language-processing/ nlp datasets   
 https://www.seas.upenn.edu/~romap/nlp-resources.html  great collection by Univ. Penn.   
 https://t.co/BcBOaeBhUw  Stanford nlp book  (https://web.stanford.edu/~jurafsky/slp3/ <=====SSSSSSSSSSSS  
@@ -314,4 +319,8 @@ https://github.com/dmlc/gluon-nlp
 
 https://github.com/akshaybahadur21/DigiEncoder   OpenCV, Keras, TF  
 https://akshaydominator.wixsite.com/akshaybahadur21  (author)  
+
+https://www.kdnuggets.com/2017/03/email-spam-filtering-an-implementation-with-python-and-scikit-learn.html  e-mail spam 
+
+https://github.com/miguelgfierro/sciblog_support/blob/master/Intro_to_Fraud_Detection/fraud_detection.ipynb  Fraud detection  
 
