@@ -19,8 +19,8 @@ https://github.com/lmcinnes/umap  Uniform Manifold Approximation and Projection
 http://tomaugspurger.github.io/modern-7-timeseries.html   
   
 # NLP 
-## Translation corpora (UN): https://twitter.com/stanfordnlp/status/1025458331500961792
-## https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72  
+### Translation corpora (UN): https://twitter.com/stanfordnlp/status/1025458331500961792
+### https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72  
 
 ## General 
 https://www.lfd.uci.edu/~gohlke/pythonlibs/ <---- Python wheels (esp. for Windows installation issues)   
