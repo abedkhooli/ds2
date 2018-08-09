@@ -20,7 +20,10 @@ http://tomaugspurger.github.io/modern-7-timeseries.html
   
 # NLP 
 ### Translation corpora (UN): https://twitter.com/stanfordnlp/status/1025458331500961792
-### https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72  
+### https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72  [book author]
+https://pmbaumgartner.github.io/blog/notes-on-nlp-projects/  
+https://arxiv.org/abs/1808.00158  Speaker Recognition from raw waveform with SincNet   
+http://www.cs.cmu.edu/~rsalakhu/jsm2018.html The deep learning rev 
 
 ## General 
 https://www.lfd.uci.edu/~gohlke/pythonlibs/ <---- Python wheels (esp. for Windows installation issues)   
