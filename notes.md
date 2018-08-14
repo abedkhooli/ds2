@@ -17,13 +17,17 @@ https://www.kaggle.com/rtatman/download-a-csv-file-from-a-kernel/
 http://nlpprogress.com/    tracking progress in nlp  
 https://github.com/lmcinnes/umap  Uniform Manifold Approximation and Projection  
 http://tomaugspurger.github.io/modern-7-timeseries.html   
+https://www.kdnuggets.com/2018/03/catboost-vs-light-gbm-vs-xgboost.html   
+https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/   
   
 # NLP 
 ### Translation corpora (UN): https://twitter.com/stanfordnlp/status/1025458331500961792
 ### https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72  [book author]
 https://pmbaumgartner.github.io/blog/notes-on-nlp-projects/  
 https://arxiv.org/abs/1808.00158  Speaker Recognition from raw waveform with SincNet   
-http://www.cs.cmu.edu/~rsalakhu/jsm2018.html The deep learning rev 
+http://www.cs.cmu.edu/~rsalakhu/jsm2018.html The deep learning rev  
+http://jkk.name/neural-tagger-tutorial/   Neural nlp tagger   
+https://blog.feedly.com/transfer-learning-in-nlp/  
 
 ## General 
 https://www.lfd.uci.edu/~gohlke/pythonlibs/ <---- Python wheels (esp. for Windows installation issues)   
@@ -33,7 +37,8 @@ https://www.seas.upenn.edu/~romap/nlp-resources.html  great collection by Univ. 
 https://t.co/BcBOaeBhUw  Stanford nlp book  (https://web.stanford.edu/~jurafsky/slp3/ <=====SSSSSSSSSSSS  
 https://www.youtube.com/watch?v=mhHfnhh-pB4  NLU (1:25 about dialogs) **************       
 http://web.stanford.edu/class/cs224n/reports.html  Stanford NLP student projects   
-https://docs.google.com/document/d/1mkB6KA7KuzNeoc9jW3mfOthv_6Uberxs8l2H7BmJdzg/edit#  NLUCS NYDC Sam Bowman  
+https://docs.google.com/document/d/1mkB6KA7KuzNeoc9jW3mfOthv_6Uberxs8l2H7BmJdzg/edit#  NLUCS NYDC Sam Bowman   
+https://medium.com/nanonets/topic-modeling-with-lsa-psla-lda-and-lda2vec-555ff65b0b05   
 https://www.kdnuggets.com/2017/07/5-free-resources-getting-started-deep-learning-nlp.html  
 https://news.ycombinator.com/item?id=14639295   by YC.  
 https://www.kdnuggets.com/2018/03/text-data-preprocessing-walkthrough-python.html  text data processing by 
