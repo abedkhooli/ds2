@@ -36,7 +36,7 @@ https://machinelearningmastery.com/datasets-natural-language-processing/ nlp dat
 https://www.seas.upenn.edu/~romap/nlp-resources.html  great collection by Univ. Penn.   
 https://t.co/BcBOaeBhUw  Stanford nlp book  (https://web.stanford.edu/~jurafsky/slp3/ <=====SSSSSSSSSSSS  
 https://www.youtube.com/watch?v=mhHfnhh-pB4  NLU (1:25 about dialogs) **************       
-http://web.stanford.edu/class/cs224n/reports.html  Stanford NLP student projects   
+http://web.stanford.edu/class/cs224n/reports.html  Stanford NLP student projects    
 https://docs.google.com/document/d/1mkB6KA7KuzNeoc9jW3mfOthv_6Uberxs8l2H7BmJdzg/edit#  NLUCS NYDC Sam Bowman   
 https://medium.com/nanonets/topic-modeling-with-lsa-psla-lda-and-lda2vec-555ff65b0b05   
 https://www.kdnuggets.com/2017/07/5-free-resources-getting-started-deep-learning-nlp.html  
