@@ -28,6 +28,7 @@ https://arxiv.org/abs/1808.00158  Speaker Recognition from raw waveform with Sin
 http://www.cs.cmu.edu/~rsalakhu/jsm2018.html The deep learning rev  
 http://jkk.name/neural-tagger-tutorial/   Neural nlp tagger   
 https://blog.feedly.com/transfer-learning-in-nlp/  
+https://medium.com/redbus-in/how-to-deploy-scikit-learn-ml-models-d390b4b8ce7a   NLP scikit-deploy (see also https://www.opendatagroup.com/ and http://scoring.one/, draw.io to make flow plans)   
 
 ## General 
 https://www.lfd.uci.edu/~gohlke/pythonlibs/ <---- Python wheels (esp. for Windows installation issues)   
