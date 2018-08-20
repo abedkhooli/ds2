@@ -21,7 +21,13 @@ https://www.kdnuggets.com/2018/03/catboost-vs-light-gbm-vs-xgboost.html
 https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/   
 https://www.kdnuggets.com/2018/08/mxnet-tensor-basics-simple-derivatives.html   MXNet (Apache)   
 https://www.kdnuggets.com/2018/08/introduction-fraud-detection-systems.html fraud detection with lightGBM MSFT  
+https://medium.com/cracking-the-data-science-interview/14-golden-nuggets-to-demystify-data-science-for-aspiring-data-scientists-d18e8f30de35  
+https://medium.com/cracking-the-data-science-interview/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-7228aa8ef541   
+https://towardsdatascience.com/the-10-mining-techniques-data-scientists-need-for-their-toolbox-ae15a5733b02 ==///===>   
 
+https://towardsdatascience.com/how-to-out-compete-on-a-data-science-competition-insights-techniques-and-tactics-95a0545041d5   
+https://github.com/neptune-ml/steppy    https://github.com/iskandr/fancyimpute  ==========///======>      
+   
 # NLP 
 ### Translation corpora (UN): https://twitter.com/stanfordnlp/status/1025458331500961792
 ### https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72  [book author]
@@ -31,6 +37,7 @@ http://www.cs.cmu.edu/~rsalakhu/jsm2018.html The deep learning rev
 http://jkk.name/neural-tagger-tutorial/   Neural nlp tagger   
 https://blog.feedly.com/transfer-learning-in-nlp/  
 https://medium.com/redbus-in/how-to-deploy-scikit-learn-ml-models-d390b4b8ce7a   NLP scikit-deploy (see also https://www.opendatagroup.com/ and http://scoring.one/, draw.io to make flow plans)   
+https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e ====///====>    
 
 ## General 
 https://www.lfd.uci.edu/~gohlke/pythonlibs/ <---- Python wheels (esp. for Windows installation issues)   
