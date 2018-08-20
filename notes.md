@@ -20,6 +20,7 @@ http://tomaugspurger.github.io/modern-7-timeseries.html
 https://www.kdnuggets.com/2018/03/catboost-vs-light-gbm-vs-xgboost.html   
 https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/   
 https://www.kdnuggets.com/2018/08/mxnet-tensor-basics-simple-derivatives.html   MXNet (Apache)   
+https://www.kdnuggets.com/2018/08/introduction-fraud-detection-systems.html fraud detection with lightGBM MSFT  
 
 # NLP 
 ### Translation corpora (UN): https://twitter.com/stanfordnlp/status/1025458331500961792
@@ -323,6 +324,7 @@ https://www.kdnuggets.com/2018/07/5-quick-easy-data-visualizations-python-code.h
 https://medium.com/@shub777_56374/learn-deep-learning-with-gpu-enabled-kaggle-kernels-and-fastai-mooc-72fee41bb4b5   
 https://towardsdatascience.com/semantic-code-search-3cd6d244a39c    
 
+https://towardsdatascience.com/multi-label-text-classification-with-scikit-learn-30714b7819c5   
 
 https://medium.com/apache-mxnet/gluonnlp-deep-learning-toolkit-for-natural-language-processing-98e684131c8a   
 https://github.com/dmlc/gluon-nlp   
