@@ -19,7 +19,8 @@ https://github.com/lmcinnes/umap  Uniform Manifold Approximation and Projection
 http://tomaugspurger.github.io/modern-7-timeseries.html   
 https://www.kdnuggets.com/2018/03/catboost-vs-light-gbm-vs-xgboost.html   
 https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/   
-  
+https://www.kdnuggets.com/2018/08/mxnet-tensor-basics-simple-derivatives.html   MXNet (Apache)   
+
 # NLP 
 ### Translation corpora (UN): https://twitter.com/stanfordnlp/status/1025458331500961792
 ### https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72  [book author]
