@@ -27,7 +27,8 @@ https://towardsdatascience.com/the-10-mining-techniques-data-scientists-need-for
 
 https://towardsdatascience.com/how-to-out-compete-on-a-data-science-competition-insights-techniques-and-tactics-95a0545041d5   
 https://github.com/neptune-ml/steppy    https://github.com/iskandr/fancyimpute  ==========///======>      
-   
+
+https://twitter.com/afshinea/status/1031393337998069760   Stanford cs ML  
 # NLP 
 ### Translation corpora (UN): https://twitter.com/stanfordnlp/status/1025458331500961792
 ### https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72  [book author]
