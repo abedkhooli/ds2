@@ -29,6 +29,7 @@ https://towardsdatascience.com/how-to-out-compete-on-a-data-science-competition-
 https://github.com/neptune-ml/steppy    https://github.com/iskandr/fancyimpute  ==========///======>      
 
 https://twitter.com/afshinea/status/1031393337998069760   Stanford cs ML  
+https://medium.com/analytics-vidhya/python-implementation-of-andrew-ngs-machine-learning-course-part-1-6b8dd1c73d80 
 
 # NLP 
 ### Translation corpora (UN): https://twitter.com/stanfordnlp/status/1025458331500961792
@@ -41,7 +42,8 @@ https://blog.feedly.com/transfer-learning-in-nlp/
 https://medium.com/redbus-in/how-to-deploy-scikit-learn-ml-models-d390b4b8ce7a   NLP scikit-deploy (see also https://www.opendatagroup.com/ and http://scoring.one/, draw.io to make flow plans)   
 https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e ====///====>   
 https://www.kdnuggets.com/2017/11/building-wikipedia-text-corpus-nlp.html 
-https://twitter.com/HoseinFooladi7/status/1035582635454672897 nlp resources
+https://twitter.com/HoseinFooladi7/status/1035582635454672897 nlp resources 
+https://www.kdnuggets.com/2018/08/multi-class-text-classification-scikit-learn.html 
 
 ## General 
 https://www.lfd.uci.edu/~gohlke/pythonlibs/ <---- Python wheels (esp. for Windows installation issues)   
