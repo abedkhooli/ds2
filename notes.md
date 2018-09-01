@@ -29,6 +29,7 @@ https://towardsdatascience.com/how-to-out-compete-on-a-data-science-competition-
 https://github.com/neptune-ml/steppy    https://github.com/iskandr/fancyimpute  ==========///======>      
 
 https://twitter.com/afshinea/status/1031393337998069760   Stanford cs ML  
+
 # NLP 
 ### Translation corpora (UN): https://twitter.com/stanfordnlp/status/1025458331500961792
 ### https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72  [book author]
@@ -38,7 +39,9 @@ http://www.cs.cmu.edu/~rsalakhu/jsm2018.html The deep learning rev
 http://jkk.name/neural-tagger-tutorial/   Neural nlp tagger   
 https://blog.feedly.com/transfer-learning-in-nlp/  
 https://medium.com/redbus-in/how-to-deploy-scikit-learn-ml-models-d390b4b8ce7a   NLP scikit-deploy (see also https://www.opendatagroup.com/ and http://scoring.one/, draw.io to make flow plans)   
-https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e ====///====>    
+https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e ====///====>   
+https://www.kdnuggets.com/2017/11/building-wikipedia-text-corpus-nlp.html 
+https://twitter.com/HoseinFooladi7/status/1035582635454672897 nlp resources
 
 ## General 
 https://www.lfd.uci.edu/~gohlke/pythonlibs/ <---- Python wheels (esp. for Windows installation issues)   
