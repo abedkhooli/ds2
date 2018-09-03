@@ -33,6 +33,10 @@ https://medium.com/analytics-vidhya/python-implementation-of-andrew-ngs-machine-
 
 https://twitter.com/GaelVaroquaux/status/1035958024949706757  Sci-py notebook  
 https://blog.ycombinator.com/learning-math-for-machine-learning/  
+https://realpython.com/python-pandas-tricks/ ====//==>
+https://github.com/eriklindernoren/ML-From-Scratch  
+https://github.com/owainlewis/awesome-artificial-intelligence  
+https://github.com/shivasj/Integrating-a-Machine-Learning-Model-into-a-Web-app   
 
 # NLP 
 ### Translation corpora (UN): https://twitter.com/stanfordnlp/status/1025458331500961792
@@ -49,7 +53,7 @@ https://twitter.com/HoseinFooladi7/status/1035582635454672897 nlp resources
 https://www.kdnuggets.com/2018/08/multi-class-text-classification-scikit-learn.html 
 https://twitter.com/stanfordnlp/status/1035990390480887808  
 https://itnext.io/list-of-free-resources-to-learn-natural-language-processing-ce27231e79a2 ==//==>   
-
+https://blog.sicara.com/train-ner-model-with-nltk-stanford-tagger-english-french-german-6d90573a9486   
 
 ## General 
 https://www.lfd.uci.edu/~gohlke/pythonlibs/ <---- Python wheels (esp. for Windows installation issues)   
