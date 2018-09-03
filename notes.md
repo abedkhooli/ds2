@@ -31,6 +31,9 @@ https://github.com/neptune-ml/steppy    https://github.com/iskandr/fancyimpute  
 https://twitter.com/afshinea/status/1031393337998069760   Stanford cs ML  
 https://medium.com/analytics-vidhya/python-implementation-of-andrew-ngs-machine-learning-course-part-1-6b8dd1c73d80 
 
+https://twitter.com/GaelVaroquaux/status/1035958024949706757  Sci-py notebook  
+https://blog.ycombinator.com/learning-math-for-machine-learning/  
+
 # NLP 
 ### Translation corpora (UN): https://twitter.com/stanfordnlp/status/1025458331500961792
 ### https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72  [book author]
@@ -44,6 +47,9 @@ https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e ===
 https://www.kdnuggets.com/2017/11/building-wikipedia-text-corpus-nlp.html 
 https://twitter.com/HoseinFooladi7/status/1035582635454672897 nlp resources 
 https://www.kdnuggets.com/2018/08/multi-class-text-classification-scikit-learn.html 
+https://twitter.com/stanfordnlp/status/1035990390480887808  
+https://itnext.io/list-of-free-resources-to-learn-natural-language-processing-ce27231e79a2 ==//==>   
+
 
 ## General 
 https://www.lfd.uci.edu/~gohlke/pythonlibs/ <---- Python wheels (esp. for Windows installation issues)   
