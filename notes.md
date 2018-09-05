@@ -54,6 +54,7 @@ https://www.kdnuggets.com/2018/08/multi-class-text-classification-scikit-learn.h
 https://twitter.com/stanfordnlp/status/1035990390480887808  
 https://itnext.io/list-of-free-resources-to-learn-natural-language-processing-ce27231e79a2 ==//==>   
 https://blog.sicara.com/train-ner-model-with-nltk-stanford-tagger-english-french-german-6d90573a9486   
+https://nlp.stanford.edu/IR-book/information-retrieval-book.html  Info retrieval Chris Manning Stanford NLP    
 
 ## General 
 https://www.lfd.uci.edu/~gohlke/pythonlibs/ <---- Python wheels (esp. for Windows installation issues)   
