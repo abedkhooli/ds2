@@ -37,6 +37,8 @@ https://realpython.com/python-pandas-tricks/ ====//==>
 https://github.com/eriklindernoren/ML-From-Scratch  
 https://github.com/owainlewis/awesome-artificial-intelligence  
 https://github.com/shivasj/Integrating-a-Machine-Learning-Model-into-a-Web-app   
+http://pages.stat.wisc.edu/~sraschka/teaching/stat479-fs2018/#schedule =====//====> Sebastian Raschka   
+http://www.cs.columbia.edu/~amueller/comsw4995s18/schedule/ =======//====> Andreas Mueller  
 
 # NLP 
 ### Translation corpora (UN): https://twitter.com/stanfordnlp/status/1025458331500961792
