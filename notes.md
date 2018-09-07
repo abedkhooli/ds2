@@ -1,7 +1,8 @@
 ### Note/disclaimer:  
 this doc is not part of this repo in the logical sense but is being hosted here for now. 
 It is currently a set of misc links and notes in no specific structure or purpose or maintenance plan.  
-Use it if you find it useful.
+Use it if you find it useful. 
+On using git: git for poets (https://www.youtube.com/watch?v=BCQHnlnPusY) , also https://www.youtube.com/watch?v=SWYqp7iY_Tc and https://www.youtube.com/watch?v=HVsySz-h9r4   
 
 # DataScience   
 https://github.com/jhfjhfj1/autokeras <=== Auto Keras   
@@ -37,8 +38,11 @@ https://realpython.com/python-pandas-tricks/ ====//==>
 https://github.com/eriklindernoren/ML-From-Scratch  
 https://github.com/owainlewis/awesome-artificial-intelligence  
 https://github.com/shivasj/Integrating-a-Machine-Learning-Model-into-a-Web-app   
-http://pages.stat.wisc.edu/~sraschka/teaching/stat479-fs2018/#schedule =====//====> Sebastian Raschka   
+http://pages.stat.wisc.edu/~sraschka/teaching/stat479-fs2018/#schedule =====//====> Sebastian Raschka  
+https://github.com/rasbt/stat479-machine-learning-fs18
 http://www.cs.columbia.edu/~amueller/comsw4995s18/schedule/ =======//====> Andreas Mueller  
+https://mlcourse.ai/ <====//====
+http://videolectures.net/Top/Computer_Science/Data_Mining/#l=en   
 
 # NLP 
 ### Translation corpora (UN): https://twitter.com/stanfordnlp/status/1025458331500961792
@@ -362,3 +366,7 @@ https://www.kdnuggets.com/2017/03/email-spam-filtering-an-implementation-with-py
 
 https://github.com/miguelgfierro/sciblog_support/blob/master/Intro_to_Fraud_Detection/fraud_detection.ipynb  Fraud detection  
 
+https://github.com/WillKoehrsen/taxi-fare/blob/master/Start%20Simple.ipynb  ny taxi  
+https://github.com/bakrianoo/aravec   ========//=====> Ara Vec  
+https://www.codementor.io/oluwagbengajoloko/how-to-scrape-data-from-a-website-using-python-n3fmtc63q   
+https://www.kdnuggets.com/2018/08/make-machine-learning-models-robust-outliers.html    <===//===
