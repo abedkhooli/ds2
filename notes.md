@@ -367,6 +367,11 @@ https://www.kdnuggets.com/2017/03/email-spam-filtering-an-implementation-with-py
 https://github.com/miguelgfierro/sciblog_support/blob/master/Intro_to_Fraud_Detection/fraud_detection.ipynb  Fraud detection  
 
 https://github.com/WillKoehrsen/taxi-fare/blob/master/Start%20Simple.ipynb  ny taxi  
+https://www.kaggle.com/willkoehrsen/a-walkthrough-and-a-challenge  ny Taxi Will Koehrsen    
 https://github.com/bakrianoo/aravec   ========//=====> Ara Vec  
 https://www.codementor.io/oluwagbengajoloko/how-to-scrape-data-from-a-website-using-python-n3fmtc63q   
 https://www.kdnuggets.com/2018/08/make-machine-learning-models-robust-outliers.html    <===//===
+https://machinelearningmastery.com/use-pre-trained-vgg-model-classify-objects-photographs/   
+
+On using git: git for poets (https://www.youtube.com/watch?v=BCQHnlnPusY) , also https://www.youtube.com/watch?v=SWYqp7iY_Tc and https://www.youtube.com/watch?v=HVsySz-h9r4  - mostly note to self   
+
