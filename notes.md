@@ -61,6 +61,7 @@ https://twitter.com/stanfordnlp/status/1035990390480887808
 https://itnext.io/list-of-free-resources-to-learn-natural-language-processing-ce27231e79a2 ==//==>   
 https://blog.sicara.com/train-ner-model-with-nltk-stanford-tagger-english-french-german-6d90573a9486   
 https://nlp.stanford.edu/IR-book/information-retrieval-book.html  Info retrieval Chris Manning Stanford NLP    
+http://ruder.io/word-embeddings-1/index.html  Sebastian Ruder   
 
 ## General 
 https://www.lfd.uci.edu/~gohlke/pythonlibs/ <---- Python wheels (esp. for Windows installation issues)   
@@ -374,4 +375,8 @@ https://www.kdnuggets.com/2018/08/make-machine-learning-models-robust-outliers.h
 https://machinelearningmastery.com/use-pre-trained-vgg-model-classify-objects-photographs/   
 
 On using git: git for poets (https://www.youtube.com/watch?v=BCQHnlnPusY) , also https://www.youtube.com/watch?v=SWYqp7iY_Tc and https://www.youtube.com/watch?v=HVsySz-h9r4  - mostly note to self   
+https://guides.github.com/features/mastering-markdown/   
+https://humanitiesdata.com/  humanities data sets   
+https://medium.freecodecamp.org/the-power-of-a-neuron-9b5526c2ed46  deep image learn   
+https://github.com/diux-dev/imagenet18   image net in 18 min   
 
