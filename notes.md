@@ -380,3 +380,4 @@ https://humanitiesdata.com/  humanities data sets
 https://medium.freecodecamp.org/the-power-of-a-neuron-9b5526c2ed46  deep image learn   
 https://github.com/diux-dev/imagenet18   image net in 18 min   
 
+https://cds.nyu.edu/newsletter/    
