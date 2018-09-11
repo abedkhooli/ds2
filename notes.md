@@ -3,6 +3,7 @@ this doc is not part of this repo in the logical sense but is being hosted here 
 It is currently a set of misc links and notes in no specific structure or purpose or maintenance plan.  
 Use it if you find it useful. 
 On using git: git for poets (https://www.youtube.com/watch?v=BCQHnlnPusY) , also https://www.youtube.com/watch?v=SWYqp7iY_Tc and https://www.youtube.com/watch?v=HVsySz-h9r4   
+https://github.com/jstray/lede-algorithms  for journalism!   
 
 # DataScience   
 https://github.com/jhfjhfj1/autokeras <=== Auto Keras   
