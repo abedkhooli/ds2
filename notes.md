@@ -179,6 +179,7 @@ https://medium.com/rasa-blog/supervised-word-vectors-from-scratch-in-rasa-nlu-6d
 
 ## Allen NLP 
 http://wp.arenji.com/2018/05/09/beyond-intents-and-entities/  
+https://github.com/jsalt18-sentence-repl/jiant  transfer learning (has Arabic, see also https://arxiv.org/pdf/1809.05053v1.pdf)    
 
 ## Twitter tools
 https://github.com/bear/python-twitter Python Twitter (see also Tweepy)  
