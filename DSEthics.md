@@ -15,7 +15,8 @@ The following is a starter list of resources about ethics in data science - incl
 * [Ethical and Privacy Issues in Data Science](https://www.youtube.com/watch?v=GZniJBygnX8): youtube video on cookies, behavioral advertising and privacy
 * [Why Are There Still So Many Jobs?](https://www.youtube.com/watch?v=LCxcnUrokJo): from TEDx Cambridge. See also [AI & The Future of Work: focus on emotion, empathy, creativity and critical thought](https://www.youtube.com/watch?v=dRw4d2Si8LA) and [Artificial Intelligence: it will kill us](https://www.youtube.com/watch?v=BrNs0M77Pd4). 
 * [Ethical Issues in Data Science](https://www.youtube.com/watch?v=qgAoLKiUPMM): talk focusing on biomedical data
-* [Ethics & Data Science](https://www.youtube.com/watch?v=zCtHQXugrO0): keynote at DataEDGE 2014 
+* [Ethics & Data Science](https://www.youtube.com/watch?v=zCtHQXugrO0): keynote at DataEDGE 2014   
+* [AI Ethics Resources](http://www.fast.ai/2018/09/24/ai-ethics-resources/) by Rachel Thomas of Fast.Ai  
 * You can also watch [this video](https://twitter.com/EnglishRussia1/status/862661011882561537) for insights and fun
 
-*Last Updated: Dec 8, 2017*
+*Last Updated: Sep 25, 2018*
