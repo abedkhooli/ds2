@@ -4,6 +4,8 @@ It is currently a set of misc links and notes in no specific structure or purpos
 Use it if you find it useful. 
 On using git: git for poets (https://www.youtube.com/watch?v=BCQHnlnPusY) , also https://www.youtube.com/watch?v=SWYqp7iY_Tc and https://www.youtube.com/watch?v=HVsySz-h9r4   
 https://github.com/jstray/lede-algorithms  for journalism!   
+https://github.com/rasbt/python-machine-learning-book-2nd-edition Sebastian Raschka book examples   
+https://web.stanford.edu/~jurafsky/slp3/  Speech and Language Processing (3rd ed. draft)    
 
 # DataScience   
 https://github.com/jhfjhfj1/autokeras <=== Auto Keras   
