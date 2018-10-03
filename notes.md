@@ -10,6 +10,7 @@ https://web.stanford.edu/~jurafsky/slp3/  Speech and Language Processing (3rd ed
 # DataScience   
 https://github.com/jhfjhfj1/autokeras <=== Auto Keras   
 https://blog.udacity.com/2018/09/machine-learning-ai-experts-on-twitter.html  who to follow in AI  
+http://explained.ai/decision-tree-viz/index.html Decision trees viz   (see also http://explained.ai/)  
 http://tfmeter.icsi.berkeley.edu/#activation=relu&batchSize=10&dataset=gauss&regDataset=reg-plane&learningRate=1&trueLearningRate=0&regularizationRate=0&noise=35&networkShape=1&seed=0.95465&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=true&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false    TensorFlow viz for NN   
 https://www.kaggle.com/learn/python  
 http://www.dataschool.io/start/  great collection   
@@ -387,3 +388,4 @@ https://medium.freecodecamp.org/the-power-of-a-neuron-9b5526c2ed46  deep image l
 https://github.com/diux-dev/imagenet18   image net in 18 min   
 
 https://cds.nyu.edu/newsletter/    
+http://cs231n.github.io/   Andrej Karpathy  Stanford CS class CS231n: Convolutional Neural Networks for Visual Recognition    
