@@ -9,6 +9,8 @@ https://web.stanford.edu/~jurafsky/slp3/  Speech and Language Processing (3rd ed
 
 # DataScience   
 https://github.com/jhfjhfj1/autokeras <=== Auto Keras   
+https://blog.udacity.com/2018/09/machine-learning-ai-experts-on-twitter.html  who to follow in AI  
+http://tfmeter.icsi.berkeley.edu/#activation=relu&batchSize=10&dataset=gauss&regDataset=reg-plane&learningRate=1&trueLearningRate=0&regularizationRate=0&noise=35&networkShape=1&seed=0.95465&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=true&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false    TensorFlow viz for NN   
 https://www.kaggle.com/learn/python  
 http://www.dataschool.io/start/  great collection   
 http://www.r2d3.us/visual-intro-to-machine-learning-part-2/   Bias-Variance Trade-off  
