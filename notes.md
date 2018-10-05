@@ -6,6 +6,7 @@ On using git: git for poets (https://www.youtube.com/watch?v=BCQHnlnPusY) , also
 https://github.com/jstray/lede-algorithms  for journalism!   
 https://github.com/rasbt/python-machine-learning-book-2nd-edition Sebastian Raschka book examples   
 https://web.stanford.edu/~jurafsky/slp3/  Speech and Language Processing (3rd ed. draft)    
+https://www.kaggle.com/rtatman/getting-started-with-kaggle-workshop-in-a-box   http://data8.org/fa18/  
 
 # DataScience   
 https://github.com/jhfjhfj1/autokeras <=== Auto Keras   
