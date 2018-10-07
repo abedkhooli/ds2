@@ -7,6 +7,7 @@ https://github.com/jstray/lede-algorithms  for journalism!
 https://github.com/rasbt/python-machine-learning-book-2nd-edition Sebastian Raschka book examples   
 https://web.stanford.edu/~jurafsky/slp3/  Speech and Language Processing (3rd ed. draft)    
 https://www.kaggle.com/rtatman/getting-started-with-kaggle-workshop-in-a-box   http://data8.org/fa18/  
+https://mml-book.github.io/  Mathematics for Machine Learning   <=====
 
 # DataScience   
 https://github.com/jhfjhfj1/autokeras <=== Auto Keras   
