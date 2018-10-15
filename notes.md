@@ -9,6 +9,10 @@ https://web.stanford.edu/~jurafsky/slp3/  Speech and Language Processing (3rd ed
 https://www.kaggle.com/rtatman/getting-started-with-kaggle-workshop-in-a-box   http://data8.org/fa18/  
 https://mml-book.github.io/  Mathematics for Machine Learning   <=====
 http://forums.fast.ai/t/jupyter-notebook-enhancements-tips-and-tricks/17064/5    
+http://www.scipy-lectures.org/     
+https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e NLP is Fun part-1   
+https://medium.com/@ageitgey/text-classification-is-your-new-secret-weapon-7ca4fad15788 NLP is fun part-2   
+
 
 # DataScience   
 https://github.com/jhfjhfj1/autokeras <=== Auto Keras   
