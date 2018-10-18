@@ -190,8 +190,11 @@ From [ChatBotsLife](https://chatbotslife.com/), see [Text Classification](https:
 https://www.analyticsvidhya.com/blog/2018/01/faq-chatbots-the-future-of-information-searching     
 https://medium.com/rasa-blog/supervised-word-vectors-from-scratch-in-rasa-nlu-6daf794efcd8    
 
-## Allen NLP 
-http://www.realworldnlpbook.com/blog/training-sentiment-analyzer-using-allennlp.html  *****      
+## Allen NLP (https://allennlp.org/)   
+http://www.realworldnlpbook.com/blog/training-sentiment-analyzer-using-allennlp.html  ***** 
+https://github.com/mhagiwara/realworldnlp/blob/master/examples/sentiment/sst_classifier.py   
+https://nlp.stanford.edu/sentiment/      
+
 http://wp.arenji.com/2018/05/09/beyond-intents-and-entities/  
 https://github.com/jsalt18-sentence-repl/jiant  transfer learning (has Arabic, see also https://arxiv.org/pdf/1809.05053v1.pdf)    
 
