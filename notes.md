@@ -12,7 +12,8 @@ http://forums.fast.ai/t/jupyter-notebook-enhancements-tips-and-tricks/17064/5
 http://www.scipy-lectures.org/     
 https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e NLP is Fun part-1   
 https://medium.com/@ageitgey/text-classification-is-your-new-secret-weapon-7ca4fad15788 NLP is fun part-2   
-
+https://allennlp.org/tutorials Allen NLP Tutorials     
+https://www.youtube.com/user/sentdex/playlists  Sentdex    
 
 # DataScience   
 https://github.com/jhfjhfj1/autokeras <=== Auto Keras   
@@ -190,6 +191,7 @@ https://www.analyticsvidhya.com/blog/2018/01/faq-chatbots-the-future-of-informat
 https://medium.com/rasa-blog/supervised-word-vectors-from-scratch-in-rasa-nlu-6daf794efcd8    
 
 ## Allen NLP 
+http://www.realworldnlpbook.com/blog/training-sentiment-analyzer-using-allennlp.html  *****      
 http://wp.arenji.com/2018/05/09/beyond-intents-and-entities/  
 https://github.com/jsalt18-sentence-repl/jiant  transfer learning (has Arabic, see also https://arxiv.org/pdf/1809.05053v1.pdf)    
 
