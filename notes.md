@@ -401,3 +401,9 @@ https://github.com/diux-dev/imagenet18   image net in 18 min
 
 https://cds.nyu.edu/newsletter/    
 http://cs231n.github.io/   Andrej Karpathy  Stanford CS class CS231n: Convolutional Neural Networks for Visual Recognition    
+
+# Datasets   
+https://www.linkedin.com/feed/update/urn:li:activity:6459106684878020608   
+https://github.com/brohrer/academic_advisory   
+https://toolbox.google.com/datasetsearch   
+https://www.kaggle.com/datasets    
