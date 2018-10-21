@@ -111,7 +111,7 @@ https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec
 https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-sequence-to-sequence-modelling-with-attention-part-i/  
 https://www.kaggle.com/hoonkeng/deep-eda-word-embeddings-sentiment-analysis/notebook   word embeddings and sentiment analysis    
 http://newsletter.ruder.io/issues/nlp-pytorch-libraries-gan-tutorial-jupyter-tricks-tensorflow-things-representation-learning-making-nlp-more-accessible-michael-jordan-essay-reproducing-deep-rl-rakuten-data-challenge-naacl-outstanding-papers-106347   <==== (see other issues)   
-http://web.stanford.edu/class/cs224n/lectures/lecture10.pdf   seq2seq translation  
+http://web.stanford.edu/class/cs224n/lectures/lecture10.pdf   seq2seq translation    
 https://github.com/ArthurSpirling/Text-as-Data-Class-Spring-2018-  lectures in R   
 https://blogs.technet.microsoft.com/machinelearning/2018/04/24/deep-learning-for-emojis-with-vs-code-tools-for-ai/   
 https://www.kaggle.com/arthurtok/spooky-nlp-and-topic-modelling-tutorial     
