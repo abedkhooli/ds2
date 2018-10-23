@@ -16,6 +16,7 @@ https://allennlp.org/tutorials Allen NLP Tutorials
 https://www.youtube.com/user/sentdex/playlists  Sentdex    
 
 # DataScience   
+https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md    
 https://github.com/jhfjhfj1/autokeras <=== Auto Keras   
 https://blog.udacity.com/2018/09/machine-learning-ai-experts-on-twitter.html  who to follow in AI  
 http://explained.ai/decision-tree-viz/index.html Decision trees viz   (see also http://explained.ai/)  
@@ -57,8 +58,10 @@ https://github.com/rasbt/stat479-machine-learning-fs18
 http://www.cs.columbia.edu/~amueller/comsw4995s18/schedule/ =======//====> Andreas Mueller  
 https://mlcourse.ai/ <====//====
 http://videolectures.net/Top/Computer_Science/Data_Mining/#l=en   
+https://twitter.com/_brohrer_/status/1054298773541670912  Math4ML  
 
 # NLP 
+https://www.kdnuggets.com/2018/10/github-python-data-science-spotlight.html     
 ### Translation corpora (UN): https://twitter.com/stanfordnlp/status/1025458331500961792
 ### https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72  [book author]
 https://pmbaumgartner.github.io/blog/notes-on-nlp-projects/  
@@ -111,7 +114,8 @@ https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec
 https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-sequence-to-sequence-modelling-with-attention-part-i/  
 https://www.kaggle.com/hoonkeng/deep-eda-word-embeddings-sentiment-analysis/notebook   word embeddings and sentiment analysis    
 http://newsletter.ruder.io/issues/nlp-pytorch-libraries-gan-tutorial-jupyter-tricks-tensorflow-things-representation-learning-making-nlp-more-accessible-michael-jordan-essay-reproducing-deep-rl-rakuten-data-challenge-naacl-outstanding-papers-106347   <==== (see other issues)   
-http://web.stanford.edu/class/cs224n/lectures/lecture10.pdf   seq2seq translation    
+http://web.stanford.edu/class/cs224n/lectures/lecture10.pdf   seq2seq translation   
+https://github.com/bentrevett/pytorch-seq2seq     
 https://github.com/ArthurSpirling/Text-as-Data-Class-Spring-2018-  lectures in R   
 https://blogs.technet.microsoft.com/machinelearning/2018/04/24/deep-learning-for-emojis-with-vs-code-tools-for-ai/   
 https://www.kaggle.com/arthurtok/spooky-nlp-and-topic-modelling-tutorial     
@@ -401,6 +405,14 @@ https://github.com/diux-dev/imagenet18   image net in 18 min
 
 https://cds.nyu.edu/newsletter/    
 http://cs231n.github.io/   Andrej Karpathy  Stanford CS class CS231n: Convolutional Neural Networks for Visual Recognition    
+https://www.pyimagesearch.com/2018/10/22/object-tracking-with-dlib/  object tracking with dlib         
+
+https://brohrer.github.io/calculus_resources.html  Calculus resources for ML    
+https://brohrer.github.io/blog.html     
+
+https://blog.visme.co/best-data-visualizations/    Best Data Viz     
+
+
 
 # Datasets   
 https://www.linkedin.com/feed/update/urn:li:activity:6459106684878020608   
