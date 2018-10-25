@@ -407,11 +407,23 @@ https://cds.nyu.edu/newsletter/
 http://cs231n.github.io/   Andrej Karpathy  Stanford CS class CS231n: Convolutional Neural Networks for Visual Recognition    
 https://www.pyimagesearch.com/2018/10/22/object-tracking-with-dlib/  object tracking with dlib         
 
+# math 4 ML  
 https://brohrer.github.io/calculus_resources.html  Calculus resources for ML    
 https://brohrer.github.io/blog.html     
+https://www.youtube.com/user/profrobbob/playlists  (https://www.profrobbob.com/home)    ******    
+https://www.youtube.com/c/ProfGhristMath     ******      
+https://betterexplained.com/articles/a-gentle-introduction-to-learning-calculus/  ?    
+
 
 https://blog.visme.co/best-data-visualizations/    Best Data Viz     
 
+
+# Fast.Ai 
+https://github.com/fastai/fastai      
+https://github.com/radekosmulski/quickdraw   
+
+# Vision  
+https://cloud.google.com/vision/    
 
 
 # Datasets   
