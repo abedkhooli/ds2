@@ -21,7 +21,10 @@ https://github.com/jhfjhfj1/autokeras <=== Auto Keras
 https://blog.udacity.com/2018/09/machine-learning-ai-experts-on-twitter.html  who to follow in AI  
 http://explained.ai/decision-tree-viz/index.html Decision trees viz   (see also http://explained.ai/)  
 http://tfmeter.icsi.berkeley.edu/#activation=relu&batchSize=10&dataset=gauss&regDataset=reg-plane&learningRate=1&trueLearningRate=0&regularizationRate=0&noise=35&networkShape=1&seed=0.95465&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=true&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false    TensorFlow viz for NN   
-https://www.kaggle.com/learn/python  
+https://www.kaggle.com/learn/python  *** see also:    
+https://medium.com/@STXNext/the-most-popular-python-scientific-libraries-40f5cdcb370a    
+https://towardsdatascience.com/python-basics-for-data-science-6a6c987f2755
+
 http://www.dataschool.io/start/  great collection   
 http://www.r2d3.us/visual-intro-to-machine-learning-part-2/   Bias-Variance Trade-off  
 https://machinelearningmastery.com/all-of-statistics-for-machine-learning/   
@@ -61,6 +64,7 @@ http://videolectures.net/Top/Computer_Science/Data_Mining/#l=en
 https://twitter.com/_brohrer_/status/1054298773541670912  Math4ML  
 
 # NLP 
+https://realpython.com/python-keras-text-classification/    <==================================      
 https://www.kdnuggets.com/2018/10/github-python-data-science-spotlight.html     
 ### Translation corpora (UN): https://twitter.com/stanfordnlp/status/1025458331500961792
 ### https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72  [book author]
@@ -411,7 +415,9 @@ https://www.pyimagesearch.com/2018/10/22/object-tracking-with-dlib/  object trac
 https://brohrer.github.io/calculus_resources.html  Calculus resources for ML    
 https://brohrer.github.io/blog.html     
 https://www.youtube.com/user/profrobbob/playlists  (https://www.profrobbob.com/home)    ******    
-https://www.youtube.com/c/ProfGhristMath     ******      
+https://www.youtube.com/c/ProfGhristMath     ******    
+https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw ******    
+http://explained.ai/matrix-calculus/index.html   The Matrix Calculus You Need For Deep Learning     
 https://betterexplained.com/articles/a-gentle-introduction-to-learning-calculus/  ?    
 
 
@@ -430,4 +436,5 @@ https://cloud.google.com/vision/
 https://www.linkedin.com/feed/update/urn:li:activity:6459106684878020608   
 https://github.com/brohrer/academic_advisory   
 https://toolbox.google.com/datasetsearch   
-https://www.kaggle.com/datasets    
+https://www.kaggle.com/datasets   
+https://www.menadata.net   
