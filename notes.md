@@ -18,13 +18,15 @@ https://www.youtube.com/user/sentdex/playlists  Sentdex
 # DataScience   
 https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md    
 https://github.com/jhfjhfj1/autokeras <=== Auto Keras   
+https://realpython.com/python-keras-text-classification/    ****     
 https://blog.udacity.com/2018/09/machine-learning-ai-experts-on-twitter.html  who to follow in AI  
 http://explained.ai/decision-tree-viz/index.html Decision trees viz   (see also http://explained.ai/)  
 http://tfmeter.icsi.berkeley.edu/#activation=relu&batchSize=10&dataset=gauss&regDataset=reg-plane&learningRate=1&trueLearningRate=0&regularizationRate=0&noise=35&networkShape=1&seed=0.95465&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=true&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false    TensorFlow viz for NN   
 https://www.kaggle.com/learn/python  *** see also:    
 https://medium.com/@STXNext/the-most-popular-python-scientific-libraries-40f5cdcb370a    
-https://towardsdatascience.com/python-basics-for-data-science-6a6c987f2755
-
+https://towardsdatascience.com/python-basics-for-data-science-6a6c987f2755    
+https://gist.github.com/versipellis/eb15f8612be76d49922e3e2490e50612    ds podcasts etc (https://twitter.com/bennyjtang/status/1056650349749170176)     
+https://medium.com/ai%C2%B3-theory-practice-business/top-6-cheat-sheets-novice-machine-engineers-need-5ea43d1be3de      
 http://www.dataschool.io/start/  great collection   
 http://www.r2d3.us/visual-intro-to-machine-learning-part-2/   Bias-Variance Trade-off  
 https://machinelearningmastery.com/all-of-statistics-for-machine-learning/   
@@ -63,7 +65,8 @@ https://mlcourse.ai/ <====//====
 http://videolectures.net/Top/Computer_Science/Data_Mining/#l=en   
 https://twitter.com/_brohrer_/status/1054298773541670912  Math4ML  
 
-# NLP 
+# NLP  
+https://github.com/sebastianruder/NLP-progress      
 https://realpython.com/python-keras-text-classification/    <==================================      
 https://www.kdnuggets.com/2018/10/github-python-data-science-spotlight.html     
 ### Translation corpora (UN): https://twitter.com/stanfordnlp/status/1025458331500961792
@@ -83,6 +86,7 @@ https://itnext.io/list-of-free-resources-to-learn-natural-language-processing-ce
 https://blog.sicara.com/train-ner-model-with-nltk-stanford-tagger-english-french-german-6d90573a9486   
 https://nlp.stanford.edu/IR-book/information-retrieval-book.html  Info retrieval Chris Manning Stanford NLP    
 http://ruder.io/word-embeddings-1/index.html  Sebastian Ruder   
+https://www.kdnuggets.com/2018/10/building-question-answering-system-from-scratch.html    
 
 ## General 
 https://www.lfd.uci.edu/~gohlke/pythonlibs/ <---- Python wheels (esp. for Windows installation issues)   
