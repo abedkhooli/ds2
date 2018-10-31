@@ -14,8 +14,10 @@ https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e NLP
 https://medium.com/@ageitgey/text-classification-is-your-new-secret-weapon-7ca4fad15788 NLP is fun part-2   
 https://allennlp.org/tutorials Allen NLP Tutorials     
 https://www.youtube.com/user/sentdex/playlists  Sentdex    
+https://towardsdatascience.com/@actsusanli   Susan Li    
 
 # DataScience   
+https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle-updated   <=========      
 https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md    
 https://github.com/jhfjhfj1/autokeras <=== Auto Keras   
 https://realpython.com/python-keras-text-classification/    ****     
@@ -66,6 +68,7 @@ http://videolectures.net/Top/Computer_Science/Data_Mining/#l=en
 https://twitter.com/_brohrer_/status/1054298773541670912  Math4ML  
 
 # NLP  
+https://github.com/tesseract-ocr/tesseract  Open OCR  
 https://github.com/sebastianruder/NLP-progress      
 https://realpython.com/python-keras-text-classification/    <==================================      
 https://www.kdnuggets.com/2018/10/github-python-data-science-spotlight.html     
@@ -204,6 +207,7 @@ https://medium.com/rasa-blog/supervised-word-vectors-from-scratch-in-rasa-nlu-6d
 
 ## Allen NLP (https://allennlp.org/)   
 http://www.realworldnlpbook.com/blog/training-sentiment-analyzer-using-allennlp.html  ***** 
+http://www.realworldnlpbook.com/blog/improving-sentiment-analyzer-using-elmo.html     
 https://github.com/mhagiwara/realworldnlp/blob/master/examples/sentiment/sst_classifier.py   
 https://nlp.stanford.edu/sentiment/      
 
@@ -253,6 +257,7 @@ https://github.com/anati89/wazen  (see https://www.linkedin.com/pulse/wazen-arab
 https://www.kdnuggets.com/2017/09/essential-data-science-machine-learning-deep-learning-cheat-sheets.html   
 https://realpython.com/python-matplotlib-guide  
 https://github.com/fastai/fastai  
+https://medium.com/@jamesdell/if-i-can-you-can-and-you-should-a470d7aea89d    bird classification in fastai    
 https://aischool.microsoft.com/  
 https://www.kdnuggets.com/2018/03/5-things-sentiment-analysis-classification.html    
 https://www.kaggle.com/rtatman/data-cleaning-challenge-handling-missing-values <=====     
@@ -344,7 +349,7 @@ https://lnkd.in/ef4tqwW
 2. Oxford’s Natural Language Processing with Deep Learning
 https://lnkd.in/eraYdz5    
 3. Scikit-learn tutorial
-https://lnkd.in/eVHdni8   
+https://lnkd.in/eVHdni8   (see also https://zablo.net/blog/post/pandas-dataframe-in-scikit-learn-feature-union ) ****     
 4. edX – Microsoft
 https://lnkd.in/eWH6Vr2     
 5. Deep Learning for Natural Language Processing: Tutorials with Jupyter Notebooks
@@ -435,10 +440,19 @@ https://github.com/radekosmulski/quickdraw
 # Vision  
 https://cloud.google.com/vision/    
 
+# Stats for ML 
+https://www.datasciencecentral.com/profiles/blogs/29-statistical-concepts-explained-in-simple-english-part-1    
+https://www.datasciencecentral.com/profiles/blogs/25-statistical-concepts-explained-in-simple-english-part-2   
+
 
 # Datasets   
 https://www.linkedin.com/feed/update/urn:li:activity:6459106684878020608   
 https://github.com/brohrer/academic_advisory   
 https://toolbox.google.com/datasetsearch   
 https://www.kaggle.com/datasets   
+https://github.com/awesomedata/awesome-public-datasets    
 https://www.menadata.net   
+
+# AI Ethics  
+https://medium.com/@miad/100-brilliant-women-in-ai-ethics-to-follow-in-2019-and-beyond-92f467aa6232   
+https://www.kdnuggets.com/datasets/index.html    
