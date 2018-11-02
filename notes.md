@@ -15,6 +15,7 @@ https://medium.com/@ageitgey/text-classification-is-your-new-secret-weapon-7ca4f
 https://allennlp.org/tutorials Allen NLP Tutorials     
 https://www.youtube.com/user/sentdex/playlists  Sentdex    
 https://towardsdatascience.com/@actsusanli   Susan Li    
+http://scikit-learn.org/stable/related_projects.html#interoperability-and-framework-enhancements    
 
 # DataScience   
 https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle-updated   <=========      
@@ -453,6 +454,23 @@ https://www.kaggle.com/datasets
 https://github.com/awesomedata/awesome-public-datasets    
 https://www.menadata.net   
 
-# AI Ethics  
+# Dataviz  
+https://twitter.com/albertocairo/status/1057974210960723968 Alberto Cairo's invitees   
+
+# AI Ethics    
 https://medium.com/@miad/100-brilliant-women-in-ai-ethics-to-follow-in-2019-and-beyond-92f467aa6232   
 https://www.kdnuggets.com/datasets/index.html    
+
+# Learn Python   
+https://twitter.com/math_rachel/status/1058089708155166720    Rachel   
+https://twitter.com/_brohrer_/status/1039805324423823361  Brandon   
+https://brohrer.github.io/python_resources.html     
+https://www.youtube.com/playlist?list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln   
+https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc    
+https://py4e.com/   
+http://cs231n.github.io/python-numpy-tutorial/   
+
+# Pandas speed up  
+https://github.com/modin-project/modin   
+https://github.com/ray-project/ray/ 
+
