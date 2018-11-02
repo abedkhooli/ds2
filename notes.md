@@ -469,6 +469,12 @@ https://www.youtube.com/playlist?list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln
 https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc    
 https://py4e.com/   
 http://cs231n.github.io/python-numpy-tutorial/   
+https://learnpythonthehardway.org/book/intro.html   
+https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_   
+https://www.python-course.eu/   
+https://learnxinyminutes.com/docs/python3/   
+https://www.kaggle.com/learn/python   
+https://realpython.com/    
 
 # Pandas speed up  
 https://github.com/modin-project/modin   
