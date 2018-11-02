@@ -18,7 +18,8 @@ https://towardsdatascience.com/@actsusanli   Susan Li
 http://scikit-learn.org/stable/related_projects.html#interoperability-and-framework-enhancements    
 
 # DataScience   
-https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle-updated   <=========      
+https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle-updated   <=========   
+https://github.com/amueller/ml-workshop-4-of-4      
 https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md    
 https://github.com/jhfjhfj1/autokeras <=== Auto Keras   
 https://realpython.com/python-keras-text-classification/    ****     
@@ -297,6 +298,7 @@ https://github.com/vishwanathsrikanth/mycode/tree/master/SimpleProactiveBot
 https://github.com/jamesemann/botframeworkresources   
 https://blog.botframework.com/2017/12/13/conversational-bots-deep-dive-whats-new-general-availability-azure-bot-service-language-understanding/    
 https://github.com/jamesemann/dotnetyork    
+https://building.lang.ai/sorry-i-didnt-get-that-how-to-understand-what-your-users-want-a90c7ca18a8f     
 
 https://gitter.im/Microsoft/BotBuilder <== gitter  blog.botframework.com  
 https://code.msdn.microsoft.com/ look for bot stuff  
@@ -444,7 +446,7 @@ https://cloud.google.com/vision/
 # Stats for ML 
 https://www.datasciencecentral.com/profiles/blogs/29-statistical-concepts-explained-in-simple-english-part-1    
 https://www.datasciencecentral.com/profiles/blogs/25-statistical-concepts-explained-in-simple-english-part-2   
-
+https://simplystatistics.org/2017/03/16/evo-ds-class/   
 
 # Datasets   
 https://www.linkedin.com/feed/update/urn:li:activity:6459106684878020608   
@@ -456,6 +458,7 @@ https://www.menadata.net
 
 # Dataviz  
 https://twitter.com/albertocairo/status/1057974210960723968 Alberto Cairo's invitees   
+https://charticulator.com/   
 
 # AI Ethics    
 https://medium.com/@miad/100-brilliant-women-in-ai-ethics-to-follow-in-2019-and-beyond-92f467aa6232   
@@ -480,3 +483,5 @@ https://realpython.com/
 https://github.com/modin-project/modin   
 https://github.com/ray-project/ray/ 
 
+# Deep Learning  
+https://github.com/iamtrask/Grokking-Deep-Learning     
