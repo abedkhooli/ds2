@@ -15,7 +15,8 @@ https://medium.com/@ageitgey/text-classification-is-your-new-secret-weapon-7ca4f
 https://allennlp.org/tutorials Allen NLP Tutorials     
 https://www.youtube.com/user/sentdex/playlists  Sentdex    
 https://towardsdatascience.com/@actsusanli   Susan Li    
-http://scikit-learn.org/stable/related_projects.html#interoperability-and-framework-enhancements    
+http://scikit-learn.org/stable/related_projects.html#interoperability-and-framework-enhancements   
+https://gengo.ai/articles/20-best-youtube-channels-for-ai-and-machine-learning/    
 
 # DataScience   
 https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle-updated   <=========   
@@ -455,6 +456,7 @@ https://toolbox.google.com/datasetsearch
 https://www.kaggle.com/datasets   
 https://github.com/awesomedata/awesome-public-datasets    
 https://www.menadata.net   
+https://www.interviewqs.com/blog/free_online_data_sets    
 
 # Dataviz  
 https://twitter.com/albertocairo/status/1057974210960723968 Alberto Cairo's invitees   
@@ -478,6 +480,8 @@ https://www.python-course.eu/
 https://learnxinyminutes.com/docs/python3/   
 https://www.kaggle.com/learn/python   
 https://realpython.com/    
+http://www.dabeaz.com/tutorials.html   and https://speakerdeck.com/dabeaz (David Beazley)     
+
 
 # Pandas speed up  
 https://github.com/modin-project/modin   
