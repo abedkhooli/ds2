@@ -92,7 +92,10 @@ https://itnext.io/list-of-free-resources-to-learn-natural-language-processing-ce
 https://blog.sicara.com/train-ner-model-with-nltk-stanford-tagger-english-french-german-6d90573a9486   
 https://nlp.stanford.edu/IR-book/information-retrieval-book.html  Info retrieval Chris Manning Stanford NLP    
 http://ruder.io/word-embeddings-1/index.html  Sebastian Ruder   
-https://www.kdnuggets.com/2018/10/building-question-answering-system-from-scratch.html    
+https://www.kdnuggets.com/2018/10/building-question-answering-system-from-scratch.html     
+https://drive.google.com/file/d/1kmNAwrSlFYo0cN_DcURMOArBwe9FxWxR/view Transfer Learning by Seb Ruder 2018 Belgium   
+http://u.cs.biu.ac.il/~yogo/blackbox2018.pdf    RNN for NLP   
+https://github.com/huggingface/pytorch-pretrained-BERT  Google's BERT in PyTorch    
 
 ## General 
 https://www.lfd.uci.edu/~gohlke/pythonlibs/ <---- Python wheels (esp. for Windows installation issues)   
