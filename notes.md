@@ -460,6 +460,10 @@ https://www.kaggle.com/datasets
 https://github.com/awesomedata/awesome-public-datasets    
 https://www.menadata.net   
 https://www.interviewqs.com/blog/free_online_data_sets    
+https://digitalimpact.io/   
+https://www.data.gov/   
+https://www.wikidata.org/wiki/Wikidata:Main_Page   
+https://data-miner.io/   
 
 # Dataviz  
 https://twitter.com/albertocairo/status/1057974210960723968 Alberto Cairo's invitees   
