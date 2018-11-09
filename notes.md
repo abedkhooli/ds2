@@ -489,6 +489,8 @@ https://www.kaggle.com/learn/python
 https://realpython.com/    
 http://www.dabeaz.com/tutorials.html   and https://speakerdeck.com/dabeaz (David Beazley)     
 
+https://www.grnewsletters.com/archive/dataschool/Best-resources-for-going-deeper-with-Python-702398502.html   
+
 
 # Pandas speed up  
 https://github.com/modin-project/modin   
@@ -496,3 +498,8 @@ https://github.com/ray-project/ray/
 
 # Deep Learning  
 https://github.com/iamtrask/Grokking-Deep-Learning     
+https://stallion.ai/en/home   <--- Ar word embedding 
+
+# Bias, Variance and Overfitting  
+https://twitter.com/rctatman/status/1060325912434995201   bias-variance tradeoff    
+
