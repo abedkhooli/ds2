@@ -492,7 +492,9 @@ https://learnxinyminutes.com/docs/python3/
 https://www.kaggle.com/learn/python   
 https://realpython.com/    
 http://www.dabeaz.com/tutorials.html   and https://speakerdeck.com/dabeaz (David Beazley) 
-https://www.crowdcast.io/treyhunner
+https://www.crowdcast.io/treyhunner   
+https://www.reddit.com/r/learnpython    
+https://docs.python.org/3.6/ (https://docs.python.org/3.6/tutorial/index.html)      
 
 https://www.grnewsletters.com/archive/dataschool/Best-resources-for-going-deeper-with-Python-702398502.html   
 https://www.youtube.com/channel/UCW6TXMZ5Pq6yL6_k5NZ2e0Q  socratica   
