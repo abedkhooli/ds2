@@ -288,7 +288,9 @@ https://docs.google.com/document/d/1dr4GvVtnOf60x1uj4PbYeoFDZMumzic11S_drqjlT08/
 https://www.youtube.com/watch?v=q42hCs2E4So <=== API design  
 https://www.youtube.com/watch?v=PXJtFc8DjsE  Siraj Raval - AI Education channel  
 https://www.reddit.com/r/MachineLearning/comments/8j9rx8/d_what_are_the_best_libraries_frameworks_out/   <++++++++++     
-https://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/
+https://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/   
+https://towardsdatascience.com/how-to-train-neural-network-faster-with-optimizers-d297730b3713     
+https://www.kdnuggets.com/2018/10/confusion-matrices-quantify-cost-being-wrong.html     
 
 ## To watch on Ch9  
 https://channel9.msdn.com/Events/Connect/2017/AI1  intro to MS AI 
@@ -436,9 +438,8 @@ https://www.youtube.com/c/ProfGhristMath     ******
 https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw ******    
 http://explained.ai/matrix-calculus/index.html   The Matrix Calculus You Need For Deep Learning     
 https://betterexplained.com/articles/a-gentle-introduction-to-learning-calculus/  ?    
-
-
-https://blog.visme.co/best-data-visualizations/    Best Data Viz     
+https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw   3blue1brown    
+https://www.youtube.com/channel/UC9SPN6qaM0DB455-DrWAdpA?pbjreload=10 Tarrou Chalk Talk  
 
 
 # Fast.Ai 
@@ -469,7 +470,8 @@ https://data-miner.io/
 # Dataviz  
 https://twitter.com/albertocairo/status/1057974210960723968 Alberto Cairo's invitees   
 https://charticulator.com/   
-https://twitter.com/jayvanbavel/status/1060543214665564161 graphic design and data viz cheat sheets     
+https://twitter.com/jayvanbavel/status/1060543214665564161 graphic design and data viz cheat sheets    
+https://blog.visme.co/best-data-visualizations/    Best Data Viz     
 
 # AI Ethics    
 https://medium.com/@miad/100-brilliant-women-in-ai-ethics-to-follow-in-2019-and-beyond-92f467aa6232   
@@ -510,3 +512,7 @@ https://twitter.com/rctatman/status/1060325912434995201   bias-variance tradeoff
 # Free/Draft Books   
 http://themlbook.com/wiki/doku.php  
 https://medium.com/datadreamsdragons    
+
+# 100 days of ML coding  
+https://www.kdnuggets.com/2018/09/journey-machine-learning-100-days.html   
+
