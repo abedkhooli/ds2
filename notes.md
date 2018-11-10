@@ -69,6 +69,7 @@ http://www.cs.columbia.edu/~amueller/comsw4995s18/schedule/ =======//====> Andre
 https://mlcourse.ai/ <====//====
 http://videolectures.net/Top/Computer_Science/Data_Mining/#l=en   
 https://twitter.com/_brohrer_/status/1054298773541670912  Math4ML  
+https://www.youtube.com/watch?v=UiF0FyMFO-8   Model selection BRohrer     
 
 # NLP  
 https://github.com/tesseract-ocr/tesseract  Open OCR  
@@ -468,6 +469,7 @@ https://data-miner.io/
 # Dataviz  
 https://twitter.com/albertocairo/status/1057974210960723968 Alberto Cairo's invitees   
 https://charticulator.com/   
+https://twitter.com/jayvanbavel/status/1060543214665564161 graphic design and data viz cheat sheets     
 
 # AI Ethics    
 https://medium.com/@miad/100-brilliant-women-in-ai-ethics-to-follow-in-2019-and-beyond-92f467aa6232   
@@ -487,9 +489,11 @@ https://www.python-course.eu/
 https://learnxinyminutes.com/docs/python3/   
 https://www.kaggle.com/learn/python   
 https://realpython.com/    
-http://www.dabeaz.com/tutorials.html   and https://speakerdeck.com/dabeaz (David Beazley)     
+http://www.dabeaz.com/tutorials.html   and https://speakerdeck.com/dabeaz (David Beazley) 
+https://www.crowdcast.io/treyhunner
 
 https://www.grnewsletters.com/archive/dataschool/Best-resources-for-going-deeper-with-Python-702398502.html   
+https://www.youtube.com/channel/UCW6TXMZ5Pq6yL6_k5NZ2e0Q  socratica   
 
 
 # Pandas speed up  
@@ -503,3 +507,6 @@ https://stallion.ai/en/home   <--- Ar word embedding
 # Bias, Variance and Overfitting  
 https://twitter.com/rctatman/status/1060325912434995201   bias-variance tradeoff    
 
+# Free/Draft Books   
+http://themlbook.com/wiki/doku.php  
+https://medium.com/datadreamsdragons    
