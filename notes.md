@@ -518,3 +518,5 @@ https://medium.com/datadreamsdragons
 # 100 days of ML coding  
 https://www.kdnuggets.com/2018/09/journey-machine-learning-100-days.html   
 
+# Feature Engineering   
+https://becominghuman.ai/good-feature-building-techniques-tricks-for-kaggle-my-kaggle-code-repository-c953b934f1e6  
