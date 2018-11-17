@@ -167,6 +167,7 @@ https://rockt.github.io/2018/04/30/einsum  <=== EinSum  https://github.com/rockt
 https://medium.com/@hiromi_suenaga/deep-learning-2-part-2-lesson-8-5ae195c49493   Fast.ai notes  
 https://towardsdatascience.com/deep-learning-book-notes-chapter-3-part-1-introduction-to-probability-49d13c997f2a    
 https://github.com/vi3k6i5/flashtext   replace keywords in sentences or extract keywords from sentences   
+https://github.com/rtqichen/torchdiffeq   ODE solvers    
 
 ## TextaCy   
 (based on spaCy, GH https://github.com/chartbeat-labs/textacy)   
@@ -520,3 +521,14 @@ https://www.kdnuggets.com/2018/09/journey-machine-learning-100-days.html
 
 # Feature Engineering   
 https://becominghuman.ai/good-feature-building-techniques-tricks-for-kaggle-my-kaggle-code-repository-c953b934f1e6  
+
+# Model evaluation/selection  
+https://sebastianraschka.com/pdf/manuscripts/model-eval.pdf   
+
+
+# other resources 
+Data Elixir: https://dataelixir.com/   
+Python Weekly: https://www.pythonweekly.com/   
+Data Science Weekly: https://www.datascienceweekly.org/   
+Real Python: https://realpython.com/   
+Practical Business Python: http://pbpython.com/   
