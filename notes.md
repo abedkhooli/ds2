@@ -33,6 +33,7 @@ https://towardsdatascience.com/python-basics-for-data-science-6a6c987f2755
 https://gist.github.com/versipellis/eb15f8612be76d49922e3e2490e50612    ds podcasts etc (https://twitter.com/bennyjtang/status/1056650349749170176)     
 https://medium.com/ai%C2%B3-theory-practice-business/top-6-cheat-sheets-novice-machine-engineers-need-5ea43d1be3de      
 http://www.dataschool.io/start/  great collection   
+http://www.themenyouwanttobe.com/data-science-resources/  DS resources list   
 http://www.r2d3.us/visual-intro-to-machine-learning-part-2/   Bias-Variance Trade-off  
 https://machinelearningmastery.com/all-of-statistics-for-machine-learning/   
 https://github.com/scikit-learn-contrib/imbalanced-learn (https://beckernick.github.io/oversampling-modeling/)   
