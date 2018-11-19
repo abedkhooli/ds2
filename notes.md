@@ -97,6 +97,8 @@ https://www.kdnuggets.com/2018/10/building-question-answering-system-from-scratc
 https://drive.google.com/file/d/1kmNAwrSlFYo0cN_DcURMOArBwe9FxWxR/view Transfer Learning by Seb Ruder 2018 Belgium   
 http://u.cs.biu.ac.il/~yogo/blackbox2018.pdf    RNN for NLP   
 https://github.com/huggingface/pytorch-pretrained-BERT  Google's BERT in PyTorch    
+https://github.com/fastai/course-v3/blob/master/nbs/dl1/00_notebook_tutorial.ipynb   V3    
+
 
 ## General 
 https://www.lfd.uci.edu/~gohlke/pythonlibs/ <---- Python wheels (esp. for Windows installation issues)   
@@ -532,3 +534,5 @@ Python Weekly: https://www.pythonweekly.com/
 Data Science Weekly: https://www.datascienceweekly.org/   
 Real Python: https://realpython.com/   
 Practical Business Python: http://pbpython.com/   
+https://twitter.com/justmarkham/lists/data-science/members   DS list  
+https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg Kevin Marcham YT ch
