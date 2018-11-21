@@ -454,6 +454,9 @@ https://github.com/radekosmulski/quickdraw
 # Vision  
 https://cloud.google.com/vision/    
 
+# Transfer learning  
+https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a  
+
 # Stats for ML 
 https://www.datasciencecentral.com/profiles/blogs/29-statistical-concepts-explained-in-simple-english-part-1    
 https://www.datasciencecentral.com/profiles/blogs/25-statistical-concepts-explained-in-simple-english-part-2   
@@ -472,6 +475,7 @@ https://digitalimpact.io/
 https://www.data.gov/   
 https://www.wikidata.org/wiki/Wikidata:Main_Page   
 https://data-miner.io/   
+https://einstein.ai/research/blog/the-wikitext-long-term-dependency-language-modeling-dataset    
 
 # Dataviz  
 https://twitter.com/albertocairo/status/1057974210960723968 Alberto Cairo's invitees   
