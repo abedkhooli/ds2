@@ -99,6 +99,7 @@ https://drive.google.com/file/d/1kmNAwrSlFYo0cN_DcURMOArBwe9FxWxR/view Transfer 
 http://u.cs.biu.ac.il/~yogo/blackbox2018.pdf    RNN for NLP   
 https://github.com/huggingface/pytorch-pretrained-BERT  Google's BERT in PyTorch    
 https://github.com/fastai/course-v3/blob/master/nbs/dl1/00_notebook_tutorial.ipynb   V3    
+https://github.com/huggingface/hmtl/tree/master/demo   <=== HMTL NLP  
 
 
 ## General 
@@ -459,6 +460,7 @@ https://www.datasciencecentral.com/profiles/blogs/25-statistical-concepts-explai
 https://simplystatistics.org/2017/03/16/evo-ds-class/   
 
 # Datasets   
+https://archive.ics.uci.edu/ml/datasets     
 https://www.linkedin.com/feed/update/urn:li:activity:6459106684878020608   
 https://github.com/brohrer/academic_advisory   
 https://toolbox.google.com/datasetsearch   
@@ -537,3 +539,7 @@ Real Python: https://realpython.com/
 Practical Business Python: http://pbpython.com/   
 https://twitter.com/justmarkham/lists/data-science/members   DS list  
 https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg Kevin Marcham YT ch
+
+# dictionaries/translation  
+https://glosbe.com/   
+http://context.reverso.net/translation/english-arabic/   
