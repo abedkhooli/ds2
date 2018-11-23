@@ -18,7 +18,8 @@ https://towardsdatascience.com/@actsusanli   Susan Li
 http://scikit-learn.org/stable/related_projects.html#interoperability-and-framework-enhancements   
 https://gengo.ai/articles/20-best-youtube-channels-for-ai-and-machine-learning/    
 
-# DataScience   
+# DataScience  
+https://github.com/bulutyazilim/awesome-datascience     
 https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle-updated   <=========   
 https://github.com/amueller/ml-workshop-4-of-4      
 https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md    
@@ -35,6 +36,7 @@ https://medium.com/ai%C2%B3-theory-practice-business/top-6-cheat-sheets-novice-m
 http://www.dataschool.io/start/  great collection   
 http://www.themenyouwanttobe.com/data-science-resources/  DS resources list   
 http://www.r2d3.us/visual-intro-to-machine-learning-part-2/   Bias-Variance Trade-off  
+https://github.com/rasbt/mlxtend/blob/master/docs/sources/user_guide/evaluate/bias_variance_decomp.ipynb  mlxtend   
 https://machinelearningmastery.com/all-of-statistics-for-machine-learning/   
 https://github.com/scikit-learn-contrib/imbalanced-learn (https://beckernick.github.io/oversampling-modeling/)   
 https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-1-602f73869197  fast.ai notes   
@@ -476,6 +478,7 @@ https://www.data.gov/
 https://www.wikidata.org/wiki/Wikidata:Main_Page   
 https://data-miner.io/   
 https://einstein.ai/research/blog/the-wikitext-long-term-dependency-language-modeling-dataset    
+https://www.modelzoo.co/   pretrained models  
 
 # Dataviz  
 https://twitter.com/albertocairo/status/1057974210960723968 Alberto Cairo's invitees   
@@ -508,7 +511,8 @@ https://docs.python.org/3.6/ (https://docs.python.org/3.6/tutorial/index.html)
 
 https://www.grnewsletters.com/archive/dataschool/Best-resources-for-going-deeper-with-Python-702398502.html   
 https://www.youtube.com/channel/UCW6TXMZ5Pq6yL6_k5NZ2e0Q  socratica   
-
+https://towardsdatascience.com/master-python-through-building-real-world-applications-part-1-b040b2b7faad  Part-1/10/DS   
+Above code: https://github.com/Dhrumilcse/Interactive-Dictionary-in-Python    
 
 # Pandas speed up  
 https://github.com/modin-project/modin   
@@ -516,7 +520,8 @@ https://github.com/ray-project/ray/
 
 # Deep Learning  
 https://github.com/iamtrask/Grokking-Deep-Learning     
-https://stallion.ai/en/home   <--- Ar word embedding 
+https://stallion.ai/en/home   <--- Ar word embedding  
+https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs  
 
 # Bias, Variance and Overfitting  
 https://twitter.com/rctatman/status/1060325912434995201   bias-variance tradeoff    
