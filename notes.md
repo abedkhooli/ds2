@@ -53,6 +53,7 @@ https://www.kdnuggets.com/2018/08/introduction-fraud-detection-systems.html frau
 https://medium.com/cracking-the-data-science-interview/14-golden-nuggets-to-demystify-data-science-for-aspiring-data-scientists-d18e8f30de35  
 https://medium.com/cracking-the-data-science-interview/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-7228aa8ef541   
 https://towardsdatascience.com/the-10-mining-techniques-data-scientists-need-for-their-toolbox-ae15a5733b02 ==///===>   
+https://jhudatascience.org/chromebookdatascience/  Chromebook ds   
 
 https://towardsdatascience.com/how-to-out-compete-on-a-data-science-competition-insights-techniques-and-tactics-95a0545041d5   
 https://github.com/neptune-ml/steppy    https://github.com/iskandr/fancyimpute  ==========///======>      
@@ -159,9 +160,13 @@ http://www.arabicnlp.pro/alp/  Arabic ALP - An online Arabic linguistic tool <==
 https://github.com/Barqawiz/Shakkala Shakkala project 
 https://github.com/sebastianruder/NLP-progress  <==== 
 
+# Torch 
+https://github.com/WillKoehrsen/pytorch_challenge/blob/master/Transfer%20Learning%20in%20PyTorch.ipynb  
+https://github.com/perone/medicaltorch/  Medical Torch  
+
 ## TorchText 
 https://www.analyticsvidhya.com/blog/2018/02/pytorch-tutorial/   <==== pyTorch  
-https://github.com/mjc92/TorchTextTutorial  
+https://github.com/mjc92/TorchTextTutorial    
 https://towardsdatascience.com/use-torchtext-to-load-nlp-datasets-part-i-5da6f1c89d84 (see also part II and FB's StarSpace) 
 https://towardsdatascience.com/use-torchtext-to-load-nlp-datasets-part-ii-f146c8b9a496  
 https://towardsdatascience.com/learning-note-starspace-for-multi-label-text-classification-81de0e8fca53  StarSpace  
@@ -478,6 +483,8 @@ https://www.data.gov/
 https://www.wikidata.org/wiki/Wikidata:Main_Page   
 https://data-miner.io/   
 https://einstein.ai/research/blog/the-wikitext-long-term-dependency-language-modeling-dataset    
+https://storage.googleapis.com/openimages/web/index.html  Google Images V4    
+https://github.com/Tencent/tencent-ml-images  Tencent ML Images     
 https://www.modelzoo.co/   pretrained models  
 
 # Dataviz  
