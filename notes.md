@@ -17,8 +17,11 @@ https://www.youtube.com/user/sentdex/playlists  Sentdex
 https://towardsdatascience.com/@actsusanli   Susan Li    
 http://scikit-learn.org/stable/related_projects.html#interoperability-and-framework-enhancements   
 https://gengo.ai/articles/20-best-youtube-channels-for-ai-and-machine-learning/    
+https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy  **** Great notebook ****  
 
-# DataScience  
+# DataScience 
+https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7   
+https://twitter.com/zaidalyafeai/status/1066664451984773121  ML courses   
 https://github.com/bulutyazilim/awesome-datascience     
 https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle-updated   <=========   
 https://github.com/amueller/ml-workshop-4-of-4      
@@ -529,6 +532,7 @@ https://github.com/ray-project/ray/
 https://github.com/iamtrask/Grokking-Deep-Learning     
 https://stallion.ai/en/home   <--- Ar word embedding  
 https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs  
+https://github.com/Machine-Learning-Tokyo/DL-workshop-series colab deep nets  
 
 # Bias, Variance and Overfitting  
 https://twitter.com/rctatman/status/1060325912434995201   bias-variance tradeoff    
