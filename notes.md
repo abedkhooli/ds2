@@ -62,6 +62,7 @@ https://towardsdatascience.com/how-to-out-compete-on-a-data-science-competition-
 https://github.com/neptune-ml/steppy    https://github.com/iskandr/fancyimpute  ==========///======>      
 
 https://twitter.com/afshinea/status/1031393337998069760   Stanford cs ML  
+https://github.com/afshinea/stanford-cs-230-deep-learning cheatsheet Stanford NLP  
 https://medium.com/analytics-vidhya/python-implementation-of-andrew-ngs-machine-learning-course-part-1-6b8dd1c73d80 
 
 https://twitter.com/GaelVaroquaux/status/1035958024949706757  Sci-py notebook  
@@ -79,7 +80,8 @@ https://twitter.com/_brohrer_/status/1054298773541670912  Math4ML
 https://www.youtube.com/watch?v=UiF0FyMFO-8   Model selection BRohrer     
 
 # NLP  
-https://github.com/tesseract-ocr/tesseract  Open OCR  
+https://github.com/tesseract-ocr/tesseract  Open OCR   
+https://twitter.com/supernlpblog/status/1067341618880098309 <== sentence representations   
 https://github.com/sebastianruder/NLP-progress      
 https://realpython.com/python-keras-text-classification/    <==================================      
 https://www.kdnuggets.com/2018/10/github-python-data-science-spotlight.html     
@@ -517,7 +519,8 @@ https://realpython.com/
 http://www.dabeaz.com/tutorials.html   and https://speakerdeck.com/dabeaz (David Beazley) 
 https://www.crowdcast.io/treyhunner   
 https://www.reddit.com/r/learnpython    
-https://docs.python.org/3.6/ (https://docs.python.org/3.6/tutorial/index.html)      
+https://docs.python.org/3.6/ (https://docs.python.org/3.6/tutorial/index.html)   
+https://github.com/yasoob/intermediatePython  <====     
 
 https://www.grnewsletters.com/archive/dataschool/Best-resources-for-going-deeper-with-Python-702398502.html   
 https://www.youtube.com/channel/UCW6TXMZ5Pq6yL6_k5NZ2e0Q  socratica   
@@ -563,3 +566,9 @@ https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg Kevin Marcham YT ch
 # dictionaries/translation  
 https://glosbe.com/   
 http://context.reverso.net/translation/english-arabic/   
+
+
+# LSTM, BERT, GAN 
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/    
+https://medium.com/dissecting-bert  
+http://gandissect.res.ibm.com/ganpaint.html?project=churchoutdoor&layer=layer4
