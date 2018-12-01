@@ -127,12 +127,12 @@ def pretrain_lm(dir_path, lang='en', cuda_id=0, qrnn=True, subword=False, max_vo
         emb_sz, nh, nl = 400, 1550, 3
         #dps = np.array([0.0, 0.0, 0.0, 0.0, 0.0])
         dps = np.array([0.25, 0.1, 0.2, 0.02, 0.15])
-        drop_mult = 0.1
+        drop_mult = 0.3 # was 0.1, changed by AK
     else:
         emb_sz, nh, nl = 400, 1150, 3
         # emb_sz, nh, nl = 400, 1150, 3
         dps = np.array([0.25, 0.1, 0.2, 0.02, 0.15])
-        drop_mult = 0.1
+        drop_mult = 0.3 # was 0.1, changed by AK
 
     fastai.text.learner.default_dropout['language'] = dps
 
