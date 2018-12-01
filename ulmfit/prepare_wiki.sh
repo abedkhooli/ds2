@@ -41,13 +41,13 @@ fi
 
 EXTR_PATH="${EXTR_DIR}/${LANG}"
 if [ ! -d "${EXTR_PATH}" ]; then
-  python wikiextractor/WikiExtractor.py -s --json -o "${EXTR_PATH}" "${DUMP_PATH}"
+  python wikiextractor/WikiExtractor.py -q -s --json -o "${EXTR_PATH}" "${DUMP_PATH}"
 else
   echo "${EXTR_PATH} already exists. Skipping extraction."
 fi
 
 python -m create_wikitext -i "${EXTR_PATH}"  -l "${LANG}" -o "${WIKI_DIR}"
 
-python -m postprocess_wikitext "${WIKI_DIR}/${LANG}-2" $LANG
-python -m postprocess_wikitext "${WIKI_DIR}/${LANG}-100" $LANG
+#python -m postprocess_wikitext "${WIKI_DIR}/${LANG}-2" $LANG
+#python -m postprocess_wikitext "${WIKI_DIR}/${LANG}-100" $LANG
 #python -m postprocess_wikitext "${WIKI_DIR}/${LANG}-all" $LANG
