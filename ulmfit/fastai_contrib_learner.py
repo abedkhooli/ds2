@@ -2,7 +2,7 @@ from fastai import GradientClipping, accuracy
 from fastai.callbacks import *
 from fastai.basic_data import *
 from fastai.datasets import untar_data
-from fastai_contrib.models import get_bilm, get_rnn_classifier, get_birnn_classifier
+from fastai_contrib_models import get_bilm, get_rnn_classifier, get_birnn_classifier
 from fastai.text.learner import *
 
 #region New code
