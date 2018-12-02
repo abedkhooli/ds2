@@ -180,8 +180,9 @@ def get_datasets(dataset, dataset_dir, bptt, bs, lang, max_vocab, ds_pct, lm_typ
         ids[split] = np.array([np.array(e, dtype=np.int) for e in ids[split]])
         #print([lbl for lbl in lbls[split] if not int(lbl) in [0,1,2]])          # debug by ak
         #print(f'First 10 lbls[split] labels: {lbls[split][:11]}') 
-        lbls[split] = np.array([np.array(e, dtype=np.int) for e in lbls[split]]) # tried np.int(e) instead of e
-        print("Info: Passed the train labels lbls[split] to np.array sucessfully .....")
+        lbls[split] = np.array([np.array(e, dtype=np.int) for e in lbls[split]])
+        if split == TRN: print("processing TRN labels ... ")
+        if split == TRN: print("Info: Passed the train labels lbls[split] to np.array sucessfully .....")
     data_lm = TextLMDataBunch.from_ids(path=tmp_dir, vocab=vocab, train_ids=np.concatenate([ids[TRN],ids[TST]]),
                                        valid_ids=ids[VAL], bs=bs, bptt=bptt, lm_type=lm_type)
     #  TODO TextClasDataBunch allows tst_ids as input, but not tst_lbls?
