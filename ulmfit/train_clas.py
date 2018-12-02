@@ -178,6 +178,7 @@ def get_datasets(dataset, dataset_dir, bptt, bs, lang, max_vocab, ds_pct, lm_typ
         print(f"Making the dataset smaller {ds_pct}")
     for split in [TRN, VAL, TST]:
         ids[split] = np.array([np.array(e, dtype=np.int) for e in ids[split]])
+        print(lbls[split][:10])         # debug by ak
         lbls[split] = np.array([np.array(e, dtype=np.int) for e in lbls[split]])
     data_lm = TextLMDataBunch.from_ids(path=tmp_dir, vocab=vocab, train_ids=np.concatenate([ids[TRN],ids[TST]]),
                                        valid_ids=ids[VAL], bs=bs, bptt=bptt, lm_type=lm_type)
