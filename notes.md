@@ -78,6 +78,7 @@ https://mlcourse.ai/ <====//====
 http://videolectures.net/Top/Computer_Science/Data_Mining/#l=en   
 https://twitter.com/_brohrer_/status/1054298773541670912  Math4ML  
 https://www.youtube.com/watch?v=UiF0FyMFO-8   Model selection BRohrer     
+https://github.com/dustinvtran/ml-videos ML Videos    
 
 # NLP  
 https://github.com/tesseract-ocr/tesseract  Open OCR   
