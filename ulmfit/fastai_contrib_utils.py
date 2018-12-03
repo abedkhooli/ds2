@@ -259,8 +259,7 @@ def read_xnli(dir_path, lang, split, spm_path=None) -> Tuple[List[List[str]], Li
     elif lang == EN:
         file_name = 'xnli.dev.en.tsv' if split == VAL else 'xnli.test.en.tsv'
         file_path = f'XNLI-MT-1.0/xnli/{file_name}'
-    #file_path = dir_path / file_path
-    file_path = dir_path + f'/{file_path}'
+    file_path = dir_path/file_path
     
     if spm_path is not None:
         sp = SentencepieceTokenizer(spm_path)
@@ -291,6 +290,7 @@ def read_xnli(dir_path, lang, split, spm_path=None) -> Tuple[List[List[str]], Li
             
             toks.append(premise_toks + [SEP] + hypo_toks)
             lbls.append(label)
+    if split == TRN: print(f'First 10 labels: {lbls[:11]}')
     return toks, lbls
 
 
