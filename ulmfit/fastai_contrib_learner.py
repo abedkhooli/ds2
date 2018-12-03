@@ -93,7 +93,7 @@ def convert_weights_with_prefix(wgts:Weights, stoi_wgts:Dict[str,int], itos_new:
         wgts[prefix+'0.encoder_dp.emb.weight'] = new_w.clone()
         wgts[prefix+'1.decoder.weight'] = new_w.clone()
         wgts[prefix+'1.decoder.bias'] = new_b
-  return wgts
+    return wgts
 
 #endregion
 #region Replace code in fastai
