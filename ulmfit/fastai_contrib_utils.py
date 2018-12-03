@@ -290,6 +290,15 @@ def read_xnli(dir_path, lang, split, spm_path=None) -> Tuple[List[List[str]], Li
             
             toks.append(premise_toks + [SEP] + hypo_toks)
             lbls.append(label)
+    if split == TRN: 
+        lbls = [['neutral', 'entailment', 'contradictory'].index(lbl) for lbl in lbls]
+        print(f'First 10 train labels: {lbls[:11]} and length = {len(lbls)}')
+    if split == TST: 
+        lbls = [['neutral', 'entailment', 'contradiction'].index(lbl) for lbl in lbls]
+        print(f'First 10  test labels: {lbls[:11]}')
+    if split == VAL: 
+        lbls = [['neutral', 'entailment', 'contradiction'].index(lbl) for lbl in lbls]
+        print(f'First 10 val labels: {lbls[:11]}')
     return toks, lbls
 
 
