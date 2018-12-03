@@ -259,7 +259,7 @@ def read_xnli(dir_path, lang, split, spm_path=None) -> Tuple[List[List[str]], Li
     elif lang == EN:
         file_name = 'xnli.dev.en.tsv' if split == VAL else 'xnli.test.en.tsv'
         file_path = f'XNLI-MT-1.0/xnli/{file_name}'
-    file_path = dir_path/file_path
+    file_path = dir_path / file_path
     
     if spm_path is not None:
         sp = SentencepieceTokenizer(spm_path)
@@ -290,15 +290,6 @@ def read_xnli(dir_path, lang, split, spm_path=None) -> Tuple[List[List[str]], Li
             
             toks.append(premise_toks + [SEP] + hypo_toks)
             lbls.append(label)
-    if split == TRN: 
-        lbls = [['neutral', 'entailment', 'contradictory'].index(lbl) for lbl in lbls]
-        print(f'First 10 train labels: {lbls[:11]} and length = {len(lbls)}')
-    if split == TST: 
-        lbls = [['neutral', 'entailment', 'contradiction'].index(lbl) for lbl in lbls]
-        print(f'First 10  test labels: {lbls[:11]}')
-    if split == VAL: 
-        lbls = [['neutral', 'entailment', 'contradiction'].index(lbl) for lbl in lbls]
-        print(f'First 10 val labels: {lbls[:11]}')
     return toks, lbls
 
 
@@ -341,14 +332,17 @@ def replace_number(token):
     return token
 
 
-def read_file(file_path, outname):
+def read_file(file_path, outname=None):
     """Reads a text file and writes it to a .csv."""
     with open(file_path, encoding='utf8') as f:
         text = f.readlines()
     df = pd.DataFrame(
         {'text': np.array(text), 'labels': np.zeros(len(text))},
         columns=['labels', 'text'])
-    df.to_csv(file_path.parent / f'{outname}.csv', header=False, index=False)
+    if outname is not None:
+        df.to_csv(file_path.parent / f'{outname}.csv', header=False, index=False)
+    return df
+
 
 
 def read_whitespace_file(filepath):
