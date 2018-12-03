@@ -78,7 +78,8 @@ def convert_weights(wgts:Weights, stoi_wgts:Dict[str,int], itos_new:Collection[s
 
 def convert_weights_with_prefix(wgts:Weights, stoi_wgts:Dict[str,int], itos_new:Collection[str], prefix='') -> Weights:
     "Convert the model weights to go with a new vocabulary."
-    #dec_bias, enc_wgts = wgts[prefix+'1.decoder.bias'], wgts[prefix+'0.encoder.weight']
+    print(f'CW_w_p: first few weights are {list(wgts.items())[:6]}')
+    dec_bias, enc_wgts = wgts[prefix+'1.decoder.bias'], wgts[prefix+'0.encoder.weight']
     bias_m, wgts_m = dec_bias.mean(0), enc_wgts.mean(0)
     new_w = enc_wgts.new_zeros((len(itos_new),enc_wgts.size(1))).zero_()
     new_b = dec_bias.new_zeros((len(itos_new),)).zero_()
