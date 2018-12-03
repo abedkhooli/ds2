@@ -290,7 +290,9 @@ def read_xnli(dir_path, lang, split, spm_path=None) -> Tuple[List[List[str]], Li
             
             toks.append(premise_toks + [SEP] + hypo_toks)
             lbls.append(label)
-    if split == TRN: print(f'First 10 labels: {lbls[:11]}')
+    if split == TRN: print(f'First 10 train labels: {lbls[:11]} and length = {len(lbls)}')
+    if split == TST: print(f'First 10  test labels: {lbls[:11]}')
+    if split == VAL: print(f'First 10 val labels: {lbls[:11]}')
     return toks, lbls
 
 
