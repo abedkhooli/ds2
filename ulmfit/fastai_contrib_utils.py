@@ -259,7 +259,8 @@ def read_xnli(dir_path, lang, split, spm_path=None) -> Tuple[List[List[str]], Li
     elif lang == EN:
         file_name = 'xnli.dev.en.tsv' if split == VAL else 'xnli.test.en.tsv'
         file_path = f'XNLI-MT-1.0/xnli/{file_name}'
-    file_path = dir_path / file_path
+    #file_path = dir_path / file_path
+    file_path = dir_path + f'/{file_path}'
     
     if spm_path is not None:
         sp = SentencepieceTokenizer(spm_path)
