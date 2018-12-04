@@ -12,15 +12,15 @@ import fire
 from fastai import *
 from fastai.text import *
 import torch
-from fastai_contrib.utils import read_file, read_whitespace_file, \
+from fastai_contrib_utils import read_file, read_whitespace_file, \
     validate, PAD, UNK, get_sentencepiece, read_clas_data, TRN, VAL, TST, PAD_TOKEN_ID
-from fastai_contrib.learner import bilm_learner, accuracy_fwd, accuracy_bwd, bilm_text_classifier_learner
+from fastai_contrib_learner import bilm_learner, accuracy_fwd, accuracy_bwd, bilm_text_classifier_learner
 import pickle
 
 from pathlib import Path
 
 from collections import Counter
-import fastai_contrib.data as contrib_data
+import fastai_contrib_data as contrib_data
 
 # to install, do:
 # conda install -c pytorch -c fastai fastai pytorch-nightly [cuda92]
