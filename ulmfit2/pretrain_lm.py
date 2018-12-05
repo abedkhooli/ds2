@@ -70,7 +70,7 @@ class LMHyperParams:
 
     # these hyperparameters are for training on ~100M tokens (e.g. WikiText-103)
     # for training on smaller datasets, more dropout is necessary
-    drop_mult = 0.35  # was 0.1, ed by AK 
+    drop_mult = 0.3  # was 0.1, ed by AK (tried .35, .4 
     dps = [0.25, 0.1, 0.2, 0.02, 0.15]
     clip: float = 0.12
     bptt: int = 70
