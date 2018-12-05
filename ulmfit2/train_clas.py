@@ -25,7 +25,7 @@ import fire
 from collections import Counter
 from pathlib import Path
 
-from ulmfit.pretrain_lm import LMHyperParams, Tokenizers
+from pretrain_lm import LMHyperParams, Tokenizers
 
 class MosesTokenizerFunc(BaseTokenizer):
     "Wrapper around a MosesTokenizer to make it a `BaseTokenizer`."
