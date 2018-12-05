@@ -70,13 +70,13 @@ class LMHyperParams:
 
     # these hyperparameters are for training on ~100M tokens (e.g. WikiText-103)
     # for training on smaller datasets, more dropout is necessary
-    drop_mult = 0.5  # was 0.1, ed by AK 
+    drop_mult = 0.4  # was 0.1, ed by AK 
     dps = [0.25, 0.1, 0.2, 0.02, 0.15]
     clip: float = 0.12
     bptt: int = 70
     bs: int = 32 # was 70 ed by AK
 
-    lang: str = 'ar'  # was 'en'
+    lang: str = 'en'  # was 'en'
     name: str = None
     cuda_id: InitVar[int] = 0
 
