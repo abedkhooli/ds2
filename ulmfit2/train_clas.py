@@ -14,9 +14,9 @@ from fastai.text import *
 import torch
 from fastai.text import TextLMDataBunch, TextClasDataBunch, language_model_learner, text_classifier_learner
 from fastai import fit_one_cycle, accuracy
-from fastai_contrib_data import LanguageModelType
-from fastai_contrib_learner import bilm_text_classifier_learner, bilm_learner, accuracy_fwd, accuracy_bwd
-from fastai_contrib_utils import PAD, UNK, read_clas_data, PAD_TOKEN_ID, DATASETS, TRN, VAL, TST, ensure_paths_exists, \
+from fastai_contrib.data import LanguageModelType
+from fastai_contrib.learner import bilm_text_classifier_learner, bilm_learner, accuracy_fwd, accuracy_bwd
+from fastai_contrib.utils import PAD, UNK, read_clas_data, PAD_TOKEN_ID, DATASETS, TRN, VAL, TST, ensure_paths_exists, \
     get_sentencepiece
 from fastai.text.transform import Vocab
 
@@ -126,24 +126,26 @@ class CLSHyperParams(LMHyperParams):
             data_lm = TextLMDataBunch.load(self.cache_dir, 'lm', lm_type=self.lm_type)
             print(f"Tokenized data loaded, lm.trn {len(data_lm.train_ds)}, lm.val {len(data_lm.valid_ds)}")
         except FileNotFoundError:
-            print("Running tokenization, lm.trn {len(data_lm.train_ds)}, lm.val {len(data_lm.valid_ds)}")
+            print(f"Running tokenization...")
 
             # wikitext is pretokenized with Moses
 
             data_lm = TextLMDataBunch.from_df(path=self.cache_dir, train_df=pd.concat([trn_df,tst_df]),
                                               valid_df=val_df, test_df=tst_df,
-                                              lm_type=self.lm_type, **args)
+                                              lm_type=self.lm_type, max_vocab=self.max_vocab, **args)
             data_lm.save('lm')
+            print(f"  cls.trn {len(data_lm.train_ds)}, cls.val {len(data_lm.valid_ds)}")
 
         args['vocab'] = data_lm.vocab # make sure we use the same vocab for classifcation
         try:
             data_cls = TextClasDataBunch.load(self.cache_dir, '.')
             print(f"Tokenized data loaded, cls.trn {len(data_cls.train_ds)}, cls.val {len(data_cls.valid_ds)}")
         except FileNotFoundError:
-            print("Running tokenization, cls.trn {len(data_cls.train_ds)}, cls.val {len(data_cls.valid_ds)}")
+            print(f"Running tokenization...")
             data_cls = TextClasDataBunch.from_df(path=self.cache_dir, train_df=trn_df,
-                                              valid_df=val_df, test_df=tst_df,
+                                              valid_df=val_df, test_df=tst_df, max_vocab=self.max_vocab,
                                               **args)
+            print(f"  cls.trn {len(data_cls.train_ds)}, cls.val {len(data_cls.valid_ds)}")
             data_cls.save('.')
         print('Size of vocabulary:', len(data_lm.vocab.itos))
         print('First 20 words in vocab:', data_lm.vocab.itos[:20])
