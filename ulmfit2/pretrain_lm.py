@@ -276,7 +276,7 @@ class LMHyperParams:
         d.update(kwargs)
         return cls(**d)
 # the following fn was left indented in original (out of class) and has self.exp.subword, self.exp.max_vocab
-    def validate_lm(self):
+    def validate_lm(self, num_epochs=2, drop_mult=0.1):
         if not self.tokenizer ==Tokenizers.SUBWORD and self.max_vocab is None:
             raise NotImplementedError("figure out how to validate and save results")
         # only if we use the unpreprocessed version and the full vocabulary
@@ -286,7 +286,7 @@ class LMHyperParams:
         itos = np.load(itos_fname)
         vocab = Vocab(itos)
         stoi = vocab.stoi
-        learn = self.train_lm(num_epochs=2, drop_mult=0.3)
+        learn = self.train_lm(num_epochs=num_epochs, drop_mult=drop_mult)
         
         print(f"Validating model performance with test tokens from: {trn_path}")
         tst_tok = read_whitespace_file(trn_path)
