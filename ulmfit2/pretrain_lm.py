@@ -281,7 +281,8 @@ class LMHyperParams:
             raise NotImplementedError("figure out how to validate and save results")
         # only if we use the unpreprocessed version and the full vocabulary
         # are the perplexity results comparable to previous work
-        print(f"Validating model performance with test tokens from: {self.trn_path}")
+        trn_path = self.dataset_path / f'{self.lang}.wiki.train.tokens'
+        print(f"Validating model performance with test tokens from: {trn_path}")
         tst_tok = read_whitespace_file(self.trn_path)
         tst_ids = np.array([([stoi.get(w, stoi[UNK]) for w in s]) for s in tst_tok])
         logloss, perplexity = validate(learn.model, tst_ids, self.exp.bptt)
