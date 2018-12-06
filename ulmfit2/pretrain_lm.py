@@ -282,7 +282,10 @@ class LMHyperParams:
         # only if we use the unpreprocessed version and the full vocabulary
         # are the perplexity results comparable to previous work
         trn_path = self.dataset_path / f'{self.lang}.wiki.train.tokens'
+        val_path = self.dataset_path / f'{self.lang}.wiki.valid.tokens'
         itos_fname = self.cache_dir / f'itos.pkl'
+        trn_tok = read_whitespace_file(trn_path)
+        val_tok = read_whitespace_file(val_path)
         if not itos_fname.exists():
         # create the vocabulary
             cnt = Counter(word for sent in trn_tok for word in sent)
