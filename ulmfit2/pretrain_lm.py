@@ -286,7 +286,7 @@ class LMHyperParams:
         itos = np.load(itos_fname)
         vocab = Vocab(itos)
         stoi = vocab.stoi
-        learn = train_lm(num_epochs=2, drop_mult=0.3)
+        learn = self.train_lm(num_epochs=2, drop_mult=0.3)
         
         print(f"Validating model performance with test tokens from: {trn_path}")
         tst_tok = read_whitespace_file(trn_path)
