@@ -283,7 +283,19 @@ class LMHyperParams:
         # are the perplexity results comparable to previous work
         trn_path = self.dataset_path / f'{self.lang}.wiki.train.tokens'
         itos_fname = self.cache_dir / f'itos.pkl'
-        itos = np.load(itos_fname)
+        if not itos_fname.exists():
+        # create the vocabulary
+            cnt = Counter(word for sent in trn_tok for word in sent)
+            itos = [o for o, c in cnt.most_common(n=self.max_vocab)]
+            itos.insert(1, PAD)  #   set pad id to 1 to conform to fast.ai standard
+            assert UNK in itos, f'Unknown words are expected to have been replaced with {UNK} in the data.'
+            # save vocabulary
+            print(f"Saving vocabulary as {itos_fname}")
+            with open(itos_fname, 'wb') as f:
+                pickle.dump(itos, f)
+         else:
+            print("Loading itos:", itos_fname)
+            itos = np.load(itos_fname)
         vocab = Vocab(itos)
         stoi = vocab.stoi
         learn = self.train_lm(num_epochs=num_epochs, drop_mult=drop_mult)
