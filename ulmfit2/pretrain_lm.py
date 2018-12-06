@@ -293,7 +293,7 @@ class LMHyperParams:
             print(f"Saving vocabulary as {itos_fname}")
             with open(itos_fname, 'wb') as f:
                 pickle.dump(itos, f)
-         else:
+        else:
             print("Loading itos:", itos_fname)
             itos = np.load(itos_fname)
         vocab = Vocab(itos)
