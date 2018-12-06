@@ -283,7 +283,7 @@ class LMHyperParams:
         # are the perplexity results comparable to previous work
         trn_path = self.dataset_path / f'{self.lang}.wiki.train.tokens'
         print(f"Validating model performance with test tokens from: {trn_path}")
-        tst_tok = read_whitespace_file(self.trn_path)
+        tst_tok = read_whitespace_file(trn_path)
         tst_ids = np.array([([stoi.get(w, stoi[UNK]) for w in s]) for s in tst_tok])
         logloss, perplexity = validate(learn.model, tst_ids, self.exp.bptt)
         print('Test logloss:', logloss.item(), 'perplexity:', perplexity.item())
