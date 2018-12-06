@@ -282,6 +282,10 @@ class LMHyperParams:
         # only if we use the unpreprocessed version and the full vocabulary
         # are the perplexity results comparable to previous work
         trn_path = self.dataset_path / f'{self.lang}.wiki.train.tokens'
+        itos_fname = self.cache_dir / f'itos.pkl'
+        itos = np.load(itos_fname)
+        vocab = Vocab(itos)
+        stoi = vocab.stoi
         print(f"Validating model performance with test tokens from: {trn_path}")
         tst_tok = read_whitespace_file(trn_path)
         tst_ids = np.array([([stoi.get(w, stoi[UNK]) for w in s]) for s in tst_tok])
