@@ -277,7 +277,7 @@ class LMHyperParams:
         return cls(**d)
 # the following fn was left indented in original (out of class) and has self.exp.subword, self.exp.max_vocab
     def validate_lm(self):
-        if not self.Tokenizers.SUBWORD and self.max_vocab is None:
+        if not self.tokenizer ==Tokenizers.SUBWORD and self.max_vocab is None:
             raise NotImplementedError("figure out how to validate and save results")
             # only if we use the unpreprocessed version and the full vocabulary
             # are the perplexity results comparable to previous work
