@@ -286,10 +286,12 @@ class LMHyperParams:
         itos = np.load(itos_fname)
         vocab = Vocab(itos)
         stoi = vocab.stoi
+        learn = train_lm(num_epochs=2, drop_mult=0.3)
+        
         print(f"Validating model performance with test tokens from: {trn_path}")
         tst_tok = read_whitespace_file(trn_path)
         tst_ids = np.array([([stoi.get(w, stoi[UNK]) for w in s]) for s in tst_tok])
-        logloss, perplexity = validate(self.learn.model, tst_ids, self.bptt)
+        logloss, perplexity = validate(learn.model, tst_ids, self.bptt)
         print('Test logloss:', logloss.item(), 'perplexity:', perplexity.item())
 
 if __name__ == '__main__':
