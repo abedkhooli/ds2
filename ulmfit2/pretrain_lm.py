@@ -149,12 +149,12 @@ class LMHyperParams:
                     learn.unfreeze()
                     learn.fit_one_cycle(num_epochs, 1e-3, moms=(0.8, 0.7))
                 else:
-                    learn.fit_one_cycle(1, 5e-2, moms=(0.8, 0.7), wd=1e-7)  # TODO Fix the learning rates(lr was 1e-2 -- AK)
+                    learn.fit_one_cycle(1, 1e-2, moms=(0.8, 0.7), wd=1e-7)  # TODO Fix the learning rates
                     learn.unfreeze()
                     learn.fit_one_cycle(num_epochs, 1e-3, moms=(0.8, 0.7), wd=1e-7)
             else:
                 print("Training lm from random weights")
-                if not learn.true_wd: learn.fit_one_cycle(num_epochs, 5e-2, (0.8, 0.7), wd=1e-7) #(lr was 5e-3 -- AK)
+                if not learn.true_wd: learn.fit_one_cycle(num_epochs, 5e-3, (0.8, 0.7), wd=1e-7) 
                 else:                 learn.fit_one_cycle(num_epochs, 5e-3, (0.8, 0.7)) # TODO find proper values
         learn.save("lm_best_with_opt", with_opt=False)
         learn.save_encoder(ENC_BEST)
