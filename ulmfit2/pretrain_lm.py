@@ -174,7 +174,8 @@ class LMHyperParams:
         trn_args.update(kwargs)
         print ("Training args: ", trn_args, "dps: ", dps)
         learn = lm_learner(data_lm, emb_sz=self.emb_sz, nh=self.nh, nl=self.nl, pad_token=PAD_TOKEN_ID,
-                           bias=True, qrnn=self.qrnn, model_dir=self.model_dir.relative_to(data_lm.path), **trn_args)
+                           #bias=True, qrnn=self.qrnn, model_dir=self.model_dir.relative_to(data_lm.path), **trn_args)
+                           bias=True, qrnn=self.qrnn, model_dir=self.model_dir, **trn_args) # AK fix remove rel path
         # compared to standard Adam, we set beta_1 to 0.8
         learn.opt_fn = partial(optim.Adam, betas=(0.8, 0.99))
         learn.metrics = [accuracy_fwd, accuracy_bwd] if self.bidir else [accuracy]
