@@ -492,7 +492,8 @@ https://einstein.ai/research/blog/the-wikitext-long-term-dependency-language-mod
 https://storage.googleapis.com/openimages/web/index.html  Google Images V4    
 https://github.com/Tencent/tencent-ml-images  Tencent ML Images     
 https://www.modelzoo.co/   pretrained models  
-https://github.com/bakrianoo/Datasets/tree/master/Arabic%20Tweets (see also https://github.com/bakrianoo/aravec (AraVec))    
+https://github.com/bakrianoo/Datasets/tree/master/Arabic%20Tweets (see also https://github.com/bakrianoo/aravec (AraVec))  
+https://twitter.com/jeremyphoward/status/1071093745645428736  NER and POS from FastAi and Spacy   
 
 # Dataviz  
 https://twitter.com/albertocairo/status/1057974210960723968 Alberto Cairo's invitees   
