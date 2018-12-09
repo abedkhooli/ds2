@@ -97,8 +97,8 @@ def main(args):
 
     # add the new articles to the existing ones
     lrg_wiki_train = lrg_wiki / f'{args.lang}.wiki.train.tokens'
-    #write_wikitext(lrg_wiki_train, text_iter, mt, 98000000, mode='a') #original, cchanaged by AK below to fit memory
-    write_wikitext(lrg_wiki_train, text_iter, mt, 20000000, mode='a')
+    write_wikitext(lrg_wiki_train, text_iter, mt, 98000000, mode='a') #original, cchanaged by AK below to fit memory
+    #write_wikitext(lrg_wiki_train, text_iter, mt, 20000000, mode='a') # AK's 20m tokens
     all_wiki_train = all_wiki / f'{args.lang}.wiki.train.tokens'
     copyfile(lrg_wiki_train, all_wiki_train)
     write_wikitext(all_wiki_train, text_iter, mt,  None, mode='a')
