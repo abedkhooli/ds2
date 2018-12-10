@@ -43,6 +43,8 @@ class MosesTokenizerFunc(BaseTokenizer):
 class CLSHyperParams(LMHyperParams):
     # dir_path -> data/imdb/
     use_test_for_validation=False
+    
+    bicls_head:str = 'BiPoolingLinearClassifier'
 
     def __post_init__(self, *args, **kwargs):
         super().__post_init__(*args, **kwargs)
@@ -51,8 +53,10 @@ class CLSHyperParams(LMHyperParams):
     @property
     def need_fine_tune_lm(self): return not (self.model_dir/f"enc_best.pth").exists()
 
-    def train_cls(self, num_lm_epochs, unfreeze=True, bs=40, true_wd=True, drop_mul_lm=0.3, drop_mul_cls=0.5):
-        data_clas, data_lm = self.load_cls_data(bs)
+    
+    def train_cls(self, num_lm_epochs, unfreeze=True, bs=40, true_wd=True, drop_mul_lm=0.3, drop_mul_cls=0.5,
+                  use_test_for_validation=False):
+        data_clas, data_lm = self.load_cls_data(bs, use_test_for_validation=use_test_for_validation)
 
         if self.need_fine_tune_lm: self.train_lm(num_lm_epochs, data_lm=data_lm, true_wd=true_wd, drop_mult=drop_mul_lm)
         learn = self.create_cls_learner(data_clas, drop_mult=drop_mul_cls)
@@ -86,14 +90,16 @@ class CLSHyperParams(LMHyperParams):
                 learn.fit_one_cycle(2, slice(1e-2 / (2.6 ** 4), 1e-2), moms=(0.8, 0.7), wd=1e-7)
         print(f"Saving models at {learn.path / learn.model_dir}")
         learn.save('cls_last', with_opt=False)
-        # predict test results and score (AK)
         return learn
 
     def create_cls_learner(self, data_clas, dps=None, **kwargs):
         fastai.text.learner.default_dropout['language'] = dps or self.dps
         trn_args=dict(drop_mult=self.drop_mult, bptt=self.bptt, clip=self.clip,)
         trn_args.update(kwargs)
-        classifier_learner = bilm_text_classifier_learner if self.bidir else text_classifier_learner
+        classifier_learner = text_classifier_learner
+        if self.bidir:
+            classifier_learner = bilm_text_classifier_learner
+            trn_args['bicls_head'] = self.bicls_head
         learn = classifier_learner(data_clas,  pad_token=PAD_TOKEN_ID,
             path=self.model_dir.parent, model_dir=self.model_dir.name,
             qrnn=self.qrnn, emb_sz=self.emb_sz, nh=self.nh, nl=self.nl, **trn_args)
@@ -117,7 +123,6 @@ class CLSHyperParams(LMHyperParams):
         lm_val_df = lm_trn_df[:val_len]
 
         if use_test_for_validation:
-            val_len = max(int(len(tst_df) * 0.1), 2)
             val_df = tst_df
             cls_cache = 'notst'
         else:
@@ -127,8 +132,11 @@ class CLSHyperParams(LMHyperParams):
             cls_cache = '.'
 
         if self.tokenizer is Tokenizers.SUBWORD:
-            #TODO Fix me to make sure it trains correct dictionary
-            args = get_sentencepiece(self.dataset_path, self.dataset_path / 'train.csv', self.name, vocab_size=self.max_vocab)
+            args = get_sentencepiece(self.dataset_path, self.dataset_path / 'train.csv',
+                                     self.name, vocab_size=self.max_vocab, pre_rules=[], post_rules=[])
+            if self.tokenizer is Tokenizers.SUBWORD:
+                args = get_sentencepiece(self.dataset_path, self.dataset_path / 'train.csv',
+                                         self.name, vocab_size=self.max_vocab, pre_rules=[], post_rules=[])
         elif self.tokenizer is Tokenizers.MOSES:
             args = dict(tokenizer=Tokenizer(tok_func=MosesTokenizerFunc, lang='en', pre_rules=[], post_rules=[]))
         elif self.tokenizer is Tokenizers.MOSES_FA:
@@ -149,7 +157,6 @@ class CLSHyperParams(LMHyperParams):
                                               max_vocab=self.max_vocab, bs=bs, lm_type=self.lm_type, **args)
             print(f"Saving tokenized: cls.trn {len(data_lm.train_ds)}, cls.val {len(data_lm.valid_ds)}")
             data_lm.save('lm')
-
 
         try:
             if force: raise FileNotFoundError("Forcing reloading of caches")
