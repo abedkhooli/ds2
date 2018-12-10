@@ -57,6 +57,22 @@ class Tokenizers(Enum):
 #     Tok.FASTAI: FastaiTok
 # }
 
+def istitle(line):
+    return len(re.findall(r'^ = [^=]* = $', line)) != 0
+
+def read_wiki_articles(filename):
+    articles = []
+    with open(filename, encoding='utf8') as f:
+        lines = f.readlines()
+    current_article = ''
+    for i,line in enumerate(lines):
+        current_article += line
+        if i < len(lines)-2 and lines[i+1] == ' \n' and istitle(lines[i+2]):
+            articles.append(current_article)
+            current_article = ''
+    articles.append(current_article)
+    return pd.DataFrame({'texts':np.array(articles)})
+
 @dataclass
 class LMHyperParams:
     dataset_path: str # data_dir
@@ -131,7 +147,7 @@ class LMHyperParams:
         with (self.model_dir / 'info.json').open("w") as fp: json.dump(vals, fp)
         print("Saving info", self.model_dir / 'info.json')
 
-    def train_lm(self, num_epochs=20, data_lm=None, true_wd=False, drop_mult=0.1):
+    def train_lm(self, num_epochs=20, data_lm=None, true_wd=False, drop_mult=0.1, lr=5e-3):
         data_lm = self.load_wiki_data() if data_lm is None else data_lm
         learn = self.create_lm_learner(data_lm, drop_mult=drop_mult)
 
@@ -145,17 +161,20 @@ class LMHyperParams:
             if self.pretrained_fnames or self.pretrained_model:
                 print("Training lm from: ", self.pretrained_fnames or self.pretrained_model)
                 if learn.true_wd:
+                    learn.freeze_to(-1)
                     learn.fit_one_cycle(1, 1e-2, moms=(0.8, 0.7))
                     learn.unfreeze()
                     learn.fit_one_cycle(num_epochs, 1e-3, moms=(0.8, 0.7))
                 else:
+                    learn.freeze_to(-1)
                     learn.fit_one_cycle(1, 1e-2, moms=(0.8, 0.7), wd=1e-7)  # TODO Fix the learning rates
                     learn.unfreeze()
                     learn.fit_one_cycle(num_epochs, 1e-3, moms=(0.8, 0.7), wd=1e-7)
             else:
                 print("Training lm from random weights")
-                if not learn.true_wd: learn.fit_one_cycle(num_epochs, 5e-3, (0.8, 0.7), wd=1e-7) 
-                else:                 learn.fit_one_cycle(num_epochs, 5e-3, (0.8, 0.7)) # TODO find proper values
+                learn.unfreeze()
+                if not learn.true_wd: learn.fit_one_cycle(num_epochs, lr, (0.8, 0.7), wd=1e-7)
+                else:                 learn.fit_one_cycle(num_epochs, lr, (0.8, 0.7)) # TODO find proper values
         learn.save("lm_best_with_opt", with_opt=False)
         learn.save_encoder(ENC_BEST)
         learn.save(LM_BEST, with_opt=False)
@@ -172,10 +191,9 @@ class LMHyperParams:
                         pretrained_fnames=self.pretrained_fnames,
                         pretrained_model=self.pretrained_model)
         trn_args.update(kwargs)
-        print ("Training args: ", trn_args, "dps: ", dps)
+        print ("Training args: ", trn_args, "dps: ", dps or self.dps)
         learn = lm_learner(data_lm, emb_sz=self.emb_sz, nh=self.nh, nl=self.nl, pad_token=PAD_TOKEN_ID,
                            bias=True, qrnn=self.qrnn, model_dir=self.model_dir.relative_to(data_lm.path), **trn_args)
-
         # compared to standard Adam, we set beta_1 to 0.8
         learn.opt_fn = partial(optim.Adam, betas=(0.8, 0.99))
         learn.metrics = [accuracy_fwd, accuracy_bwd] if self.bidir else [accuracy]
@@ -228,6 +246,7 @@ class LMHyperParams:
                                                valid_ids=val_ids, bs=self.bs, bptt=self.bptt,
                                                lm_type=self.lm_type)
         elif self.tokenizer is Tokenizers.MOSES_FA:
+            
             try:
                 data_lm = TextLMDataBunch.load(self.cache_dir, '.', lm_type=self.lm_type, bs=self.bs)
                 print("Tokenized data loaded")
@@ -236,10 +255,10 @@ class LMHyperParams:
 
                 # wikitext is pretokenized with Moses
                 pretokenized = Tokenizer(tok_func=BaseTokenizer, lang='en', pre_rules=None, post_rules=None)
-                data_lm = TextLMDataBunch.from_df(path=self.cache_dir, train_df=read_file(trn_path),
-                                                  valid_df=read_file(val_path), tokenizer=pretokenized,
-                                                  test_df=read_file(tst_path), classes=None, lm_type=self.lm_type,
-                                                  max_vocab=self.max_vocab, bs=self.bs)
+                data_lm = TextLMDataBunch.from_df(path=self.cache_dir, train_df=read_wiki_articles(trn_path),
+                                                  valid_df=read_wiki_articles(val_path), tokenizer=pretokenized,
+                                                  classes=None, lm_type=self.lm_type,
+                                                  max_vocab=self.max_vocab, bs=self.bs, text_cols='texts') 
                 data_lm.save('.')
         elif self.tokenizer is Tokenizers.FASTAI:
             try:
@@ -247,9 +266,10 @@ class LMHyperParams:
                 print("Tokenized data loaded")
             except FileNotFoundError:
                 print("Running tokenization")
-                data_lm = TextLMDataBunch.from_df(path=self.cache_dir, train_df=read_file(trn_path), valid_df=read_file(val_path),
-                                     test_df=read_file(tst_path), classes=None, lm_type=self.lm_type, max_vocab=self.max_vocab,
-                                                 bs=self.bs,)
+                data_lm = TextLMDataBunch.from_df(path=self.cache_dir, train_df=read_wiki_articles(trn_path),
+                                                  valid_df=read_wiki_articles(val_path),
+                                                  classes=None, lm_type=self.lm_type,
+                                                  max_vocab=self.max_vocab,bs=self.bs, text_cols='texts')
                 data_lm.save('.')
         else:
             raise ValueError(f"self.tokenizer has wrong value {self.tokenizer}, Allowed values are taken from {Tokenizers}")
