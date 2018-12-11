@@ -404,6 +404,7 @@ https://github.com/sgugger/Deep-Learning/blob/master/Building%20a%20French%20LM.
 https://github.com/nafizh/Neural_language_model_bangla   
 https://github.com/binga/fastai_notes/blob/master/experiments/notebooks/lang_models/Telugu_Language_Model.ipynb  
 https://www.kaggle.com/anshulrai/preprocessing-train-and-test-data/code  sentencepiece  
+https://github.com/Separius/awesome-sentence-embedding (may be https://arxiv.org/abs/1806.06259)    
 
 
 https://github.com/jupyter-widgets/ipyleaflet   
@@ -458,6 +459,7 @@ http://explained.ai/matrix-calculus/index.html   The Matrix Calculus You Need Fo
 https://betterexplained.com/articles/a-gentle-introduction-to-learning-calculus/  ?    
 https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw   3blue1brown    
 https://www.youtube.com/channel/UC9SPN6qaM0DB455-DrWAdpA?pbjreload=10 Tarrou Chalk Talk  
+https://github.com/pim-book/programmers-introduction-to-mathematics   
 
 
 # Fast.Ai 
@@ -539,6 +541,8 @@ https://github.com/iamtrask/Grokking-Deep-Learning
 https://stallion.ai/en/home   <--- Ar word embedding  
 https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs  
 https://github.com/Machine-Learning-Tokyo/DL-workshop-series colab deep nets  
+https://lilianweng.github.io/lil-log/  meta learning, word embedding, ... etc   
+https://github.com/GokuMohandas/practicalAI <=================================    
 
 # Bias, Variance and Overfitting  
 https://twitter.com/rctatman/status/1060325912434995201   bias-variance tradeoff    
