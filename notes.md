@@ -460,7 +460,7 @@ https://betterexplained.com/articles/a-gentle-introduction-to-learning-calculus/
 https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw   3blue1brown    
 https://www.youtube.com/channel/UC9SPN6qaM0DB455-DrWAdpA?pbjreload=10 Tarrou Chalk Talk  
 https://github.com/pim-book/programmers-introduction-to-mathematics   
-
+http://vmls-book.stanford.edu/   Algebra 
 
 # Fast.Ai 
 https://github.com/fastai/fastai      
@@ -468,6 +468,7 @@ https://github.com/radekosmulski/quickdraw
 
 # Vision  
 https://cloud.google.com/vision/    
+https://towardsdatascience.com/how-to-build-an-image-duplicate-finder-f8714ddca9d2  
 
 # Transfer learning  
 https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a  
@@ -578,4 +579,9 @@ http://context.reverso.net/translation/english-arabic/
 # LSTM, BERT, GAN 
 http://colah.github.io/posts/2015-08-Understanding-LSTMs/    
 https://medium.com/dissecting-bert  
-http://gandissect.res.ibm.com/ganpaint.html?project=churchoutdoor&layer=layer4
+http://gandissect.res.ibm.com/ganpaint.html?project=churchoutdoor&layer=layer4   
+
+
+# NER  
+https://www.kdnuggets.com/2018/12/introduction-named-entity-recognition.html  
+
