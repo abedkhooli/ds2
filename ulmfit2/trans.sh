@@ -10,5 +10,6 @@ TRANS="py-googletrans"
 #  cd ..
 #fi
 cd "${TRANS}"
+echo "in ${TRANS}"
 python setup.py install
 cd ..
