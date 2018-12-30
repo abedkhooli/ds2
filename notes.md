@@ -18,6 +18,9 @@ https://towardsdatascience.com/@actsusanli   Susan Li
 http://scikit-learn.org/stable/related_projects.html#interoperability-and-framework-enhancements   
 https://gengo.ai/articles/20-best-youtube-channels-for-ai-and-machine-learning/    
 https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy  **** Great notebook ****  
+https://christophm.github.io/interpretable-ml-book/     Interpretable Machine Learning   
+
+https://towardsdatascience.com/python-for-data-science-8-concepts-you-may-have-forgotten-i-did-825966908393  
 
 # DataScience 
 https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7   
