@@ -234,6 +234,7 @@ class LMHyperParams:
             data_lm = TextLMDataBunch.from_ids(path=self.dataset_path, vocab=vocab, train_ids=trn_ids,
                                                valid_ids=val_ids, bs=bs, bptt=self.bptt,
                                                lm_type=self.lm_type)
+            data_lm.save('.') # added by AK
         elif self.tokenizer is Tokenizers.MOSES_FA:
 
             try:
