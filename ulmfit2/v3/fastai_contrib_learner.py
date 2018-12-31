@@ -4,7 +4,7 @@ from fastai import *
 from fastai.text import *
 
 #region New code
-from fastai_contrib.models import *
+from fastai_contrib_models import *
 
 
 def bilm_learner(data:DataBunch, bptt:int=70, emb_sz:int=400, nh:int=1150, nl:int=3, pad_token:int=1,
