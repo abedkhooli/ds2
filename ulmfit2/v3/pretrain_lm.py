@@ -50,7 +50,7 @@ def read_wiki_articles(filename):
     articles.append(current_article)
     print(f"Wiki text was split to {len(articles)} articles")
     # try to save df
-    akfile = 'ak_train' if 'train' in filename else 'ak_valid'
+    akfile = 'ak_train' if 'train' in filename.name else 'ak_valid'
     df = pd.DataFrame({'texts':np.array(articles)})
     df.to_csv(akfile, index=False)
     # end try
