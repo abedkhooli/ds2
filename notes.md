@@ -21,6 +21,9 @@ https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accurac
 https://christophm.github.io/interpretable-ml-book/     Interpretable Machine Learning   
 
 https://towardsdatascience.com/python-for-data-science-8-concepts-you-may-have-forgotten-i-did-825966908393  
+https://explained.ai/matrix-calculus/index.html Matrix Calculus You Need For Deep Learning     
+https://github.com/THUNLP-MT/MT-Reading-List Machine Translation reading list    
+https://github.com/radekosmulski/whale/blob/master/fluke_detection.ipynb  fastai object detection  
 
 # DataScience 
 https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7   
@@ -501,6 +504,7 @@ https://github.com/Tencent/tencent-ml-images  Tencent ML Images
 https://www.modelzoo.co/   pretrained models  
 https://github.com/bakrianoo/Datasets/tree/master/Arabic%20Tweets (see also https://github.com/bakrianoo/aravec (AraVec))  
 https://twitter.com/jeremyphoward/status/1071093745645428736  NER and POS from FastAi and Spacy   
+https://twitter.com/stanfordnlp/status/1080136432075722752  Stanfrd NLP group tweet   
 
 # Dataviz  
 https://twitter.com/albertocairo/status/1057974210960723968 Alberto Cairo's invitees   
