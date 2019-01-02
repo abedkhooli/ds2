@@ -51,7 +51,7 @@ def read_wiki_articles(filename):
     print(f"Wiki text was split to {len(articles)} articles")
     # try to save df
     df = pd.DataFrame({'texts':np.array(articles)})
-    df.to_csv(filename + '2', index=False)
+    df.to_csv('akfile', index=False)
     # end try
     return pd.DataFrame({'texts':np.array(articles)})
 
