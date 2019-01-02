@@ -216,7 +216,7 @@ class LMHyperParams:
             data_lm = TextLMDataBunch.from_df(path=self.cache_dir, train_df=read_wiki_articles(trn_path),
                                               valid_df=read_wiki_articles(val_path),
                                               classes=None, lm_type=self.lm_type, max_vocab=self.max_vocab,
-                                              bs=bs, text_cols='text', **args)
+                                              bs=bs, text_cols='texts', **args)
             data_lm.save('.')
 
         itos, stoi, trn_path = data_lm.vocab.itos, data_lm.vocab.stoi, data_lm.path
