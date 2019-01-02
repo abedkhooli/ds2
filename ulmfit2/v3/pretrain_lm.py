@@ -43,6 +43,10 @@ def read_wiki_articles(filename):
         lines = f.readlines()
     current_article = ''
     for i,line in enumerate(lines):
+        # AK debug
+        if i < 10:
+            print(f'[i] is {i} and [line] is {line}')
+         # end AK debug
         current_article += line
         if i < len(lines)-2 and lines[i+1] == ' \n' and istitle(lines[i+2]):
             articles.append(current_article)
