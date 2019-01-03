@@ -41,22 +41,22 @@ def read_wiki_articles(filename):
     articles = []
     with open(filename, encoding='utf8') as f:
         lines = f.readlines()
-    current_article = ''
+    current_article = []
     for i,line in enumerate(lines):
         if i > 0 and istitle(lines[i-1]):
             continue # skip second title copy (AK check)
-        current_article += line
-        if i < len(lines)-2 and lines[i+1] == ' \n' and istitle(lines[i+2]):
-            articles.append(current_article)
-            current_article = ''
-    articles.append(current_article)
+        current_article.append(line)
+        if i < len(lines)-2 and lines[i+1].strip() == "" and istitle(lines[i+2]):
+            articles.append("".join(current_article))
+            current_article = []
+    articles.append("".join(current_article))
     print(f"Wiki text was split to {len(articles)} articles")
-    # try to save df
-    akfile = 'ak_train' if 'train' in filename.name else 'ak_valid'
-    df = pd.DataFrame({'texts':np.array(articles)})
-    df.to_csv(akfile, index=False)
-    # end try
-    return pd.DataFrame({'texts':np.array(articles)})
+    return pd.DataFrame({'texts': np.array(articles, dtype=np.object)})
+
+# temp func to return df from csv
+def read_wiki_articles_df(filename):
+    return pd.read_csv(filename)
+   
 
 @dataclass
 class LMHyperParams:
@@ -220,8 +220,8 @@ class LMHyperParams:
             print("Tokenized data loaded")
         except FileNotFoundError:
             print("Running tokenization")
-            data_lm = TextLMDataBunch.from_df(path=self.cache_dir, train_df=read_wiki_articles(trn_path),
-                                              valid_df=read_wiki_articles(val_path),
+            data_lm = TextLMDataBunch.from_df(path=self.cache_dir, train_df=read_wiki_articles_df(trn_path),
+                                              valid_df=read_wiki_articles_df(val_path),
                                               classes=None, lm_type=self.lm_type, max_vocab=self.max_vocab,
                                               bs=bs, text_cols='texts', **args)
             data_lm.save('.')
