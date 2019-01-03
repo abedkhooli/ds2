@@ -43,6 +43,8 @@ def read_wiki_articles(filename):
         lines = f.readlines()
     current_article = ''
     for i,line in enumerate(lines):
+        if i > 0 and istitle(lines[i-1]):
+            continue # skip second title copy (AK check)
         current_article += line
         if i < len(lines)-2 and lines[i+1] == ' \n' and istitle(lines[i+2]):
             articles.append(current_article)
