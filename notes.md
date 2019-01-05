@@ -468,6 +468,7 @@ https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw   3blue1brown
 https://www.youtube.com/channel/UC9SPN6qaM0DB455-DrWAdpA?pbjreload=10 Tarrou Chalk Talk  
 https://github.com/pim-book/programmers-introduction-to-mathematics   
 http://vmls-book.stanford.edu/   Algebra 
+https://medium.com/@rathi.ankit/multivariate-calculus-for-data-science-abccf47fce0f     
 
 # Fast.Ai 
 https://github.com/fastai/fastai      
@@ -534,7 +535,8 @@ http://www.dabeaz.com/tutorials.html   and https://speakerdeck.com/dabeaz (David
 https://www.crowdcast.io/treyhunner   
 https://www.reddit.com/r/learnpython    
 https://docs.python.org/3.6/ (https://docs.python.org/3.6/tutorial/index.html)   
-https://github.com/yasoob/intermediatePython  <====     
+https://github.com/yasoob/intermediatePython  <====   
+https://towardsdatascience.com/python-for-data-science-from-scratch-part-i-390f01d91748     
 
 https://www.grnewsletters.com/archive/dataschool/Best-resources-for-going-deeper-with-Python-702398502.html   
 https://www.youtube.com/channel/UCW6TXMZ5Pq6yL6_k5NZ2e0Q  socratica   
