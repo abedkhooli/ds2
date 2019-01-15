@@ -473,6 +473,7 @@ https://medium.com/@rathi.ankit/multivariate-calculus-for-data-science-abccf47fc
 # Fast.Ai 
 https://github.com/fastai/fastai      
 https://github.com/radekosmulski/quickdraw   
+https://medium.com/@wgilliam/finding-data-block-nirvana-a-journey-through-the-fastai-data-block-api-c38210537fe4   
 
 # Vision  
 https://cloud.google.com/vision/    
@@ -490,7 +491,8 @@ https://simplystatistics.org/2017/03/16/evo-ds-class/
 https://archive.ics.uci.edu/ml/datasets     
 https://www.linkedin.com/feed/update/urn:li:activity:6459106684878020608   
 https://github.com/brohrer/academic_advisory   
-https://toolbox.google.com/datasetsearch   
+https://toolbox.google.com/datasetsearch  
+https://msropendata.com/  Microsoft open research data  
 https://www.kaggle.com/datasets   
 https://github.com/awesomedata/awesome-public-datasets    
 https://www.menadata.net   
@@ -499,6 +501,7 @@ https://digitalimpact.io/
 https://www.data.gov/   
 https://www.wikidata.org/wiki/Wikidata:Main_Page   
 https://data-miner.io/   
+https://medium.com/datadriveninvestor/the-50-best-public-datasets-for-machine-learning-d80e9f030279     
 https://einstein.ai/research/blog/the-wikitext-long-term-dependency-language-modeling-dataset    
 https://storage.googleapis.com/openimages/web/index.html  Google Images V4    
 https://github.com/Tencent/tencent-ml-images  Tencent ML Images     
@@ -597,4 +600,8 @@ https://www.kdnuggets.com/2018/12/introduction-named-entity-recognition.html
 
 # Kaggle 
 https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle/notebook  Notebooks by topic   
+
+
+https://ai.googleblog.com/2019/01/looking-back-at-googles-research.html  
+https://medium.com/@rtatman/evaluating-text-output-in-nlp-bleu-at-your-own-risk-e8609665a213 NLP BLEU  
 
