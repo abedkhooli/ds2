@@ -500,6 +500,7 @@ https://www.interviewqs.com/blog/free_online_data_sets
 https://digitalimpact.io/   
 https://www.data.gov/   
 https://www.wikidata.org/wiki/Wikidata:Main_Page   
+https://databank.worldbank.org/data/home 
 https://data-miner.io/   
 https://medium.com/datadriveninvestor/the-50-best-public-datasets-for-machine-learning-d80e9f030279     
 https://einstein.ai/research/blog/the-wikitext-long-term-dependency-language-modeling-dataset    
@@ -604,4 +605,9 @@ https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle/notebook  Noteboo
 
 https://ai.googleblog.com/2019/01/looking-back-at-googles-research.html  
 https://medium.com/@rtatman/evaluating-text-output-in-nlp-bleu-at-your-own-risk-e8609665a213 NLP BLEU  
+https://hotpotqa.github.io/wiki-readme.html   
+https://course.fast.ai/lessons/lessons.html <===================================    
+https://www.technologyreview.com/s/612726/this-algorithm-browses-wikipedia-to-auto-generate-textbooks/   
+https://pytorch.org/tutorials/beginner/nn_tutorial.html  
+https://www.drivendata.org/competitions/   
 
