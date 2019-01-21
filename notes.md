@@ -19,7 +19,11 @@ http://scikit-learn.org/stable/related_projects.html#interoperability-and-framew
 https://gengo.ai/articles/20-best-youtube-channels-for-ai-and-machine-learning/    
 https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy  **** Great notebook ****  
 https://christophm.github.io/interpretable-ml-book/     Interpretable Machine Learning   
+https://www.cs.toronto.edu/~hinton/coursera_lectures.html (NN Essentials) Jeff Hinton course 2012 <=======     
+https://arxiv.org/abs/1811.12808  Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning Sebastian Raschka    
+https://www.datahelpers.org/   ask for help on datascience via Twitter   
 
+https://medium.com/ibm-watson-data-lab/the-visual-python-debugger-for-jupyter-notebooks-youve-always-wanted-761713babc62  pixie jupyter notebook debugger https://github.com/pixiedust/pixiedust  
 https://towardsdatascience.com/python-for-data-science-8-concepts-you-may-have-forgotten-i-did-825966908393  
 https://explained.ai/matrix-calculus/index.html Matrix Calculus You Need For Deep Learning     
 https://github.com/THUNLP-MT/MT-Reading-List Machine Translation reading list    
@@ -115,7 +119,8 @@ http://u.cs.biu.ac.il/~yogo/blackbox2018.pdf    RNN for NLP
 https://github.com/huggingface/pytorch-pretrained-BERT  Google's BERT in PyTorch    
 https://github.com/fastai/course-v3/blob/master/nbs/dl1/00_notebook_tutorial.ipynb   V3    
 https://github.com/huggingface/hmtl/tree/master/demo   <=== HMTL NLP  
-
+https://towardsdatascience.com/neural-networks-and-philosophy-of-language-31c34c0796da  w2vec, glove, fasttext    
+https://www.lyrn.ai/2019/01/16/transformer-xl-sota-language-model/ (https://jalammar.github.io/illustrated-transformer/)     
 
 ## General 
 https://www.lfd.uci.edu/~gohlke/pythonlibs/ <---- Python wheels (esp. for Windows installation issues)   
