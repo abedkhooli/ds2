@@ -416,7 +416,8 @@ https://github.com/sgugger/Deep-Learning/blob/master/Building%20a%20French%20LM.
 https://github.com/nafizh/Neural_language_model_bangla   
 https://github.com/binga/fastai_notes/blob/master/experiments/notebooks/lang_models/Telugu_Language_Model.ipynb  
 https://www.kaggle.com/anshulrai/preprocessing-train-and-test-data/code  sentencepiece  
-https://github.com/Separius/awesome-sentence-embedding (may be https://arxiv.org/abs/1806.06259)    
+https://github.com/Separius/awesome-sentence-embedding (may be https://arxiv.org/abs/1806.06259)   
+https://code.fb.com/ai-research/laser-multilingual-sentence-embeddings/   <===== LASER     
 
 
 https://github.com/jupyter-widgets/ipyleaflet   
@@ -545,7 +546,9 @@ https://www.crowdcast.io/treyhunner
 https://www.reddit.com/r/learnpython    
 https://docs.python.org/3.6/ (https://docs.python.org/3.6/tutorial/index.html)   
 https://github.com/yasoob/intermediatePython  <====   
-https://towardsdatascience.com/python-for-data-science-from-scratch-part-i-390f01d91748     
+https://towardsdatascience.com/python-for-data-science-from-scratch-part-i-390f01d91748    
+https://towardsdatascience.com/python-for-data-science-from-scratch-part-ii-e4dd4b943aba  
+
 
 https://www.grnewsletters.com/archive/dataschool/Best-resources-for-going-deeper-with-Python-702398502.html   
 https://www.youtube.com/channel/UCW6TXMZ5Pq6yL6_k5NZ2e0Q  socratica   
