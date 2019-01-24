@@ -487,6 +487,7 @@ https://towardsdatascience.com/how-to-build-an-image-duplicate-finder-f8714ddca9
 
 # Transfer learning  
 https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a  
+https://github.com/facebookresearch/LASER   
 
 # Stats for ML 
 https://www.datasciencecentral.com/profiles/blogs/29-statistical-concepts-explained-in-simple-english-part-1    
@@ -618,4 +619,10 @@ https://course.fast.ai/lessons/lessons.html <===================================
 https://www.technologyreview.com/s/612726/this-algorithm-browses-wikipedia-to-auto-generate-textbooks/   
 https://pytorch.org/tutorials/beginner/nn_tutorial.html  
 https://www.drivendata.org/competitions/   
+https://www.topbots.com/most-important-ai-nlp-research/  <======================== 
+
+https://medium.com/@pierre_guillou/data-augmentation-by-fastai-v1-84ca04bea302     images via fastai    
+https://ai.googleblog.com/2019/01/natural-questions-new-corpus-and.html   
+https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/  <==========================     
+
 
