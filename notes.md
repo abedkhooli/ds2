@@ -624,5 +624,10 @@ https://www.topbots.com/most-important-ai-nlp-research/  <======================
 https://medium.com/@pierre_guillou/data-augmentation-by-fastai-v1-84ca04bea302     images via fastai    
 https://ai.googleblog.com/2019/01/natural-questions-new-corpus-and.html   
 https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/  <==========================     
+http://phontron.com/class/nn4nlp2019/schedule.html <===-====-====-===-=====
+
+
+https://www.fast.ai/2019/01/24/course-v3/ (https://course.fast.ai/videos/?lesson=1) FastAI Course using fastai V1    
+
 
 
