@@ -120,7 +120,8 @@ https://github.com/huggingface/pytorch-pretrained-BERT  Google's BERT in PyTorch
 https://github.com/fastai/course-v3/blob/master/nbs/dl1/00_notebook_tutorial.ipynb   V3    
 https://github.com/huggingface/hmtl/tree/master/demo   <=== HMTL NLP  
 https://towardsdatascience.com/neural-networks-and-philosophy-of-language-31c34c0796da  w2vec, glove, fasttext    
-https://www.lyrn.ai/2019/01/16/transformer-xl-sota-language-model/ (https://jalammar.github.io/illustrated-transformer/)     
+https://www.lyrn.ai/2019/01/16/transformer-xl-sota-language-model/ (https://jalammar.github.io/illustrated-transformer/)    
+http://nacloweb.org/    
 
 ## General 
 https://www.lfd.uci.edu/~gohlke/pythonlibs/ <---- Python wheels (esp. for Windows installation issues)   
@@ -522,7 +523,8 @@ https://twitter.com/stanfordnlp/status/1080136432075722752  Stanfrd NLP group tw
 https://twitter.com/albertocairo/status/1057974210960723968 Alberto Cairo's invitees   
 https://charticulator.com/   
 https://twitter.com/jayvanbavel/status/1060543214665564161 graphic design and data viz cheat sheets    
-https://blog.visme.co/best-data-visualizations/    Best Data Viz     
+https://blog.visme.co/best-data-visualizations/    Best Data Viz  
+https://www.allendowney.com/blog/2019/01/18/the-library-of-data-visualization/  books, blogs, videos and tools <======     
 
 # AI Ethics    
 https://medium.com/@miad/100-brilliant-women-in-ai-ethics-to-follow-in-2019-and-beyond-92f467aa6232   
@@ -566,7 +568,9 @@ https://stallion.ai/en/home   <--- Ar word embedding
 https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs  
 https://github.com/Machine-Learning-Tokyo/DL-workshop-series colab deep nets  
 https://lilianweng.github.io/lil-log/  meta learning, word embedding, ... etc   
-https://github.com/GokuMohandas/practicalAI <=================================    
+https://github.com/GokuMohandas/practicalAI <=================================   
+http://josh-tobin.com/troubleshooting-deep-neural-networks <===========  
+https://arxiv.org/abs/1901.07931 <=== text generation: https://twitter.com/verena_rieser, https://twitter.com/tuetschek   
 
 # Bias, Variance and Overfitting  
 https://twitter.com/rctatman/status/1060325912434995201   bias-variance tradeoff    
@@ -627,7 +631,11 @@ https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/  <=================
 http://phontron.com/class/nn4nlp2019/schedule.html <===-====-====-===-=====
 
 
-https://www.fast.ai/2019/01/24/course-v3/ (https://course.fast.ai/videos/?lesson=1) FastAI Course using fastai V1    
+https://www.fast.ai/2019/01/24/course-v3/ (https://course.fast.ai/videos/?lesson=1) FastAI Course using fastai V1  
+https://cedrickchee.gitbook.io/knowledge/courses/fast.ai/deep-learning-part-1-practical-deep-learning-for-coders/2019-edition   
+
+
+
 
 
 
