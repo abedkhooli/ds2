@@ -632,7 +632,8 @@ http://phontron.com/class/nn4nlp2019/schedule.html <===-====-====-===-=====
 
 
 https://www.fast.ai/2019/01/24/course-v3/ (https://course.fast.ai/videos/?lesson=1) FastAI Course using fastai V1  
-https://cedrickchee.gitbook.io/knowledge/courses/fast.ai/deep-learning-part-1-practical-deep-learning-for-coders/2019-edition   
+https://cedrickchee.gitbook.io/knowledge/courses/fast.ai/deep-learning-part-1-practical-deep-learning-for-coders/2019-edition  
+https://www.youtube.com/watch?v=p9tpTt6ZsLI&index=2&list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW  http://courses.d2l.ai  http://www.d2l.ai   
 
 
 
