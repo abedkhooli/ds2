@@ -29,6 +29,8 @@ https://explained.ai/matrix-calculus/index.html Matrix Calculus You Need For Dee
 https://github.com/THUNLP-MT/MT-Reading-List Machine Translation reading list    
 https://github.com/radekosmulski/whale/blob/master/fluke_detection.ipynb  fastai object detection  
 
+https://www.analyticsvidhya.com/blog/2018/12/best-data-science-machine-learning-projects-github/   
+
 # DataScience 
 https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7   
 https://twitter.com/zaidalyafeai/status/1066664451984773121  ML courses   
@@ -89,6 +91,10 @@ http://videolectures.net/Top/Computer_Science/Data_Mining/#l=en
 https://twitter.com/_brohrer_/status/1054298773541670912  Math4ML  
 https://www.youtube.com/watch?v=UiF0FyMFO-8   Model selection BRohrer     
 https://github.com/dustinvtran/ml-videos ML Videos    
+
+# Explaianed AI 
+https://becominghuman.ai/interpretable-machine-learning-an-overview-10684eaa1fd7  
+https://towardsdatascience.com/understanding-how-lime-explains-predictions-d404e5d1829c  
 
 # NLP  
 https://github.com/tesseract-ocr/tesseract  Open OCR   
@@ -221,7 +227,7 @@ https://spacy.io/universe/  stuff built for or with spaCy
 http://www.joshblog.co.uk/posts/20180210_python_text_visualization_coffee_analysis_part_III  
 http://wp.arenji.com/2018/05/09/beyond-intents-and-entities/   
 https://www.reddit.com/r/textdatamining/comments/8k3tpk/getting_started_with_spacy_for_natural_language/?st=jhai93us&sh=d8ab3dc3     
-
+https://github.com/explosion/spaCy/pull/2931  
 
 ## Gensim  
 https://github.com/RaRe-Technologies/talks/tree/master/2018-03-23_MLPrague-workshop  Notebooks on W2Vec, FT, etc.   
@@ -481,6 +487,8 @@ https://medium.com/@rathi.ankit/multivariate-calculus-for-data-science-abccf47fc
 https://github.com/fastai/fastai      
 https://github.com/radekosmulski/quickdraw   
 https://medium.com/@wgilliam/finding-data-block-nirvana-a-journey-through-the-fastai-data-block-api-c38210537fe4   
+https://hackernoon.com/rtx-2080ti-vs-gtx-1080ti-fastai-mixed-precision-training-comparisons-on-cifar-100-761d8f615d7f   
+https://github.com/PPPW/deep-learning-random-explore/blob/master/CNN_archs/cnn_archs.ipynb   
 
 # Vision  
 https://cloud.google.com/vision/    
@@ -571,6 +579,7 @@ https://lilianweng.github.io/lil-log/  meta learning, word embedding, ... etc
 https://github.com/GokuMohandas/practicalAI <=================================   
 http://josh-tobin.com/troubleshooting-deep-neural-networks <===========  
 https://arxiv.org/abs/1901.07931 <=== text generation: https://twitter.com/verena_rieser, https://twitter.com/tuetschek   
+https://www.kdnuggets.com/2018/02/8-neural-network-architectures-machine-learning-researchers-need-learn.html   
 
 # Bias, Variance and Overfitting  
 https://twitter.com/rctatman/status/1060325912434995201   bias-variance tradeoff    
@@ -608,6 +617,10 @@ http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 https://medium.com/dissecting-bert  
 http://gandissect.res.ibm.com/ganpaint.html?project=churchoutdoor&layer=layer4   
 
+# Python Hosting  
+http://kyso.io/   ex. Bokeh 
+https://www.pythonanywhere.com/   
+https://www.heroku.com/ 
 
 # NER  
 https://www.kdnuggets.com/2018/12/introduction-named-entity-recognition.html  
@@ -635,7 +648,7 @@ https://www.fast.ai/2019/01/24/course-v3/ (https://course.fast.ai/videos/?lesson
 https://cedrickchee.gitbook.io/knowledge/courses/fast.ai/deep-learning-part-1-practical-deep-learning-for-coders/2019-edition  
 https://www.youtube.com/watch?v=p9tpTt6ZsLI&index=2&list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW  http://courses.d2l.ai  http://www.d2l.ai   
 
-
+https://colab.research.google.com/drive/1jUpGwTaY9vJsUVw1tgwwXqKz6UOsvV1a 
 
 
 
