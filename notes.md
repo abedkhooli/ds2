@@ -97,6 +97,7 @@ https://becominghuman.ai/interpretable-machine-learning-an-overview-10684eaa1fd7
 https://towardsdatascience.com/understanding-how-lime-explains-predictions-d404e5d1829c  
 
 # NLP  
+https://docs.google.com/presentation/d/e/2PACX-1vSNssslqRy6zjr6OyhGNUJGYnwyrIP5jTc72usf0Bhi_iW_31j_g4wl52Tu-aqxKxOsvjfwrais4I38/pub?start=false&loop=false&delayms=3000#slide=id.g4e4dd52cc4_0_0    NLP Today    
 https://github.com/tesseract-ocr/tesseract  Open OCR   
 https://twitter.com/supernlpblog/status/1067341618880098309 <== sentence representations   
 https://github.com/sebastianruder/NLP-progress      
@@ -617,16 +618,23 @@ http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 https://medium.com/dissecting-bert  
 http://gandissect.res.ibm.com/ganpaint.html?project=churchoutdoor&layer=layer4   
 
-# Python Hosting  
+# Python Hosting (free)    
 http://kyso.io/   ex. Bokeh 
 https://www.pythonanywhere.com/   
 https://www.heroku.com/ 
+https://course.fast.ai/deployment_render.html   
 
 # NER  
 https://www.kdnuggets.com/2018/12/introduction-named-entity-recognition.html  
 
 # Kaggle 
 https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle/notebook  Notebooks by topic   
+
+# visuals 
+http://setosa.io/
+https://platform.ai/ 
+http://matrixmultiplication.xyz/  
+http://neuralnetworksanddeeplearning.com/
 
 
 https://ai.googleblog.com/2019/01/looking-back-at-googles-research.html  
