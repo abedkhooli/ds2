@@ -484,12 +484,48 @@ https://github.com/pim-book/programmers-introduction-to-mathematics
 http://vmls-book.stanford.edu/   Algebra 
 https://medium.com/@rathi.ankit/multivariate-calculus-for-data-science-abccf47fce0f     
 
-# Fast.Ai 
+# Fast.Ai  
+"Val loss lower than train loss means you are under-fitting. Val loss should always be higher than train loss when you are finished fitting." JH    
 https://github.com/fastai/fastai      
 https://github.com/radekosmulski/quickdraw   
 https://medium.com/@wgilliam/finding-data-block-nirvana-a-journey-through-the-fastai-data-block-api-c38210537fe4   
 https://hackernoon.com/rtx-2080ti-vs-gtx-1080ti-fastai-mixed-precision-training-comparisons-on-cifar-100-761d8f615d7f   
 https://github.com/PPPW/deep-learning-random-explore/blob/master/CNN_archs/cnn_archs.ipynb   
+__Examples__:  
+https://github.com/etown/dl1/blob/master/UrbanSoundClassification.ipynb  
+https://github.com/poppingtonic/dl-studies/blob/master/imageCLEF2013_plant_types.ipynb  
+https://github.com/kheyer/ML-DL-Projects/blob/master/Pets%20TSNE/pets_tsne.ipynb   
+https://github.com/MicPie/fastai_course_v3/blob/master/L1-stonefly.ipynb  
+https://medium.com/@aayushmnit/transfer-learning-using-the-fastai-library-d686b238213e  
+https://blog.usejournal.com/if-i-can-you-can-and-you-should-a470d7aea89d + 
+http://nbviewer.jupyter.org/github/jamesdellinger/fastai_practical_deep_learning_course_v3/blob/master/lesson1_mini_sideproject.ipynb?flush_cache=true    
+https://medium.com/@alenaharley/the-mystery-of-the-origin-cancer-type-classification-using-fast-ai-libray-212eaf8d3f4e    
+https://forums.fast.ai/t/share-your-work-here/27676/197   audio   
+https://colab.research.google.com/drive/16BiLegPGx5G911B15wAUBSKjFZRcyhxR   sound  
+https://medium.com/@zachcaceres/deep-learning-can-we-use-computer-vision-to-predict-the-composer-of-classical-music-464dd5516996  (https://github.com/zcaceres/deep-learning-composer-prediction) sound   
+https://colab.research.google.com/drive/1AwlscWIaaygthL7p0ZQfbREmiM19NFUb Fashion   
+https://github.com/albertnaur/fastaiNotebooks/blob/master/mammo/mammo_tiles.ipynb  
+https://github.com/ademyanchuk/course-v3/blob/master/nbs/dl1/lesson-1-pneumonia-dai.ipynb   
+https://github.com/dzlab/deepprojects/blob/master/classification/EyeEm_Image_Dataset_Download.ipynb   
+
+
+
+
+# Tools collection 
+https://github.com/hardikvasa/google-images-download  Google image downloader  
+https://github.com/cwerner/fastclass +  https://www.christianwerner.net/tech/Build-your-image-dataset-faster   (download images)  
+https://github.com/wfleshman/DatasetScraper   
+https://github.com/aakashns/servefastai + https://www.youtube.com/watch?v=xwN7arEgvBg  "takes a FastAI Learner and creates a web-based UI where you can upload one more images and check your model’s predictions"   
+
+
+# visual explanations  
+http://setosa.io/
+https://platform.ai/ 
+http://matrixmultiplication.xyz/  
+http://neuralnetworksanddeeplearning.com/
+https://nbviewer.jupyter.org/gist/joshfp/85d96f07aaa5f4d2c9eb47956ccdcc88/lesson2-sgd-in-action.ipynb    
+
+
 
 # Vision  
 https://cloud.google.com/vision/    
@@ -538,6 +574,7 @@ https://www.allendowney.com/blog/2019/01/18/the-library-of-data-visualization/  
 # AI Ethics    
 https://medium.com/@miad/100-brilliant-women-in-ai-ethics-to-follow-in-2019-and-beyond-92f467aa6232   
 https://www.kdnuggets.com/datasets/index.html    
+https://course.fast.ai/videos/?lesson=6 @ 1:50:00 - end (2:17:00)    
 
 # Learn Python   
 https://twitter.com/math_rachel/status/1058089708155166720    Rachel   
@@ -629,12 +666,6 @@ https://www.kdnuggets.com/2018/12/introduction-named-entity-recognition.html
 
 # Kaggle 
 https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle/notebook  Notebooks by topic   
-
-# visuals 
-http://setosa.io/
-https://platform.ai/ 
-http://matrixmultiplication.xyz/  
-http://neuralnetworksanddeeplearning.com/
 
 
 https://ai.googleblog.com/2019/01/looking-back-at-googles-research.html  
