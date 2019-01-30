@@ -492,6 +492,7 @@ https://medium.com/@wgilliam/finding-data-block-nirvana-a-journey-through-the-fa
 https://hackernoon.com/rtx-2080ti-vs-gtx-1080ti-fastai-mixed-precision-training-comparisons-on-cifar-100-761d8f615d7f   
 https://github.com/PPPW/deep-learning-random-explore/blob/master/CNN_archs/cnn_archs.ipynb   
 __Examples__:  
+https://www.kaggle.com/tamlyn/titanic-fastai Titanic   
 https://github.com/etown/dl1/blob/master/UrbanSoundClassification.ipynb  
 https://github.com/poppingtonic/dl-studies/blob/master/imageCLEF2013_plant_types.ipynb  
 https://github.com/kheyer/ML-DL-Projects/blob/master/Pets%20TSNE/pets_tsne.ipynb   
@@ -503,7 +504,8 @@ https://medium.com/@alenaharley/the-mystery-of-the-origin-cancer-type-classifica
 https://forums.fast.ai/t/share-your-work-here/27676/197   audio   
 https://colab.research.google.com/drive/16BiLegPGx5G911B15wAUBSKjFZRcyhxR   sound  
 https://github.com/Insiyaa/Music-Genre-Classification   
-https://medium.com/@zachcaceres/deep-learning-can-we-use-computer-vision-to-predict-the-composer-of-classical-music-464dd5516996  (https://github.com/zcaceres/deep-learning-composer-prediction) sound   
+https://medium.com/@zachcaceres/deep-learning-can-we-use-computer-vision-to-predict-the-composer-of-classical-music-464dd5516996  (https://github.com/zcaceres/deep-learning-composer-prediction) sound  
+https://medium.com/@johnhartquist/audio-classification-using-fastai-and-on-the-fly-frequency-transforms-4dbe1b540f89  audio   
 https://colab.research.google.com/drive/1AwlscWIaaygthL7p0ZQfbREmiM19NFUb Fashion   
 https://github.com/albertnaur/fastaiNotebooks/blob/master/mammo/mammo_tiles.ipynb  
 https://github.com/ademyanchuk/course-v3/blob/master/nbs/dl1/lesson-1-pneumonia-dai.ipynb   
@@ -524,7 +526,25 @@ https://medium.com/@meghana97g/classification-of-tumor-tissue-using-deep-learnin
 https://github.com/btahir/age-detector  
 https://github.com/dzlab/deepprojects/blob/master/collabfiltering/Collaborative_Filtering_Book_Recommendation.ipynb collab books   
 https://radekosmulski.github.io/answers/html/What%20are%20pretrained%20models%3F.html  pretrained models?   
-
+https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000    
+https://github.com/LaurenSpiegel/course-v3/blob/master/nbs/dl1/age_regression.ipynb   age regression  
+https://gist.github.com/andrewreece/9112dc5f893f79d53dc4d219905dd92a lang model GUtenburg   
+https://vinpetersen.github.io/2018-11-23-a-guided-tour-through-a-convolutional-neural-network-part-1/  CNNs (4 parts)    
+https://github.com/anurags25/FastAI-LIME/blob/master/LIME-Pets.ipynb Lime adapted  
+https://medium.com/@diazagasatya/will-dropout-regularization-prevents-your-model-to-overfit-11afa10cd4e0 dropout  
+https://medium.com/@lunchwithalens/deploying-my-fastai-predictor-to-microsoft-azure-c7e635d464a1 deploy to Azure  
+https://forums.fast.ai/uploads/default/original/2X/a/aba4b114ffabc2cfe69e570d39090f88103e3ca4.pdf thermal face auth.   
+https://towardsdatascience.com/how-to-build-an-image-duplicate-finder-f8714ddca9d2 duplicatae image detector    
+https://github.com/ricknta/fake-news  fake news detection   
+https://github.com/martin-merener/deep_learning/tree/master/more_transfer_learning Misc   
+https://github.com/ttdoucet/mnist/blob/master/mnist.ipynb Mnist  
+https://github.com/renato145/fastai_scans medical imaging  
+https://nbviewer.jupyter.org/github/shubhajitml/crop-disease-detector/blob/master/notebook/plant_village.ipynb  crop disease   
+https://medium.com/@pierre_guillou/data-augmentation-by-fastai-v1-84ca04bea302 augmentation  
+__V3 Resources__: 
+https://forums.fast.ai/t/lesson-1-official-resources-and-updates/27936  https://forums.fast.ai/t/lesson-2-official-resources-and-updates/28630  
+https://forums.fast.ai/t/lesson-3-official-resources-and-updates/29732  https://forums.fast.ai/t/lesson-4-official-resources-and-updates/30317  
+https://forums.fast.ai/t/lesson-5-official-resources-and-updates/30863  https://forums.fast.ai/t/lesson-6-official-resources-and-updates/31441  https://forums.fast.ai/t/lesson-7-official-resources/32553 
 
 
 # Python Hosting (free)    
