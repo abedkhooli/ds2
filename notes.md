@@ -502,12 +502,37 @@ http://nbviewer.jupyter.org/github/jamesdellinger/fastai_practical_deep_learning
 https://medium.com/@alenaharley/the-mystery-of-the-origin-cancer-type-classification-using-fast-ai-libray-212eaf8d3f4e    
 https://forums.fast.ai/t/share-your-work-here/27676/197   audio   
 https://colab.research.google.com/drive/16BiLegPGx5G911B15wAUBSKjFZRcyhxR   sound  
+https://github.com/Insiyaa/Music-Genre-Classification   
 https://medium.com/@zachcaceres/deep-learning-can-we-use-computer-vision-to-predict-the-composer-of-classical-music-464dd5516996  (https://github.com/zcaceres/deep-learning-composer-prediction) sound   
 https://colab.research.google.com/drive/1AwlscWIaaygthL7p0ZQfbREmiM19NFUb Fashion   
 https://github.com/albertnaur/fastaiNotebooks/blob/master/mammo/mammo_tiles.ipynb  
 https://github.com/ademyanchuk/course-v3/blob/master/nbs/dl1/lesson-1-pneumonia-dai.ipynb   
 https://github.com/dzlab/deepprojects/blob/master/classification/EyeEm_Image_Dataset_Download.ipynb   
+https://redditech.blog/2018/11/04/hosting-fastai-app-in-azure-websites-for-containers/  web app azure   
+https://github.com/nikhilno1/healthy-or-not + https://github.com/nikhilno1/healthy-or-not/blob/master/heroku-deploy.md   
+https://gist.github.com/hkristen/971af4233952c506b8cfbcfc007c52c1 plants 
+https://gist.github.com/oguiza/c9c373aec07b96047d1ba484f23b7b47 (https://gist.github.com/oguiza/26020067f499d48dc52e5bcb8f5f1c57) time series   
+https://medium.com/@lankinen/fastai-model-to-production-this-is-how-you-make-web-app-that-use-your-model-57d8999450cf production how-to  
+https://github.com/sparalic/Poisonous-Plants-Image-Classifier/tree/master  poisonous plants  
+https://github.com/etown/dl1/blob/master/face/README.md  face emotions   
+https://github.com/oasis789/Arabic-Handwritten-Characters-Dataset Arabic hand written chars (https://www.primaresearch.org/RASM2018/)   
+https://medium.com/@tmckenzie.nz/using-the-fastai-data-block-api-b4818e72155b   data block API   
+https://medium.com/@iliazaitsev/how-to-implement-a-recommendation-system-with-deep-learning-and-pytorch-2d40476590f9   collab  
+https://medium.com/@surhar88/fast-ai-journey-part-1-lesson-3-theory-review-learning-rates-and-activation-functions-ab967a5f0eec   
+https://gist.github.com/joshfp/b62b76eae95e6863cb511997b5a63118 Tabular/ulmfit (https://forums.fast.ai/t/share-your-work-here/27676/526)   
+https://medium.com/@meghana97g/classification-of-tumor-tissue-using-deep-learning-fastai-77252ae16045 Tumor tissue  
+https://github.com/btahir/age-detector  
+https://github.com/dzlab/deepprojects/blob/master/collabfiltering/Collaborative_Filtering_Book_Recommendation.ipynb collab books   
+https://radekosmulski.github.io/answers/html/What%20are%20pretrained%20models%3F.html  pretrained models?   
 
+
+
+# Python Hosting (free)    
+http://kyso.io/   ex. Bokeh 
+https://www.pythonanywhere.com/   
+https://www.heroku.com/ 
+https://course.fast.ai/deployment_render.html  
+https://course.fast.ai/deployment_zeit.html   
 
 
 
@@ -516,6 +541,9 @@ https://github.com/hardikvasa/google-images-download  Google image downloader
 https://github.com/cwerner/fastclass +  https://www.christianwerner.net/tech/Build-your-image-dataset-faster   (download images)  
 https://github.com/wfleshman/DatasetScraper   
 https://github.com/aakashns/servefastai + https://www.youtube.com/watch?v=xwN7arEgvBg  "takes a FastAI Learner and creates a web-based UI where you can upload one more images and check your model’s predictions"   
+https://github.com/gurvindersingh/mlapp  
+https://towardsdatascience.com/building-web-app-for-computer-vision-model-deploying-to-production-in-10-minutes-a-detailed-ec6ac52ec7e4?gi=2f093af38b0c  (https://github.com/pankymathur/fastai-vision-app) 
+
 
 
 # visual explanations  
@@ -655,11 +683,6 @@ http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 https://medium.com/dissecting-bert  
 http://gandissect.res.ibm.com/ganpaint.html?project=churchoutdoor&layer=layer4   
 
-# Python Hosting (free)    
-http://kyso.io/   ex. Bokeh 
-https://www.pythonanywhere.com/   
-https://www.heroku.com/ 
-https://course.fast.ai/deployment_render.html   
 
 # NER  
 https://www.kdnuggets.com/2018/12/introduction-named-entity-recognition.html  
