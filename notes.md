@@ -541,16 +541,16 @@ https://github.com/ttdoucet/mnist/blob/master/mnist.ipynb Mnist
 https://github.com/renato145/fastai_scans medical imaging  
 https://nbviewer.jupyter.org/github/shubhajitml/crop-disease-detector/blob/master/notebook/plant_village.ipynb  crop disease   
 https://medium.com/@pierre_guillou/data-augmentation-by-fastai-v1-84ca04bea302 augmentation  
-__V3 Resources__: 
+__V3 Resources__:    
 https://forums.fast.ai/t/lesson-1-official-resources-and-updates/27936  https://forums.fast.ai/t/lesson-2-official-resources-and-updates/28630  
 https://forums.fast.ai/t/lesson-3-official-resources-and-updates/29732  https://forums.fast.ai/t/lesson-4-official-resources-and-updates/30317  
 https://forums.fast.ai/t/lesson-5-official-resources-and-updates/30863  https://forums.fast.ai/t/lesson-6-official-resources-and-updates/31441  https://forums.fast.ai/t/lesson-7-official-resources/32553 
 
 
 # Python Hosting (free)    
-http://kyso.io/   ex. Bokeh 
-https://www.pythonanywhere.com/   
-https://www.heroku.com/ 
+http://kyso.io/   ex. Bokeh   
+https://www.pythonanywhere.com/    
+https://www.heroku.com/  
 https://course.fast.ai/deployment_render.html  
 https://course.fast.ai/deployment_zeit.html   
 
