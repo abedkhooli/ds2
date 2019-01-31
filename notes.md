@@ -541,11 +541,15 @@ https://github.com/martin-merener/deep_learning/tree/master/more_transfer_learni
 https://github.com/ttdoucet/mnist/blob/master/mnist.ipynb Mnist  
 https://github.com/renato145/fastai_scans medical imaging  
 https://nbviewer.jupyter.org/github/shubhajitml/crop-disease-detector/blob/master/notebook/plant_village.ipynb  crop disease   
-https://medium.com/@pierre_guillou/data-augmentation-by-fastai-v1-84ca04bea302 augmentation  
+https://medium.com/@pierre_guillou/data-augmentation-by-fastai-v1-84ca04bea302 augmentation   
+https://twitter.com/icecold_spinbot/status/1090638453493116929  train/test leakage   
+https://github.com/DaveSmith227/deep-elon-tweet-generator (https://deepelon.com/)  
+https://towardsdatascience.com/cutting-edge-face-recognition-is-complicated-these-spreadsheets-make-it-easier-e7864dbf0e1a    
 __V3 Resources__:    
 https://forums.fast.ai/t/lesson-1-official-resources-and-updates/27936  https://forums.fast.ai/t/lesson-2-official-resources-and-updates/28630  
 https://forums.fast.ai/t/lesson-3-official-resources-and-updates/29732  https://forums.fast.ai/t/lesson-4-official-resources-and-updates/30317  
-https://forums.fast.ai/t/lesson-5-official-resources-and-updates/30863  https://forums.fast.ai/t/lesson-6-official-resources-and-updates/31441  https://forums.fast.ai/t/lesson-7-official-resources/32553 
+https://forums.fast.ai/t/lesson-5-official-resources-and-updates/30863  https://forums.fast.ai/t/lesson-6-official-resources-and-updates/31441  https://forums.fast.ai/t/lesson-7-official-resources/32553  
+__Lessons as Kaggle kernels__: https://course.fast.ai/start_kaggle.html   
 
 
 # Python Hosting (free)    
@@ -563,7 +567,8 @@ https://github.com/cwerner/fastclass +  https://www.christianwerner.net/tech/Bui
 https://github.com/wfleshman/DatasetScraper   
 https://github.com/aakashns/servefastai + https://www.youtube.com/watch?v=xwN7arEgvBg  "takes a FastAI Learner and creates a web-based UI where you can upload one more images and check your model’s predictions"   
 https://github.com/gurvindersingh/mlapp  
-https://towardsdatascience.com/building-web-app-for-computer-vision-model-deploying-to-production-in-10-minutes-a-detailed-ec6ac52ec7e4?gi=2f093af38b0c  (https://github.com/pankymathur/fastai-vision-app) 
+https://towardsdatascience.com/building-web-app-for-computer-vision-model-deploying-to-production-in-10-minutes-a-detailed-ec6ac52ec7e4?gi=2f093af38b0c  (https://github.com/pankymathur/fastai-vision-app)   
+https://github.com/tchambon/LabelMyTextWidget  text labeling widget    
 
 
 
@@ -572,7 +577,8 @@ http://setosa.io/
 https://platform.ai/ 
 http://matrixmultiplication.xyz/  
 http://neuralnetworksanddeeplearning.com/
-https://nbviewer.jupyter.org/gist/joshfp/85d96f07aaa5f4d2c9eb47956ccdcc88/lesson2-sgd-in-action.ipynb    
+https://nbviewer.jupyter.org/gist/joshfp/85d96f07aaa5f4d2c9eb47956ccdcc88/lesson2-sgd-in-action.ipynb   
+https://seeing-theory.brown.edu/basic-probability/index.html  Stats   
 
 
 
@@ -591,6 +597,7 @@ https://simplystatistics.org/2017/03/16/evo-ds-class/
 
 # Datasets   
 https://archive.ics.uci.edu/ml/datasets     
+https://registry.opendata.aws/  Amazon datasets   
 https://www.linkedin.com/feed/update/urn:li:activity:6459106684878020608   
 https://github.com/brohrer/academic_advisory   
 https://toolbox.google.com/datasetsearch  
@@ -624,6 +631,8 @@ https://www.allendowney.com/blog/2019/01/18/the-library-of-data-visualization/  
 https://medium.com/@miad/100-brilliant-women-in-ai-ethics-to-follow-in-2019-and-beyond-92f467aa6232   
 https://www.kdnuggets.com/datasets/index.html    
 https://course.fast.ai/videos/?lesson=6 @ 1:50:00 - end (2:17:00)    
+https://twitter.com/DSEthics   
+https://www.fast.ai/2019/01/29/five-scary-things/   https://www.youtube.com/watch?v=LqjP7O9SxOM   
 
 # Learn Python   
 https://twitter.com/math_rachel/status/1058089708155166720    Rachel   
@@ -646,6 +655,7 @@ https://docs.python.org/3.6/ (https://docs.python.org/3.6/tutorial/index.html)
 https://github.com/yasoob/intermediatePython  <====   
 https://towardsdatascience.com/python-for-data-science-from-scratch-part-i-390f01d91748    
 https://towardsdatascience.com/python-for-data-science-from-scratch-part-ii-e4dd4b943aba  
+https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428 Pandas pandas <=====      
 
 
 https://www.grnewsletters.com/archive/dataschool/Best-resources-for-going-deeper-with-Python-702398502.html   
@@ -706,7 +716,9 @@ http://gandissect.res.ibm.com/ganpaint.html?project=churchoutdoor&layer=layer4
 
 
 # NER  
-https://www.kdnuggets.com/2018/12/introduction-named-entity-recognition.html  
+https://www.kdnuggets.com/2018/12/introduction-named-entity-recognition.html   
+http://nlpprogress.com/english/named_entity_recognition.html  
+https://research.zalando.com/welcome/mission/research-projects/  
 
 # Kaggle 
 https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle/notebook  Notebooks by topic   
