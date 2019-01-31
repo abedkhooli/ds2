@@ -550,7 +550,7 @@ https://forums.fast.ai/t/lesson-1-official-resources-and-updates/27936  https://
 https://forums.fast.ai/t/lesson-3-official-resources-and-updates/29732  https://forums.fast.ai/t/lesson-4-official-resources-and-updates/30317  
 https://forums.fast.ai/t/lesson-5-official-resources-and-updates/30863  https://forums.fast.ai/t/lesson-6-official-resources-and-updates/31441  https://forums.fast.ai/t/lesson-7-official-resources/32553  
 __Lessons as Kaggle kernels__: https://course.fast.ai/start_kaggle.html   
-
+__Hiromi notes__: https://github.com/hiromis/notes https://twitter.com/hiromi_suenaga  transcription and links 
 
 # Python Hosting (free)    
 http://kyso.io/   ex. Bokeh   
@@ -568,7 +568,8 @@ https://github.com/wfleshman/DatasetScraper
 https://github.com/aakashns/servefastai + https://www.youtube.com/watch?v=xwN7arEgvBg  "takes a FastAI Learner and creates a web-based UI where you can upload one more images and check your model’s predictions"   
 https://github.com/gurvindersingh/mlapp  
 https://towardsdatascience.com/building-web-app-for-computer-vision-model-deploying-to-production-in-10-minutes-a-detailed-ec6ac52ec7e4?gi=2f093af38b0c  (https://github.com/pankymathur/fastai-vision-app)   
-https://github.com/tchambon/LabelMyTextWidget  text labeling widget    
+https://github.com/tchambon/LabelMyTextWidget  text labeling widget  
+https://github.com/unit8co/vegans  Train your own GANs   
 
 
 
