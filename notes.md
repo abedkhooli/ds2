@@ -212,6 +212,7 @@ https://towardsdatascience.com/summarizing-tweets-in-a-disaster-e6b355a41732  tw
 https://towardsdatascience.com/twitter-api-and-nlp-7a386758eb31  Tweets by different users (code, with tweets miner class at https://github.com/elaiken3/twitter_api-nlp-project1)  
 
 ## spaCy  
+https://github.com/explosion/spacy-stanfordnlp   https://stanfordnlp.github.io/stanfordnlp/    
 https://github.com/kororo/excelcy <====================== train and annotate from Excel   =====================
 https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e    
 https://dataflume.wordpress.com/2017/03/17/intro-nlp-python-spacy/   
@@ -493,6 +494,7 @@ https://medium.com/@wgilliam/finding-data-block-nirvana-a-journey-through-the-fa
 https://hackernoon.com/rtx-2080ti-vs-gtx-1080ti-fastai-mixed-precision-training-comparisons-on-cifar-100-761d8f615d7f   
 https://github.com/PPPW/deep-learning-random-explore/blob/master/CNN_archs/cnn_archs.ipynb   
 __Examples__:  
+https://github.com/jantic/deoldify   
 https://www.kaggle.com/tamlyn/titanic-fastai Titanic   
 https://github.com/etown/dl1/blob/master/UrbanSoundClassification.ipynb  
 https://github.com/poppingtonic/dl-studies/blob/master/imageCLEF2013_plant_types.ipynb  
@@ -560,7 +562,6 @@ https://course.fast.ai/deployment_render.html
 https://course.fast.ai/deployment_zeit.html   
 
 
-
 # Tools collection 
 https://github.com/hardikvasa/google-images-download  Google image downloader  
 https://github.com/cwerner/fastclass +  https://www.christianwerner.net/tech/Build-your-image-dataset-faster   (download images)  
@@ -572,7 +573,6 @@ https://github.com/tchambon/LabelMyTextWidget  text labeling widget
 https://github.com/unit8co/vegans  Train your own GANs   
 
 
-
 # visual explanations  
 http://setosa.io/
 https://platform.ai/ 
@@ -581,11 +581,21 @@ http://neuralnetworksanddeeplearning.com/
 https://nbviewer.jupyter.org/gist/joshfp/85d96f07aaa5f4d2c9eb47956ccdcc88/lesson2-sgd-in-action.ipynb   
 https://seeing-theory.brown.edu/basic-probability/index.html  Stats   
 
+# LSTM, BERT, GANs 
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/    
+https://medium.com/dissecting-bert  
+http://gandissect.res.ibm.com/ganpaint.html?project=churchoutdoor&layer=layer4   
+https://github.com/AyushExel/GANs  https://www.youtube.com/watch?v=aZpsxMZbG14&feature=youtu.be    
+
+# Data Lit (siraj Raval)  
+https://www.youtube.com/watch?v=3Pzni2yfGUQ  https://github.com/llSourcell/Sentiment_Analysis/   
+
 
 
 # Vision  
 https://cloud.google.com/vision/    
 https://towardsdatascience.com/how-to-build-an-image-duplicate-finder-f8714ddca9d2  
+https://github.com/bourdakos1/tfjs-object-detection-training    tf js object detection   
 
 # Transfer learning  
 https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a  
@@ -710,12 +720,6 @@ https://glosbe.com/
 http://context.reverso.net/translation/english-arabic/   
 
 
-# LSTM, BERT, GAN 
-http://colah.github.io/posts/2015-08-Understanding-LSTMs/    
-https://medium.com/dissecting-bert  
-http://gandissect.res.ibm.com/ganpaint.html?project=churchoutdoor&layer=layer4   
-
-
 # NER  
 https://www.kdnuggets.com/2018/12/introduction-named-entity-recognition.html   
 http://nlpprogress.com/english/named_entity_recognition.html  
@@ -746,6 +750,6 @@ https://www.youtube.com/watch?v=p9tpTt6ZsLI&index=2&list=PLZSO_6-bSqHQHBCoGaObUl
 
 https://colab.research.google.com/drive/1jUpGwTaY9vJsUVw1tgwwXqKz6UOsvV1a 
 
-
+https://mlcourse.ai/   http://phontron.com/class/nn4nlp2019/schedule.html   
 
 
