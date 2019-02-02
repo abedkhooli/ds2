@@ -752,7 +752,7 @@ https://www.youtube.com/watch?v=p9tpTt6ZsLI&index=2&list=PLZSO_6-bSqHQHBCoGaObUl
 
 https://colab.research.google.com/drive/1jUpGwTaY9vJsUVw1tgwwXqKz6UOsvV1a 
 
-https://mlcourse.ai/   http://phontron.com/class/nn4nlp2019/schedule.html   
+https://mlcourse.ai/   Pytorch: http://phontron.com/class/nn4nlp2019/schedule.html => https://github.com/neubig/nn4nlp-code        https://deeplearning.mit.edu/  https://www.youtube.com/watch?v=O5xeyoRL95U&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf   
 
 https://paperswithcode.com/sota  <================     
 https://kaggledays.com/   
