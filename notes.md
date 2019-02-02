@@ -3,7 +3,8 @@ this doc is not part of this repo in the logical sense but is being hosted here 
 It is currently a set of misc links and notes in no specific structure or purpose or maintenance plan.  
 Use it if you find it useful. 
 On using git: git for poets (https://www.youtube.com/watch?v=BCQHnlnPusY) , also https://www.youtube.com/watch?v=SWYqp7iY_Tc and https://www.youtube.com/watch?v=HVsySz-h9r4   
-https://github.com/jstray/lede-algorithms  for journalism!   
+https://github.com/jstray/lede-algorithms  for journalism!  
+https://www.youtube.com/watch?v=EPVwnG-n4B0 git for data scientists Anreas Muller    
 https://github.com/rasbt/python-machine-learning-book-2nd-edition Sebastian Raschka book examples   
 https://web.stanford.edu/~jurafsky/slp3/  Speech and Language Processing (3rd ed. draft)    
 https://www.kaggle.com/rtatman/getting-started-with-kaggle-workshop-in-a-box   http://data8.org/fa18/  
@@ -742,7 +743,8 @@ https://medium.com/@pierre_guillou/data-augmentation-by-fastai-v1-84ca04bea302  
 https://ai.googleblog.com/2019/01/natural-questions-new-corpus-and.html   
 https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/  <==========================     
 http://phontron.com/class/nn4nlp2019/schedule.html <===-====-====-===-=====
-
+https://www.youtube.com/watch?v=N17ovGpUz3M&list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW&index=6  Alex Smola      
+   
 
 https://www.fast.ai/2019/01/24/course-v3/ (https://course.fast.ai/videos/?lesson=1) FastAI Course using fastai V1  
 https://cedrickchee.gitbook.io/knowledge/courses/fast.ai/deep-learning-part-1-practical-deep-learning-for-coders/2019-edition  
@@ -752,4 +754,5 @@ https://colab.research.google.com/drive/1jUpGwTaY9vJsUVw1tgwwXqKz6UOsvV1a
 
 https://mlcourse.ai/   http://phontron.com/class/nn4nlp2019/schedule.html   
 
-
+https://paperswithcode.com/sota  <================     
+https://kaggledays.com/   
