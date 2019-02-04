@@ -236,7 +236,8 @@ https://github.com/explosion/spaCy/pull/2931
 https://github.com/RaRe-Technologies/talks/tree/master/2018-03-23_MLPrague-workshop  Notebooks on W2Vec, FT, etc.   
 
 ## CoreNLP  
-https://stanfordnlp.github.io/stanfordnlp/   new, Pytorch tokenization, POS and Dep.    
+https://stanfordnlp.github.io/stanfordnlp/   new, Pytorch tokenization, POS and Dep. <=====   
+https://www.analyticsvidhya.com/blog/2019/02/stanfordnlp-nlp-library-python/ <=====    
 https://stanfordnlp.github.io/CoreNLP/ v 3.9.1   
 https://stanfordnlp.github.io/CoreNLP/human-languages.html Level of support for Arabic (limited). For an Arabic lemmatizer, check http://oujda-nlp-team.net/en/programms/lemmatizer/  (not tested), this abstract (https://arxiv.org/pdf/1710.06700.pdf) and their related Farasah tool (Java): http://alt.qcri.org/farasa/segmenter.html (http://qatsdemo.cloudapp.net/farasa/) See also earlier work called SALMA (https://www.researchgate.net/publication/261313488_SALMA_Standard_Arabic_Language_Morphological_Analysis) and Madamira: https://camel.abudhabi.nyu.edu/madamira/  or http://innovation.columbia.edu/technologies/cu14012_morphological-analysis-and-disambiguation-for-dialectal-arabic-madamira               
 https://www.khalidalnajjar.com/setup-use-stanford-corenlp-server-python/   
@@ -495,7 +496,7 @@ https://medium.com/@wgilliam/finding-data-block-nirvana-a-journey-through-the-fa
 https://hackernoon.com/rtx-2080ti-vs-gtx-1080ti-fastai-mixed-precision-training-comparisons-on-cifar-100-761d8f615d7f   
 https://github.com/PPPW/deep-learning-random-explore/blob/master/CNN_archs/cnn_archs.ipynb   
 __Examples__:  
-https://github.com/jantic/deoldify   
+https://github.com/jantic/deoldify  == https://www.colorize.ml/     
 https://www.kaggle.com/tamlyn/titanic-fastai Titanic   
 https://github.com/etown/dl1/blob/master/UrbanSoundClassification.ipynb  
 https://github.com/poppingtonic/dl-studies/blob/master/imageCLEF2013_plant_types.ipynb  
@@ -553,7 +554,8 @@ https://forums.fast.ai/t/lesson-1-official-resources-and-updates/27936  https://
 https://forums.fast.ai/t/lesson-3-official-resources-and-updates/29732  https://forums.fast.ai/t/lesson-4-official-resources-and-updates/30317  
 https://forums.fast.ai/t/lesson-5-official-resources-and-updates/30863  https://forums.fast.ai/t/lesson-6-official-resources-and-updates/31441  https://forums.fast.ai/t/lesson-7-official-resources/32553  
 __Lessons as Kaggle kernels__: https://course.fast.ai/start_kaggle.html   
-__Hiromi notes__: https://github.com/hiromis/notes https://twitter.com/hiromi_suenaga  transcription and links 
+__Hiromi notes__: https://github.com/hiromis/notes https://twitter.com/hiromi_suenaga  transcription and links    
+__Part II__: https://www.usfca.edu/data-institute/certificates/deep-learning-part-two  
 
 # Python Hosting (free)    
 http://kyso.io/   ex. Bokeh   
@@ -581,6 +583,7 @@ http://matrixmultiplication.xyz/
 http://neuralnetworksanddeeplearning.com/
 https://nbviewer.jupyter.org/gist/joshfp/85d96f07aaa5f4d2c9eb47956ccdcc88/lesson2-sgd-in-action.ipynb   
 https://seeing-theory.brown.edu/basic-probability/index.html  Stats   
+http://playground.tensorflow.org   Neural nets     
 
 # LSTM, BERT, GANs 
 http://colah.github.io/posts/2015-08-Understanding-LSTMs/    
@@ -645,6 +648,7 @@ https://www.kdnuggets.com/datasets/index.html
 https://course.fast.ai/videos/?lesson=6 @ 1:50:00 - end (2:17:00)    
 https://twitter.com/DSEthics   
 https://www.fast.ai/2019/01/29/five-scary-things/   https://www.youtube.com/watch?v=LqjP7O9SxOM   
+https://www.youtube.com/watch?v=ZVN8aDVyg1I   Information manipulation: How the media ecosystem is being gamed and exploited   
 
 # Learn Python   
 https://twitter.com/math_rachel/status/1058089708155166720    Rachel   
@@ -752,7 +756,31 @@ https://www.youtube.com/watch?v=p9tpTt6ZsLI&index=2&list=PLZSO_6-bSqHQHBCoGaObUl
 
 https://colab.research.google.com/drive/1jUpGwTaY9vJsUVw1tgwwXqKz6UOsvV1a 
 
-https://mlcourse.ai/   Pytorch: http://phontron.com/class/nn4nlp2019/schedule.html => https://github.com/neubig/nn4nlp-code        https://deeplearning.mit.edu/  https://www.youtube.com/watch?v=O5xeyoRL95U&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf   
+# Recent Courses   
+https://mlcourse.ai/   Pytorch: http://phontron.com/class/nn4nlp2019/schedule.html => https://github.com/neubig/nn4nlp-code        https://deeplearning.mit.edu/  https://www.youtube.com/watch?v=O5xeyoRL95U&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf   https://github.com/lexfridman/mit-deep-learning   
+https://www.youtube.com/watch?v=fdY7dt3ijgY  @25:11:00 https://github.com/openai/spinningup-workshop/blob/master/rl_intro/rl_intro.pdf    OpenAI    
 
-https://paperswithcode.com/sota  <================     
-https://kaggledays.com/   
+
+https://paperswithcode.com/sota  <================  
+https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html  <=======  
+
+# Study groups and hackathons  
+https://kaggledays.com/  
+https://twimlai.com/twiml-x-fast-ai/  (https://www.youtube.com/watch?v=eisxYm19C5I)    
+https://nurture.ai/ai-saturdays  (see projects)     
+https://www.theschool.ai/    
+
+  
+https://ai.google.com/research/NaturalQuestions Google Natural Questions dataset   
+https://github.motakasoft.com/trending/?d=2019-02-01&l=python  github trends   
+https://www.analyticsvidhya.com/blog/2019/02/stanfordnlp-nlp-library-python/   
+https://www.colorize.ml/  
+https://www.elementsofai.com/    + deeplearning.ai   
+https://www.microsoft.com/en-us/research/project/academic/articles/aaai-conference-analytics/ <==================   
+https://www.pyimagesearch.com/2019/01/21/regression-with-keras/  1/3 parts  
+https://www.pyimagesearch.com/2019/01/28/keras-regression-and-cnns/ 2/3    
+https://www.pyimagesearch.com/2019/02/04/keras-multiple-inputs-and-mixed-data/  3/3   
+
+https://www.pyimagesearch.com/2019/01/14/machine-learning-in-python/ 
+
+
