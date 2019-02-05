@@ -185,6 +185,7 @@ Berkeley Neural Parser: https://github.com/nikitakit/self-attentive-parser
 http://www.arabicnlp.pro/alp/  Arabic ALP - An online Arabic linguistic tool <========== 
 https://github.com/Barqawiz/Shakkala Shakkala project 
 https://github.com/sebastianruder/NLP-progress  <==== 
+https://explained.ai/rf-importance/index.html Random forest feature importance <=============      
 
 # Torch 
 https://github.com/WillKoehrsen/pytorch_challenge/blob/master/Transfer%20Learning%20in%20PyTorch.ipynb  
@@ -548,11 +549,19 @@ https://nbviewer.jupyter.org/github/shubhajitml/crop-disease-detector/blob/maste
 https://medium.com/@pierre_guillou/data-augmentation-by-fastai-v1-84ca04bea302 augmentation   
 https://twitter.com/icecold_spinbot/status/1090638453493116929  train/test leakage   
 https://github.com/DaveSmith227/deep-elon-tweet-generator (https://deepelon.com/)  
-https://towardsdatascience.com/cutting-edge-face-recognition-is-complicated-these-spreadsheets-make-it-easier-e7864dbf0e1a    
+https://towardsdatascience.com/cutting-edge-face-recognition-is-complicated-these-spreadsheets-make-it-easier-e7864dbf0e1a 
+https://github.com/JoshVarty/ImageClassification/blob/master/3_CountingAgain.ipynb   counting objects (vision)   
+https://raimanu-ds.github.io/tutorial/can-ai-guess-which-the-simpsons-character/ recognize simpsons (vision)   
+https://forums.fast.ai/t/lesson-4-advanced-discussion/30319/85  text gen = beam search (https://forums.fast.ai/t/improving-text-generation/31467)  <======      
+https://forums.fast.ai/t/lesson-4-advanced-discussion/30319/126  collab wiki post    
+https://medium.com/@pierre_guillou/deep-learning-in-practice-dl-series-69d39e22132b  Series (DL in pracice) 
+ - https://medium.com/@pierre_guillou/data-augmentation-by-fastai-v1-84ca04bea302 see above  
+ - https://medium.com/@pierre_guillou/deep-learning-web-app-by-fastai-v1-3ab4c20b7cac see above  
+ 
 __V3 Resources__:    
 https://forums.fast.ai/t/lesson-1-official-resources-and-updates/27936  https://forums.fast.ai/t/lesson-2-official-resources-and-updates/28630  
 https://forums.fast.ai/t/lesson-3-official-resources-and-updates/29732  https://forums.fast.ai/t/lesson-4-official-resources-and-updates/30317  
-https://forums.fast.ai/t/lesson-5-official-resources-and-updates/30863  https://forums.fast.ai/t/lesson-6-official-resources-and-updates/31441  https://forums.fast.ai/t/lesson-7-official-resources/32553  
+https://forums.fast.ai/t/lesson-5-official-resources-and-updates/30863  https://forums.fast.ai/t/lesson-6-official-resources-and-updates/31441  https://forums.fast.ai/t/lesson-7-official-resources/32553   https://forums.fast.ai/t/faq-resources-and-official-course-updates/27934  general    
 __Lessons as Kaggle kernels__: https://course.fast.ai/start_kaggle.html   
 __Hiromi notes__: https://github.com/hiromis/notes https://twitter.com/hiromi_suenaga  transcription and links    
 __Part II__: https://www.usfca.edu/data-institute/certificates/deep-learning-part-two  
@@ -573,7 +582,7 @@ https://github.com/aakashns/servefastai + https://www.youtube.com/watch?v=xwN7ar
 https://github.com/gurvindersingh/mlapp  
 https://towardsdatascience.com/building-web-app-for-computer-vision-model-deploying-to-production-in-10-minutes-a-detailed-ec6ac52ec7e4?gi=2f093af38b0c  (https://github.com/pankymathur/fastai-vision-app)   
 https://github.com/tchambon/LabelMyTextWidget  text labeling widget  
-https://github.com/unit8co/vegans  Train your own GANs   
+https://github.com/unit8co/vegans  Train your own GANs      
 
 
 # visual explanations  
@@ -600,6 +609,7 @@ https://www.youtube.com/watch?v=3Pzni2yfGUQ  https://github.com/llSourcell/Senti
 https://cloud.google.com/vision/    
 https://towardsdatascience.com/how-to-build-an-image-duplicate-finder-f8714ddca9d2  
 https://github.com/bourdakos1/tfjs-object-detection-training    tf js object detection   
+https://www.rsipvision.com/ComputerVisionNews-2019February/18/  
 
 # Transfer learning  
 https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a  
@@ -634,6 +644,7 @@ https://www.modelzoo.co/   pretrained models
 https://github.com/bakrianoo/Datasets/tree/master/Arabic%20Tweets (see also https://github.com/bakrianoo/aravec (AraVec))  
 https://twitter.com/jeremyphoward/status/1071093745645428736  NER and POS from FastAi and Spacy   
 https://twitter.com/stanfordnlp/status/1080136432075722752  Stanfrd NLP group tweet   
+http://wilmabainbridge.com/facememorability2.html    10k US faces   
 
 # Dataviz  
 https://twitter.com/albertocairo/status/1057974210960723968 Alberto Cairo's invitees   
@@ -646,9 +657,12 @@ https://www.allendowney.com/blog/2019/01/18/the-library-of-data-visualization/  
 https://medium.com/@miad/100-brilliant-women-in-ai-ethics-to-follow-in-2019-and-beyond-92f467aa6232   
 https://www.kdnuggets.com/datasets/index.html    
 https://course.fast.ai/videos/?lesson=6 @ 1:50:00 - end (2:17:00)    
+https://www.fast.ai/2018/09/24/ai-ethics-resources/    
 https://twitter.com/DSEthics   
 https://www.fast.ai/2019/01/29/five-scary-things/   https://www.youtube.com/watch?v=LqjP7O9SxOM   
 https://www.youtube.com/watch?v=ZVN8aDVyg1I   Information manipulation: How the media ecosystem is being gamed and exploited   
+https://www.technologyreview.com/s/612876/this-is-how-ai-bias-really-happensand-why-its-so-hard-to-fix/   
+
 
 # Learn Python   
 https://twitter.com/math_rachel/status/1058089708155166720    Rachel   
@@ -781,6 +795,6 @@ https://www.pyimagesearch.com/2019/01/21/regression-with-keras/  1/3 parts
 https://www.pyimagesearch.com/2019/01/28/keras-regression-and-cnns/ 2/3    
 https://www.pyimagesearch.com/2019/02/04/keras-multiple-inputs-and-mixed-data/  3/3   
 
-https://www.pyimagesearch.com/2019/01/14/machine-learning-in-python/ 
+https://www.pyimagesearch.com/2019/01/14/machine-learning-in-python/ <=== scikit/keras  
 
 
