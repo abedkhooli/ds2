@@ -511,7 +511,8 @@ https://forums.fast.ai/t/share-your-work-here/27676/197   audio
 https://colab.research.google.com/drive/16BiLegPGx5G911B15wAUBSKjFZRcyhxR   sound  
 https://github.com/Insiyaa/Music-Genre-Classification   
 https://medium.com/@zachcaceres/deep-learning-can-we-use-computer-vision-to-predict-the-composer-of-classical-music-464dd5516996  (https://github.com/zcaceres/deep-learning-composer-prediction) sound  
-https://medium.com/@johnhartquist/audio-classification-using-fastai-and-on-the-fly-frequency-transforms-4dbe1b540f89  audio   
+https://medium.com/@johnhartquist/audio-classification-using-fastai-and-on-the-fly-frequency-transforms-4dbe1b540f89  audio +
+ github: https://github.com/sevenfx/fastai_audio  (https://twitter.com/jeremyphoward/status/1092913576459661313)    
 https://colab.research.google.com/drive/1AwlscWIaaygthL7p0ZQfbREmiM19NFUb Fashion   
 https://github.com/albertnaur/fastaiNotebooks/blob/master/mammo/mammo_tiles.ipynb  
 https://github.com/ademyanchuk/course-v3/blob/master/nbs/dl1/lesson-1-pneumonia-dai.ipynb   
@@ -551,9 +552,14 @@ https://twitter.com/icecold_spinbot/status/1090638453493116929  train/test leaka
 https://github.com/DaveSmith227/deep-elon-tweet-generator (https://deepelon.com/)  
 https://towardsdatascience.com/cutting-edge-face-recognition-is-complicated-these-spreadsheets-make-it-easier-e7864dbf0e1a 
 https://github.com/JoshVarty/ImageClassification/blob/master/3_CountingAgain.ipynb   counting objects (vision)   
-https://raimanu-ds.github.io/tutorial/can-ai-guess-which-the-simpsons-character/ recognize simpsons (vision)   
-https://forums.fast.ai/t/lesson-4-advanced-discussion/30319/85  text gen = beam search (https://forums.fast.ai/t/improving-text-generation/31467)  <======      
-https://forums.fast.ai/t/lesson-4-advanced-discussion/30319/126  collab wiki post    
+https://raimanu-ds.github.io/tutorial/can-ai-guess-which-the-simpsons-character/ recognize simpsons (vision)  
+https://towardsdatascience.com/the-keys-of-deep-learning-in-100-lines-of-code-907398c76504  cancer diag (vision) <===     
+https://forums.fast.ai/t/lesson-4-advanced-discussion/30319/85  text gen = beam search (https://forums.fast.ai/t/improving-text-generation/31467)  https://www.youtube.com/watch?v=RLWuzLLSIgw Andrew Ng <======   
+https://github.com/bfarzin/wiki103_from_scratch   WikiText training and classification <=====     
+https://hackernoon.com/@init_27  Interviews on deep learning   
+https://medium.com/@pierre_guillou/data-augmentation-by-fastai-v1-84ca04bea302     images via fastai   
+https://forums.fast.ai/t/lesson-4-advanced-discussion/30319/126  collab wiki post   
+https://forums.fast.ai/t/time-series-sequential-data-study-group/29686/19  time series study group    
 https://medium.com/@pierre_guillou/deep-learning-in-practice-dl-series-69d39e22132b  Series (DL in pracice) 
  - https://medium.com/@pierre_guillou/data-augmentation-by-fastai-v1-84ca04bea302 see above  
  - https://medium.com/@pierre_guillou/deep-learning-web-app-by-fastai-v1-3ab4c20b7cac see above  
@@ -610,6 +616,7 @@ https://cloud.google.com/vision/
 https://towardsdatascience.com/how-to-build-an-image-duplicate-finder-f8714ddca9d2  
 https://github.com/bourdakos1/tfjs-object-detection-training    tf js object detection   
 https://www.rsipvision.com/ComputerVisionNews-2019February/18/  
+https://iconary.allenai.org/  draw and guess    
 
 # Transfer learning  
 https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a  
@@ -665,6 +672,7 @@ https://www.technologyreview.com/s/612876/this-is-how-ai-bias-really-happensand-
 
 
 # Learn Python   
+https://kite.com/  AI-Powered Python  auto-completion    
 https://twitter.com/math_rachel/status/1058089708155166720    Rachel   
 https://twitter.com/_brohrer_/status/1039805324423823361  Brandon   
 https://brohrer.github.io/python_resources.html     
@@ -757,11 +765,9 @@ https://pytorch.org/tutorials/beginner/nn_tutorial.html
 https://www.drivendata.org/competitions/   
 https://www.topbots.com/most-important-ai-nlp-research/  <======================== 
 
-https://medium.com/@pierre_guillou/data-augmentation-by-fastai-v1-84ca04bea302     images via fastai    
+   
 https://ai.googleblog.com/2019/01/natural-questions-new-corpus-and.html   
-https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/  <==========================     
-http://phontron.com/class/nn4nlp2019/schedule.html <===-====-====-===-=====
-https://www.youtube.com/watch?v=N17ovGpUz3M&list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW&index=6  Alex Smola      
+ 
    
 
 https://www.fast.ai/2019/01/24/course-v3/ (https://course.fast.ai/videos/?lesson=1) FastAI Course using fastai V1  
@@ -771,7 +777,10 @@ https://www.youtube.com/watch?v=p9tpTt6ZsLI&index=2&list=PLZSO_6-bSqHQHBCoGaObUl
 https://colab.research.google.com/drive/1jUpGwTaY9vJsUVw1tgwwXqKz6UOsvV1a 
 
 # Recent Courses   
-https://mlcourse.ai/   Pytorch: http://phontron.com/class/nn4nlp2019/schedule.html => https://github.com/neubig/nn4nlp-code        https://deeplearning.mit.edu/  https://www.youtube.com/watch?v=O5xeyoRL95U&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf   https://github.com/lexfridman/mit-deep-learning   
+https://mlcourse.ai/   Pytorch: http://phontron.com/class/nn4nlp2019/schedule.html => https://github.com/neubig/nn4nlp-code        https://deeplearning.mit.edu/  https://www.youtube.com/watch?v=O5xeyoRL95U&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf   https://github.com/lexfridman/mit-deep-learning    
+https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/  <==========================     
+http://phontron.com/class/nn4nlp2019/schedule.html   https://github.com/neubig/nn4nlp-code   <===-====-====-===-=====
+https://www.youtube.com/watch?v=N17ovGpUz3M&list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW&index=6  Alex Smola   
 https://www.youtube.com/watch?v=fdY7dt3ijgY  @25:11:00 https://github.com/openai/spinningup-workshop/blob/master/rl_intro/rl_intro.pdf    OpenAI    
 
 
@@ -789,7 +798,7 @@ https://ai.google.com/research/NaturalQuestions Google Natural Questions dataset
 https://github.motakasoft.com/trending/?d=2019-02-01&l=python  github trends   
 https://www.analyticsvidhya.com/blog/2019/02/stanfordnlp-nlp-library-python/   
 https://www.colorize.ml/  
-https://www.elementsofai.com/    + deeplearning.ai   
+https://www.elementsofai.com/    + deeplearning.ai   (https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w)   
 https://www.microsoft.com/en-us/research/project/academic/articles/aaai-conference-analytics/ <==================   
 https://www.pyimagesearch.com/2019/01/21/regression-with-keras/  1/3 parts  
 https://www.pyimagesearch.com/2019/01/28/keras-regression-and-cnns/ 2/3    
