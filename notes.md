@@ -1,6 +1,6 @@
 ### Note/disclaimer:  
 this doc is not part of this repo in the logical sense but is being hosted here for now. 
-It is currently a set of misc links and notes in no specific structure or purpose or maintenance plan.  
+It is currently a set of misc links and notes in no specific structure (well, almost) or purpose or maintenance plan - most resources here are simply 'note to self' items and I am keeping them public.      
 Use it if you find it useful. 
 On using git: git for poets (https://www.youtube.com/watch?v=BCQHnlnPusY) , also https://www.youtube.com/watch?v=SWYqp7iY_Tc and https://www.youtube.com/watch?v=HVsySz-h9r4   
 https://github.com/jstray/lede-algorithms  for journalism!  
@@ -777,11 +777,13 @@ https://www.youtube.com/watch?v=p9tpTt6ZsLI&index=2&list=PLZSO_6-bSqHQHBCoGaObUl
 https://colab.research.google.com/drive/1jUpGwTaY9vJsUVw1tgwwXqKz6UOsvV1a 
 
 # Recent Courses   
-https://mlcourse.ai/   Pytorch: http://phontron.com/class/nn4nlp2019/schedule.html => https://github.com/neubig/nn4nlp-code        https://deeplearning.mit.edu/  https://www.youtube.com/watch?v=O5xeyoRL95U&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf   https://github.com/lexfridman/mit-deep-learning    
+https://mlcourse.ai/   Pytorch: http://phontron.com/class/nn4nlp2019/schedule.html => https://github.com/neubig/nn4nlp-code        https://deeplearning.mit.edu/  https://www.youtube.com/watch?v=O5xeyoRL95U&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf      https://github.com/lexfridman/mit-deep-learning    
 https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/  <==========================     
-http://phontron.com/class/nn4nlp2019/schedule.html   https://github.com/neubig/nn4nlp-code   <===-====-====-===-=====
+http://phontron.com/class/nn4nlp2019/schedule.html   https://github.com/neubig/nn4nlp-code   <===-====-====-===-=====   
+http://phontron.com/class/nn4nlp2019/assets/slides/nn4nlp-01-intro.pdf  Graham Neubig CMU  slides     
 https://www.youtube.com/watch?v=N17ovGpUz3M&list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW&index=6  Alex Smola   
-https://www.youtube.com/watch?v=fdY7dt3ijgY  @25:11:00 https://github.com/openai/spinningup-workshop/blob/master/rl_intro/rl_intro.pdf    OpenAI    
+https://www.youtube.com/watch?v=fdY7dt3ijgY   https://github.com/openai/spinningup-workshop/blob/master/rl_intro/rl_intro.pdf    OpenAI    
+https://university.dremio.com/ (https://www.dremio.com/ data as a service platform) courses: basic, data consumers, data engineers   
 
 
 https://paperswithcode.com/sota  <================  
@@ -806,4 +808,4 @@ https://www.pyimagesearch.com/2019/02/04/keras-multiple-inputs-and-mixed-data/  
 
 https://www.pyimagesearch.com/2019/01/14/machine-learning-in-python/ <=== scikit/keras  
 
-
+https://youtu.be/tMAU3gLbKII  Ines from Spacy /prodigy (tips)      
