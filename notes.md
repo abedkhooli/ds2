@@ -8,7 +8,7 @@ git for poets (https://www.youtube.com/watch?v=BCQHnlnPusY) , also https://www.y
 https://github.com/jstray/lede-algorithms  for journalism!  
 https://www.youtube.com/watch?v=EPVwnG-n4B0 git for data scientists Anreas Muller     
 
-# No title:  
+# No category:  
 https://github.com/rasbt/python-machine-learning-book-2nd-edition Sebastian Raschka book examples   
 https://web.stanford.edu/~jurafsky/slp3/  Speech and Language Processing (3rd ed. draft)    
 https://www.kaggle.com/rtatman/getting-started-with-kaggle-workshop-in-a-box   http://data8.org/fa18/  
