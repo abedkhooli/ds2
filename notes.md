@@ -1,10 +1,14 @@
 ### Note/disclaimer:  
 this doc is not part of this repo in the logical sense but is being hosted here for now. 
 It is currently a set of misc links and notes in no specific structure (well, almost) or purpose or maintenance plan - most resources here are simply 'note to self' items and I am keeping them public.      
-Use it if you find it useful. 
-On using git: git for poets (https://www.youtube.com/watch?v=BCQHnlnPusY) , also https://www.youtube.com/watch?v=SWYqp7iY_Tc and https://www.youtube.com/watch?v=HVsySz-h9r4   
+Use it if you find it useful.  
+ 
+# On using git:  
+git for poets (https://www.youtube.com/watch?v=BCQHnlnPusY) , also https://www.youtube.com/watch?v=SWYqp7iY_Tc and https://www.youtube.com/watch?v=HVsySz-h9r4   
 https://github.com/jstray/lede-algorithms  for journalism!  
-https://www.youtube.com/watch?v=EPVwnG-n4B0 git for data scientists Anreas Muller    
+https://www.youtube.com/watch?v=EPVwnG-n4B0 git for data scientists Anreas Muller     
+
+# No title:  
 https://github.com/rasbt/python-machine-learning-book-2nd-edition Sebastian Raschka book examples   
 https://web.stanford.edu/~jurafsky/slp3/  Speech and Language Processing (3rd ed. draft)    
 https://www.kaggle.com/rtatman/getting-started-with-kaggle-workshop-in-a-box   http://data8.org/fa18/  
