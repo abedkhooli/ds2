@@ -572,7 +572,7 @@ __V3 Resources__:
 https://forums.fast.ai/t/lesson-1-official-resources-and-updates/27936  https://forums.fast.ai/t/lesson-2-official-resources-and-updates/28630  
 https://forums.fast.ai/t/lesson-3-official-resources-and-updates/29732  https://forums.fast.ai/t/lesson-4-official-resources-and-updates/30317  
 https://forums.fast.ai/t/lesson-5-official-resources-and-updates/30863  https://forums.fast.ai/t/lesson-6-official-resources-and-updates/31441  https://forums.fast.ai/t/lesson-7-official-resources/32553   https://forums.fast.ai/t/faq-resources-and-official-course-updates/27934  general    
-__Lessons as Kaggle kernels__: https://course.fast.ai/start_kaggle.html   
+__Lessons as Kaggle kernels__: https://course.fast.ai/start_kaggle.html  https://www.kaggle.com/getting-started/79088#latest-466956     
 __Hiromi notes__: https://github.com/hiromis/notes https://twitter.com/hiromi_suenaga  transcription and links    
 __Part II__: https://www.usfca.edu/data-institute/certificates/deep-learning-part-two  
 
@@ -673,6 +673,9 @@ https://twitter.com/DSEthics
 https://www.fast.ai/2019/01/29/five-scary-things/   https://www.youtube.com/watch?v=LqjP7O9SxOM   
 https://www.youtube.com/watch?v=ZVN8aDVyg1I   Information manipulation: How the media ecosystem is being gamed and exploited   
 https://www.technologyreview.com/s/612876/this-is-how-ai-bias-really-happensand-why-its-so-hard-to-fix/   
+ https://github.com/EthicalML/XAI (Hanna Walash: https://twitter.com/hannawallach/status/1093141481907462144)   
+ https://github.com/jphall663/awesome-machine-learning-interpretability    
+ 
 
 
 # Learn Python   
@@ -787,7 +790,7 @@ http://phontron.com/class/nn4nlp2019/schedule.html   https://github.com/neubig/n
 http://phontron.com/class/nn4nlp2019/assets/slides/nn4nlp-01-intro.pdf  Graham Neubig CMU  slides     
 https://www.youtube.com/watch?v=N17ovGpUz3M&list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW&index=6  Alex Smola   
 https://www.youtube.com/watch?v=fdY7dt3ijgY   https://github.com/openai/spinningup-workshop/blob/master/rl_intro/rl_intro.pdf    OpenAI    
-https://university.dremio.com/ (https://www.dremio.com/ data as a service platform) courses: basic, data consumers, data engineers   
+https://university.dremio.com/ (https://www.dremio.com/ https://github.com/dremio/dremio-oss  data as a service platform) courses: basic, data consumers, data engineers   
 
 
 https://paperswithcode.com/sota  <================  
@@ -812,4 +815,6 @@ https://www.pyimagesearch.com/2019/02/04/keras-multiple-inputs-and-mixed-data/  
 
 https://www.pyimagesearch.com/2019/01/14/machine-learning-in-python/ <=== scikit/keras  
 
-https://youtu.be/tMAU3gLbKII  Ines from Spacy /prodigy (tips)      
+https://youtu.be/tMAU3gLbKII  Ines from Spacy /prodigy (tips)    
+https://twitter.com/harmonslide/status/1092178779382972417 Pizza model overfitting   
+
