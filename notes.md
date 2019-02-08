@@ -553,10 +553,13 @@ https://github.com/renato145/fastai_scans medical imaging
 https://nbviewer.jupyter.org/github/shubhajitml/crop-disease-detector/blob/master/notebook/plant_village.ipynb  crop disease   
 https://medium.com/@pierre_guillou/data-augmentation-by-fastai-v1-84ca04bea302 augmentation   
 https://twitter.com/icecold_spinbot/status/1090638453493116929  train/test leakage   
-https://github.com/DaveSmith227/deep-elon-tweet-generator (https://deepelon.com/)  
+https://github.com/DaveSmith227/deep-elon-tweet-generator (https://deepelon.com/) Deep Elon Musk Tweets     
+https://github.com/tchambon/DeepGuru     Deep Guru tweets    
 https://towardsdatascience.com/cutting-edge-face-recognition-is-complicated-these-spreadsheets-make-it-easier-e7864dbf0e1a 
 https://github.com/JoshVarty/ImageClassification/blob/master/3_CountingAgain.ipynb   counting objects (vision)   
-https://raimanu-ds.github.io/tutorial/can-ai-guess-which-the-simpsons-character/ recognize simpsons (vision)  
+https://raimanu-ds.github.io/tutorial/can-ai-guess-which-the-simpsons-character/ recognize simpsons (vision) 
+https://medium.com/@JamesDietle/beginning-deep-learning-classifications-in-the-gastrointestinal-tract-with-fast-ai-7a97e3924b96 https://twitter.com/JamesDietle   vision medical  
+https://github.com/kheyer/ML-DL-Projects/tree/master/Experiments/Residual%20UNets residual unets (vision) 
 https://towardsdatascience.com/the-keys-of-deep-learning-in-100-lines-of-code-907398c76504  cancer diag (vision) <===     
 https://forums.fast.ai/t/lesson-4-advanced-discussion/30319/85  text gen = beam search (https://forums.fast.ai/t/improving-text-generation/31467)  https://www.youtube.com/watch?v=RLWuzLLSIgw Andrew Ng <======   
 https://github.com/bfarzin/wiki103_from_scratch   WikiText training and classification <=====     
@@ -572,6 +575,7 @@ __V3 Resources__:
 https://forums.fast.ai/t/lesson-1-official-resources-and-updates/27936  https://forums.fast.ai/t/lesson-2-official-resources-and-updates/28630  
 https://forums.fast.ai/t/lesson-3-official-resources-and-updates/29732  https://forums.fast.ai/t/lesson-4-official-resources-and-updates/30317  
 https://forums.fast.ai/t/lesson-5-official-resources-and-updates/30863  https://forums.fast.ai/t/lesson-6-official-resources-and-updates/31441  https://forums.fast.ai/t/lesson-7-official-resources/32553   https://forums.fast.ai/t/faq-resources-and-official-course-updates/27934  general    
+__Wiki__: http://wiki.fast.ai/index.php/Main_Page    
 __Lessons as Kaggle kernels__: https://course.fast.ai/start_kaggle.html  https://www.kaggle.com/getting-started/79088#latest-466956     
 __Hiromi notes__: https://github.com/hiromis/notes https://twitter.com/hiromi_suenaga  transcription and links    
 __Part II__: https://www.usfca.edu/data-institute/certificates/deep-learning-part-two  
@@ -607,6 +611,7 @@ http://playground.tensorflow.org   Neural nets
 # LSTM, BERT, GANs 
 http://colah.github.io/posts/2015-08-Understanding-LSTMs/    
 https://medium.com/dissecting-bert  
+https://twitter.com/Thom_Wolf/status/1093455492972724230  Bert Kaggle classification <=========    
 http://gandissect.res.ibm.com/ganpaint.html?project=churchoutdoor&layer=layer4   
 https://github.com/AyushExel/GANs  https://www.youtube.com/watch?v=aZpsxMZbG14&feature=youtu.be    
 
@@ -656,6 +661,7 @@ https://github.com/bakrianoo/Datasets/tree/master/Arabic%20Tweets (see also http
 https://twitter.com/jeremyphoward/status/1071093745645428736  NER and POS from FastAi and Spacy   
 https://twitter.com/stanfordnlp/status/1080136432075722752  Stanfrd NLP group tweet   
 http://wilmabainbridge.com/facememorability2.html    10k US faces   
+http://groups.inf.ed.ac.uk/ami/corpus/  AMI corpus Idialogs, summaries, ...) <====    
 
 # Dataviz  
 https://twitter.com/albertocairo/status/1057974210960723968 Alberto Cairo's invitees   
