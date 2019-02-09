@@ -528,7 +528,8 @@ https://gist.github.com/oguiza/c9c373aec07b96047d1ba484f23b7b47 (https://gist.gi
 https://medium.com/@lankinen/fastai-model-to-production-this-is-how-you-make-web-app-that-use-your-model-57d8999450cf production how-to  
 https://github.com/sparalic/Poisonous-Plants-Image-Classifier/tree/master  poisonous plants  
 https://github.com/etown/dl1/blob/master/face/README.md  face emotions   
-https://github.com/oasis789/Arabic-Handwritten-Characters-Dataset Arabic hand written chars (https://www.primaresearch.org/RASM2018/)   
+https://github.com/oasis789/Arabic-Handwritten-Characters-Dataset Arabic hand written chars (https://www.primaresearch.org/RASM2018/)    
+https://github.com/tchambon/deepfrench/blob/master/ULMFit%20Classifier%20example.ipynb Deep French calssification   
 https://medium.com/@tmckenzie.nz/using-the-fastai-data-block-api-b4818e72155b   data block API   
 https://medium.com/@iliazaitsev/how-to-implement-a-recommendation-system-with-deep-learning-and-pytorch-2d40476590f9   collab  
 https://medium.com/@surhar88/fast-ai-journey-part-1-lesson-3-theory-review-learning-rates-and-activation-functions-ab967a5f0eec   
