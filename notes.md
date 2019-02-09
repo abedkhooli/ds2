@@ -606,11 +606,13 @@ http://matrixmultiplication.xyz/
 http://neuralnetworksanddeeplearning.com/
 https://nbviewer.jupyter.org/gist/joshfp/85d96f07aaa5f4d2c9eb47956ccdcc88/lesson2-sgd-in-action.ipynb   
 https://seeing-theory.brown.edu/basic-probability/index.html  Stats   
-http://playground.tensorflow.org   Neural nets     
+http://playground.tensorflow.org   Neural nets    
+https://ezyang.github.io/convolution-visualizer/index.html  conv networks visualizer 
 
 # LSTM, BERT, GANs 
 http://colah.github.io/posts/2015-08-Understanding-LSTMs/    
 https://medium.com/dissecting-bert  
+https://medium.com/huggingface/multi-label-text-classification-using-bert-the-mighty-transformer-69714fa3fb3d     
 https://twitter.com/Thom_Wolf/status/1093455492972724230  Bert Kaggle classification <=========    
 http://gandissect.res.ibm.com/ganpaint.html?project=churchoutdoor&layer=layer4   
 https://github.com/AyushExel/GANs  https://www.youtube.com/watch?v=aZpsxMZbG14&feature=youtu.be    
@@ -790,13 +792,14 @@ https://www.youtube.com/watch?v=p9tpTt6ZsLI&index=2&list=PLZSO_6-bSqHQHBCoGaObUl
 https://colab.research.google.com/drive/1jUpGwTaY9vJsUVw1tgwwXqKz6UOsvV1a 
 
 # Recent Courses   
-https://mlcourse.ai/   Pytorch: http://phontron.com/class/nn4nlp2019/schedule.html => https://github.com/neubig/nn4nlp-code        https://deeplearning.mit.edu/  https://www.youtube.com/watch?v=O5xeyoRL95U&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf      https://github.com/lexfridman/mit-deep-learning    
+https://mlcourse.ai/   Pytorch: http://phontron.com/class/nn4nlp2019/schedule.html => https://github.com/neubig/nn4nlp-code        https://deeplearning.mit.edu/  https://www.youtube.com/watch?v=O5xeyoRL95U&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf      https://github.com/lexfridman/mit-deep-learning    https://medium.com/tensorflow/mit-deep-learning-basics-introduction-and-overview-with-tensorflow-355bcd26baf0   MIT  <====  
 https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/  <==========================     
 http://phontron.com/class/nn4nlp2019/schedule.html   https://github.com/neubig/nn4nlp-code   <===-====-====-===-=====   
 http://phontron.com/class/nn4nlp2019/assets/slides/nn4nlp-01-intro.pdf  Graham Neubig CMU  slides     
 https://www.youtube.com/watch?v=N17ovGpUz3M&list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW&index=6  Alex Smola   
 https://www.youtube.com/watch?v=fdY7dt3ijgY   https://github.com/openai/spinningup-workshop/blob/master/rl_intro/rl_intro.pdf    OpenAI    
-https://university.dremio.com/ (https://www.dremio.com/ https://github.com/dremio/dremio-oss  data as a service platform) courses: basic, data consumers, data engineers   
+https://github.com/glouppe/info8010-deep-learning    Gilles Louppe    https://glouppe.github.io/info8010-deep-learning/?p=outline.md#1    
+https://university.dremio.com/ (https://www.dremio.com/ https://github.com/dremio/dremio-oss  data as a service platform) courses: basic, data consumers, data engineers   https://glouppe.github.io/info8010-deep-learning/?p=outline.md#1    
 
 
 https://paperswithcode.com/sota  <================  
@@ -823,4 +826,7 @@ https://www.pyimagesearch.com/2019/01/14/machine-learning-in-python/ <=== scikit
 
 https://youtu.be/tMAU3gLbKII  Ines from Spacy /prodigy (tips)    
 https://twitter.com/harmonslide/status/1092178779382972417 Pizza model overfitting   
+https://github.com/dperezrada/evidence-tools/tree/master/nlp/keywords2vec     
+https://towardsdatascience.com/do-the-keywords-in-your-resume-aptly-represent-what-type-of-data-scientist-you-are-59134105ba0d resume creening   
+
 
