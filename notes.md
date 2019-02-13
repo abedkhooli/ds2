@@ -36,6 +36,11 @@ https://github.com/radekosmulski/whale/blob/master/fluke_detection.ipynb  fastai
 
 https://www.analyticsvidhya.com/blog/2018/12/best-data-science-machine-learning-projects-github/   
 
+# Machine Learning   
+https://vas3k.com/blog/machine_learning/ Machine Learning for Everyone     
+https://github.com/ujjwalkarn/Machine-Learning-Tutorials/    
+
+
 # DataScience 
 https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7   
 https://twitter.com/zaidalyafeai/status/1066664451984773121  ML courses   
@@ -168,7 +173,8 @@ https://github.com/slanglab/phrasemachine   (En only)
 https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec   
 https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-sequence-to-sequence-modelling-with-attention-part-i/  
 https://www.kaggle.com/hoonkeng/deep-eda-word-embeddings-sentiment-analysis/notebook   word embeddings and sentiment analysis    
-http://newsletter.ruder.io/issues/nlp-pytorch-libraries-gan-tutorial-jupyter-tricks-tensorflow-things-representation-learning-making-nlp-more-accessible-michael-jordan-essay-reproducing-deep-rl-rakuten-data-challenge-naacl-outstanding-papers-106347   <==== (see other issues)   
+http://newsletter.ruder.io/issues/nlp-pytorch-libraries-gan-tutorial-jupyter-tricks-tensorflow-things-representation-learning-making-nlp-more-accessible-michael-jordan-essay-reproducing-deep-rl-rakuten-data-challenge-naacl-outstanding-papers-106347  
+http://newsletter.ruder.io/issues/bert-transfer-learning-for-dialogue-deep-learning-sota-2019-gaussian-processes-vi-nlp-lesson-curricula-fast-ai-lessons-alphastar-how-to-manage-research-teams-154831  <==== (see other issues)   
 http://web.stanford.edu/class/cs224n/lectures/lecture10.pdf   seq2seq translation   
 https://github.com/bentrevett/pytorch-seq2seq     
 https://github.com/ArthurSpirling/Text-as-Data-Class-Spring-2018-  lectures in R   
@@ -337,7 +343,8 @@ https://www.youtube.com/watch?v=PXJtFc8DjsE  Siraj Raval - AI Education channel
 https://www.reddit.com/r/MachineLearning/comments/8j9rx8/d_what_are_the_best_libraries_frameworks_out/   <++++++++++     
 https://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/   
 https://towardsdatascience.com/how-to-train-neural-network-faster-with-optimizers-d297730b3713     
-https://www.kdnuggets.com/2018/10/confusion-matrices-quantify-cost-being-wrong.html     
+https://www.kdnuggets.com/2018/10/confusion-matrices-quantify-cost-being-wrong.html    
+https://github.com/keiffster/program-y/wiki/Tutorial-Pattern-Matching     
 
 ## To watch on Ch9  
 https://channel9.msdn.com/Events/Connect/2017/AI1  intro to MS AI 
@@ -497,7 +504,8 @@ https://medium.com/@rathi.ankit/multivariate-calculus-for-data-science-abccf47fc
 "Val loss lower than train loss means you are under-fitting. Val loss should always be higher than train loss when you are finished fitting." JH    
 https://github.com/fastai/fastai      
 https://github.com/radekosmulski/quickdraw   
-https://medium.com/@wgilliam/finding-data-block-nirvana-a-journey-through-the-fastai-data-block-api-c38210537fe4   
+https://medium.com/@wgilliam/finding-data-block-nirvana-a-journey-through-the-fastai-data-block-api-c38210537fe4  <===  
+https://medium.com/@keremturgutlu/understanding-building-blocks-of-ulmfit-818d3775325b (https://www.kaggle.com/keremt, https://github.com/KeremTurgutlu) <=======    
 https://hackernoon.com/rtx-2080ti-vs-gtx-1080ti-fastai-mixed-precision-training-comparisons-on-cifar-100-761d8f615d7f   
 https://github.com/PPPW/deep-learning-random-explore/blob/master/CNN_archs/cnn_archs.ipynb   
 __Examples__:  
@@ -579,6 +587,7 @@ https://forums.fast.ai/t/lesson-5-official-resources-and-updates/30863  https://
 __Wiki__: http://wiki.fast.ai/index.php/Main_Page    
 __Lessons as Kaggle kernels__: https://course.fast.ai/start_kaggle.html  https://www.kaggle.com/getting-started/79088#latest-466956     
 __Hiromi notes__: https://github.com/hiromis/notes https://twitter.com/hiromi_suenaga  transcription and links    
+__Course Summary__: https://medium.com/@GeneAshis/single-object-detection-e65a537a1c31
 __Part II__: https://www.usfca.edu/data-institute/certificates/deep-learning-part-two  
 
 # Python Hosting (free)    
@@ -613,8 +622,10 @@ https://ezyang.github.io/convolution-visualizer/index.html  conv networks visual
 # LSTM, BERT, GANs 
 http://colah.github.io/posts/2015-08-Understanding-LSTMs/    
 https://medium.com/dissecting-bert  
+https://github.com/huggingface/pytorch-pretrained-BERT (https://twitter.com/Thom_Wolf/status/1094976790001520640)      
 https://medium.com/huggingface/multi-label-text-classification-using-bert-the-mighty-transformer-69714fa3fb3d     
-https://twitter.com/Thom_Wolf/status/1093455492972724230  Bert Kaggle classification <=========    
+https://twitter.com/Thom_Wolf/status/1093455492972724230  Bert Kaggle classification <=========   
+https://twitter.com/jesse_vig/status/1095394504478154753   Bert viz   
 http://gandissect.res.ibm.com/ganpaint.html?project=churchoutdoor&layer=layer4   
 https://github.com/AyushExel/GANs  https://www.youtube.com/watch?v=aZpsxMZbG14&feature=youtu.be    
 
@@ -664,7 +675,8 @@ https://github.com/bakrianoo/Datasets/tree/master/Arabic%20Tweets (see also http
 https://twitter.com/jeremyphoward/status/1071093745645428736  NER and POS from FastAi and Spacy   
 https://twitter.com/stanfordnlp/status/1080136432075722752  Stanfrd NLP group tweet   
 http://wilmabainbridge.com/facememorability2.html    10k US faces   
-http://groups.inf.ed.ac.uk/ami/corpus/  AMI corpus Idialogs, summaries, ...) <====    
+http://groups.inf.ed.ac.uk/ami/corpus/  AMI corpus Idialogs, summaries, ...) <====      
+https://github.com/CU-ITSS/Web-Data-Scraping-S2019 <== scrape data   
 
 # Dataviz  
 https://twitter.com/albertocairo/status/1057974210960723968 Alberto Cairo's invitees   
@@ -720,6 +732,7 @@ Above code: https://github.com/Dhrumilcse/Interactive-Dictionary-in-Python
 # Pandas speed up  
 https://github.com/modin-project/modin   
 https://github.com/ray-project/ray/ 
+https://pbpython.com/pandas-crosstab.html   
 
 # Deep Learning  
 https://github.com/iamtrask/Grokking-Deep-Learning     
@@ -800,7 +813,11 @@ http://phontron.com/class/nn4nlp2019/assets/slides/nn4nlp-01-intro.pdf  Graham N
 https://www.youtube.com/watch?v=N17ovGpUz3M&list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW&index=6  Alex Smola   
 https://www.youtube.com/watch?v=fdY7dt3ijgY   https://github.com/openai/spinningup-workshop/blob/master/rl_intro/rl_intro.pdf    OpenAI    
 https://github.com/glouppe/info8010-deep-learning    Gilles Louppe    https://glouppe.github.io/info8010-deep-learning/?p=outline.md#1    
-https://university.dremio.com/ (https://www.dremio.com/ https://github.com/dremio/dremio-oss  data as a service platform) courses: basic, data consumers, data engineers   https://glouppe.github.io/info8010-deep-learning/?p=outline.md#1    
+https://university.dremio.com/ (https://www.dremio.com/ https://github.com/dremio/dremio-oss  data as a service platform) courses: basic, data consumers, data engineers   https://glouppe.github.io/info8010-deep-learning/?p=outline.md#1   
+http://web.stanford.edu/class/cs224n/   (pytorch)   
+http://people.ischool.berkeley.edu/~dbamman/info256.html (https://github.com/dbamman/anlp19)   
+https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes   Georgia Tech (includes book)  
+https://www.cs.toronto.edu/~hinton/coursera_lectures.html  Geoff Hinton <=====    
 
 
 https://paperswithcode.com/sota  <================  
@@ -828,6 +845,8 @@ https://www.pyimagesearch.com/2019/01/14/machine-learning-in-python/ <=== scikit
 https://youtu.be/tMAU3gLbKII  Ines from Spacy /prodigy (tips)    
 https://twitter.com/harmonslide/status/1092178779382972417 Pizza model overfitting   
 https://github.com/dperezrada/evidence-tools/tree/master/nlp/keywords2vec     
-https://towardsdatascience.com/do-the-keywords-in-your-resume-aptly-represent-what-type-of-data-scientist-you-are-59134105ba0d resume creening   
+https://towardsdatascience.com/do-the-keywords-in-your-resume-aptly-represent-what-type-of-data-scientist-you-are-59134105ba0d resume screening <====  
+https://www.youtube.com/watch?v=g-Hb26agBFg   PCA explained well <==============      
+
 
 
