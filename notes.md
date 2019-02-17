@@ -9,6 +9,7 @@ https://github.com/jstray/lede-algorithms  for journalism!
 https://www.youtube.com/watch?v=EPVwnG-n4B0 git for data scientists Anreas Muller     
 
 # No category:  
+https://hbr.org/2019/02/how-to-choose-your-first-ai-project   Andrew Ng   
 https://github.com/rasbt/python-machine-learning-book-2nd-edition Sebastian Raschka book examples   
 https://web.stanford.edu/~jurafsky/slp3/  Speech and Language Processing (3rd ed. draft)    
 https://www.kaggle.com/rtatman/getting-started-with-kaggle-workshop-in-a-box   http://data8.org/fa18/  
@@ -107,6 +108,7 @@ https://becominghuman.ai/interpretable-machine-learning-an-overview-10684eaa1fd7
 https://towardsdatascience.com/understanding-how-lime-explains-predictions-d404e5d1829c  
 
 # NLP  
+https://www.topbots.com/most-important-ai-nlp-research/    
 https://docs.google.com/presentation/d/e/2PACX-1vSNssslqRy6zjr6OyhGNUJGYnwyrIP5jTc72usf0Bhi_iW_31j_g4wl52Tu-aqxKxOsvjfwrais4I38/pub?start=false&loop=false&delayms=3000#slide=id.g4e4dd52cc4_0_0    NLP Today    
 https://github.com/tesseract-ocr/tesseract  Open OCR   
 https://twitter.com/supernlpblog/status/1067341618880098309 <== sentence representations   
@@ -628,6 +630,7 @@ https://twitter.com/Thom_Wolf/status/1093455492972724230  Bert Kaggle classifica
 https://twitter.com/jesse_vig/status/1095394504478154753   Bert viz   
 http://gandissect.res.ibm.com/ganpaint.html?project=churchoutdoor&layer=layer4   
 https://github.com/AyushExel/GANs  https://www.youtube.com/watch?v=aZpsxMZbG14&feature=youtu.be    
+https://medium.com/syncedreview/microsofts-new-mt-dnn-outperforms-google-bert-b5fa15b1a03e    
 
 # Data Lit (siraj Raval)  
 https://www.youtube.com/watch?v=3Pzni2yfGUQ  https://github.com/llSourcell/Sentiment_Analysis/   
