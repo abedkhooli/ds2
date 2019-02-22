@@ -243,13 +243,15 @@ https://spacy.io/universe/  stuff built for or with spaCy
 http://www.joshblog.co.uk/posts/20180210_python_text_visualization_coffee_analysis_part_III  
 http://wp.arenji.com/2018/05/09/beyond-intents-and-entities/   
 https://www.reddit.com/r/textdatamining/comments/8k3tpk/getting_started_with_spacy_for_natural_language/?st=jhai93us&sh=d8ab3dc3     
-https://github.com/explosion/spaCy/pull/2931  
+https://github.com/explosion/spaCy/pull/2931   
+https://allenai.github.io/scispacy/   ScispaCy! - A full spacy pipeline for #biomedical text     
 
 ## Gensim  
 https://github.com/RaRe-Technologies/talks/tree/master/2018-03-23_MLPrague-workshop  Notebooks on W2Vec, FT, etc.   
 
 ## CoreNLP  
-https://stanfordnlp.github.io/stanfordnlp/   new, Pytorch tokenization, POS and Dep. <=====   
+https://stanfordnlp.github.io/stanfordnlp/   new, Pytorch tokenization, POS and Dep. <===== 
+https://levelup.gitconnected.com/first-look-at-stanfordnlp-2b7d43190957 <===================
 https://www.analyticsvidhya.com/blog/2019/02/stanfordnlp-nlp-library-python/ <=====    
 https://stanfordnlp.github.io/CoreNLP/ v 3.9.1   
 https://stanfordnlp.github.io/CoreNLP/human-languages.html Level of support for Arabic (limited). For an Arabic lemmatizer, check http://oujda-nlp-team.net/en/programms/lemmatizer/  (not tested), this abstract (https://arxiv.org/pdf/1710.06700.pdf) and their related Farasah tool (Java): http://alt.qcri.org/farasa/segmenter.html (http://qatsdemo.cloudapp.net/farasa/) See also earlier work called SALMA (https://www.researchgate.net/publication/261313488_SALMA_Standard_Arabic_Language_Morphological_Analysis) and Madamira: https://camel.abudhabi.nyu.edu/madamira/  or http://innovation.columbia.edu/technologies/cu14012_morphological-analysis-and-disambiguation-for-dialectal-arabic-madamira               
@@ -620,8 +622,9 @@ https://nbviewer.jupyter.org/gist/joshfp/85d96f07aaa5f4d2c9eb47956ccdcc88/lesson
 https://seeing-theory.brown.edu/basic-probability/index.html  Stats   
 http://playground.tensorflow.org   Neural nets    
 https://ezyang.github.io/convolution-visualizer/index.html  conv networks visualizer 
+https://twitter.com/jeremyphoward/status/1098758987271426048  SGD 3D   
 
-# LSTM, BERT, GANs 
+# LSTM, BERT, GANs, GPT-2  
 http://colah.github.io/posts/2015-08-Understanding-LSTMs/    
 https://medium.com/dissecting-bert  
 https://github.com/huggingface/pytorch-pretrained-BERT (https://twitter.com/Thom_Wolf/status/1094976790001520640)      
@@ -631,6 +634,10 @@ https://twitter.com/jesse_vig/status/1095394504478154753   Bert viz
 http://gandissect.res.ibm.com/ganpaint.html?project=churchoutdoor&layer=layer4   
 https://github.com/AyushExel/GANs  https://www.youtube.com/watch?v=aZpsxMZbG14&feature=youtu.be    
 https://medium.com/syncedreview/microsofts-new-mt-dnn-outperforms-google-bert-b5fa15b1a03e    
+https://blog.insightdatascience.com/using-bert-for-state-of-the-art-pre-training-for-natural-language-processing-1d87142c29e7  <==== legal text walk-through   
+https://blog.openai.com/better-language-models/   
+https://github.com/huggingface/pytorch-pretrained-BERT    
+
 
 # Data Lit (siraj Raval)  
 https://www.youtube.com/watch?v=3Pzni2yfGUQ  https://github.com/llSourcell/Sentiment_Analysis/   
@@ -680,13 +687,17 @@ https://twitter.com/stanfordnlp/status/1080136432075722752  Stanfrd NLP group tw
 http://wilmabainbridge.com/facememorability2.html    10k US faces   
 http://groups.inf.ed.ac.uk/ami/corpus/  AMI corpus Idialogs, summaries, ...) <====      
 https://github.com/CU-ITSS/Web-Data-Scraping-S2019 <== scrape data   
+http://xviewdataset.org/   annotaed satellite images (boxed bounded)   
+https://www.europeandataportal.eu/data/en/group/transport  EU Portal / Trasport      
+ 
 
 # Dataviz  
 https://twitter.com/albertocairo/status/1057974210960723968 Alberto Cairo's invitees   
 https://charticulator.com/   
 https://twitter.com/jayvanbavel/status/1060543214665564161 graphic design and data viz cheat sheets    
 https://blog.visme.co/best-data-visualizations/    Best Data Viz  
-https://www.allendowney.com/blog/2019/01/18/the-library-of-data-visualization/  books, blogs, videos and tools <======     
+https://www.allendowney.com/blog/2019/01/18/the-library-of-data-visualization/  books, blogs, videos and tools <======    
+https://twitter.com/kimay/status/1097793415222362113   data viz design processes    
 
 # AI Ethics    
 https://medium.com/@miad/100-brilliant-women-in-ai-ethics-to-follow-in-2019-and-beyond-92f467aa6232   
@@ -724,7 +735,8 @@ https://docs.python.org/3.6/ (https://docs.python.org/3.6/tutorial/index.html)
 https://github.com/yasoob/intermediatePython  <====   
 https://towardsdatascience.com/python-for-data-science-from-scratch-part-i-390f01d91748    
 https://towardsdatascience.com/python-for-data-science-from-scratch-part-ii-e4dd4b943aba  
-https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428 Pandas pandas <=====      
+https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428 Pandas pandas <=====    
+https://github.com/gto76/python-cheatsheet <===== full Python cheat sheet <======     
 
 
 https://www.grnewsletters.com/archive/dataschool/Best-resources-for-going-deeper-with-Python-702398502.html   
@@ -742,11 +754,12 @@ https://github.com/iamtrask/Grokking-Deep-Learning
 https://stallion.ai/en/home   <--- Ar word embedding  
 https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs  
 https://github.com/Machine-Learning-Tokyo/DL-workshop-series colab deep nets  
-https://lilianweng.github.io/lil-log/  meta learning, word embedding, ... etc   
+https://lilianweng.github.io/lil-log/  meta learning, word embedding, NLP developments ... etc <=====///========          
 https://github.com/GokuMohandas/practicalAI <=================================   
 http://josh-tobin.com/troubleshooting-deep-neural-networks <===========  
 https://arxiv.org/abs/1901.07931 <=== text generation: https://twitter.com/verena_rieser, https://twitter.com/tuetschek   
 https://www.kdnuggets.com/2018/02/8-neural-network-architectures-machine-learning-researchers-need-learn.html   
+https://people.csail.mit.edu/madry/6.883/  science of deep learning class notes    
 
 # Bias, Variance and Overfitting  
 https://twitter.com/rctatman/status/1060325912434995201   bias-variance tradeoff    
@@ -783,6 +796,7 @@ http://context.reverso.net/translation/english-arabic/
 https://www.kdnuggets.com/2018/12/introduction-named-entity-recognition.html   
 http://nlpprogress.com/english/named_entity_recognition.html  
 https://research.zalando.com/welcome/mission/research-projects/  
+https://towardsdatascience.com/solving-nlp-task-using-sequence2sequence-model-from-zero-to-hero-c193c1bd03d1   
 
 # Kaggle 
 https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle/notebook  Notebooks by topic   
@@ -821,6 +835,8 @@ http://web.stanford.edu/class/cs224n/   (pytorch)
 http://people.ischool.berkeley.edu/~dbamman/info256.html (https://github.com/dbamman/anlp19)   
 https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes   Georgia Tech (includes book)  
 https://www.cs.toronto.edu/~hinton/coursera_lectures.html  Geoff Hinton <=====    
+https://sites.google.com/view/berkeley-cs294-158-sp19/home   UC Berkely Spring 2019  
+
 
 
 https://paperswithcode.com/sota  <================  
@@ -849,7 +865,11 @@ https://youtu.be/tMAU3gLbKII  Ines from Spacy /prodigy (tips)
 https://twitter.com/harmonslide/status/1092178779382972417 Pizza model overfitting   
 https://github.com/dperezrada/evidence-tools/tree/master/nlp/keywords2vec     
 https://towardsdatascience.com/do-the-keywords-in-your-resume-aptly-represent-what-type-of-data-scientist-you-are-59134105ba0d resume screening <====  
-https://www.youtube.com/watch?v=g-Hb26agBFg   PCA explained well <==============      
+https://www.youtube.com/watch?v=g-Hb26agBFg   PCA explained well <==============    
+
+https://medium.com/@prtdomingo/editing-files-in-your-linux-virtual-machine-made-a-lot-easier-with-remote-vscode-6bb98d0639a4 Remote VSCode    
+
+
 
 
 
