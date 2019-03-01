@@ -356,6 +356,7 @@ https://channel9.msdn.com/Events/Connect/2017/AI2 intro to bots
 https://channel9.msdn.com/Events/Connect/2017/T100  use Azure bot srvice  
 
 ## Bots  
+https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e     
 https://github.com/deepmipt <==== see DeepPavlov and Intent-Classifier.  See also: https://github.com/snipsco/snips-nlu  and other repos     
 https://ankitbko.github.io/2017/03/human-handover-bot/    
 https://www.gobeyond.ai/    
@@ -627,6 +628,7 @@ https://twitter.com/jeremyphoward/status/1098758987271426048  SGD 3D
 # LSTM, BERT, GANs, GPT-2  
 http://colah.github.io/posts/2015-08-Understanding-LSTMs/    
 https://medium.com/dissecting-bert  
+http://juditacs.github.io/2019/02/19/bert-tokenization-stats.html   
 https://github.com/huggingface/pytorch-pretrained-BERT (https://twitter.com/Thom_Wolf/status/1094976790001520640)      
 https://medium.com/huggingface/multi-label-text-classification-using-bert-the-mighty-transformer-69714fa3fb3d     
 https://twitter.com/Thom_Wolf/status/1093455492972724230  Bert Kaggle classification <=========   
@@ -688,7 +690,10 @@ http://wilmabainbridge.com/facememorability2.html    10k US faces
 http://groups.inf.ed.ac.uk/ami/corpus/  AMI corpus Idialogs, summaries, ...) <====      
 https://github.com/CU-ITSS/Web-Data-Scraping-S2019 <== scrape data   
 http://xviewdataset.org/   annotaed satellite images (boxed bounded)   
-https://www.europeandataportal.eu/data/en/group/transport  EU Portal / Trasport      
+https://www.europeandataportal.eu/data/en/group/transport  EU Portal / Trasport  
+https://universaldependencies.org/treebanks/ar_padt/index.html   Arabic treebank     
+https://arabicspeech.org/resources  data and resources for Arabic speech processing  
+https://github.com/chiphuyen/lazynlp LazyNLP scrape massive text datasets (40GB+)  
  
 
 # Dataviz  
@@ -710,6 +715,8 @@ https://www.youtube.com/watch?v=ZVN8aDVyg1I   Information manipulation: How the 
 https://www.technologyreview.com/s/612876/this-is-how-ai-bias-really-happensand-why-its-so-hard-to-fix/   
  https://github.com/EthicalML/XAI (Hanna Walash: https://twitter.com/hannawallach/status/1093141481907462144)   
  https://github.com/jphall663/awesome-machine-learning-interpretability    
+ https://twitter.com/DanitGal/status/1099517258190082049  ethics with east asia focus   
+ 
  
 
 
