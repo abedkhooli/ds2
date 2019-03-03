@@ -652,6 +652,7 @@ https://towardsdatascience.com/how-to-build-an-image-duplicate-finder-f8714ddca9
 https://github.com/bourdakos1/tfjs-object-detection-training    tf js object detection   
 https://www.rsipvision.com/ComputerVisionNews-2019February/18/  
 https://iconary.allenai.org/  draw and guess    
+https://www.pyimagesearch.com/free-opencv-computer-vision-deep-learning-crash-course/    
 
 # Transfer learning  
 https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a  
@@ -661,6 +662,7 @@ https://github.com/facebookresearch/LASER
 https://www.datasciencecentral.com/profiles/blogs/29-statistical-concepts-explained-in-simple-english-part-1    
 https://www.datasciencecentral.com/profiles/blogs/25-statistical-concepts-explained-in-simple-english-part-2   
 https://simplystatistics.org/2017/03/16/evo-ds-class/   
+https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view Intro to probability pdf 2019    
 
 # Datasets   
 https://archive.ics.uci.edu/ml/datasets     
@@ -694,6 +696,7 @@ https://www.europeandataportal.eu/data/en/group/transport  EU Portal / Trasport
 https://universaldependencies.org/treebanks/ar_padt/index.html   Arabic treebank     
 https://arabicspeech.org/resources  data and resources for Arabic speech processing  
 https://github.com/chiphuyen/lazynlp LazyNLP scrape massive text datasets (40GB+)  
+https://twitter.com/rctatman/status/1101177780954255360v  Human languages datasets    
  
 
 # Dataviz  
@@ -703,6 +706,7 @@ https://twitter.com/jayvanbavel/status/1060543214665564161 graphic design and da
 https://blog.visme.co/best-data-visualizations/    Best Data Viz  
 https://www.allendowney.com/blog/2019/01/18/the-library-of-data-visualization/  books, blogs, videos and tools <======    
 https://twitter.com/kimay/status/1097793415222362113   data viz design processes    
+https://socviz.co/  Data Visualization A practical introduction (read book online)   
 
 # AI Ethics    
 https://medium.com/@miad/100-brilliant-women-in-ai-ethics-to-follow-in-2019-and-beyond-92f467aa6232   
@@ -716,6 +720,8 @@ https://www.technologyreview.com/s/612876/this-is-how-ai-bias-really-happensand-
  https://github.com/EthicalML/XAI (Hanna Walash: https://twitter.com/hannawallach/status/1093141481907462144)   
  https://github.com/jphall663/awesome-machine-learning-interpretability    
  https://twitter.com/DanitGal/status/1099517258190082049  ethics with east asia focus   
+ https://twitter.com/iamtrask/status/1101894655631912960 fairnes,s privacy, security, ... 
+ http://ai.stanford.edu/blog/ethical_best_practices/    In Favor of Developing Ethical Best Practices in AI Research    
  
  
 
