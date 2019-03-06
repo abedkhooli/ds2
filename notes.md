@@ -106,8 +106,10 @@ https://github.com/dustinvtran/ml-videos ML Videos
 # Explaianed AI 
 https://becominghuman.ai/interpretable-machine-learning-an-overview-10684eaa1fd7  
 https://towardsdatascience.com/understanding-how-lime-explains-predictions-d404e5d1829c  
+https://christophm.github.io/interpretable-ml-book/ <====  
 
 # NLP  
+https://omarito.me/data-augmentation-in-nlp-sequence-tagging/   NLP data augmentation  
 https://www.topbots.com/most-important-ai-nlp-research/    
 https://docs.google.com/presentation/d/e/2PACX-1vSNssslqRy6zjr6OyhGNUJGYnwyrIP5jTc72usf0Bhi_iW_31j_g4wl52Tu-aqxKxOsvjfwrais4I38/pub?start=false&loop=false&delayms=3000#slide=id.g4e4dd52cc4_0_0    NLP Today    
 https://github.com/tesseract-ocr/tesseract  Open OCR   
@@ -574,7 +576,8 @@ https://github.com/JoshVarty/ImageClassification/blob/master/3_CountingAgain.ipy
 https://raimanu-ds.github.io/tutorial/can-ai-guess-which-the-simpsons-character/ recognize simpsons (vision) 
 https://medium.com/@JamesDietle/beginning-deep-learning-classifications-in-the-gastrointestinal-tract-with-fast-ai-7a97e3924b96 https://twitter.com/JamesDietle   vision medical  
 https://github.com/kheyer/ML-DL-Projects/tree/master/Experiments/Residual%20UNets residual unets (vision) 
-https://towardsdatascience.com/the-keys-of-deep-learning-in-100-lines-of-code-907398c76504  cancer diag (vision) <===     
+https://towardsdatascience.com/the-keys-of-deep-learning-in-100-lines-of-code-907398c76504  cancer diag (vision) <===   
+https://www.kaggle.com/deepbilal/using-fastai-tabular-on-petfinder/output  Pet Finder competition   
 https://forums.fast.ai/t/lesson-4-advanced-discussion/30319/85  text gen = beam search (https://forums.fast.ai/t/improving-text-generation/31467)  https://www.youtube.com/watch?v=RLWuzLLSIgw Andrew Ng <======   
 https://github.com/bfarzin/wiki103_from_scratch   WikiText training and classification <=====     
 https://hackernoon.com/@init_27  Interviews on deep learning   
@@ -592,7 +595,8 @@ https://forums.fast.ai/t/lesson-5-official-resources-and-updates/30863  https://
 __Wiki__: http://wiki.fast.ai/index.php/Main_Page    
 __Lessons as Kaggle kernels__: https://course.fast.ai/start_kaggle.html  https://www.kaggle.com/getting-started/79088#latest-466956     
 __Hiromi notes__: https://github.com/hiromis/notes https://twitter.com/hiromi_suenaga  transcription and links    
-__Course Summary__: https://medium.com/@GeneAshis/single-object-detection-e65a537a1c31
+__Course Summary__: https://medium.com/@GeneAshis/single-object-detection-e65a537a1c31  
+__Fastai Advice from Jeremy__: https://forums.fast.ai/t/things-jeremy-says-to-do/36682 
 __Part II__: https://www.usfca.edu/data-institute/certificates/deep-learning-part-two  
 
 # Python Hosting (free)    
@@ -638,7 +642,8 @@ https://github.com/AyushExel/GANs  https://www.youtube.com/watch?v=aZpsxMZbG14&f
 https://medium.com/syncedreview/microsofts-new-mt-dnn-outperforms-google-bert-b5fa15b1a03e    
 https://blog.insightdatascience.com/using-bert-for-state-of-the-art-pre-training-for-natural-language-processing-1d87142c29e7  <==== legal text walk-through   
 https://blog.openai.com/better-language-models/   
-https://github.com/huggingface/pytorch-pretrained-BERT    
+https://github.com/huggingface/pytorch-pretrained-BERT   
+https://towardsdatascience.com/openai-gpt-2-understanding-language-generation-through-visualization-8252f683b2f8 (https://twitter.com/jesse_vig/status/1102987963451891712) 
 
 
 # Data Lit (siraj Raval)  
@@ -773,6 +778,7 @@ http://josh-tobin.com/troubleshooting-deep-neural-networks <===========
 https://arxiv.org/abs/1901.07931 <=== text generation: https://twitter.com/verena_rieser, https://twitter.com/tuetschek   
 https://www.kdnuggets.com/2018/02/8-neural-network-architectures-machine-learning-researchers-need-learn.html   
 https://people.csail.mit.edu/madry/6.883/  science of deep learning class notes    
+https://towardsdatascience.com/gate-recurrent-units-explained-using-matrices-part-1-3c781469fc18 GRUs explained   
 
 # Bias, Variance and Overfitting  
 https://twitter.com/rctatman/status/1060325912434995201   bias-variance tradeoff    
@@ -882,7 +888,8 @@ https://www.youtube.com/watch?v=g-Hb26agBFg   PCA explained well <==============
 
 https://medium.com/@prtdomingo/editing-files-in-your-linux-virtual-machine-made-a-lot-easier-with-remote-vscode-6bb98d0639a4 Remote VSCode    
 
-
+# Speech  
+https://web.stanford.edu/~jurafsky/slp3/   speech and language processing book    
 
 
 
