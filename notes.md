@@ -246,10 +246,12 @@ http://www.joshblog.co.uk/posts/20180210_python_text_visualization_coffee_analys
 http://wp.arenji.com/2018/05/09/beyond-intents-and-entities/   
 https://www.reddit.com/r/textdatamining/comments/8k3tpk/getting_started_with_spacy_for_natural_language/?st=jhai93us&sh=d8ab3dc3     
 https://github.com/explosion/spaCy/pull/2931   
-https://allenai.github.io/scispacy/   ScispaCy! - A full spacy pipeline for #biomedical text     
+https://allenai.github.io/scispacy/   ScispaCy! - A full spacy pipeline for #biomedical text   
+https://nbviewer.jupyter.org/github/repmax/topic-model/blob/master/topic-modelling.ipynb    
 
 ## Gensim  
-https://github.com/RaRe-Technologies/talks/tree/master/2018-03-23_MLPrague-workshop  Notebooks on W2Vec, FT, etc.   
+https://github.com/RaRe-Technologies/talks/tree/master/2018-03-23_MLPrague-workshop  Notebooks on W2Vec, FT, etc.  
+https://nbviewer.jupyter.org/github/repmax/topic-model/blob/master/topic-modelling.ipynb  Gensim, Spacy and textacy    
 
 ## CoreNLP  
 https://stanfordnlp.github.io/stanfordnlp/   new, Pytorch tokenization, POS and Dep. <===== 
@@ -587,7 +589,7 @@ https://forums.fast.ai/t/time-series-sequential-data-study-group/29686/19  time 
 https://medium.com/@pierre_guillou/deep-learning-in-practice-dl-series-69d39e22132b  Series (DL in pracice) 
  - https://medium.com/@pierre_guillou/data-augmentation-by-fastai-v1-84ca04bea302 see above  
  - https://medium.com/@pierre_guillou/deep-learning-web-app-by-fastai-v1-3ab4c20b7cac see above  
- 
+https://medium.com/@ducha.aiki/fast-ai-library-1st-impression-958cb52afc  <---   
 __V3 Resources__:    
 https://forums.fast.ai/t/lesson-1-official-resources-and-updates/27936  https://forums.fast.ai/t/lesson-2-official-resources-and-updates/28630  
 https://forums.fast.ai/t/lesson-3-official-resources-and-updates/29732  https://forums.fast.ai/t/lesson-4-official-resources-and-updates/30317  
@@ -627,7 +629,8 @@ https://nbviewer.jupyter.org/gist/joshfp/85d96f07aaa5f4d2c9eb47956ccdcc88/lesson
 https://seeing-theory.brown.edu/basic-probability/index.html  Stats   
 http://playground.tensorflow.org   Neural nets    
 https://ezyang.github.io/convolution-visualizer/index.html  conv networks visualizer 
-https://twitter.com/jeremyphoward/status/1098758987271426048  SGD 3D   
+https://twitter.com/jeremyphoward/status/1098758987271426048  SGD 3D  
+https://github.com/google-research/google-research/tree/master/interpretability_benchmark   
 
 # LSTM, BERT, GANs, GPT-2  
 http://colah.github.io/posts/2015-08-Understanding-LSTMs/    
@@ -643,8 +646,9 @@ https://medium.com/syncedreview/microsofts-new-mt-dnn-outperforms-google-bert-b5
 https://blog.insightdatascience.com/using-bert-for-state-of-the-art-pre-training-for-natural-language-processing-1d87142c29e7  <==== legal text walk-through   
 https://blog.openai.com/better-language-models/   
 https://github.com/huggingface/pytorch-pretrained-BERT   
-https://towardsdatascience.com/openai-gpt-2-understanding-language-generation-through-visualization-8252f683b2f8 (https://twitter.com/jesse_vig/status/1102987963451891712) 
-
+https://towardsdatascience.com/openai-gpt-2-understanding-language-generation-through-visualization-8252f683b2f8 (https://twitter.com/jesse_vig/status/1102987963451891712)  
+https://gpt2.apps.allenai.org/ GPT-2 Explorer  117M parameter OpenAI GPT-2 language model demo   
+http://gltr.io/dist/index.html  Giant Language model Test Room       
 
 # Data Lit (siraj Raval)  
 https://www.youtube.com/watch?v=3Pzni2yfGUQ  https://github.com/llSourcell/Sentiment_Analysis/   
@@ -702,6 +706,7 @@ https://universaldependencies.org/treebanks/ar_padt/index.html   Arabic treebank
 https://arabicspeech.org/resources  data and resources for Arabic speech processing  
 https://github.com/chiphuyen/lazynlp LazyNLP scrape massive text datasets (40GB+)  
 https://twitter.com/rctatman/status/1101177780954255360v  Human languages datasets    
+https://github.com/fastai/imagenette subset of ImageNet (www.image-net.org)    
  
 
 # Dataviz  
@@ -727,6 +732,7 @@ https://www.technologyreview.com/s/612876/this-is-how-ai-bias-really-happensand-
  https://twitter.com/DanitGal/status/1099517258190082049  ethics with east asia focus   
  https://twitter.com/iamtrask/status/1101894655631912960 fairnes,s privacy, security, ... 
  http://ai.stanford.edu/blog/ethical_best_practices/    In Favor of Developing Ethical Best Practices in AI Research    
+ https://twitter.com/Klonick/status/1102970732890316801   Information privacy     
  
  
 
@@ -754,7 +760,8 @@ https://github.com/yasoob/intermediatePython  <====
 https://towardsdatascience.com/python-for-data-science-from-scratch-part-i-390f01d91748    
 https://towardsdatascience.com/python-for-data-science-from-scratch-part-ii-e4dd4b943aba  
 https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428 Pandas pandas <=====    
-https://github.com/gto76/python-cheatsheet <===== full Python cheat sheet <======     
+https://github.com/gto76/python-cheatsheet <===== full Python cheat sheet <======    
+https://tomaugspurger.github.io/modern-1-intro  Pandas and more    
 
 
 https://www.grnewsletters.com/archive/dataschool/Best-resources-for-going-deeper-with-Python-702398502.html   
@@ -833,7 +840,8 @@ https://www.topbots.com/most-important-ai-nlp-research/  <======================
    
 https://ai.googleblog.com/2019/01/natural-questions-new-corpus-and.html   
  
-   
+# Cloud  
+https://www.basvankaam.com/wp-content/uploads/2019/02/Final-Cloud-Services-Cheat-Sheet-v2.0.pdf   
 
 https://www.fast.ai/2019/01/24/course-v3/ (https://course.fast.ai/videos/?lesson=1) FastAI Course using fastai V1  
 https://cedrickchee.gitbook.io/knowledge/courses/fast.ai/deep-learning-part-1-practical-deep-learning-for-coders/2019-edition  
@@ -855,8 +863,7 @@ http://people.ischool.berkeley.edu/~dbamman/info256.html (https://github.com/dba
 https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes   Georgia Tech (includes book)  
 https://www.cs.toronto.edu/~hinton/coursera_lectures.html  Geoff Hinton <=====    
 https://sites.google.com/view/berkeley-cs294-158-sp19/home   UC Berkely Spring 2019  
-
-
+https://github.com/rasbt/stat479-deep-learning-ss19 sebastian Raschka deep learning   
 
 https://paperswithcode.com/sota  <================  
 https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html  <=======  
