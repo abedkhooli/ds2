@@ -168,11 +168,11 @@ https://github.com/Stephen-Rimac/Python-for-Data-Scientists  <=== short notebook
 https://nbviewer.jupyter.org/github/groverpr/learn_python_libraries/blob/master/pandas/pandas_cheatsheet.ipynb  Pandas cheatsheet  
 https://www.rankred.com/javascript-cheat-sheets    JS cheat sheets    
 http://overapi.com/   <========== All cheat sheets in one place    
-https://github.com/niderhoff/nlp-datasets/blob/master/README.md <===== NLP datasets ====  
-https://github.com/keon/awesome-nlp  <======================= Awesome NLP =============== 
+https://github.com/niderhoff/nlp-datasets/blob/master/README.md <===== NLP datasets ====   
+https://github.com/keon/awesome-nlp  <======================= Awesome NLP ===============  
 https://machinelearningmastery.com/develop-word-embeddings-python-gensim/   
-https://github.com/niderhoff/nlp-datasets <=== NLP datasets in alphabetical order ====
-https://catalog.ldc.upenn.edu/ldc2013t19 is the Ontonotes dataset (includes Arabic) <=======      
+https://github.com/niderhoff/nlp-datasets <=== NLP datasets in alphabetical order ====   
+https://catalog.ldc.upenn.edu/ldc2013t19 is the Ontonotes dataset (includes Arabic) <=======       
 https://github.com/slanglab/phrasemachine   (En only)   
 https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec   
 https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-sequence-to-sequence-modelling-with-attention-part-i/  
@@ -229,17 +229,17 @@ https://towardsdatascience.com/twitter-api-and-nlp-7a386758eb31  Tweets by diffe
 
 ## spaCy  
 https://github.com/explosion/spacy-stanfordnlp   https://stanfordnlp.github.io/stanfordnlp/    
-https://github.com/kororo/excelcy <====================== train and annotate from Excel   =====================
+https://github.com/kororo/excelcy <====================== train and annotate from Excel   =====================   
 https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e    
 https://dataflume.wordpress.com/2017/03/17/intro-nlp-python-spacy/   
-https://nbviewer.jupyter.org/github/repmax/topic-model/blob/master/topic-modelling.ipynb  *****  
+https://nbviewer.jupyter.org/github/repmax/topic-model/blob/master/topic-modelling.ipynb  *****   
 https://github.com/oudalab/Arabic-NER  Spacy Ar NER 
 http://mlreference.com/spacy   
 https://twitter.com/julien_c/status/977189681283633153  Neuralcoref v2.0 Stanford NLP, Coref link   
 https://twitter.com/spacy_io/status/977286812510060545  visualize spacy with tensorborad  
-https://github.com/explosion/talks/blob/master/2018-04-12__Embed-Encode-Attend-Predict.pdf  **************    
-https://github.com/explosion/talks/blob/master/2018-04_12__Rapid-NLP-Annotation.pdf         **************     
-See https://github.com/explosion/talks   (latest in SF: https://www.youtube.com/watch?v=jB1-NukGZm0)    
+https://github.com/explosion/talks/blob/master/2018-04-12__Embed-Encode-Attend-Predict.pdf  **************     
+https://github.com/explosion/talks/blob/master/2018-04_12__Rapid-NLP-Annotation.pdf         **************       
+See https://github.com/explosion/talks   (latest in SF: https://www.youtube.com/watch?v=jB1-NukGZm0)      
 https://spacy.io/usage/linguistic-features   edit and run in browser  
 https://spacy.io/universe/  stuff built for or with spaCy   
 http://www.joshblog.co.uk/posts/20180210_python_text_visualization_coffee_analysis_part_III  
