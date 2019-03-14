@@ -143,6 +143,7 @@ https://github.com/huggingface/hmtl/tree/master/demo   <=== HMTL NLP
 https://towardsdatascience.com/neural-networks-and-philosophy-of-language-31c34c0796da  w2vec, glove, fasttext    
 https://www.lyrn.ai/2019/01/16/transformer-xl-sota-language-model/ (https://jalammar.github.io/illustrated-transformer/)    
 http://nacloweb.org/    
+https://github.com/Deffro/text-preprocessing-techniques and https://www.kaggle.com/deffro/text-pre-processing-techniques     
 
 ## General 
 https://www.lfd.uci.edu/~gohlke/pythonlibs/ <---- Python wheels (esp. for Windows installation issues)   
@@ -197,13 +198,18 @@ https://github.com/eisenjulian/nlp_estimator_tutorial (https://opendatascience.c
 https://github.com/google/sentencepiece   / https://www.kaggle.com/lefant/example-usage-pre-trained-bpe-embeddings/code   
 Berkeley Neural Parser: https://github.com/nikitakit/self-attentive-parser   
 http://www.arabicnlp.pro/alp/  Arabic ALP - An online Arabic linguistic tool <========== 
-https://github.com/Barqawiz/Shakkala Shakkala project 
+https://github.com/Barqawiz/Shakkala Shakkala project  (see also https://www.linkedin.com/feed/update/urn:li:activity:6509847630170984448)   
 https://github.com/sebastianruder/NLP-progress  <==== 
 https://explained.ai/rf-importance/index.html Random forest feature importance <=============      
 
 # Torch 
 https://github.com/WillKoehrsen/pytorch_challenge/blob/master/Transfer%20Learning%20in%20PyTorch.ipynb  
 https://github.com/perone/medicaltorch/  Medical Torch  
+
+# Tensor Flow  
+https://medium.com/tensorflow/introducing-tensorflow-federated-a4147aa20041   TensorFlow Federated (TFF)  
+https://github.com/zaidalyafeai/Notebooks/blob/master/README.md   TF 2.0 examples (Zaid Yafeai)   
+https://twitter.com/fchollet/status/1105139360226140160 TF 2.0 crash course (Francois Chollet)   
 
 ## TorchText 
 https://www.analyticsvidhya.com/blog/2018/02/pytorch-tutorial/   <==== pyTorch  
@@ -258,7 +264,8 @@ https://stanfordnlp.github.io/stanfordnlp/   new, Pytorch tokenization, POS and 
 https://levelup.gitconnected.com/first-look-at-stanfordnlp-2b7d43190957 <===================
 https://www.analyticsvidhya.com/blog/2019/02/stanfordnlp-nlp-library-python/ <=====    
 https://stanfordnlp.github.io/CoreNLP/ v 3.9.1   
-https://stanfordnlp.github.io/CoreNLP/human-languages.html Level of support for Arabic (limited). For an Arabic lemmatizer, check http://oujda-nlp-team.net/en/programms/lemmatizer/  (not tested), this abstract (https://arxiv.org/pdf/1710.06700.pdf) and their related Farasah tool (Java): http://alt.qcri.org/farasa/segmenter.html (http://qatsdemo.cloudapp.net/farasa/) See also earlier work called SALMA (https://www.researchgate.net/publication/261313488_SALMA_Standard_Arabic_Language_Morphological_Analysis) and Madamira: https://camel.abudhabi.nyu.edu/madamira/  or http://innovation.columbia.edu/technologies/cu14012_morphological-analysis-and-disambiguation-for-dialectal-arabic-madamira               
+https://stanfordnlp.github.io/CoreNLP/human-languages.html Level of support for Arabic (limited). For an Arabic lemmatizer, check http://oujda-nlp-team.net/en/programms/lemmatizer/  (not tested), this abstract (https://arxiv.org/pdf/1710.06700.pdf) and their related Farasah tool (Java): http://alt.qcri.org/farasa/segmenter.html (http://qatsdemo.cloudapp.net/farasa/) See also earlier work called SALMA (https://www.researchgate.net/publication/261313488_SALMA_Standard_Arabic_Language_Morphological_Analysis) and Madamira: https://camel.abudhabi.nyu.edu/madamira/  or http://innovation.columbia.edu/technologies/cu14012_morphological-analysis-and-disambiguation-for-dialectal-arabic-madamira     
+http://kaldi-asr.org the Kaldi toolkit for Arabic speech recognition (https://github.com/kaldi-asr/kaldi)   
 https://www.khalidalnajjar.com/setup-use-stanford-corenlp-server-python/   
 https://blog.sicara.com/train-ner-model-with-nltk-stanford-tagger-english-french-german-6d90573a9486  <====  
 http://web.stanford.edu/class/cs224n/reports.html   SQuAd projects    
@@ -648,7 +655,8 @@ https://blog.openai.com/better-language-models/
 https://github.com/huggingface/pytorch-pretrained-BERT   
 https://towardsdatascience.com/openai-gpt-2-understanding-language-generation-through-visualization-8252f683b2f8 (https://twitter.com/jesse_vig/status/1102987963451891712)  
 https://gpt2.apps.allenai.org/ GPT-2 Explorer  117M parameter OpenAI GPT-2 language model demo   
-http://gltr.io/dist/index.html  Giant Language model Test Room       
+http://gltr.io/dist/index.html  Giant Language model Test Room      
+http://newsletter.ruder.io/issues/gpt-2-sequence-generation-in-arbitrary-order-160799  Newsletter covering GPT-2  
 
 # Data Lit (siraj Raval)  
 https://www.youtube.com/watch?v=3Pzni2yfGUQ  https://github.com/llSourcell/Sentiment_Analysis/   
@@ -706,7 +714,9 @@ https://universaldependencies.org/treebanks/ar_padt/index.html   Arabic treebank
 https://arabicspeech.org/resources  data and resources for Arabic speech processing  
 https://github.com/chiphuyen/lazynlp LazyNLP scrape massive text datasets (40GB+)  
 https://twitter.com/rctatman/status/1101177780954255360v  Human languages datasets    
-https://github.com/fastai/imagenette subset of ImageNet (www.image-net.org)    
+https://github.com/fastai/imagenette subset of ImageNet (www.image-net.org)   
+https://nlp.stanford.edu/links/statnlp.html#Corpora  
+http://kevinchai.net/datasets dataset directories (general and specialized)     
  
 
 # Dataviz  
@@ -733,6 +743,7 @@ https://www.technologyreview.com/s/612876/this-is-how-ai-bias-really-happensand-
  https://twitter.com/iamtrask/status/1101894655631912960 fairnes,s privacy, security, ... 
  http://ai.stanford.edu/blog/ethical_best_practices/    In Favor of Developing Ethical Best Practices in AI Research    
  https://twitter.com/Klonick/status/1102970732890316801   Information privacy     
+ https://imagenet-roulette.paglen.com/   
  
  
 
@@ -786,6 +797,7 @@ https://arxiv.org/abs/1901.07931 <=== text generation: https://twitter.com/veren
 https://www.kdnuggets.com/2018/02/8-neural-network-architectures-machine-learning-researchers-need-learn.html   
 https://people.csail.mit.edu/madry/6.883/  science of deep learning class notes    
 https://towardsdatascience.com/gate-recurrent-units-explained-using-matrices-part-1-3c781469fc18 GRUs explained   
+https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg  Arxiv insights  
 
 # Bias, Variance and Overfitting  
 https://twitter.com/rctatman/status/1060325912434995201   bias-variance tradeoff    
@@ -823,6 +835,13 @@ https://www.kdnuggets.com/2018/12/introduction-named-entity-recognition.html
 http://nlpprogress.com/english/named_entity_recognition.html  
 https://research.zalando.com/welcome/mission/research-projects/  
 https://towardsdatascience.com/solving-nlp-task-using-sequence2sequence-model-from-zero-to-hero-c193c1bd03d1   
+
+# Data Annotation  
+Amazon mechanical turk   
+prodi.gy 
+https://www.figure-eight.com/  figure eigtht  (prev, crowdFlower)  
+Snorkel: https://ai.stanford.edu/blog/weak-supervision/    
+https://appen.com/   Appen (bought F8)   
 
 # Kaggle 
 https://www.kaggle.com/shivamb/data-science-glossary-on-kaggle/notebook  Notebooks by topic   
