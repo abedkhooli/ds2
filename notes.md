@@ -39,7 +39,8 @@ https://www.analyticsvidhya.com/blog/2018/12/best-data-science-machine-learning-
 
 # Machine Learning   
 https://vas3k.com/blog/machine_learning/ Machine Learning for Everyone     
-https://github.com/ujjwalkarn/Machine-Learning-Tutorials/    
+https://github.com/ujjwalkarn/Machine-Learning-Tutorials/   
+https://mlbook.explained.ai/catvars.html <===== ML Book     
 
 
 # DataScience 
@@ -107,6 +108,7 @@ https://github.com/dustinvtran/ml-videos ML Videos
 https://becominghuman.ai/interpretable-machine-learning-an-overview-10684eaa1fd7  
 https://towardsdatascience.com/understanding-how-lime-explains-predictions-d404e5d1829c  
 https://christophm.github.io/interpretable-ml-book/ <====  
+https://lexfridman.com/ai/ AI Podcast   
 
 # NLP  
 https://omarito.me/data-augmentation-in-nlp-sequence-tagging/   NLP data augmentation  
@@ -206,8 +208,11 @@ https://explained.ai/rf-importance/index.html Random forest feature importance <
 https://github.com/WillKoehrsen/pytorch_challenge/blob/master/Transfer%20Learning%20in%20PyTorch.ipynb  
 https://github.com/perone/medicaltorch/  Medical Torch  
 
-# Tensor Flow  
+# Tensor Flow  / Keras   
 https://medium.com/tensorflow/introducing-tensorflow-federated-a4147aa20041   TensorFlow Federated (TFF)  
+https://medium.com/tensorflow/text-classification-using-tensorflow-js-an-example-of-detecting-offensive-language-in-browser-e2b94e3565ce?linkId=64850815  TExt Classification in browser   
+https://www.blog.google/technology/ai/creative-coder-adding-color-machine-learning image coloring   
+https://github.com/oswaldoludwig/Seq2seq-Chatbot-for-Keras  chatbot in Keras  
 https://github.com/zaidalyafeai/Notebooks/blob/master/README.md   TF 2.0 examples (Zaid Yafeai)   
 https://twitter.com/fchollet/status/1105139360226140160 TF 2.0 crash course (Francois Chollet)   
 
@@ -234,6 +239,7 @@ https://towardsdatascience.com/summarizing-tweets-in-a-disaster-e6b355a41732  tw
 https://towardsdatascience.com/twitter-api-and-nlp-7a386758eb31  Tweets by different users (code, with tweets miner class at https://github.com/elaiken3/twitter_api-nlp-project1)  
 
 ## spaCy  
+https://www.datacamp.com/courses/advanced-nlp-with-spacy   based on 2.1 version by Ines   
 https://github.com/explosion/spacy-stanfordnlp   https://stanfordnlp.github.io/stanfordnlp/    
 https://github.com/kororo/excelcy <====================== train and annotate from Excel   =====================   
 https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e    
@@ -588,7 +594,8 @@ https://github.com/kheyer/ML-DL-Projects/tree/master/Experiments/Residual%20UNet
 https://towardsdatascience.com/the-keys-of-deep-learning-in-100-lines-of-code-907398c76504  cancer diag (vision) <===   
 https://www.kaggle.com/deepbilal/using-fastai-tabular-on-petfinder/output  Pet Finder competition   
 https://forums.fast.ai/t/lesson-4-advanced-discussion/30319/85  text gen = beam search (https://forums.fast.ai/t/improving-text-generation/31467)  https://www.youtube.com/watch?v=RLWuzLLSIgw Andrew Ng <======   
-https://github.com/bfarzin/wiki103_from_scratch   WikiText training and classification <=====     
+https://github.com/bfarzin/wiki103_from_scratch   WikiText training and classification <=====  
+https://github.com/ohmeow/seq2seq-pytorch-fastai  seq2seq RNNs with fastai   
 https://hackernoon.com/@init_27  Interviews on deep learning   
 https://medium.com/@pierre_guillou/data-augmentation-by-fastai-v1-84ca04bea302     images via fastai   
 https://forums.fast.ai/t/lesson-4-advanced-discussion/30319/126  collab wiki post   
@@ -716,8 +723,11 @@ https://github.com/chiphuyen/lazynlp LazyNLP scrape massive text datasets (40GB+
 https://twitter.com/rctatman/status/1101177780954255360v  Human languages datasets    
 https://github.com/fastai/imagenette subset of ImageNet (www.image-net.org)   
 https://nlp.stanford.edu/links/statnlp.html#Corpora  
-http://kevinchai.net/datasets dataset directories (general and specialized)     
- 
+http://kevinchai.net/datasets dataset directories (general and specialized)    
+https://github.com/UniversalDependencies/UD_Arabic-PUD Universal dependencies Arabic    
+https://github.com/UniversalDependencies/UD_Arabic-PADT   
+https://github.com/UniversalDependencies/UD_Arabic-NYUAD    
+  
 
 # Dataviz  
 https://twitter.com/albertocairo/status/1057974210960723968 Alberto Cairo's invitees   
@@ -773,6 +783,7 @@ https://towardsdatascience.com/python-for-data-science-from-scratch-part-ii-e4dd
 https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428 Pandas pandas <=====    
 https://github.com/gto76/python-cheatsheet <===== full Python cheat sheet <======    
 https://tomaugspurger.github.io/modern-1-intro  Pandas and more    
+http://www.conquerprogramming.com/blog/3-Exceptions.html  Python exceptions    
 
 
 https://www.grnewsletters.com/archive/dataschool/Best-resources-for-going-deeper-with-Python-702398502.html   
@@ -802,9 +813,11 @@ https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg  Arxiv insights
 # Bias, Variance and Overfitting  
 https://twitter.com/rctatman/status/1060325912434995201   bias-variance tradeoff    
 
-# Free/Draft Books   
+# Free/Draft and other AI or ML Books  
+http://www.aimlbooks.com/  top mentioned AI/ML books from stack exchange and overflow    
 http://themlbook.com/wiki/doku.php  
 https://medium.com/datadreamsdragons    
+https://nlp.stanford.edu/software/dependencies_manual.pdf  from Stanford NLP group     
 
 # 100 days of ML coding  
 https://www.kdnuggets.com/2018/09/journey-machine-learning-100-days.html   
