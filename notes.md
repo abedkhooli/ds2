@@ -146,6 +146,7 @@ https://towardsdatascience.com/neural-networks-and-philosophy-of-language-31c34c
 https://www.lyrn.ai/2019/01/16/transformer-xl-sota-language-model/ (https://jalammar.github.io/illustrated-transformer/)    
 http://nacloweb.org/    
 https://github.com/Deffro/text-preprocessing-techniques and https://www.kaggle.com/deffro/text-pre-processing-techniques     
+https://twitter.com/sleepinyourhat/status/1109507075166691329  Recommendation for parsers    
 
 ## General 
 https://www.lfd.uci.edu/~gohlke/pythonlibs/ <---- Python wheels (esp. for Windows installation issues)   
@@ -260,6 +261,8 @@ https://www.reddit.com/r/textdatamining/comments/8k3tpk/getting_started_with_spa
 https://github.com/explosion/spaCy/pull/2931   
 https://allenai.github.io/scispacy/   ScispaCy! - A full spacy pipeline for #biomedical text   
 https://nbviewer.jupyter.org/github/repmax/topic-model/blob/master/topic-modelling.ipynb    
+https://github.com/textpipe/textpipe  clean and extract metadata from text <===============       
+https://blog.quanteda.org/2019/03/28/using-spacy-v2.1-with-spacyr/  
 
 ## Gensim  
 https://github.com/RaRe-Technologies/talks/tree/master/2018-03-23_MLPrague-workshop  Notebooks on W2Vec, FT, etc.  
@@ -754,7 +757,8 @@ https://www.technologyreview.com/s/612876/this-is-how-ai-bias-really-happensand-
  http://ai.stanford.edu/blog/ethical_best_practices/    In Favor of Developing Ethical Best Practices in AI Research    
  https://twitter.com/Klonick/status/1102970732890316801   Information privacy     
  https://imagenet-roulette.paglen.com/   
- 
+ https://www.scu.edu/ethics-in-technology-practice/overview-of-ethics-in-tech-practice/   
+ https://twitter.com/math_rachel/status/1110609213665865729  lecture of data ethics and other resources    
  
 
 
@@ -783,7 +787,8 @@ https://towardsdatascience.com/python-for-data-science-from-scratch-part-ii-e4dd
 https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428 Pandas pandas <=====    
 https://github.com/gto76/python-cheatsheet <===== full Python cheat sheet <======    
 https://tomaugspurger.github.io/modern-1-intro  Pandas and more    
-http://www.conquerprogramming.com/blog/3-Exceptions.html  Python exceptions    
+http://www.conquerprogramming.com/blog/3-Exceptions.html  Python exceptions   
+https://youtu.be/C-gEQdGVXbk  10 Python tips    
 
 
 https://www.grnewsletters.com/archive/dataschool/Best-resources-for-going-deeper-with-Python-702398502.html   
@@ -881,7 +886,8 @@ https://www.youtube.com/watch?v=p9tpTt6ZsLI&index=2&list=PLZSO_6-bSqHQHBCoGaObUl
 
 https://colab.research.google.com/drive/1jUpGwTaY9vJsUVw1tgwwXqKz6UOsvV1a 
 
-# Recent Courses   
+# Recent Courses  
+http://onlinehub.stanford.edu/cs224  Chris Manning 2019 deep learning NLP     
 https://mlcourse.ai/   Pytorch: http://phontron.com/class/nn4nlp2019/schedule.html => https://github.com/neubig/nn4nlp-code        https://deeplearning.mit.edu/  https://www.youtube.com/watch?v=O5xeyoRL95U&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf      https://github.com/lexfridman/mit-deep-learning    https://medium.com/tensorflow/mit-deep-learning-basics-introduction-and-overview-with-tensorflow-355bcd26baf0   MIT  <====  
 https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/  <==========================     
 http://phontron.com/class/nn4nlp2019/schedule.html   https://github.com/neubig/nn4nlp-code   <===-====-====-===-=====   
