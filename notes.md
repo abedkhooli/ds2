@@ -263,7 +263,7 @@ https://allenai.github.io/scispacy/   ScispaCy! - A full spacy pipeline for #bio
 https://nbviewer.jupyter.org/github/repmax/topic-model/blob/master/topic-modelling.ipynb    
 https://github.com/textpipe/textpipe  clean and extract metadata from text <===============       
 https://blog.quanteda.org/2019/03/28/using-spacy-v2.1-with-spacyr/  
-
+https://github.com/explosion/spacy-stanfordnlp   use Stanord NLP in SpaCy   
 ## Gensim  
 https://github.com/RaRe-Technologies/talks/tree/master/2018-03-23_MLPrague-workshop  Notebooks on W2Vec, FT, etc.  
 https://nbviewer.jupyter.org/github/repmax/topic-model/blob/master/topic-modelling.ipynb  Gensim, Spacy and textacy    
@@ -730,6 +730,7 @@ http://kevinchai.net/datasets dataset directories (general and specialized)
 https://github.com/UniversalDependencies/UD_Arabic-PUD Universal dependencies Arabic    
 https://github.com/UniversalDependencies/UD_Arabic-PADT   
 https://github.com/UniversalDependencies/UD_Arabic-NYUAD    
+https://www.nuscenes.org/overview  Autonomous driving dataset    
   
 
 # Dataviz  
@@ -739,7 +740,8 @@ https://twitter.com/jayvanbavel/status/1060543214665564161 graphic design and da
 https://blog.visme.co/best-data-visualizations/    Best Data Viz  
 https://www.allendowney.com/blog/2019/01/18/the-library-of-data-visualization/  books, blogs, videos and tools <======    
 https://twitter.com/kimay/status/1097793415222362113   data viz design processes    
-https://socviz.co/  Data Visualization A practical introduction (read book online)   
+https://socviz.co/  Data Visualization A practical introduction (read book online) 
+https://www.kaggle.com/learn/data-visualization-from-non-coder-to-coder Data viz in Seaborn <=====   
 
 # AI Ethics    
 https://medium.com/@miad/100-brilliant-women-in-ai-ethics-to-follow-in-2019-and-beyond-92f467aa6232   
