@@ -44,6 +44,7 @@ https://mlbook.explained.ai/catvars.html <===== ML Book
 
 
 # DataScience 
+https://www.linkedin.com/feed/update/urn:li:activity:6523057989522423808  Data Science learning path for beginners <=====     
 https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7   
 https://twitter.com/zaidalyafeai/status/1066664451984773121  ML courses   
 https://github.com/bulutyazilim/awesome-datascience     
@@ -208,6 +209,7 @@ https://explained.ai/rf-importance/index.html Random forest feature importance <
 # Torch 
 https://github.com/WillKoehrsen/pytorch_challenge/blob/master/Transfer%20Learning%20in%20PyTorch.ipynb  
 https://github.com/perone/medicaltorch/  Medical Torch  
+https://github.com/bentrevett/pytorch-sentiment-analysis  <===============
 
 # Tensor Flow  / Keras   
 https://medium.com/tensorflow/introducing-tensorflow-federated-a4147aa20041   TensorFlow Federated (TFF)  
