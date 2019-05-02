@@ -693,7 +693,7 @@ https://www.datasciencecentral.com/profiles/blogs/25-statistical-concepts-explai
 https://simplystatistics.org/2017/03/16/evo-ds-class/   
 https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view Intro to probability pdf 2019    
 
-# Datasets  [datasets](#datasets) 
+# Datasets  
 https://archive.ics.uci.edu/ml/datasets     
 https://registry.opendata.aws/  Amazon datasets   
 https://www.linkedin.com/feed/update/urn:li:activity:6459106684878020608   
