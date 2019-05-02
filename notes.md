@@ -693,7 +693,7 @@ https://www.datasciencecentral.com/profiles/blogs/25-statistical-concepts-explai
 https://simplystatistics.org/2017/03/16/evo-ds-class/   
 https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view Intro to probability pdf 2019    
 
-# Datasets   
+# Datasets  [datasets](#datasets) 
 https://archive.ics.uci.edu/ml/datasets     
 https://registry.opendata.aws/  Amazon datasets   
 https://www.linkedin.com/feed/update/urn:li:activity:6459106684878020608   
@@ -733,6 +733,7 @@ https://github.com/UniversalDependencies/UD_Arabic-PUD Universal dependencies Ar
 https://github.com/UniversalDependencies/UD_Arabic-PADT   
 https://github.com/UniversalDependencies/UD_Arabic-NYUAD    
 https://www.nuscenes.org/overview  Autonomous driving dataset    
+https://www.opendatasoft.com/  and https://dataportals.org/  (mapping)   
   
 
 # Dataviz  
