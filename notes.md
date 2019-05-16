@@ -535,6 +535,7 @@ https://medium.com/@wgilliam/finding-data-block-nirvana-a-journey-through-the-fa
 https://medium.com/@keremturgutlu/understanding-building-blocks-of-ulmfit-818d3775325b (https://www.kaggle.com/keremt, https://github.com/KeremTurgutlu) <=======    
 https://hackernoon.com/rtx-2080ti-vs-gtx-1080ti-fastai-mixed-precision-training-comparisons-on-cifar-100-761d8f615d7f   
 https://github.com/PPPW/deep-learning-random-explore/blob/master/CNN_archs/cnn_archs.ipynb   
+https://cristianduguet.com/an-only-text-description-of-text-generation-using-neural-networks/ <================    
 __Examples__:  
 https://github.com/jantic/deoldify  == https://www.colorize.ml/     
 https://www.kaggle.com/tamlyn/titanic-fastai Titanic   
@@ -764,6 +765,7 @@ https://www.technologyreview.com/s/612876/this-is-how-ai-bias-really-happensand-
  https://imagenet-roulette.paglen.com/   
  https://www.scu.edu/ethics-in-technology-practice/overview-of-ethics-in-tech-practice/   
  https://twitter.com/math_rachel/status/1110609213665865729  lecture of data ethics and other resources    
+ https://towardsdatascience.com/ethics-of-ai-a-comprehensive-primer-1bfd039124b0 (part 1/3)        
  
 
 
