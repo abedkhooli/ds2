@@ -10,6 +10,7 @@ https://www.youtube.com/watch?v=EPVwnG-n4B0 git for data scientists Anreas Mulle
 
 # No category:  
 https://hbr.org/2019/02/how-to-choose-your-first-ai-project   Andrew Ng   
+https://end-to-end-machine-learning.teachable.com/p/data-science-concepts/   <=====    
 https://github.com/rasbt/python-machine-learning-book-2nd-edition Sebastian Raschka book examples   
 https://web.stanford.edu/~jurafsky/slp3/  Speech and Language Processing (3rd ed. draft)    
 https://www.kaggle.com/rtatman/getting-started-with-kaggle-workshop-in-a-box   http://data8.org/fa18/  
@@ -26,7 +27,8 @@ https://gengo.ai/articles/20-best-youtube-channels-for-ai-and-machine-learning/
 https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy  **** Great notebook ****  
 https://christophm.github.io/interpretable-ml-book/     Interpretable Machine Learning   
 https://www.cs.toronto.edu/~hinton/coursera_lectures.html (NN Essentials) Jeff Hinton course 2012 <=======     
-https://arxiv.org/abs/1811.12808  Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning Sebastian Raschka    
+https://arxiv.org/abs/1811.12808  Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning Sebastian Raschka   
+https://towardsdatascience.com/demystifying-confusion-matrix-confusion-9e82201592fd  <======     
 https://www.datahelpers.org/   ask for help on datascience via Twitter   
 
 https://medium.com/ibm-watson-data-lab/the-visual-python-debugger-for-jupyter-notebooks-youve-always-wanted-761713babc62  pixie jupyter notebook debugger https://github.com/pixiedust/pixiedust  
@@ -105,11 +107,12 @@ https://twitter.com/_brohrer_/status/1054298773541670912  Math4ML
 https://www.youtube.com/watch?v=UiF0FyMFO-8   Model selection BRohrer     
 https://github.com/dustinvtran/ml-videos ML Videos    
 
-# Explaianed AI 
+# Explained AI 
 https://becominghuman.ai/interpretable-machine-learning-an-overview-10684eaa1fd7  
 https://towardsdatascience.com/understanding-how-lime-explains-predictions-d404e5d1829c  
 https://christophm.github.io/interpretable-ml-book/ <====  
 https://lexfridman.com/ai/ AI Podcast   
+https://github.com/Microsoft/interpret   MS Interpret   
 
 # NLP  
 https://omarito.me/data-augmentation-in-nlp-sequence-tagging/   NLP data augmentation  
@@ -210,6 +213,7 @@ https://explained.ai/rf-importance/index.html Random forest feature importance <
 https://github.com/WillKoehrsen/pytorch_challenge/blob/master/Transfer%20Learning%20in%20PyTorch.ipynb  
 https://github.com/perone/medicaltorch/  Medical Torch  
 https://github.com/bentrevett/pytorch-sentiment-analysis  <===============
+https://code.fb.com/ai-research/pythia/ <===============    
 
 # Tensor Flow  / Keras   
 https://medium.com/tensorflow/introducing-tensorflow-federated-a4147aa20041   TensorFlow Federated (TFF)  
@@ -653,6 +657,7 @@ https://twitter.com/jeremyphoward/status/1098758987271426048  SGD 3D
 https://github.com/google-research/google-research/tree/master/interpretability_benchmark   
 
 # LSTM, BERT, GANs, GPT-2  
+https://medium.com/huggingface/introducing-fastbert-a-simple-deep-learning-library-for-bert-models-89ff763ad384    
 http://colah.github.io/posts/2015-08-Understanding-LSTMs/    
 https://medium.com/dissecting-bert  
 http://juditacs.github.io/2019/02/19/bert-tokenization-stats.html   
@@ -746,6 +751,7 @@ https://www.allendowney.com/blog/2019/01/18/the-library-of-data-visualization/  
 https://twitter.com/kimay/status/1097793415222362113   data viz design processes    
 https://socviz.co/  Data Visualization A practical introduction (read book online) 
 https://www.kaggle.com/learn/data-visualization-from-non-coder-to-coder Data viz in Seaborn <=====   
+https://python-graph-gallery.com/     
 
 # AI Ethics    
 https://medium.com/@miad/100-brilliant-women-in-ai-ethics-to-follow-in-2019-and-beyond-92f467aa6232   
@@ -942,6 +948,16 @@ https://medium.com/@prtdomingo/editing-files-in-your-linux-virtual-machine-made-
 
 # Speech  
 https://web.stanford.edu/~jurafsky/slp3/   speech and language processing book    
+
+# Semantic Similarity  
+https://github.com/NTMC-Community/awesome-neural-models-for-semantic-match   
+https://gist.github.com/GhibliField/c3c97b742d346baa5f14b3a796c12a4a  
+https://tfhub.dev/   universal sentence encoder   
+https://medium.com/@liangzhang6677/nlp-notes-5e964f5d740e    
+http://ixa2.si.ehu.es/stswiki/index.php/Main_Page   
+
+
+
 
 
 
