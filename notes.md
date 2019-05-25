@@ -73,7 +73,10 @@ https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-1-602f73869197 
 http://crawles.com/lr-scratch/   crossing features in Titanic   
 https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects  Randy Olson
 https://www.kaggle.com/rtatman/download-a-csv-file-from-a-kernel/
-http://nlpprogress.com/    tracking progress in nlp  
+http://nlpprogress.com/    tracking progress in nlp  <=======================     
+https://medium.com/huggingface/the-best-and-most-current-of-modern-natural-language-processing-5055f409a1d1      
+http://www.winlp.org/big-directory/    
+
 https://github.com/lmcinnes/umap  Uniform Manifold Approximation and Projection  
 http://tomaugspurger.github.io/modern-7-timeseries.html   
 https://www.kdnuggets.com/2018/03/catboost-vs-light-gbm-vs-xgboost.html   
@@ -381,7 +384,8 @@ https://channel9.msdn.com/Events/Connect/2017/AI1  intro to MS AI
 https://channel9.msdn.com/Events/Connect/2017/AI2 intro to bots 
 https://channel9.msdn.com/Events/Connect/2017/T100  use Azure bot srvice  
 
-## Bots  
+## Chatbots  
+https://medium.com/tensorflow/a-transformer-chatbot-tutorial-with-tensorflow-2-0-88bf59e66fe2    
 https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e     
 https://github.com/deepmipt <==== see DeepPavlov and Intent-Classifier.  See also: https://github.com/snipsco/snips-nlu  and other repos     
 https://ankitbko.github.io/2017/03/human-handover-bot/    
@@ -625,6 +629,8 @@ __Course Summary__: https://medium.com/@GeneAshis/single-object-detection-e65a53
 __Fastai Advice from Jeremy__: https://forums.fast.ai/t/things-jeremy-says-to-do/36682 
 __Part II__: https://www.usfca.edu/data-institute/certificates/deep-learning-part-two  
 
+__Rapids__: https://medium.com/rapids-ai/using-rapids-with-pytorch-e602da018285   (tabular)    
+
 # Python Hosting (free)    
 http://kyso.io/   ex. Bokeh   
 https://www.pythonanywhere.com/    
@@ -675,6 +681,7 @@ https://towardsdatascience.com/openai-gpt-2-understanding-language-generation-th
 https://gpt2.apps.allenai.org/ GPT-2 Explorer  117M parameter OpenAI GPT-2 language model demo   
 http://gltr.io/dist/index.html  Giant Language model Test Room      
 http://newsletter.ruder.io/issues/gpt-2-sequence-generation-in-arbitrary-order-160799  Newsletter covering GPT-2  
+https://gist.github.com/thomwolf/ca135416a30ea387aa20edaa9b21f0ed   A very small and self-contained gist to train a GPT-2 transformer model on wikitext-103        
 
 # Data Lit (siraj Raval)  
 https://www.youtube.com/watch?v=3Pzni2yfGUQ  https://github.com/llSourcell/Sentiment_Analysis/   
