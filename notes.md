@@ -747,6 +747,7 @@ https://github.com/UniversalDependencies/UD_Arabic-PADT
 https://github.com/UniversalDependencies/UD_Arabic-NYUAD    
 https://www.nuscenes.org/overview  Autonomous driving dataset    
 https://www.opendatasoft.com/  and https://dataportals.org/  (mapping)   
+https://bioacousticsdatasets.weebly.com/   bio acoustic datasets    
   
 
 # Dataviz  
