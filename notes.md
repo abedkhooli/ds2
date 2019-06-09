@@ -661,6 +661,7 @@ http://playground.tensorflow.org   Neural nets
 https://ezyang.github.io/convolution-visualizer/index.html  conv networks visualizer 
 https://twitter.com/jeremyphoward/status/1098758987271426048  SGD 3D  
 https://github.com/google-research/google-research/tree/master/interpretability_benchmark   
+https://www.youtube.com/watch?v=JB8T_zN7ZC0 How cnns work   
 
 # LSTM, BERT, GANs, GPT-2  
 https://medium.com/huggingface/introducing-fastbert-a-simple-deep-learning-library-for-bert-models-89ff763ad384    
@@ -747,7 +748,9 @@ https://github.com/UniversalDependencies/UD_Arabic-PADT
 https://github.com/UniversalDependencies/UD_Arabic-NYUAD    
 https://www.nuscenes.org/overview  Autonomous driving dataset    
 https://www.opendatasoft.com/  and https://dataportals.org/  (mapping)   
-https://bioacousticsdatasets.weebly.com/   bio acoustic datasets    
+https://bioacousticsdatasets.weebly.com/   bio acoustic datasets   
+https://machinelearningmastery.com/prepare-photo-caption-dataset-training-deep-learning-model/  Flicker8k image captioning dataset      
+http://kitab-project.org/2019/06/08/first-open-access-release-of-our-arabic-corpus/  Arabic Kitab corpus   
   
 
 # Dataviz  
