@@ -782,7 +782,8 @@ https://www.technologyreview.com/s/612876/this-is-how-ai-bias-really-happensand-
  https://imagenet-roulette.paglen.com/   
  https://www.scu.edu/ethics-in-technology-practice/overview-of-ethics-in-tech-practice/   
  https://twitter.com/math_rachel/status/1110609213665865729  lecture of data ethics and other resources    
- https://towardsdatascience.com/ethics-of-ai-a-comprehensive-primer-1bfd039124b0 (part 1/3)        
+ https://towardsdatascience.com/ethics-of-ai-a-comprehensive-primer-1bfd039124b0 (part 1/3)     
+ https://twitter.com/halhod/status/1143798334135472128  journalists covering AI/ML thread      
  
 
 
@@ -813,6 +814,9 @@ https://github.com/gto76/python-cheatsheet <===== full Python cheat sheet <=====
 https://tomaugspurger.github.io/modern-1-intro  Pandas and more    
 http://www.conquerprogramming.com/blog/3-Exceptions.html  Python exceptions   
 https://youtu.be/C-gEQdGVXbk  10 Python tips    
+https://twitter.com/_inesmontani/status/1144173215293591555  Productivity tips by Ines and Goel     
+https://twitter.com/_inesmontani/status/1144173242082574341  design and css by ines   
+https://jalammar.github.io/visual-numpy/ A Visual Intro to NumPy and Data Representation       
 
 
 https://www.grnewsletters.com/archive/dataschool/Best-resources-for-going-deeper-with-Python-702398502.html   
@@ -826,6 +830,8 @@ https://github.com/ray-project/ray/
 https://pbpython.com/pandas-crosstab.html   
 
 # Deep Learning  
+https://github.com/rasbt/deeplearning-models  Sebastian Raschka - deep learning models    
+https://github.com/rasbt/DeepLearning-Gdansk2019-tutorial   Sebastian Raschka - deep learning summer school    
 https://github.com/iamtrask/Grokking-Deep-Learning     
 https://stallion.ai/en/home   <--- Ar word embedding  
 https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs  
@@ -966,6 +972,9 @@ https://gist.github.com/GhibliField/c3c97b742d346baa5f14b3a796c12a4a
 https://tfhub.dev/   universal sentence encoder   
 https://medium.com/@liangzhang6677/nlp-notes-5e964f5d740e    
 http://ixa2.si.ehu.es/stswiki/index.php/Main_Page   
+
+# Arabic Specific   
+https://github.com/zaidalyafeai/ARBML (Models and datasets)   
 
 
 
