@@ -844,6 +844,7 @@ https://www.kdnuggets.com/2018/02/8-neural-network-architectures-machine-learnin
 https://people.csail.mit.edu/madry/6.883/  science of deep learning class notes    
 https://towardsdatascience.com/gate-recurrent-units-explained-using-matrices-part-1-3c781469fc18 GRUs explained   
 https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg  Arxiv insights  
+https://github.com/dpressel/dliss-tutorial   International Summer School on Deep Learning, 2019       
 
 # Bias, Variance and Overfitting  
 https://twitter.com/rctatman/status/1060325912434995201   bias-variance tradeoff    
@@ -974,7 +975,7 @@ https://medium.com/@liangzhang6677/nlp-notes-5e964f5d740e
 http://ixa2.si.ehu.es/stswiki/index.php/Main_Page   
 
 # Arabic Specific   
-https://github.com/zaidalyafeai/ARBML (Models and datasets)   
+https://github.com/zaidalyafeai/ARBML (Models and datasets, https://twitter.com/arabicml2)   
 
 
 
