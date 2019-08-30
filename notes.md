@@ -706,6 +706,8 @@ https://www.datasciencecentral.com/profiles/blogs/29-statistical-concepts-explai
 https://www.datasciencecentral.com/profiles/blogs/25-statistical-concepts-explained-in-simple-english-part-2   
 https://simplystatistics.org/2017/03/16/evo-ds-class/   
 https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view Intro to probability pdf 2019    
+https://brohrer.github.io/stats_resources.html    Brandon Rohrer stats resources 
+http://www.bcfoltz.com/blog/stats-101/ + https://statquest.org/  <=====         
 
 # Datasets  
 https://archive.ics.uci.edu/ml/datasets     
@@ -942,7 +944,7 @@ https://kaggledays.com/
 https://twimlai.com/twiml-x-fast-ai/  (https://www.youtube.com/watch?v=eisxYm19C5I)    
 https://nurture.ai/ai-saturdays  (see projects)     
 https://www.theschool.ai/    
-
+https://medium.com/ai2-blog/how-to-get-up-to-speed-on-machine-learning-and-ai-a0fd923d4169 AI2 resources    
   
 https://ai.google.com/research/NaturalQuestions Google Natural Questions dataset   
 https://github.motakasoft.com/trending/?d=2019-02-01&l=python  github trends   
