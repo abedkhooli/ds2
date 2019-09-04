@@ -979,8 +979,10 @@ http://ixa2.si.ehu.es/stswiki/index.php/Main_Page
 # Arabic Specific   
 https://github.com/zaidalyafeai/ARBML (Models and datasets, https://twitter.com/arabicml2)   
 
+# Transcribus  / crowd  
+https://transkribus.eu/Transkribus/    https://www.zooniverse.org/    
 
-
-
+# fastai walk throughs  
+https://www.youtube.com/watch?v=44pe47sB4BI&t=649s   
 
 
