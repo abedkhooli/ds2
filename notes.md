@@ -978,11 +978,13 @@ http://ixa2.si.ehu.es/stswiki/index.php/Main_Page
 
 # Arabic Specific   
 https://github.com/zaidalyafeai/ARBML (Models and datasets, https://twitter.com/arabicml2)   
+https://github.com/niderhoff/nlp-datasets    
+https://buhuth.org/ar/home (https://www.linkedin.com/posts/hassan-sarhan-471566151_index-of-activity-6576768412834496512-fmCb)   
 
 # Transcribus  / crowd  
 https://transkribus.eu/Transkribus/    https://www.zooniverse.org/    
 
-# fastai walk throughs  
+# fastai v2 walk throughs    
 https://www.youtube.com/watch?v=44pe47sB4BI&t=649s   
 
 
