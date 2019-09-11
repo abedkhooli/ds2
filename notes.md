@@ -250,6 +250,7 @@ https://towardsdatascience.com/summarizing-tweets-in-a-disaster-e6b355a41732  tw
 https://towardsdatascience.com/twitter-api-and-nlp-7a386758eb31  Tweets by different users (code, with tweets miner class at https://github.com/elaiken3/twitter_api-nlp-project1)  
 
 ## spaCy  
+https://realpython.com/natural-language-processing-spacy-python/  Real Python    
 https://www.datacamp.com/courses/advanced-nlp-with-spacy   based on 2.1 version by Ines   
 https://github.com/explosion/spacy-stanfordnlp   https://stanfordnlp.github.io/stanfordnlp/    
 https://github.com/kororo/excelcy <====================== train and annotate from Excel   =====================   
