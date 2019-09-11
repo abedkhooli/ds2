@@ -9,6 +9,7 @@ https://github.com/jstray/lede-algorithms  for journalism!
 https://www.youtube.com/watch?v=EPVwnG-n4B0 git for data scientists Anreas Muller     
 
 # No category:  
+https://www.linkedin.com/posts/nabihbawazir_heres-the-list-of-tutorials-1-data-science-activity-6574190147376644096-qNeA   DataNest   
 https://hbr.org/2019/02/how-to-choose-your-first-ai-project   Andrew Ng   
 https://end-to-end-machine-learning.teachable.com/p/data-science-concepts/   <=====    
 https://github.com/rasbt/python-machine-learning-book-2nd-edition Sebastian Raschka book examples   
@@ -920,6 +921,7 @@ https://www.youtube.com/watch?v=p9tpTt6ZsLI&index=2&list=PLZSO_6-bSqHQHBCoGaObUl
 https://colab.research.google.com/drive/1jUpGwTaY9vJsUVw1tgwwXqKz6UOsvV1a 
 
 # Recent Courses  
+https://github.com/laurenfklein/emory-qtm340 Practical Approaches to Data Science with Text      
 http://onlinehub.stanford.edu/cs224  Chris Manning 2019 deep learning NLP     
 https://mlcourse.ai/   Pytorch: http://phontron.com/class/nn4nlp2019/schedule.html => https://github.com/neubig/nn4nlp-code        https://deeplearning.mit.edu/  https://www.youtube.com/watch?v=O5xeyoRL95U&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf      https://github.com/lexfridman/mit-deep-learning    https://medium.com/tensorflow/mit-deep-learning-basics-introduction-and-overview-with-tensorflow-355bcd26baf0   MIT  <====  
 https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/  <==========================     
