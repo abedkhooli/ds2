@@ -937,7 +937,8 @@ http://people.ischool.berkeley.edu/~dbamman/info256.html (https://github.com/dba
 https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes   Georgia Tech (includes book)  
 https://www.cs.toronto.edu/~hinton/coursera_lectures.html  Geoff Hinton <=====    
 https://sites.google.com/view/berkeley-cs294-158-sp19/home   UC Berkely Spring 2019  
-https://github.com/rasbt/stat479-deep-learning-ss19 sebastian Raschka deep learning   
+https://github.com/rasbt/stat479-deep-learning-ss19 Sebastian Raschka deep learning   
+https://github.com/rasbt/stat479-machine-learning-fs19  Sebastian Raschka Machine Learning (FS 2019)    
 
 https://paperswithcode.com/sota  <================  
 https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html  <=======  
