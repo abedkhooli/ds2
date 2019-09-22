@@ -991,4 +991,6 @@ https://transkribus.eu/Transkribus/    https://www.zooniverse.org/
 # fastai v2 walk throughs    
 https://www.youtube.com/watch?v=44pe47sB4BI&t=649s   
 
+# organize research 
+https://twitter.com/chrisalbon/status/1175539804114583552   Zotero etc   
 
