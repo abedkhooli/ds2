@@ -6,7 +6,8 @@ Use it if you find it useful.
 # On using git:  
 git for poets (https://www.youtube.com/watch?v=BCQHnlnPusY) , also https://www.youtube.com/watch?v=SWYqp7iY_Tc and https://www.youtube.com/watch?v=HVsySz-h9r4   
 https://github.com/jstray/lede-algorithms  for journalism!  
-https://www.youtube.com/watch?v=EPVwnG-n4B0 git for data scientists Anreas Muller     
+https://www.youtube.com/watch?v=EPVwnG-n4B0 git for data scientists Anreas Muller  
+See also: https://www.linkedin.com/posts/brohrer_if-a-beginner-wanted-to-learn-how-to-use-activity-6581471551160414208-tx0K  (Brandon Rohrer's post)   
 
 # No category:  
 https://www.linkedin.com/posts/nabihbawazir_heres-the-list-of-tutorials-1-data-science-activity-6574190147376644096-qNeA   DataNest   
