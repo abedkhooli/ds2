@@ -641,6 +641,7 @@ https://www.pythonanywhere.com/
 https://www.heroku.com/  
 https://course.fast.ai/deployment_render.html  
 https://course.fast.ai/deployment_zeit.html   
+https://realpython.com/flask-connexion-rest-api/   API in Flask   
 
 
 # Tools collection 
