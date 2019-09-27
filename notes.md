@@ -1,7 +1,10 @@
 ### Note/disclaimer:  
 this doc is not part of this repo in the logical sense but is being hosted here for now. 
 It is currently a set of misc links and notes in no specific structure (well, almost) or purpose or maintenance plan - most resources here are simply 'note to self' items and I am keeping them public.      
-Use it if you find it useful.  
+Use it if you find it useful. 
+
+# ML starter Resources   
+https://end-to-end-machine-learning.teachable.com/p/000-foundational-skills/   
  
 # On using git:  
 git for poets (https://www.youtube.com/watch?v=BCQHnlnPusY) , also https://www.youtube.com/watch?v=SWYqp7iY_Tc and https://www.youtube.com/watch?v=HVsySz-h9r4   
