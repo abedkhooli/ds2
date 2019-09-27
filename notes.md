@@ -7,7 +7,7 @@ Use it if you find it useful.
 git for poets (https://www.youtube.com/watch?v=BCQHnlnPusY) , also https://www.youtube.com/watch?v=SWYqp7iY_Tc and https://www.youtube.com/watch?v=HVsySz-h9r4   
 https://github.com/jstray/lede-algorithms  for journalism!  
 https://www.youtube.com/watch?v=EPVwnG-n4B0 git for data scientists Andreas Muller  
-See also: https://www.linkedin.com/posts/brohrer_if-a-beginner-wanted-to-learn-how-to-use-activity-6581471551160414208-tx0K  (Brandon Rohrer's post)   
+See also: https://www.linkedin.com/posts/brohrer_if-a-beginner-wanted-to-learn-how-to-use-activity-6581471551160414208-tx0K  (Brandon Rohrer's post)  ===> https://brohrer.github.io/git_resources.html  final list     
 https://lab.github.com/  and https://www.youtube.com/watch?v=9S0p8YMQzsM  
 
 # No category:  
