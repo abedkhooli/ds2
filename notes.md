@@ -10,7 +10,8 @@ https://end-to-end-machine-learning.teachable.com/p/000-foundational-skills/
 git for poets (https://www.youtube.com/watch?v=BCQHnlnPusY) , also https://www.youtube.com/watch?v=SWYqp7iY_Tc and https://www.youtube.com/watch?v=HVsySz-h9r4   
 https://github.com/jstray/lede-algorithms  for journalism!  
 https://www.youtube.com/watch?v=EPVwnG-n4B0 git for data scientists Andreas Muller  
-See also: https://www.linkedin.com/posts/brohrer_if-a-beginner-wanted-to-learn-how-to-use-activity-6581471551160414208-tx0K  (Brandon Rohrer's post)  ===> https://brohrer.github.io/git_resources.html  final list     
+See also: https://www.linkedin.com/posts/brohrer_if-a-beginner-wanted-to-learn-how-to-use-activity-6581471551160414208-tx0K  (Brandon Rohrer's post)  ===> https://brohrer.github.io/git_resources.html  final list    
+https://twitter.com/yaser_najjar_ar/status/1177549419119616000  git in 10 Arabic tweets    
 https://lab.github.com/  and https://www.youtube.com/watch?v=9S0p8YMQzsM  
 
 # No category:  
@@ -256,6 +257,7 @@ https://towardsdatascience.com/twitter-api-and-nlp-7a386758eb31  Tweets by diffe
 
 ## spaCy  
 https://realpython.com/natural-language-processing-spacy-python/  Real Python    
+https://github.com/cristianasp/spacy    Spacy course in notebooks   
 https://www.datacamp.com/courses/advanced-nlp-with-spacy   based on 2.1 version by Ines   
 https://github.com/explosion/spacy-stanfordnlp   https://stanfordnlp.github.io/stanfordnlp/    
 https://github.com/kororo/excelcy <====================== train and annotate from Excel   =====================   
