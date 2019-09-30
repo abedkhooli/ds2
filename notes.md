@@ -5,6 +5,9 @@ Use it if you find it useful.
 
 # ML starter Resources   
 https://end-to-end-machine-learning.teachable.com/p/000-foundational-skills/   
+
+# TF2 
+https://twitter.com/random_forests/status/1178687761177554946   
  
 # On using git:  
 git for poets (https://www.youtube.com/watch?v=BCQHnlnPusY) , also https://www.youtube.com/watch?v=SWYqp7iY_Tc and https://www.youtube.com/watch?v=HVsySz-h9r4   
