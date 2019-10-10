@@ -10,6 +10,9 @@ https://www.analyticsvidhya.com/blog/2019/10/8-ambitious-data-science-projects-g
 
 # TF2 
 https://twitter.com/random_forests/status/1178687761177554946   
+
+# Fast.AI new 
+https://www.kaggle.com/jhoward/some-dicom-gotchas-to-be-aware-of-fastai    
  
 # On using git:  
 git for poets (https://www.youtube.com/watch?v=BCQHnlnPusY) , also https://www.youtube.com/watch?v=SWYqp7iY_Tc and https://www.youtube.com/watch?v=HVsySz-h9r4   
