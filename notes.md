@@ -6,7 +6,8 @@ Use it if you find it useful.
 # ML starter and great Resources   
 https://end-to-end-machine-learning.teachable.com/p/000-foundational-skills/   
 https://nirantk.com/awesome-project-ideas/   
-https://www.analyticsvidhya.com/blog/2019/10/8-ambitious-data-science-projects-github/  <===      
+https://www.analyticsvidhya.com/blog/2019/10/8-ambitious-data-science-projects-github/  <===     
+https://arxiv.org/abs/1910.03771   Transformers NLP review    <======
 
 # TF2 
 https://twitter.com/random_forests/status/1178687761177554946   
