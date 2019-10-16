@@ -330,6 +330,7 @@ https://github.com/jsalt18-sentence-repl/jiant  transfer learning (has Arabic, s
 https://github.com/bear/python-twitter Python Twitter (see also Tweepy)  
 
 ## RegEx 
+Brandon Rohrer's collection: https://www.oreilly.com/ideas/an-introduction-to-regular-expressions, https://regexr.com/ and  https://rubular.com/ (Ruby)    
 https://regex101.com/ online tool  
 https://www.kdnuggets.com/2018/04/python-regular-expressions-cheat-sheet.html  <=========  
 https://www.youtube.com/watch?v=VU60rEXaOXk jupyter notebook (many episodes)
