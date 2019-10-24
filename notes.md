@@ -9,6 +9,8 @@ https://nirantk.com/awesome-project-ideas/
 https://www.analyticsvidhya.com/blog/2019/10/8-ambitious-data-science-projects-github/  <===     
 https://arxiv.org/abs/1910.03771   Transformers NLP review    <======    
 https://sotabench.com/ Benchmarking Every Open Source Model (@paperswithcode] <======     
+https://twitter.com/mariakhalusova/status/1186648445068742657 Who to follow on Twitter    
+https://github.com/n-waves/ulmfit-multilingual/tree/multifit  ULMFIT Multilingual <====       
 
 # TF2 
 https://twitter.com/random_forests/status/1178687761177554946   
