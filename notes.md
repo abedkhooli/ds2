@@ -10,13 +10,15 @@ https://www.analyticsvidhya.com/blog/2019/10/8-ambitious-data-science-projects-g
 https://arxiv.org/abs/1910.03771   Transformers NLP review    <======    
 https://sotabench.com/ Benchmarking Every Open Source Model (@paperswithcode] <======     
 https://twitter.com/mariakhalusova/status/1186648445068742657 Who to follow on Twitter    
-https://github.com/n-waves/ulmfit-multilingual/tree/multifit  ULMFIT Multilingual <====       
+https://towardsdatascience.com/how-to-write-web-apps-using-simple-python-for-data-scientists-a227a1a01582  
+      
 
 # TF2 
 https://twitter.com/random_forests/status/1178687761177554946   
 
 # Fast.AI new 
 https://www.kaggle.com/jhoward/some-dicom-gotchas-to-be-aware-of-fastai    
+https://github.com/n-waves/ulmfit-multilingual/tree/multifit  ULMFIT Multilingual <====  
  
 # On using git:  
 git for poets (https://www.youtube.com/watch?v=BCQHnlnPusY) , also https://www.youtube.com/watch?v=SWYqp7iY_Tc and https://www.youtube.com/watch?v=HVsySz-h9r4   
