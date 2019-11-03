@@ -19,7 +19,11 @@ http://aldawsari.info/  Arabic NLP (SpaCy pipeline and Stanford NLP models)
 # TF2 
 https://twitter.com/random_forests/status/1178687761177554946   
 
-# Fast.AI new 
+# Fast.AI new (2.0)  
+https://forums.fast.ai/t/a-guided-walk-through-of-2-0-like-practical-deep-learning-for-coders/57161  notebooks  
+https://github.com/muellerzr/Practical-Deep-Learning-for-Coders-2.0     
+https://medium.com/@aman.arora0210/fastai-v2-datablocks-api-code-overview-a-gentle-introduction-60338a6c9aa  data blocks   
+https://github.com/fastai/course-nlp  code-first intro to nlp (different frameworks, fastai 1, July 2019)   
 https://www.kaggle.com/jhoward/some-dicom-gotchas-to-be-aware-of-fastai    
 https://github.com/n-waves/ulmfit-multilingual/tree/multifit  ULMFIT Multilingual <====  
 
