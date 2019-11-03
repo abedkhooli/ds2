@@ -21,7 +21,7 @@ https://twitter.com/random_forests/status/1178687761177554946
 
 # Fast.AI new (2.0)  
 https://forums.fast.ai/t/a-guided-walk-through-of-2-0-like-practical-deep-learning-for-coders/57161  notebooks  
-https://github.com/muellerzr/Practical-Deep-Learning-for-Coders-2.0     
+https://github.com/muellerzr/Practical-Deep-Learning-for-Coders-2.0   ***     
 https://medium.com/@aman.arora0210/fastai-v2-datablocks-api-code-overview-a-gentle-introduction-60338a6c9aa  data blocks   
 https://github.com/fastai/course-nlp  code-first intro to nlp (different frameworks, fastai 1, July 2019)   
 https://www.kaggle.com/jhoward/some-dicom-gotchas-to-be-aware-of-fastai    
@@ -29,6 +29,9 @@ https://github.com/n-waves/ulmfit-multilingual/tree/multifit  ULMFIT Multilingua
 
 # ETL  
 https://dev.socrata.com/connectors/pentaho-kettle.html  
+
+# Text augmentation  
+https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Text_Augmentation    
  
 # On using git:  
 git for poets (https://www.youtube.com/watch?v=BCQHnlnPusY) , also https://www.youtube.com/watch?v=SWYqp7iY_Tc and https://www.youtube.com/watch?v=HVsySz-h9r4   
