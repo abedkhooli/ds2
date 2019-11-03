@@ -12,7 +12,8 @@ https://sotabench.com/ Benchmarking Every Open Source Model (@paperswithcode] <=
 https://twitter.com/mariakhalusova/status/1186648445068742657 Who to follow on Twitter    
 https://towardsdatascience.com/how-to-write-web-apps-using-simple-python-for-data-scientists-a227a1a01582  
 https://online-learning.harvard.edu/subject/data-science + https://www.edx.org/professional-certificate/harvardx-data-science   
-http://arabitools.com/  ARabic Java tools    
+http://arabitools.com/  Arabic Java tools   
+http://aldawsari.info/  Arabic NLP (SpaCy pipeline and Stanford NLP models)
 
 
 # TF2 
