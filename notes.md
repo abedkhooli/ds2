@@ -32,6 +32,10 @@ https://dev.socrata.com/connectors/pentaho-kettle.html
 
 # Text augmentation  
 https://github.com/cerlymarco/MEDIUM_NoteBook/tree/master/Text_Augmentation    
+
+# GPT-2  
+https://transformer.huggingface.co/doc/gpt2-xl  
+https://huggingface.co/openai-detector  human or machine?   
  
 # On using git:  
 git for poets (https://www.youtube.com/watch?v=BCQHnlnPusY) , also https://www.youtube.com/watch?v=SWYqp7iY_Tc and https://www.youtube.com/watch?v=HVsySz-h9r4   
