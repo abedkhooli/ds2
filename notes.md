@@ -832,6 +832,7 @@ https://www.technologyreview.com/s/612876/this-is-how-ai-bias-really-happensand-
 
 
 # Learn Python   
+https://coreyms.com/ + https://coreyms.com/   
 https://kite.com/  AI-Powered Python  auto-completion    
 https://twitter.com/math_rachel/status/1058089708155166720    Rachel   
 https://twitter.com/_brohrer_/status/1039805324423823361  Brandon   
