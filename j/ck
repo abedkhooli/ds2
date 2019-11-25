@@ -35,4 +35,6 @@ like group-education.png for groups i.e topics).
 parts or cause upgrade issues)  
 - CSS, JavaScript and i18n are at /user/lib/ckan/default/src/ckan/ckan/public/base/ (most likely you will not need to edit these).
 
-
+https://docs.ckan.org/en/2.8/sysadmin-guide.html#creating-a-sysadmin-account  
+https://docs.ckan.org/en/2.8/maintaining/getting-started.html#create-admin-user  
+*** Adding more sysadmin accounts is done in the same way. It cannot be done via the web UI. 
