@@ -22,4 +22,17 @@ df -h disk space
 sudo fdisk -l (disk partitions and sizes - 80GB)
 sudo lshw -c memory (RAM) 4GB 
 
-sudo <editor> <filename>   (readonly file), press I key to insert, ESC to get out, :wq! to save (:q! to exit without saving)
+sudo <editor> <filename>   (readonly file), press I key to insert, ESC to get out, :wq! to save (:q! to exit without saving) 
+- To limit the list of languages in the drop down list in footer (En, Ar): edit the ini file (line 146 if we did not add/remove line breaks)
+to read: 
+ckan.locales_offered = en ar  
+sudo vim /etc/ckan/default/production.ini   (restart apache2 after saving)   
+- Images (backgrounds, logos, icons) are at this location: /user/lib/ckan/default/src/ckan/ckan/public/base/images/  
+(it is a good idea to establish a naming convention - ex. org-org_name.png like org-mtit.png for organizations and group-group_name.png  
+like group-education.png for groups i.e topics). 
+- Logos for organizations and groups are png files with size 210x125 pixels  
+- Source files are at /usr/lib/ckan/default/src/ckan/ckan/ (code and page templates - be careful editing these as this may affect other  
+parts or cause upgrade issues)  
+- CSS, JavaScript and i18n are at /user/lib/ckan/default/src/ckan/ckan/public/base/ (most likely you will not need to edit these).
+
+
