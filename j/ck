@@ -1,1 +1,25 @@
-paster sysadmin add abedk* email=ak@gmail.com name=abedk* -c /etc/ckan/default/production.ini  pwd = AK***!  <=== portal admin 
+paster sysadmin add abedk* email=ak@gmail.com name=abedk* -c /etc/ckan/default/production.ini  pwd = AK***!  <=== portal admin  
+sudo vim /etc/ckan/default/production.ini
+sudo service apache2 restart 
+Snippets (html) in /usr/lib/ckan/default/src/ckan/templates/home/snippets/ 
+images in /user/lib/ckan/default/src/ckan/ckan/public/base/images/  
+sudo vim /usr/lib/ckan/default/src/ckan/ckan/templates/home/snippets/promoted.html then sudo service apache2 restart  <============  
+images  /usr/lib/ckan/default/src/ckan/ckan/public/base/images/  
+config ckan  sudo vim /etc/ckan/default/production.ini  
+image urls (orgs): http://opendata.ps/base/images/org-pipa.png   http://opendata.ps/base/images/cat-agriculture.png  
+
+
+https://www.simplified.guide/ssh/copy-file    copy files local <-> server  
+sudo -u postgres psql postgres -c 'SELECT version()' | grep PostgreSQL    <===== find postgres version (PostgreSQL 9.5.14 ) 
+
+***** https://www.convertico.com/    convert png to ico  
+
+Ubuntu commands https://www.kompulsa.com/ubuntu-commands-a-cheat-sheet-with-examples/
+https://blog.hostonnet.com/x2go-ubuntu 
+lsb_release -a    version
+sudo apt list --installed   packages
+df -h disk space 
+sudo fdisk -l (disk partitions and sizes - 80GB)
+sudo lshw -c memory (RAM) 4GB 
+
+sudo <editor> <filename>   (readonly file), press I key to insert, ESC to get out, :wq! to save (:q! to exit without saving)
