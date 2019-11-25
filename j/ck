@@ -1,0 +1,1 @@
+paster sysadmin add abedk* email=ak@gmail.com name=abedk* -c /etc/ckan/default/production.ini  pwd = AK***!  <=== portal admin 
