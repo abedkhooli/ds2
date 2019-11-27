@@ -38,3 +38,6 @@ parts or cause upgrade issues)
 https://docs.ckan.org/en/2.8/sysadmin-guide.html#creating-a-sysadmin-account  
 https://docs.ckan.org/en/2.8/maintaining/getting-started.html#create-admin-user  
 *** Adding more sysadmin accounts is done in the same way. It cannot be done via the web UI. 
+
+datstore setup (replaces dataproxy)  
+https://docs.ckan.org/en/2.8/maintaining/datastore.html  
