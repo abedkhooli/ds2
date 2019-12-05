@@ -19,6 +19,7 @@ https://brohrer.github.io/data_files.html  read/write files
 
 # TF2 
 https://twitter.com/random_forests/status/1178687761177554946   
+https://practicalai.me/   A practical approach to machine learning *****   
 
 # Fast.AI new (2.0)  
 https://forums.fast.ai/t/a-guided-walk-through-of-2-0-like-practical-deep-learning-for-coders/57161  notebooks  
