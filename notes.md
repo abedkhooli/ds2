@@ -1026,7 +1026,9 @@ http://ixa2.si.ehu.es/stswiki/index.php/Main_Page
 # Arabic Specific   
 https://github.com/zaidalyafeai/ARBML (Models and datasets, https://twitter.com/arabicml2)   
 https://github.com/niderhoff/nlp-datasets    
-https://buhuth.org/ar/home (https://www.linkedin.com/posts/hassan-sarhan-471566151_index-of-activity-6576768412834496512-fmCb)   
+https://buhuth.org/ar/home (https://www.linkedin.com/posts/hassan-sarhan-471566151_index-of-activity-6576768412834496512-fmCb)  
+http://mazajak.inf.ed.ac.uk:8000 embeddings     
+https://www.aclweb.org/anthology/W19-4608/  
 
 # Transcribus  / crowd  
 https://transkribus.eu/Transkribus/    https://www.zooniverse.org/    
