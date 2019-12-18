@@ -16,6 +16,14 @@ http://arabitools.com/  Arabic Java tools
 http://aldawsari.info/  Arabic NLP (SpaCy pipeline and Stanford NLP models)   
 https://brohrer.github.io/data_files.html  read/write files      
 
+#ToDo 
+https://github.com/eriklindernoren/ML-From-Scratch 
+https://www.kdnuggets.com/2019/12/build-intelligent-chatbot.html  
+https://github.com/goru001/inltk  indic nlp  
+https://practicalai.me/   
+https://realpython.com/flask-connexion-rest-api-part-4/  
+https://80000hours.org/podcast/episodes/nick-beckstead-giving-billions/  
+
 
 # TF2 
 https://twitter.com/random_forests/status/1178687761177554946   
