@@ -15,6 +15,7 @@ https://online-learning.harvard.edu/subject/data-science + https://www.edx.org/p
 http://arabitools.com/  Arabic Java tools   
 http://aldawsari.info/  Arabic NLP (SpaCy pipeline and Stanford NLP models)   
 https://brohrer.github.io/data_files.html  read/write files      
+http://nbdev.fast.ai/tutorial   nbdev/jupyter tutorial    
 
 #ToDo 
 https://github.com/eriklindernoren/ML-From-Scratch 
@@ -23,6 +24,9 @@ https://github.com/goru001/inltk  indic nlp
 https://practicalai.me/   
 https://realpython.com/flask-connexion-rest-api-part-4/  
 https://80000hours.org/podcast/episodes/nick-beckstead-giving-billions/  
+https://github.com/fastai/fastai_dev/blob/master/dev/course/lesson1-pets.ipynb   
+https://github.com/fastai/course-nlp fast.ai NLP    
+
 
 
 # TF2 
