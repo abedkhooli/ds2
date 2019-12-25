@@ -26,7 +26,7 @@ https://realpython.com/flask-connexion-rest-api-part-4/
 https://80000hours.org/podcast/episodes/nick-beckstead-giving-billions/  
 https://github.com/fastai/fastai_dev/blob/master/dev/course/lesson1-pets.ipynb   
 https://github.com/fastai/course-nlp fast.ai NLP    
-
+https://github.com/microsoft/nlp-recipes    
 
 
 # TF2 
