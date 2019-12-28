@@ -29,12 +29,14 @@ https://github.com/fastai/course-nlp fast.ai NLP
 https://github.com/microsoft/nlp-recipes    
 https://www.youtube.com/watch?v=XRG0bBLRKmc  
 https://realpython.com/python-statistics/  
+https://colab.research.google.com/github/practicalAI/practicalAI/blob/master/notebooks/03_Pandas.ipynb#scrollTo=6nwDfMoNT-Qa  Pandas   
+https://github.com/practicalAI/practicalAI   
 
 
 # TF2 
 https://twitter.com/random_forests/status/1178687761177554946   
 https://practicalai.me/ (https://github.com/practicalAI/practicalAI)   A practical approach to machine learning *****   
-https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO   
+https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO  TF2+Keras basic tutorial by Fracois Chollet   
 
 # Fast.AI new (2.0)  
 https://forums.fast.ai/t/a-guided-walk-through-of-2-0-like-practical-deep-learning-for-coders/57161  notebooks  
