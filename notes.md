@@ -27,6 +27,8 @@ https://80000hours.org/podcast/episodes/nick-beckstead-giving-billions/
 https://github.com/fastai/fastai_dev/blob/master/dev/course/lesson1-pets.ipynb   
 https://github.com/fastai/course-nlp fast.ai NLP    
 https://github.com/microsoft/nlp-recipes    
+https://www.youtube.com/watch?v=XRG0bBLRKmc  
+https://realpython.com/python-statistics/  
 
 
 # TF2 
