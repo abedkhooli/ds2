@@ -17,7 +17,7 @@ http://aldawsari.info/  Arabic NLP (SpaCy pipeline and Stanford NLP models)
 https://brohrer.github.io/data_files.html  read/write files      
 http://nbdev.fast.ai/tutorial   nbdev/jupyter tutorial    
 
-#ToDo 
+# ToDo  
 https://github.com/eriklindernoren/ML-From-Scratch 
 https://www.kdnuggets.com/2019/12/build-intelligent-chatbot.html  
 https://github.com/goru001/inltk  indic nlp  
