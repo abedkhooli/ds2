@@ -34,6 +34,7 @@ https://realpython.com/python-statistics/
 # TF2 
 https://twitter.com/random_forests/status/1178687761177554946   
 https://practicalai.me/ (https://github.com/practicalAI/practicalAI)   A practical approach to machine learning *****   
+https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO   
 
 # Fast.AI new (2.0)  
 https://forums.fast.ai/t/a-guided-walk-through-of-2-0-like-practical-deep-learning-for-coders/57161  notebooks  
