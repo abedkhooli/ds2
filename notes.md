@@ -16,6 +16,8 @@ http://arabitools.com/  Arabic Java tools
 http://aldawsari.info/  Arabic NLP (SpaCy pipeline and Stanford NLP models)   
 https://brohrer.github.io/data_files.html  read/write files      
 http://nbdev.fast.ai/tutorial   nbdev/jupyter tutorial    
+https://github.com/rasbt/python-machine-learning-book-3rd-edition   Sebastian Raschka's 3rd Ed book 
+https://matplotlib.org/matplotblog/posts/an-inquiry-into-matplotlib-figures/  Matplotlib    
 
 # ToDo  
 https://github.com/eriklindernoren/ML-From-Scratch 
