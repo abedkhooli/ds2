@@ -33,6 +33,8 @@ https://www.youtube.com/watch?v=XRG0bBLRKmc
 https://realpython.com/python-statistics/  
 https://colab.research.google.com/github/practicalAI/practicalAI/blob/master/notebooks/03_Pandas.ipynb#scrollTo=6nwDfMoNT-Qa  Pandas   
 https://github.com/practicalAI/practicalAI   
+https://twitter.com/amaarora/status/1211043973063536640   seq2seq fast.ai   
+http://www.rctatman.com/teaching/kaggle_workshops    
 
 
 # TF2 
