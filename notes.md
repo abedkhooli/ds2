@@ -21,6 +21,8 @@ https://matplotlib.org/matplotblog/posts/an-inquiry-into-matplotlib-figures/  Ma
 http://jalammar.github.io/illustrated-transformer/    
 https://zaidalyafeai.github.io/ARBML/          
 https://github.com/ThilinaRajapakse/simpletransformers   <===    
+https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78   
+
 
 # ToDo  
 https://github.com/eriklindernoren/ML-From-Scratch 
