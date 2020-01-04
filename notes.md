@@ -19,7 +19,8 @@ http://nbdev.fast.ai/tutorial   nbdev/jupyter tutorial
 https://github.com/rasbt/python-machine-learning-book-3rd-edition   Sebastian Raschka's 3rd Ed book 
 https://matplotlib.org/matplotblog/posts/an-inquiry-into-matplotlib-figures/  Matplotlib    
 http://jalammar.github.io/illustrated-transformer/    
-https://zaidalyafeai.github.io/ARBML/    
+https://zaidalyafeai.github.io/ARBML/          
+https://github.com/ThilinaRajapakse/simpletransformers   <===    
 
 # ToDo  
 https://github.com/eriklindernoren/ML-From-Scratch 
@@ -31,12 +32,18 @@ https://80000hours.org/podcast/episodes/nick-beckstead-giving-billions/
 https://github.com/fastai/fastai_dev/blob/master/dev/course/lesson1-pets.ipynb   
 https://github.com/fastai/course-nlp fast.ai NLP    
 https://github.com/microsoft/nlp-recipes    
-https://www.youtube.com/watch?v=XRG0bBLRKmc  
+https://www.youtube.com/watch?v=XRG0bBLRKmc    
 https://realpython.com/python-statistics/  
 https://colab.research.google.com/github/practicalAI/practicalAI/blob/master/notebooks/03_Pandas.ipynb#scrollTo=6nwDfMoNT-Qa  Pandas   
 https://github.com/practicalAI/practicalAI   
 https://twitter.com/amaarora/status/1211043973063536640   seq2seq fast.ai   
 http://www.rctatman.com/teaching/kaggle_workshops    
+https://github.com/Kaixhin/grokking-pytorch    
+https://github.com/minimaxir/gpt-2-simple  +  https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce    
+http://roundup.fishtownanalytics.com/issues/data-science-roundup-top-20-posts-of-2019-dsr-211-217188   top 20 ds posts 2019    
+https://course.spacy.io/    advanced NLP with spaCy   
+https://www.kdnuggets.com/2019/12/5-features-scikit-learn-release-highlights.html    
+https://machinelearningmastery.com/standard-machine-learning-datasets-for-imbalanced-classification/  
 
 
 # TF2 
