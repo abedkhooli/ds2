@@ -22,7 +22,8 @@ http://jalammar.github.io/illustrated-transformer/
 https://zaidalyafeai.github.io/ARBML/          
 https://github.com/ThilinaRajapakse/simpletransformers   <===    
 https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78   
-
+https://paperswithcode.com/sota/image-classification-on-imagenet    
+http://web.stanford.edu/class/cs224n/   Chris Manning, PyTorch   
 
 # ToDo  
 https://github.com/eriklindernoren/ML-From-Scratch 
