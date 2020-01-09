@@ -24,6 +24,9 @@ https://github.com/ThilinaRajapakse/simpletransformers   <===
 https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78   
 https://paperswithcode.com/sota/image-classification-on-imagenet    
 http://web.stanford.edu/class/cs224n/   Chris Manning, PyTorch   
+GANS: https://affinelayer.com/pixsrv/index.html + https://junyanz.github.io/CycleGAN/   
+https://towardsdatascience.com/all-machine-learning-models-explained-in-6-minutes-9fe30ff6776a   
+
 
 # ToDo  
 https://github.com/eriklindernoren/ML-From-Scratch 
@@ -47,6 +50,9 @@ http://roundup.fishtownanalytics.com/issues/data-science-roundup-top-20-posts-of
 https://course.spacy.io/    advanced NLP with spaCy   
 https://www.kdnuggets.com/2019/12/5-features-scikit-learn-release-highlights.html    
 https://machinelearningmastery.com/standard-machine-learning-datasets-for-imbalanced-classification/  
+https://twitter.com/ssshanest/status/1214988495422283776   NLProc       
+https://twitter.com/ogrisel/status/1215045595037097984   BERt    
+https://sites.google.com/cs.washington.edu/csed514-2020wi DS data management    
 
 
 # TF2 
