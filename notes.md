@@ -26,7 +26,8 @@ https://paperswithcode.com/sota/image-classification-on-imagenet
 http://web.stanford.edu/class/cs224n/   Chris Manning, PyTorch   
 GANS: https://affinelayer.com/pixsrv/index.html + https://junyanz.github.io/CycleGAN/   
 https://towardsdatascience.com/all-machine-learning-models-explained-in-6-minutes-9fe30ff6776a   
-
+https://stanford-cs221.github.io/autumn2019/ Stanford NLP /  ALI principles   
+https://www.youtube.com/watch?v=0VH1Lim8gL8  1:08 hr (curses and tutorials) Lex Fridman   
 
 # ToDo  
 https://github.com/eriklindernoren/ML-From-Scratch 
