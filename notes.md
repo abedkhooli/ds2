@@ -54,6 +54,8 @@ https://machinelearningmastery.com/standard-machine-learning-datasets-for-imbala
 https://twitter.com/ssshanest/status/1214988495422283776   NLProc       
 https://twitter.com/ogrisel/status/1215045595037097984   BERt    
 https://sites.google.com/cs.washington.edu/csed514-2020wi DS data management    
+https://github.com/jqueguiner/polyglot    GP2   
+https://github.com/hammedb197/Recommender-surprise  scikit-surpise recommender     
 
 
 # TF2 
