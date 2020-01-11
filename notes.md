@@ -26,8 +26,11 @@ https://paperswithcode.com/sota/image-classification-on-imagenet
 http://web.stanford.edu/class/cs224n/   Chris Manning, PyTorch   
 GANS: https://affinelayer.com/pixsrv/index.html + https://junyanz.github.io/CycleGAN/   
 https://towardsdatascience.com/all-machine-learning-models-explained-in-6-minutes-9fe30ff6776a   
-https://stanford-cs221.github.io/autumn2019/ Stanford NLP /  ALI principles   
+https://stanford-cs221.github.io/autumn2019/ (https://www.youtube.com/watch?v=J8Eh7RqggsU) Stanford NLP /  ALI principles   
 https://www.youtube.com/watch?v=0VH1Lim8gL8  1:08 hr (curses and tutorials) Lex Fridman   
+https://realpython.com/courses/python-exceptions-101/ https://realpython.com/pandas-read-write-files/    
+http://cs231n.github.io/convolutional-networks/ + https://www.youtube.com/watch?v=AgkfIQ4IGaM + https://www.youtube.com/watch?v=FmpDIaiMIeA   
+https://blog.keras.io/using-pre-trained-word-embeddings-in-a-keras-model.html  Keras pretraining  
 
 # ToDo  
 https://github.com/eriklindernoren/ML-From-Scratch 
