@@ -31,6 +31,9 @@ https://www.youtube.com/watch?v=0VH1Lim8gL8  1:08 hr (curses and tutorials) Lex 
 https://realpython.com/courses/python-exceptions-101/ https://realpython.com/pandas-read-write-files/    
 http://cs231n.github.io/convolutional-networks/ + https://www.youtube.com/watch?v=AgkfIQ4IGaM + https://www.youtube.com/watch?v=FmpDIaiMIeA   
 https://blog.keras.io/using-pre-trained-word-embeddings-in-a-keras-model.html  Keras pretraining  
+https://bheinzerling.github.io/post/clever-hans/  NLP models that solve but not understand <====      
+https://twitter.com/ogrisel/status/1215045595037097984 BERT    
+
 
 # ToDo  
 https://github.com/eriklindernoren/ML-From-Scratch 
@@ -59,6 +62,7 @@ https://twitter.com/ogrisel/status/1215045595037097984   BERt
 https://sites.google.com/cs.washington.edu/csed514-2020wi DS data management    
 https://github.com/jqueguiner/polyglot    GP2   
 https://github.com/hammedb197/Recommender-surprise  scikit-surpise recommender     
+http://www.dataatworkbook.com/  data at work, book using Excel for viz  (see also: https://excelcharts.com/)   
 
 
 # TF2 
