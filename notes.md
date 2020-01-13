@@ -77,6 +77,9 @@ https://medium.com/@aman.arora0210/fastai-v2-datablocks-api-code-overview-a-gent
 https://github.com/fastai/course-nlp  code-first intro to nlp (different frameworks, fastai 1, July 2019)   
 https://www.kaggle.com/jhoward/some-dicom-gotchas-to-be-aware-of-fastai    
 https://github.com/n-waves/ulmfit-multilingual/tree/multifit  ULMFIT Multilingual <====  
+https://github.com/orendar/imdb_text_generation fast.ai text generation  https://towardsdatascience.com/can-we-generate-high-quality-movie-reviews-using-language-models-5158f494aea7    
+
+
 
 # ETL  
 https://dev.socrata.com/connectors/pentaho-kettle.html  
