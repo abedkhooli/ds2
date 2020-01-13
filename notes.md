@@ -32,7 +32,11 @@ https://realpython.com/courses/python-exceptions-101/ https://realpython.com/pan
 http://cs231n.github.io/convolutional-networks/ + https://www.youtube.com/watch?v=AgkfIQ4IGaM + https://www.youtube.com/watch?v=FmpDIaiMIeA   
 https://blog.keras.io/using-pre-trained-word-embeddings-in-a-keras-model.html  Keras pretraining  
 https://bheinzerling.github.io/post/clever-hans/  NLP models that solve but not understand <====      
-https://twitter.com/ogrisel/status/1215045595037097984 BERT    
+https://twitter.com/ogrisel/status/1215045595037097984 BERT   (BERT: https://github.com/google-research/bert)   
+https://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/  BERT tutorial      
+https://medium.com/tensorflow/using-tensorflow-2-for-state-of-the-art-natural-language-processing-102445cda54a Higging Face Transformers    
+https://github.com/ThilinaRajapakse/pytorch-transformers-classification   <====     
+
 
 
 # ToDo  
