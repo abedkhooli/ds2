@@ -36,6 +36,7 @@ https://twitter.com/ogrisel/status/1215045595037097984 BERT   (BERT: https://git
 https://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/  BERT tutorial      
 https://medium.com/tensorflow/using-tensorflow-2-for-state-of-the-art-natural-language-processing-102445cda54a Higging Face Transformers    
 https://github.com/ThilinaRajapakse/pytorch-transformers-classification   <====     
+https://github.com/nv-tlabs/STEAL semantic boundary detector   
 
 
 
