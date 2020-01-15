@@ -33,10 +33,12 @@ http://cs231n.github.io/convolutional-networks/ + https://www.youtube.com/watch?
 https://blog.keras.io/using-pre-trained-word-embeddings-in-a-keras-model.html  Keras pretraining  
 https://bheinzerling.github.io/post/clever-hans/  NLP models that solve but not understand <====      
 https://twitter.com/ogrisel/status/1215045595037097984 BERT   (BERT: https://github.com/google-research/bert)   
-https://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/  BERT tutorial      
+https://mccormickml.com/2019/05/14/BERT-word-embeddings-tutorial/  BERT tutorial (http://jalammar.github.io/illustrated-bert/)        
 https://medium.com/tensorflow/using-tensorflow-2-for-state-of-the-art-natural-language-processing-102445cda54a Higging Face Transformers    
 https://github.com/ThilinaRajapakse/pytorch-transformers-classification   <====     
 https://github.com/nv-tlabs/STEAL semantic boundary detector   
+https://clics.clld.org/ Database of Cross-Linguistic Colexifications   
+https://realpython.com/jupyter-notebook-introduction/ RealPython Jupyter Notebooks  
 
 
 
