@@ -39,8 +39,8 @@ https://github.com/ThilinaRajapakse/pytorch-transformers-classification   <====
 https://github.com/nv-tlabs/STEAL semantic boundary detector   
 https://clics.clld.org/ Database of Cross-Linguistic Colexifications   
 https://realpython.com/jupyter-notebook-introduction/ RealPython Jupyter Notebooks  
-
-
+https://www.analyticsvidhya.com/blog/2019/07/how-get-started-nlp-6-unique-ways-perform-tokenization/ 6 tokenizers  
+https://github.com/huggingface/tokenizers  hugging face Tokenizers  
 
 # ToDo  
 https://github.com/eriklindernoren/ML-From-Scratch 
