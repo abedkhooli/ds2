@@ -70,6 +70,8 @@ https://sites.google.com/cs.washington.edu/csed514-2020wi DS data management
 https://github.com/jqueguiner/polyglot    GP2   
 https://github.com/hammedb197/Recommender-surprise  scikit-surpise recommender     
 http://www.dataatworkbook.com/  data at work, book using Excel for viz  (see also: https://excelcharts.com/)   
+https://github.com/alan-turing-institute/CleverCSV   
+https://arxiv.org/pdf/1909.04761.pdf + http://nlp.fast.ai/classification/2019/09/10/multifit.html (datasets https://webis.de/data/webis-cls-10.html + https://github.com/facebookresearch/MLDoc No Arabic) + https://github.com/n-waves/multifit + https://github.com/n-waves/multifit/tree/ulmfit-multilingual-original-scripts  MultiFiT  language models      
 
 
 # TF2 
