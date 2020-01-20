@@ -20,8 +20,9 @@ def get_wiki(path,lang):
     with working_directory(path):
         if not (path/'wikiextractor').exists(): os.system('git clone https://github.com/attardi/wikiextractor.git')
         print("extracting...")
+        # AK changed min_text_length from 1800 to 2400
         os.system("python wikiextractor/WikiExtractor.py --processes 4 --no_templates " +
-            f"--min_text_length 1800 --filter_disambig_pages --log_file log -b 100G -q {xml_fn}")
+            f"--min_text_length 2400 --filter_disambig_pages --log_file log -b 100G -q {xml_fn}")
     shutil.move(str(path/'text/AA/wiki_00'), str(path/name))
     shutil.rmtree(path/'text')
 
