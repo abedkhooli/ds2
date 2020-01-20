@@ -41,6 +41,9 @@ https://clics.clld.org/ Database of Cross-Linguistic Colexifications
 https://realpython.com/jupyter-notebook-introduction/ RealPython Jupyter Notebooks  
 https://www.analyticsvidhya.com/blog/2019/07/how-get-started-nlp-6-unique-ways-perform-tokenization/ 6 tokenizers  
 https://github.com/huggingface/tokenizers  hugging face Tokenizers  
+http://commoncrawl.org/  
+https://medium.com/@acpanjan/download-google-drive-files-using-wget-3c2c025a8b99   
+https://github.com/hanxiao/bert-as-service 
 
 # ToDo  
 https://github.com/eriklindernoren/ML-From-Scratch 
@@ -72,7 +75,8 @@ https://github.com/hammedb197/Recommender-surprise  scikit-surpise recommender
 http://www.dataatworkbook.com/  data at work, book using Excel for viz  (see also: https://excelcharts.com/)   
 https://github.com/alan-turing-institute/CleverCSV   
 https://arxiv.org/pdf/1909.04761.pdf + http://nlp.fast.ai/classification/2019/09/10/multifit.html (datasets https://webis.de/data/webis-cls-10.html + https://github.com/facebookresearch/MLDoc No Arabic) + https://github.com/n-waves/multifit + https://github.com/n-waves/multifit/tree/ulmfit-multilingual-original-scripts  MultiFiT  language models      
-
+https://www.kaggle.com/c/nlp-getting-started/overview/prizes ????     
+https://lamyiowce.github.io/word2viz/    
 
 # TF2 
 https://twitter.com/random_forests/status/1178687761177554946   
