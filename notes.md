@@ -47,6 +47,8 @@ https://github.com/hanxiao/bert-as-service
 https://mc.ai/nlp-fastai-multifit/ + https://github.com/javiabellan/nlp/blob/3ee11f93f05cfe374c4bfef3ae51d4cebb278234/README.md    
 https://github.com/Separius/awesome-sentence-embedding/blob/dce048f9895608afa14865634999cb98a99b30d3/README.md   
 https://github.com/earthspecies/decoder_head   
+https://www.kaggle.com/learn/machine-learning-explainability     
+
 
 # ToDo  
 https://github.com/eriklindernoren/ML-From-Scratch 
