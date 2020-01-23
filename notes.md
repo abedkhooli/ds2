@@ -82,6 +82,8 @@ https://github.com/alan-turing-institute/CleverCSV
 https://arxiv.org/pdf/1909.04761.pdf + http://nlp.fast.ai/classification/2019/09/10/multifit.html (datasets https://webis.de/data/webis-cls-10.html + https://github.com/facebookresearch/MLDoc No Arabic) + https://github.com/n-waves/multifit + https://github.com/n-waves/multifit/tree/ulmfit-multilingual-original-scripts  MultiFiT  language models      
 https://www.kaggle.com/c/nlp-getting-started/overview/prizes ????     
 https://lamyiowce.github.io/word2viz/    
+https://github.com/fastai/course-nlp/blob/master/nn-vietnamese.ipynb   /////      
+
 
 # TF2 
 https://twitter.com/random_forests/status/1178687761177554946   
