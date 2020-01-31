@@ -19,7 +19,7 @@ http://nbdev.fast.ai/tutorial   nbdev/jupyter tutorial
 https://github.com/rasbt/python-machine-learning-book-3rd-edition   Sebastian Raschka's 3rd Ed book 
 https://matplotlib.org/matplotblog/posts/an-inquiry-into-matplotlib-figures/  Matplotlib    
 http://jalammar.github.io/illustrated-transformer/    
-https://zaidalyafeai.github.io/ARBML/          
+https://zaidalyafeai.github.io/ARBML/ + http://www.oma-project.com/  + https://github.com/aub-mind/hULMonA    <====                 
 https://github.com/ThilinaRajapakse/simpletransformers   <===    
 https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78   
 https://paperswithcode.com/sota/image-classification-on-imagenet    
@@ -48,7 +48,7 @@ https://mc.ai/nlp-fastai-multifit/ + https://github.com/javiabellan/nlp/blob/3ee
 https://github.com/Separius/awesome-sentence-embedding/blob/dce048f9895608afa14865634999cb98a99b30d3/README.md   
 https://github.com/earthspecies/decoder_head   
 https://www.kaggle.com/learn/machine-learning-explainability     
-
+https://github.com/dbmdz/berts  + https://github.com/getalp/Flaubert   BERTs   
 
 # ToDo  
 https://github.com/eriklindernoren/ML-From-Scratch 
