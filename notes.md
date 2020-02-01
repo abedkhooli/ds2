@@ -48,7 +48,7 @@ https://mc.ai/nlp-fastai-multifit/ + https://github.com/javiabellan/nlp/blob/3ee
 https://github.com/Separius/awesome-sentence-embedding/blob/dce048f9895608afa14865634999cb98a99b30d3/README.md   
 https://github.com/earthspecies/decoder_head   
 https://www.kaggle.com/learn/machine-learning-explainability     
-https://github.com/dbmdz/berts  + https://github.com/getalp/Flaubert   BERTs   
+https://github.com/dbmdz/berts  + https://github.com/getalp/Flaubert  + https://deepset.ai/german-bert + https://github.com/deepset-ai/FARM  BERTs      
 
 # ToDo  
 https://github.com/eriklindernoren/ML-From-Scratch 
@@ -84,6 +84,10 @@ https://www.kaggle.com/c/nlp-getting-started/overview/prizes ????
 https://lamyiowce.github.io/word2viz/    
 https://github.com/fastai/course-nlp/blob/master/nn-vietnamese.ipynb  + https://github.com/n-waves/multifit/blob/master/notebooks/CLS-JA.ipynb  /////      
 https://www.fast.ai/2019/07/08/fastai-nlp/ (nlp vid 2 done) + https://github.com/fastai/course-nlp    
+http://jimypbr.github.io/2019/09/fast-ai-lesson-6-notes  by physicist    
+https://github.com/amaloraini/cross-lingual-ZP    
+https://github.com/deepset-ai/FARM    
+
 
 
 # TF2 
