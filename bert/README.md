@@ -1,9 +1,11 @@
 ### Notes by AK
 [https://ngc.nvidia.com/catalog/model-scripts/nvidia:bert_for_tensorflow]  
 [https://ngc.nvidia.com/catalog/model-scripts/nvidia:bert_for_tensorflow/setup]  
-[https://ngc.nvidia.com/catalog/model-scripts/nvidia:bert_for_tensorflow/quickStartGuide]  
+[https://ngc.nvidia.com/catalog/model-scripts/nvidia:bert_for_tensorflow/quickStartGuide] (https://github.com/NVIDIA/DeepLearningExamples)     
 [https://ngc.nvidia.com/catalog/model-scripts/nvidia:bert_for_tensorflow/advanced] (explains file structure)   
+https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/LanguageModeling/BERT    
 
+### end notes by AK  
 
 # BERT For TensorFlow
 
