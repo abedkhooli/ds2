@@ -1,3 +1,10 @@
+### Notes by AK
+[https://ngc.nvidia.com/catalog/model-scripts/nvidia:bert_for_tensorflow]  
+[https://ngc.nvidia.com/catalog/model-scripts/nvidia:bert_for_tensorflow/setup]  
+[https://ngc.nvidia.com/catalog/model-scripts/nvidia:bert_for_tensorflow/quickStartGuide]  
+[https://ngc.nvidia.com/catalog/model-scripts/nvidia:bert_for_tensorflow/advanced] (explains file structure)   
+
+
 # BERT For TensorFlow
 
 This repository provides a script and recipe to train the BERT model for TensorFlow to achieve state-of-the-art accuracy, and is tested and maintained by NVIDIA.
