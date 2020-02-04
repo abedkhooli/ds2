@@ -34,7 +34,7 @@ learning_rate_phase2=${18:-"4e-3"}
 warmup_proportion_phase2=${19:-"0.128"}
 train_steps_phase2=${20:-1563}
 gradient_accumulation_steps_phase2=${21:-512}
-DATASET=hdf5_lower_case_1_seq_len_128_max_pred_20_masked_lm_prob_0.15_random_seed_12345_dupe_factor_5/books_wiki_en_corpus # change this for other datasets
+DATASET=/content/arwiki/hdf5 # change this for other datasets
 DATA_DIR_PHASE1=${22:-$BERT_PREP_WORKING_DIR/${DATASET}/}
 BERT_CONFIG=bert_config.json
 CODEDIR=${24:-"/workspace/bert"}
@@ -159,7 +159,7 @@ echo "final loss: $final_loss"
 
 #Start Phase2
 
-DATASET=hdf5_lower_case_1_seq_len_512_max_pred_80_masked_lm_prob_0.15_random_seed_12345_dupe_factor_5/books_wiki_en_corpus # change this for other datasets
+DATASET=/content/arwiki/hdf5_2 # change this for other datasets
 DATA_DIR_PHASE2=${23:-$BERT_PREP_WORKING_DIR/${DATASET}/}
 
 PREC=""
