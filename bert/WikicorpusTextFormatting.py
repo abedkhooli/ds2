@@ -23,6 +23,10 @@ class WikicorpusTextFormatting:
 
     # This puts one article per line
     def merge(self):
+        #----AK modification
+        accents = re.compile(r'[\u064b-\u0652\u0640]') # harakaat and tatweel
+        arabic_punc = re.compile(r'[\u0621-\u063A\u0641-\u064A\u061b\u061f\u060c\u003A\u003D\u002E\u002F\u007C]+')
+        #---- end AK modification
         with open(self.output_filename, mode='w', newline='\n') as ofile:
             for dirname in glob.glob(self.wiki_path + '/*/', recursive=False):
                 for filename in glob.glob(dirname + 'wiki_*', recursive=self.recursive):
@@ -37,6 +41,8 @@ class WikicorpusTextFormatting:
                             elif '</doc>' in line:
                                 article_open = False
                                 for oline in article_lines[1:]:
+                                    oline = accents.sub('',oline) # AK added this to limit Ar, no punc
+                                    oline = ' '.join(arabic_punc.findall(oline)) # AK added this to limit Ar, no punc
                                     if oline != '\n':
                                         ofile.write(oline.rstrip() + " ")
                                 ofile.write("\n\n")
