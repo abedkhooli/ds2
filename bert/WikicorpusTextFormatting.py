@@ -13,6 +13,7 @@
 
 import glob
 import os
+import re
 
 class WikicorpusTextFormatting:
     def __init__(self, wiki_path, output_filename, recursive = False):
