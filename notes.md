@@ -48,7 +48,9 @@ https://mc.ai/nlp-fastai-multifit/ + https://github.com/javiabellan/nlp/blob/3ee
 https://github.com/Separius/awesome-sentence-embedding/blob/dce048f9895608afa14865634999cb98a99b30d3/README.md   
 https://github.com/earthspecies/decoder_head   
 https://www.kaggle.com/learn/machine-learning-explainability     
-https://github.com/dbmdz/berts  + https://github.com/getalp/Flaubert  + https://deepset.ai/german-bert + https://github.com/deepset-ai/FARM  BERTs      
+https://github.com/dbmdz/berts  + https://github.com/getalp/Flaubert  + https://deepset.ai/german-bert + https://github.com/deepset-ai/FARM   https://github.com/glample/fastBPE    BERTs  
+https://statquest.org/video-index/  StatQuest Stats 4 ML (videos)  
+https://medium.com/impactai/cnns-from-different-viewpoints-fab7f52d159c  CNNs from different viewpoints      
 
 # ToDo  
 https://github.com/eriklindernoren/ML-From-Scratch 
@@ -87,6 +89,7 @@ https://www.fast.ai/2019/07/08/fastai-nlp/ (nlp vid 2 done) + https://github.com
 http://jimypbr.github.io/2019/09/fast-ai-lesson-6-notes  by physicist    
 https://github.com/amaloraini/cross-lingual-ZP    
 https://github.com/deepset-ai/FARM    
+https://towardsdatascience.com/bert-to-the-rescue-17671379687f BERT classifier PyTorch     
 
 
 
