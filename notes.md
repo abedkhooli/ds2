@@ -877,6 +877,7 @@ https://www.opendatasoft.com/  and https://dataportals.org/  (mapping)
 https://bioacousticsdatasets.weebly.com/   bio acoustic datasets   
 https://machinelearningmastery.com/prepare-photo-caption-dataset-training-deep-learning-model/  Flicker8k image captioning dataset      
 http://kitab-project.org/2019/06/08/first-open-access-release-of-our-arabic-corpus/  Arabic Kitab corpus   
+https://www.kaggle.com/kenshoresearch/kensho-derived-wikimedia-data   
   
 
 # Dataviz  
