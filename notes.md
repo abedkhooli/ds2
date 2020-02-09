@@ -126,6 +126,7 @@ https://www.youtube.com/watch?v=EPVwnG-n4B0 git for data scientists Andreas Mull
 See also: https://www.linkedin.com/posts/brohrer_if-a-beginner-wanted-to-learn-how-to-use-activity-6581471551160414208-tx0K  (Brandon Rohrer's post)  ===> https://brohrer.github.io/git_resources.html  final list    
 https://twitter.com/yaser_najjar_ar/status/1177549419119616000  git in 10 Arabic tweets    
 https://lab.github.com/  and https://www.youtube.com/watch?v=9S0p8YMQzsM  
+https://realpython.com/advanced-git-for-pythonistas/   Git for Python users  
 
 # No category:  
 https://www.linkedin.com/posts/nabihbawazir_heres-the-list-of-tutorials-1-data-science-activity-6574190147376644096-qNeA   DataNest   
