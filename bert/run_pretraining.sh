@@ -12,12 +12,12 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-#---------------------------------------------- AK: line 20 num_gpus = 1 instead of 8 to avoid "invalid device ordinal" error
+#---------------------------------------------- AK: line 20 set num_gpus = toa smaller number instead of 8 to avoid "invalid device ordinal" error
 echo "Container nvidia build = " $NVIDIA_BUILD_ID
 train_batch_size=${1:-8192}
 learning_rate=${2:-"6e-3"}
 precision=${3:-"fp16"}
-num_gpus=${4:-1}
+num_gpus=${4:-8}
 warmup_proportion=${5:-"0.2843"}
 train_steps=${6:-7038}
 save_checkpoint_steps=${7:-200}
