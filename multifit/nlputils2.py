@@ -178,30 +178,3 @@ def get_corpus(dest, path, num_tokens, obj_tokens=int(1e8)):
         print('As there are less than 100 000 000 tokens in the initial corpus, we use it.')
         
         return dest
-
- #AK clean books ..........
-
-def clean_books(path,folder):
-
-    dest = path/folder
-    #doc_re = re.compile(rf'([\w\W]*)<\/doc>') # delete </doc>
-               
-    for i,l in enumerate(dest.ls()):
-        # open file and get content without first line which is the title
-        f = l.open('r+', encoding="utf-8")
-        f.readline()
-        text = f.read()
-        # get content without </doc> and delete empty line and whitespaces at the head and tail
-        #text = doc_re.findall(text)[0].strip()
-        #----AK modification
-        accents = re.compile(r'[\u064b-\u0652\u0640]') # harakaat and tatweel
-        arabic_punc = re.compile(r'[\u0621-\u063A\u0641-\u064A\u061b\u061f\u060c\u003A\u003D\u002E\u002F\u007C]+')
-        text = accents.sub('',text)
-        text = ' '.join(arabic_punc.findall(text))
-        #---- end AK modification
-        # delete file content
-        f.seek(0)
-        f.truncate()
-        # write modificated text in file
-        f.write(text)
-        f.close()
