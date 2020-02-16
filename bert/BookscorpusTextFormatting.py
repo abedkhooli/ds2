@@ -26,11 +26,13 @@ class BookscorpusTextFormatting:
     def merge(self):
         accents = re.compile(r'[\u064b-\u0652\u0640]') # harakaat and tatweel - AK
         arabic_punc = re.compile(r'[\u0621-\u063A\u0641-\u064A\u061b\u061f\u060c\u003A\u003D\u002E\u002F\u007C]+') # AK
+        txt_rep = re.compile(r'(\[.+\]\n+)|(\(\d{1}/\d+\)\n+)|(\d+ - باب.+\n)') # AK
         with open(self.output_filename, mode='w', newline='\n') as ofile:
             for filename in glob.glob(self.books_path + '/' + '*.txt', recursive=True):
                 with open(filename, mode='r', encoding='cp1256', newline='\n') as file:
                     for line in file:
                         line = accents.sub('',line) # ak added to remove accents
+                        line = re.sub(txt_rep,'',line) # ak
                         line = ' '.join(arabic_punc.findall(line)) # ak added to remove punc
                         if line.strip() != '':
                             ofile.write(line.strip() + ' ')
