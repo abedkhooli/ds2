@@ -29,7 +29,7 @@ class BookscorpusTextFormatting:
         txt_rep = re.compile(r'(\[.+\]\n+)|(\(\d{1}/\d+\)\n+)|(\d+ - باب.+\n)') # AK
         with open(self.output_filename, mode='w', newline='\n') as ofile:
             for filename in glob.glob(self.books_path + '/' + '*.txt', recursive=True):
-                with open(filename, mode='r', encoding='cp1256', newline='\n') as file:
+                with open(filename, mode='r', encoding='utf-8', newline='\n') as file:  # cp1256 was original Arabic books
                     for line in file:
                         line = accents.sub('',line) # ak added to remove accents
                         line = re.sub(txt_rep,'',line) # ak
