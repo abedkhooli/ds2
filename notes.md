@@ -1119,5 +1119,29 @@ https://transkribus.eu/Transkribus/    https://www.zooniverse.org/
 https://www.youtube.com/watch?v=44pe47sB4BI&t=649s   
 
 # organize research 
-https://twitter.com/chrisalbon/status/1175539804114583552   Zotero etc   
+https://twitter.com/chrisalbon/status/1175539804114583552   Zotero etc 
+
+
+# Arabic Corpora 
+datasets:   
+           https://dl.acm.org/doi/abs/10.1145/2911451.2914677 (https://sites.google.com/view/arabicweb16)   
+           http://opus.nlpl.eu/  
+           https://www.kaggle.com/linuxscout/tashkeela  
+           https://traces1.inria.fr/oscar/  shuffled by line  
+           https://github.com/zaidalyafeai/ARBML#datasets  
+           http://opus.nlpl.eu/OpenSubtitles-v2016.php    
+           https://archive.alsharekh.org/    
+           https://github.com/soskek/bookcorpus  (https://www.smashwords.com) [no Ar]  
+           http://www.alwaraq.net/Core/index.jsp?option=1    http://dlib.nyu.edu/aco/ (scans)   
+           https://www.blindarab.net/index.php?action=view_subcat&catid=4&id=24&page=5     
+           https://www.al-mostafa.com/disp.php?page=list&n=0 (mixed formats)  
+           https://github.com/abdelrahmaan/Hadith-Data-Sets  
+           https://www.hindawi.org/books/    epubs, some are not MSA   
+           https://archive.org/details/texts?and%5B%5D=languageSorter%3A%22Arabic%22&sort=-downloads&page=4  
+           http://www.al-eman.com/index.htm    
+           https://catalog.ldc.upenn.edu/topten   
+           http://waqfeya.com/   
+           https://www.noor-book.com  
+           https://www.wdl.org/ar/   
+           
 
