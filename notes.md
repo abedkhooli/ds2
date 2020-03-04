@@ -89,7 +89,9 @@ https://www.fast.ai/2019/07/08/fastai-nlp/ (nlp vid 2 done) + https://github.com
 http://jimypbr.github.io/2019/09/fast-ai-lesson-6-notes  by physicist    
 https://github.com/amaloraini/cross-lingual-ZP    
 https://github.com/deepset-ai/FARM    
-https://towardsdatascience.com/bert-to-the-rescue-17671379687f BERT classifier PyTorch     
+https://towardsdatascience.com/bert-to-the-rescue-17671379687f BERT classifier PyTorch 
+https://huggingface.co/blog/how-to-train   <=== train model from scratch using HF transformers and tokenizers (Esperanto)    
+
 
 
 
