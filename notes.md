@@ -90,7 +90,8 @@ http://jimypbr.github.io/2019/09/fast-ai-lesson-6-notes  by physicist
 https://github.com/amaloraini/cross-lingual-ZP    
 https://github.com/deepset-ai/FARM    
 https://towardsdatascience.com/bert-to-the-rescue-17671379687f BERT classifier PyTorch 
-https://huggingface.co/blog/how-to-train   <=== train model from scratch using HF transformers and tokenizers (Esperanto)    
+https://huggingface.co/blog/how-to-train   <=== train model from scratch using HF transformers and tokenizers (Esperanto)  
+https://github.com/PyTorchLightning/pytorch-lightning + https://github.com/AntixK/PyTorch-VAE   PyTorch-Lightning ||||  
 
 
 
