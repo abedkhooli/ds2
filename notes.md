@@ -4,6 +4,7 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources   
+https://github.com/Novetta/adaptnlp + Ktrain https://github.com/amaiya/ktrain   
 https://end-to-end-machine-learning.teachable.com/p/000-foundational-skills/   [starter]   
 https://nirantk.com/awesome-project-ideas/   
 https://www.analyticsvidhya.com/blog/2019/10/8-ambitious-data-science-projects-github/  <===     
