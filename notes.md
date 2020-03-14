@@ -5,7 +5,8 @@ Use it if you find it useful.
 
 # ML starter and great Resources   
 AdaptNLP https://github.com/Novetta/adaptnlp + Ktrain https://github.com/amaiya/ktrain  
-+ Flair https://github.com/flairNLP/flair  + fatstAPI https://github.com/tiangolo/fastapi   
++ Flair https://github.com/flairNLP/flair  + fatstAPI https://github.com/tiangolo/fastapi   + https://mc.ai/   
+https://github.com/tmheo/deep_learning_study  curated list   
 https://end-to-end-machine-learning.teachable.com/p/000-foundational-skills/   [starter]   
 https://nirantk.com/awesome-project-ideas/   
 https://www.analyticsvidhya.com/blog/2019/10/8-ambitious-data-science-projects-github/  <===     
