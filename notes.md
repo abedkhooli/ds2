@@ -21,7 +21,7 @@ https://brohrer.github.io/data_files.html  read/write files
 http://nbdev.fast.ai/tutorial   nbdev/jupyter tutorial    
 https://github.com/rasbt/python-machine-learning-book-3rd-edition   Sebastian Raschka's 3rd Ed book 
 https://matplotlib.org/matplotblog/posts/an-inquiry-into-matplotlib-figures/  Matplotlib    
-http://jalammar.github.io/illustrated-transformer/    
+http://jalammar.github.io/illustrated-transformer/     
 https://zaidalyafeai.github.io/ARBML/ + http://www.oma-project.com/  + https://github.com/aub-mind/hULMonA    <====                 
 https://github.com/ThilinaRajapakse/simpletransformers   <===    
 https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78   
@@ -53,7 +53,8 @@ https://github.com/earthspecies/decoder_head
 https://www.kaggle.com/learn/machine-learning-explainability     
 https://github.com/dbmdz/berts  + https://github.com/getalp/Flaubert  + https://deepset.ai/german-bert + https://github.com/deepset-ai/FARM   https://github.com/glample/fastBPE    BERTs  
 https://statquest.org/video-index/  StatQuest Stats 4 ML (videos)  
-https://medium.com/impactai/cnns-from-different-viewpoints-fab7f52d159c  CNNs from different viewpoints      
+https://medium.com/impactai/cnns-from-different-viewpoints-fab7f52d159c  CNNs from different viewpoints   
+Lableing/annotation:  Labelbox, Amazon SageMaker, v7labs.com, Appen and scale.ai 
 
 # ToDo  
 https://github.com/eriklindernoren/ML-From-Scratch 
