@@ -4,6 +4,7 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources   
+https://github.com/EricSchles/datascience_book and 1000+ repos   
 AdaptNLP https://github.com/Novetta/adaptnlp + Ktrain https://github.com/amaiya/ktrain  
 + Flair https://github.com/flairNLP/flair  + fatstAPI https://github.com/tiangolo/fastapi   + https://mc.ai/   
 https://github.com/tmheo/deep_learning_study  curated list   
