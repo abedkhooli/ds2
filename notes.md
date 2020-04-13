@@ -4,6 +4,7 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources   
+CS50 AI (https://lnkd.in/dJRkDxW  )  + Pomegranate library (https://github.com/jmschrei/pomegranate)   
 https://github.com/EricSchles/datascience_book and 1000+ repos   
 AdaptNLP https://github.com/Novetta/adaptnlp + Ktrain https://github.com/amaiya/ktrain  
 + Flair https://github.com/flairNLP/flair  + fatstAPI https://github.com/tiangolo/fastapi   + https://mc.ai/   
@@ -58,6 +59,7 @@ https://medium.com/impactai/cnns-from-different-viewpoints-fab7f52d159c  CNNs fr
 Lableing/annotation:  Labelbox, Amazon SageMaker, v7labs.com, Appen and scale.ai 
 
 # ToDo  
+https://dair.ai/newsletter/   NLP Newsletter   
 https://github.com/eriklindernoren/ML-From-Scratch 
 https://www.kdnuggets.com/2019/12/build-intelligent-chatbot.html  
 https://github.com/goru001/inltk  indic nlp  
