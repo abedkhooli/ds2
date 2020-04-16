@@ -3,7 +3,8 @@ this doc is not part of this repo in the logical sense but is being hosted here 
 It is currently a set of misc links and notes in no specific structure (well, almost) or purpose or maintenance plan - most resources here are simply 'note to self' items and I am keeping them public.      
 Use it if you find it useful. 
 
-# ML starter and great Resources   
+# ML starter and great Resources  
+http://doctorpenguin.com/   Medical newsletter  
 CS50 AI (https://lnkd.in/dJRkDxW  )  + Pomegranate library (https://github.com/jmschrei/pomegranate)   
 https://github.com/EricSchles/datascience_book and 1000+ repos   
 AdaptNLP https://github.com/Novetta/adaptnlp + Ktrain https://github.com/amaiya/ktrain  
