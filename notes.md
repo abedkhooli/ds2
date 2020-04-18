@@ -4,7 +4,7 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources  
-http://doctorpenguin.com/   Medical newsletter  
+http://doctorpenguin.com/   Medical newsletter + https://covid19primer.com/dashboard Covid19 research primer    
 CS50 AI (https://lnkd.in/dJRkDxW  )  + Pomegranate library (https://github.com/jmschrei/pomegranate)   
 https://github.com/EricSchles/datascience_book and 1000+ repos   
 AdaptNLP https://github.com/Novetta/adaptnlp + Ktrain https://github.com/amaiya/ktrain  
@@ -59,7 +59,8 @@ https://statquest.org/video-index/  StatQuest Stats 4 ML (videos)
 https://medium.com/impactai/cnns-from-different-viewpoints-fab7f52d159c  CNNs from different viewpoints   
 Lableing/annotation:  Labelbox, Amazon SageMaker, v7labs.com, Appen and scale.ai 
 
-# ToDo  
+# ToDo   
+https://arxiv.org/abs/2004.04902 An In-depth Walkthrough on Evolution of Neural Machine Translation      
 https://dair.ai/newsletter/   NLP Newsletter   
 https://github.com/eriklindernoren/ML-From-Scratch 
 https://www.kdnuggets.com/2019/12/build-intelligent-chatbot.html  
