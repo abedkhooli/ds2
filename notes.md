@@ -4,6 +4,8 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources  
+https://deep-learning-drizzle.github.io/  deep learning courses  
+https://www.cs.columbia.edu/~amueller/comsw4995s20/ applid machine learning 2020  
 http://doctorpenguin.com/   Medical newsletter + https://covid19primer.com/dashboard Covid19 research primer    
 CS50 AI (https://lnkd.in/dJRkDxW  )  + Pomegranate library (https://github.com/jmschrei/pomegranate)   
 https://github.com/EricSchles/datascience_book and 1000+ repos   
