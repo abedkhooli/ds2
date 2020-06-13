@@ -4,6 +4,8 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources  
+https://vas3k.com/blog/machine_learning/ https://developers.google.com/machine-learning/problem-framing/framing and 
+https://twitter.com/hannawallach/status/1271496738633908224 ML Basic Intro
 https://deep-learning-drizzle.github.io/  deep learning courses  
 https://www.cs.columbia.edu/~amueller/comsw4995s20/ applid machine learning 2020  
 http://doctorpenguin.com/   Medical newsletter + https://covid19primer.com/dashboard Covid19 research primer    
