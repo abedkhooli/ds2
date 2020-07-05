@@ -4,6 +4,8 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources  
+https://github.com/morganmcg1/fasthugs  FastHugs (hF transformers in Fastai)
+https://github.com/devAmoghS/Machine-Learning-with-Python   github repo     
 https://vas3k.com/blog/machine_learning/ https://developers.google.com/machine-learning/problem-framing/framing and 
 https://twitter.com/hannawallach/status/1271496738633908224 ML Basic Intro
 https://deep-learning-drizzle.github.io/  deep learning courses  
