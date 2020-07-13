@@ -4,6 +4,11 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources  
+https://github.com/abhishekkrthakur/bert-entity-extraction (https://www.youtube.com/watch?v=MqQ7rqRllIc)    
+https://github.com/abdelrahmaan/Hadith-Data-Sets   Arabic [Hadith]  
+https://arxiv.org/pdf/2007.03001.pdf   Massively Multilingual ASR: 50 Languages, 1 Model, 1 Billion Parameters    
+http://aima.cs.berkeley.edu/index.html  Artificial Intelligence: A Modern Approach 4th ed 2020    
+https://course.fullstackdeeplearning.com/   
 https://github.com/morganmcg1/fasthugs  FastHugs (hF transformers in Fastai)
 https://github.com/devAmoghS/Machine-Learning-with-Python   github repo     
 https://vas3k.com/blog/machine_learning/ https://developers.google.com/machine-learning/problem-framing/framing and 
