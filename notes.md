@@ -4,6 +4,9 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources  
+https://docs.google.com/presentation/d/1mvmJ1PnCe7lWGmSoL80CjLe7N2QpEwkU8x7l62BawME/edit#slide=id.g7eb0adee5f_0_119 + 
+https://course.fullstackdeeplearning.com/course-content/infrastructure-and-tooling/resource-management     
+https://github.com/full-stack-deep-learning/fsdl-text-recognizer-project     
 https://github.com/abhishekkrthakur/bert-entity-extraction (https://www.youtube.com/watch?v=MqQ7rqRllIc)    
 https://github.com/abdelrahmaan/Hadith-Data-Sets   Arabic [Hadith]  
 https://arxiv.org/pdf/2007.03001.pdf   Massively Multilingual ASR: 50 Languages, 1 Model, 1 Billion Parameters    
