@@ -50,7 +50,7 @@ def split_wiki(path,lang):
     f=None
 
     for i,l in enumerate(lines):
-        if i%100000 == 0: print(i)
+        if i%500000 == 0: print(i)
         if l.startswith('<doc id="'):
             title = title_re.findall(l)[0].replace('/','_')
             if len(title)>150: continue
@@ -102,7 +102,7 @@ def get_one_clean_file(dest,lang):
         # concatenate text
         all_texts += text
         all_texts += "\n"
-        if not (i % 1000): print(i)
+        if not (i % 5000): print(i)
   
     with open (dest.parent/fname, 'w') as fp: 
         fp.write(all_texts)
