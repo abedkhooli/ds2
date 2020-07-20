@@ -82,6 +82,9 @@ def get_one_clean_file(dest,lang):
 
     fname = f'all_texts_{lang}wiki.txt'
     doc_re = re.compile(rf'([\w\W]*)<\/doc>') # delete </doc>
+    # added by AK
+    accents = re.compile(r'[\u064b-\u0652\u0640]') # harakaat and tatweel
+    arabic_punc = re.compile(r'[0-9\u0621-\u063A\u0641-\u064A\u061b\u061f\u060c\u003A\u003D\u002E\u002F\u007C]+')
     
     all_texts = ''
     for i,l in enumerate(dest.ls()):
@@ -92,6 +95,10 @@ def get_one_clean_file(dest,lang):
         f.close()
         # get content without </doc> and delete empty line and whitespaces at the head and tail
         text = doc_re.findall(text)[0].strip()
+        # by AK
+        text = accents.sub('',text)
+        text = ' '.join(arabic_punc.findall(text))
+        
         # concatenate text
         all_texts += text
         all_texts += "\n"
@@ -105,6 +112,9 @@ def get_one_clean_csv_file(dest,lang):
                          
     fname = f'all_texts_{lang}wiki.csv'
     doc_re = re.compile(rf'([\w\W]*)<\/doc>') # delete </doc>
+    # added by AK
+    accents = re.compile(r'[\u064b-\u0652\u0640]') # harakaat and tatweel
+    arabic_punc = re.compile(r'[0-9\u0621-\u063A\u0641-\u064A\u061b\u061f\u060c\u003A\u003D\u002E\u002F\u007C]+')
     
     all_texts = list()
     for i,l in enumerate(dest.ls()):
@@ -115,6 +125,9 @@ def get_one_clean_csv_file(dest,lang):
         f.close()
         # get content without </doc> and delete empty line and whitespaces at the head and tail
         text = doc_re.findall(text)[0].strip()
+        # by AK
+        text = accents.sub('',text)
+        text = ' '.join(arabic_punc.findall(text))
         # append text
         all_texts.append(text)
   
