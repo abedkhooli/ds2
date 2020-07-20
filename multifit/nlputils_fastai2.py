@@ -84,7 +84,7 @@ def get_one_clean_file(dest,lang):
     doc_re = re.compile(rf'([\w\W]*)<\/doc>') # delete </doc>
     # added by AK
     accents = re.compile(r'[\u064b-\u0652\u0640]') # harakaat and tatweel
-    arabic_punc = re.compile(r'[0-9\u0621-\u063A\u0641-\u064A\u061b\u061f\u060c\u003A\u003D\u002E\u002F\u007C]+')
+    arabic_punc = re.compile(r'[%0-9\u0621-\u063A\u0641-\u064A\u061b\u061f\u060c\u003A\u003D\u002E\u002F\u007C]+')
     
     all_texts = ''
     for i,l in enumerate(dest.ls()):
@@ -114,7 +114,7 @@ def get_one_clean_csv_file(dest,lang):
     doc_re = re.compile(rf'([\w\W]*)<\/doc>') # delete </doc>
     # added by AK
     accents = re.compile(r'[\u064b-\u0652\u0640]') # harakaat and tatweel
-    arabic_punc = re.compile(r'[0-9\u0621-\u063A\u0641-\u064A\u061b\u061f\u060c\u003A\u003D\u002E\u002F\u007C]+')
+    arabic_punc = re.compile(r'[%0-9\u0621-\u063A\u0641-\u064A\u061b\u061f\u060c\u003A\u003D\u002E\u002F\u007C]+')
     
     all_texts = list()
     for i,l in enumerate(dest.ls()):
