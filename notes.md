@@ -10,7 +10,7 @@ https://github.com/pair-code/lit Language Interpretability Tool (LIT)
 https://github.com/google/trax   deep learning library from Google   
 https://github.com/neubig/lowresource-nlp-bootcamp-2020   low resource NLP bootcamp       
 https://models.quantumstat.com/  NLP Model Forge (HF wrapper)   
-https://wortschatz.uni-leipzig.de/en/download + https://traces1.inria.fr/oscar/ language corpora  
+https://wortschatz.uni-leipzig.de/en/download + https://traces1.inria.fr/oscar/  + https://www.clarin.eu/resource-families/parallel-corpora language corpora  
 https://github.com/punyajoy/DE-LIMIT/tree/master/Dataset Arabic hate speech datasets  
 https://github.com/huggingface/nlp/tree/master/datasets HF datasets for NLP  
 https://huggingface.co/transformers/model_doc/bart.html + https://github.com/pytorch/fairseq/tree/master/examples/bart  BART model    
