@@ -4,13 +4,15 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources  
+https://github.com/ivan-bilan/The-NLP-Pandect  NLP Resources   
 https://www.youtube.com/playlist?list=PLFDkaGxp5BXDvj3oHoKDgEcH73Aze-eET  (https://github.com/muellerzr/Practical-Deep-Learning-for-Coders-2.0)  Fastai2 videos     
 https://guide.allennlp.org/your-first-model   NLP Guide Allen Institute for AI  
 https://github.com/pair-code/lit Language Interpretability Tool (LIT)     
 https://github.com/google/trax   deep learning library from Google   
 https://github.com/neubig/lowresource-nlp-bootcamp-2020   low resource NLP bootcamp       
 https://models.quantumstat.com/  NLP Model Forge (HF wrapper)   
-https://wortschatz.uni-leipzig.de/en/download + https://traces1.inria.fr/oscar/  + https://www.clarin.eu/resource-families/parallel-corpora language corpora  
+https://wortschatz.uni-leipzig.de/en/download + https://traces1.inria.fr/oscar/  + https://www.clarin.eu/resource-families/parallel-corpora +  
+https://conferences.unite.un.org/UNCorpus   language corpora  
 https://github.com/punyajoy/DE-LIMIT/tree/master/Dataset Arabic hate speech datasets  
 https://github.com/huggingface/nlp/tree/master/datasets HF datasets for NLP  
 https://huggingface.co/transformers/model_doc/bart.html + https://github.com/pytorch/fairseq/tree/master/examples/bart  BART model    
