@@ -17,7 +17,7 @@ https://github.com/punyajoy/DE-LIMIT/tree/master/Dataset Arabic hate speech data
 https://github.com/huggingface/nlp/tree/master/datasets HF datasets for NLP  
 https://huggingface.co/transformers/model_doc/bart.html + https://github.com/pytorch/fairseq/tree/master/examples/bart  BART model    
 https://awesomeopensource.com/project/cedrickchee/awesome-bert-nlp     
-https://notebooks.quantumstat.com/ The Super Duper NLP Repo        
+https://notebooks.quantumstat.com/ The Super Duper NLP Repo    + https://datasets.quantumstat.com/  Big Bad NLP Database         
 https://docs.google.com/presentation/d/1mvmJ1PnCe7lWGmSoL80CjLe7N2QpEwkU8x7l62BawME/edit#slide=id.g7eb0adee5f_0_119 + 
 https://course.fullstackdeeplearning.com/course-content/infrastructure-and-tooling/resource-management     
 https://github.com/full-stack-deep-learning/fsdl-text-recognizer-project     
