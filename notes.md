@@ -4,6 +4,8 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources  
+https://github.com/muellerzr/Practical-Deep-Learning-for-Coders-2.0 + https://walkwithfastai.com/    
+https://forums.fast.ai/t/wiki-2020-ml-interviews-resources-advice-s/70528  Wiki: 2020 ML Interviews Resources & Advice(s)   
 https://github.com/ivan-bilan/The-NLP-Pandect  NLP Resources   
 https://www.youtube.com/playlist?list=PLFDkaGxp5BXDvj3oHoKDgEcH73Aze-eET  (https://github.com/muellerzr/Practical-Deep-Learning-for-Coders-2.0)  Fastai2 videos     
 https://guide.allennlp.org/your-first-model   NLP Guide Allen Institute for AI  
