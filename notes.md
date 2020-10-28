@@ -4,6 +4,7 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources  
+https://github.com/fairlearn/fairlearn  Fairness in ML by MS (see also https://arxiv.org/pdf/2010.09337.pdf on ML explainability/interpretability)   
 https://github.com/muellerzr/Practical-Deep-Learning-for-Coders-2.0 + https://walkwithfastai.com/    
 https://forums.fast.ai/t/wiki-2020-ml-interviews-resources-advice-s/70528  Wiki: 2020 ML Interviews Resources & Advice(s)   
 https://github.com/ivan-bilan/The-NLP-Pandect  NLP Resources   
