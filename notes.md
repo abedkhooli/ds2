@@ -4,6 +4,10 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources  
+http://data.statmt.org/cc-100/ (https://github.com/facebookresearch/cc_net)  CC-100: Monolingual Datasets from Web Crawl Data   
+https://github.com/heartexlabs/awesome-data-labeling Awesome data labeling and annotation  (see also comments at https://www.linkedin.com/posts/isaacfaber_datalabeling-opensource-activity-6726958068334153728-V8DN)      
+https://www.drivendata.co/projects.html   data science for good competitions      
+https://www.deepwizai.com/ deep learning and machine learning blog     
 https://github.com/fairlearn/fairlearn  Fairness in ML by MS (see also https://arxiv.org/pdf/2010.09337.pdf on ML explainability/interpretability)   
 https://github.com/muellerzr/Practical-Deep-Learning-for-Coders-2.0 + https://walkwithfastai.com/    
 https://forums.fast.ai/t/wiki-2020-ml-interviews-resources-advice-s/70528  Wiki: 2020 ML Interviews Resources & Advice(s)   
