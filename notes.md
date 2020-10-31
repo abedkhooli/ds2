@@ -4,6 +4,7 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources  
+https://medium.com/towards-artificial-intelligence/data-science-curriculum-bf3bb6805576 Data Science Curriculum for self study    
 http://data.statmt.org/cc-100/ (https://github.com/facebookresearch/cc_net)  CC-100: Monolingual Datasets from Web Crawl Data   
 https://github.com/heartexlabs/awesome-data-labeling Awesome data labeling and annotation  (see also comments at https://www.linkedin.com/posts/isaacfaber_datalabeling-opensource-activity-6726958068334153728-V8DN)      
 https://www.drivendata.co/projects.html   data science for good competitions      
