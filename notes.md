@@ -4,6 +4,8 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources  
+https://i.am.ai/roadmap   AI Expert roadmap     
+https://github.com/chiphuyen/just-pandas-things   chip h   
 https://huggingface.co/joeddav/xlm-roberta-large-xnli   zero-shot classification pipeline (15 anguages, incl. Arabic)   
 https://colab.research.google.com/github/huggingface/notebooks/blob/master/examples/text_classification.ipynb  Fine-tuning a model on a text classification task    
 https://medium.com/towards-artificial-intelligence/data-science-curriculum-bf3bb6805576 Data Science Curriculum for self study    
