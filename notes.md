@@ -4,6 +4,8 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources  
+https://github.com/slundberg/shap   explainaable AI (interpretability)     
+https://github.com/unitaryai/detoxify   
 https://i.am.ai/roadmap   AI Expert roadmap     
 https://github.com/chiphuyen/just-pandas-things   chip h   
 https://huggingface.co/joeddav/xlm-roberta-large-xnli   zero-shot classification pipeline (15 anguages, incl. Arabic)   
