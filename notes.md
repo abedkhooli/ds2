@@ -4,6 +4,9 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources  
+https://github.com/kaushaltrivedi/fast-bert   fast-bert fastai + Bert + LAMB   
+https://github.com/microsoft/DeepSpeed/blob/master/docs/_tutorials/bert-pretraining.md#reproducing-bert-training-results-with-deepspeed   deep speed    
++ https://www.deepspeed.ai/news/2020/05/18/bert-record.html      https://github.com/microsoft/DeepSpeed     
 https://github.com/slundberg/shap   explainaable AI (interpretability)     
 https://github.com/unitaryai/detoxify   
 https://i.am.ai/roadmap   AI Expert roadmap     
