@@ -4,6 +4,9 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources  
+https://algotransparency.org/    + https://github.com/pair-code/lit  language interpretability   
+https://github.com/stared/livelossplot/ Plot losses while raining (TF and PT)   
+https://web.stanford.edu/~jurafsky/slp3/   Speech and Language Processing      
 https://github.com/kaushaltrivedi/fast-bert   fast-bert fastai + Bert + LAMB   
 https://github.com/microsoft/DeepSpeed/blob/master/docs/_tutorials/bert-pretraining.md#reproducing-bert-training-results-with-deepspeed   deep speed    
 + https://www.deepspeed.ai/news/2020/05/18/bert-record.html      https://github.com/microsoft/DeepSpeed     
