@@ -4,6 +4,8 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources  
+http://zna.do/epsilon   
+https://github.com/GRAAL-Research/poutyne simplified framework for PyTorch       
 https://algotransparency.org/    + https://github.com/pair-code/lit  language interpretability   
 https://github.com/stared/livelossplot/ Plot losses while raining (TF and PT)   
 https://web.stanford.edu/~jurafsky/slp3/   Speech and Language Processing      
