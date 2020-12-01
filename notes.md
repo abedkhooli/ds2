@@ -4,6 +4,9 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources  
+see next line https://parthplc.medium.com/how-to-finetune-mt5-to-create-a-question-generator-for-100-languages-4a3878e63118  MT5 Q gen (pytorch lightning)     
+QA datasets (incl. Ar): https://github.com/facebookresearch/MLQA + https://github.com/deepmind/xquad  
+https://atcold.github.io/pytorch-Deep-Learning/  + https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq Yann LeCun      
 http://zna.do/epsilon   
 https://github.com/GRAAL-Research/poutyne simplified framework for PyTorch       
 https://algotransparency.org/    + https://github.com/pair-code/lit  language interpretability   
