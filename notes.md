@@ -4,6 +4,8 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources  
+https://dssoc.github.io/schedule/   Data Science & Society    
+https://nlp.johnsnowlabs.com/docs/en/licensed_release_notes  Spark NLP BioBert etc     
 see next line https://parthplc.medium.com/how-to-finetune-mt5-to-create-a-question-generator-for-100-languages-4a3878e63118  MT5 Q gen (pytorch lightning)     
 QA datasets (incl. Ar): https://github.com/facebookresearch/MLQA + https://github.com/deepmind/xquad  
 https://atcold.github.io/pytorch-Deep-Learning/  + https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq Yann LeCun      
