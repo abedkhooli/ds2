@@ -4,6 +4,8 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources  
+https://github.com/EpistasisLab/pmlb Penn Machine Learning Benchmarks  
+https://datasetlist.com  by domain,   https://datasetsearch.research.google.com,   https://github.com/awesomedata/awesome-public-datasets,  https://www.reddit.com/r/datasets/    
 https://dssoc.github.io/schedule/   Data Science & Society    
 https://nlp.johnsnowlabs.com/docs/en/licensed_release_notes  Spark NLP BioBert etc     
 see next line https://parthplc.medium.com/how-to-finetune-mt5-to-create-a-question-generator-for-100-languages-4a3878e63118  MT5 Q gen (pytorch lightning)     
