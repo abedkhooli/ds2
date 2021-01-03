@@ -4,7 +4,9 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources  
-https://github.com/EpistasisLab/pmlb Penn Machine Learning Benchmarks  
+HF Arabic: ARBERT: https://huggingface.co/UBC-NLP/ARBERT  MARBERT: https://huggingface.co/UBC-NLP/MARBERT  https://huggingface.co/aubmindlab 
+https://huggingface.co/lanwuwei  https://huggingface.co/asafaya  +  https://huggingface.co/akhooli     
+https://github.com/EpistasisLab/pmlb Penn Machine Learning Benchmarks  + http://timeseriesregression.org + https://twitter.com/rasbt/status/1345407451865243648  + next line     
 https://datasetlist.com  by domain,   https://datasetsearch.research.google.com,   https://github.com/awesomedata/awesome-public-datasets,  https://www.reddit.com/r/datasets/    
 https://dssoc.github.io/schedule/   Data Science & Society    
 https://nlp.johnsnowlabs.com/docs/en/licensed_release_notes  Spark NLP BioBert etc     
