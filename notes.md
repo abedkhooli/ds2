@@ -9,6 +9,7 @@ https://huggingface.co/lanwuwei  https://huggingface.co/asafaya  +  https://hugg
 https://github.com/EpistasisLab/pmlb Penn Machine Learning Benchmarks  + http://timeseriesregression.org + https://twitter.com/rasbt/status/1345407451865243648  + next line     
 https://datasetlist.com  by domain,   https://datasetsearch.research.google.com,   https://github.com/awesomedata/awesome-public-datasets,  https://www.reddit.com/r/datasets/    
 https://dssoc.github.io/schedule/   Data Science & Society    
+https://pile.eleuther.ai/ The Pile is a 825 GiB diverse, open source language modelling data set that consists of 22 smaller, high-quality datasets combined together.        
 https://nlp.johnsnowlabs.com/docs/en/licensed_release_notes  Spark NLP BioBert etc     
 see next line https://parthplc.medium.com/how-to-finetune-mt5-to-create-a-question-generator-for-100-languages-4a3878e63118  MT5 Q gen (pytorch lightning)     
 QA datasets (incl. Ar): https://github.com/facebookresearch/MLQA + https://github.com/deepmind/xquad  
