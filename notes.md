@@ -1,9 +1,11 @@
 ### Note/disclaimer:  
 this doc is not part of this repo in the logical sense but is being hosted here for now. 
-It is currently a set of misc links and notes in no specific structure (well, almost) or purpose or maintenance plan - most resources here are simply 'note to self' items and I am keeping them public.      
+It is currently a set of misc links and notes in no specific structure (well, almost) or purpose or maintenance plan - most resources here are simply 'note to self' items and I am keeping them public.        
 Use it if you find it useful. 
 
 # ML starter and great Resources  
+https://twitter.com/akhooli/status/1349438507337584641   Arabic poetry generation   
+https://incidentdatabase.ai/   and  https://github.com/PartnershipOnAI/aiid AI incident database     
 https://twitter.com/amitness/status/1347884720751710210   store ML models 
 HF Arabic: ARBERT: https://huggingface.co/UBC-NLP/ARBERT  MARBERT: https://huggingface.co/UBC-NLP/MARBERT  https://huggingface.co/aubmindlab 
 https://huggingface.co/lanwuwei  https://huggingface.co/asafaya  +  https://huggingface.co/akhooli     
