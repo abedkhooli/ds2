@@ -4,7 +4,8 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources  
-https://twitter.com/akhooli/status/1349438507337584641   Arabic poetry generation   
+https://twitter.com/akhooli/status/1349438507337584641   (eaarlier: https://twitter.com/akhooli/status/1347609838617042948)  Arabic poetry generation   
+https://eccox.io/  +  https://github.com/jalammar/ecco   Look Inside Language Models      
 https://incidentdatabase.ai/   and  https://github.com/PartnershipOnAI/aiid AI incident database     
 https://twitter.com/amitness/status/1347884720751710210   store ML models 
 HF Arabic: ARBERT: https://huggingface.co/UBC-NLP/ARBERT  MARBERT: https://huggingface.co/UBC-NLP/MARBERT  https://huggingface.co/aubmindlab 
