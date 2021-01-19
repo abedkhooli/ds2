@@ -4,6 +4,7 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources  
+https://gltr.io/ A tool to detect automatically generated text     
 https://twitter.com/akhooli/status/1349438507337584641   (eaarlier: https://twitter.com/akhooli/status/1347609838617042948)  Arabic poetry generation   
 https://eccox.io/  +  https://github.com/jalammar/ecco   Look Inside Language Models      
 https://incidentdatabase.ai/   and  https://github.com/PartnershipOnAI/aiid AI incident database     
