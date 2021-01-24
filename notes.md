@@ -4,6 +4,7 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources  
+https://arnicas.github.io/text-gen-arxiv-papers/  https://github.com/arnicas/text-gen-arxiv-papers/     
 https://github.com/argosopentech/argos-translate/  Open source offline translation app   
 https://ruder.io/research-highlights-2020/  Seb Ruder NLP summary 2020    
 https://gltr.io/ A tool to detect automatically generated text     
