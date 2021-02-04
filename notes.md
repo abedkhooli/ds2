@@ -4,6 +4,7 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources  
+https://aiethicscourse.org/ AI Ethics course 
 https://arxiv.org/pdf/2002.12327.pdf A Primer in BERTology   
 https://arnicas.github.io/text-gen-arxiv-papers/  https://github.com/arnicas/text-gen-arxiv-papers/     
 https://github.com/argosopentech/argos-translate/  Open source offline translation app   
