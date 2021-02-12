@@ -4,7 +4,9 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources  
-https://www.youtube.com/watch?v=oR670Txwh88 The Art of Learning Data Science     
+https://www.youtube.com/watch?v=oR670Txwh88 The Art of Learning Data Science   
+https://github.com/linkedin/detext  LinkedIn DeText  
+https://github.com/coursat-ai/NLP + https://github.com/coursat-ai/CV   
 https://sebastianraschka.com/blog/2021/ml-dl-datasets.html  Datasets for Machine Learning and Deep Learning    
 http://en.arabicspeechcorpus.com/  ASR Arabic Speech Corpus (see also: https://arxiv.org/pdf/2007.03001.pdf    https://www.researchgate.net/publication/344799361_End-to-End_Arabic_Speech_Recognition_A_Review    https://lionbridge.ai/datasets/best-speech-recognition-datasets-for-machine-learning/    and https://www.openslr.org/12 (LibriSpeech En)   
 https://aiethicscourse.org/ AI Ethics course 
