@@ -4,6 +4,7 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources  
+https://www.paperswithcode.com/datasets + https://huggingface.co/datasets     Datasets     
 https://www.youtube.com/watch?v=oR670Txwh88 The Art of Learning Data Science   
 https://github.com/linkedin/detext  LinkedIn DeText  
 https://github.com/coursat-ai/NLP + https://github.com/coursat-ai/CV   
