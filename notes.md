@@ -4,6 +4,7 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources  
+https://www.kdnuggets.com/2020/11/top-python-libraries-data-science-data-visualization-machine-learning.html  Top Python Libraries for Data Science, Data Visualization & Machine Learning    
 http://learnersdigest.radekosmulski.com/issues/ml-learner-s-digest-demystifying-regex-once-and-for-all-368901  Demystify RegEx  
 https://stanford-cs329s.github.io/syllabus.html   Machine Learning Systems Design  (Chip Huyen)  
 https://elvissaravia.substack.com/p/learn-about-transformers-a-recipe learn about Transformers 
