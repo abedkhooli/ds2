@@ -3,7 +3,8 @@ this doc is not part of this repo in the logical sense but is being hosted here 
 It is currently a set of misc links and notes in no specific structure (well, almost) or purpose or maintenance plan - most resources here are simply 'note to self' items and I am keeping them public.        
 Use it if you find it useful. 
 
-# ML starter and great Resources  
+# ML starter and great Resources   
+Python APIs: https://realpython.com/python-api/ (consume),  https://realpython.com/flask-connexion-rest-api/ (build)   
 https://cwkx.github.io/teaching.html  Deep and Reinforcement learning courses (also cyber security). Videos: https://www.youtube.com/user/cwkx/playlists    
 https://www.kdnuggets.com/2020/11/top-python-libraries-data-science-data-visualization-machine-learning.html  Top Python Libraries for Data Science, Data Visualization & Machine Learning    
 http://learnersdigest.radekosmulski.com/issues/ml-learner-s-digest-demystifying-regex-once-and-for-all-368901  Demystify RegEx  
