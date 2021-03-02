@@ -4,6 +4,7 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources   
+https://www.statisticshowto.com/ + https://www.youtube.com/channel/UCs3IhN8VOA_5WxpAgbSmFkg  stats in plain English       
 https://sergey-tihon.github.io/Stanford.NLP.NET/ Stanford NLP.net    
 Python APIs: https://realpython.com/python-api/ (consume),  https://realpython.com/flask-connexion-rest-api/ (build)   
 https://cwkx.github.io/teaching.html  Deep and Reinforcement learning courses (also cyber security). Videos: https://www.youtube.com/user/cwkx/playlists    
