@@ -46,7 +46,7 @@ https://web.stanford.edu/~jurafsky/slp3/   Speech and Language Processing
 https://github.com/kaushaltrivedi/fast-bert   fast-bert fastai + Bert + LAMB   
 https://github.com/microsoft/DeepSpeed/blob/master/docs/_tutorials/bert-pretraining.md#reproducing-bert-training-results-with-deepspeed   deep speed    
 + https://www.deepspeed.ai/news/2020/05/18/bert-record.html      https://github.com/microsoft/DeepSpeed     
-https://github.com/slundberg/shap   explainaable AI (interpretability)     
+https://github.com/slundberg/shap  + https://github.com/MAIF/shapash  explainaable AI (interpretability)     
 https://github.com/unitaryai/detoxify   
 https://i.am.ai/roadmap   AI Expert roadmap     
 https://github.com/chiphuyen/just-pandas-things   chip h   
