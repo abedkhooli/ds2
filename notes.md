@@ -4,6 +4,7 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources   
+https://maelfabien.github.io/machinelearning/wav2vec/#b-the-model wave2Vec   
 https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV  Neural Nets for NLP Graham Neubig CMU  
 https://www.statisticshowto.com/ + https://www.youtube.com/channel/UCs3IhN8VOA_5WxpAgbSmFkg  stats in plain English       
 https://sergey-tihon.github.io/Stanford.NLP.NET/ Stanford NLP.net    
