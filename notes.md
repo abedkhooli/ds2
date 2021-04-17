@@ -4,6 +4,7 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources   
+https://aiethicscourse.org/modules.html AI ethics course   
 https://github.com/kornia/kornia  + https://kornia-tutorials.readthedocs.io/en/latest/ for computer vision based on Pytorch and inspired by OpenCV  
 https://maelfabien.github.io/machinelearning/wav2vec/#b-the-model wave2Vec   
 https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV  Neural Nets for NLP Graham Neubig CMU  
