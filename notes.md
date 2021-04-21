@@ -4,6 +4,7 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources   
+https://github.com/speechbrain/speechbrain/ + https://colab.research.google.com/drive/1UwisnAjr8nQF3UnrkIJ4abBMAWzVwBMh?usp=sharing  SpeechBrain  
 https://aiethicscourse.org/modules.html AI ethics course   
 https://github.com/kornia/kornia  + https://kornia-tutorials.readthedocs.io/en/latest/ for computer vision based on Pytorch and inspired by OpenCV  
 https://maelfabien.github.io/machinelearning/wav2vec/#b-the-model wave2Vec   
