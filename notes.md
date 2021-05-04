@@ -4,6 +4,7 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources   
+https://opendatapolicylab.org/academy/data-reuse-strategy/syllabus-2021/    
 https://github.com/opendp  https://opendp.org/ Differential Privacy (Microsoft) - see https://news.microsoft.com/wp-content/uploads/prod/sites/560/2021/04/Microsoft-Open-Data-Campaign-Report_PDF_FINAL.pdf and https://blogs.microsoft.com/on-the-issues/2021/04/29/open-data-campaign-anniversary-review/   
 https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/  sklearn mooc   
 https://github.com/speechbrain/speechbrain/ + https://colab.research.google.com/drive/1UwisnAjr8nQF3UnrkIJ4abBMAWzVwBMh?usp=sharing  SpeechBrain  
