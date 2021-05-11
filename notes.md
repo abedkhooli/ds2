@@ -4,6 +4,7 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources   
+https://github.com/nyu-mll/jiant  multitask and transfer learning toolkit for natural language processing research   
 https://stanford-cs329s.github.io/syllabus.html  CS 329S: Machine Learning Systems Design from Stanford    
 https://opendatapolicylab.org/academy/data-reuse-strategy/syllabus-2021/    
 https://github.com/opendp  https://opendp.org/ Differential Privacy (Microsoft) - see https://news.microsoft.com/wp-content/uploads/prod/sites/560/2021/04/Microsoft-Open-Data-Campaign-Report_PDF_FINAL.pdf and https://blogs.microsoft.com/on-the-issues/2021/04/29/open-data-campaign-anniversary-review/   
