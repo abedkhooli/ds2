@@ -5,7 +5,7 @@ Use it if you find it useful.
 
 # ML starter and great Resources   
 https://github.com/pandas-profiling/pandas-profiling   
-
+https://github.com/cdpierse/transformers-interpret   transformers interprret    
 https://github.com/nyu-mll/jiant  multitask and transfer learning toolkit for natural language processing research   
 https://stanford-cs329s.github.io/syllabus.html  CS 329S: Machine Learning Systems Design from Stanford    
 https://opendatapolicylab.org/academy/data-reuse-strategy/syllabus-2021/    
