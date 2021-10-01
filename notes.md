@@ -4,6 +4,7 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources   
+https://cds.nyu.edu/deep-learning/ NYU Deep learning (2021) - latest techniques in deep learning and representation learning (not for beginners)   
 https://colab.research.google.com/drive/1OGp9Wgm-oBM5BBhTLx6Qow4dNRSJZ-F5?usp=sharing   Arabic NER      
 https://github.com/pandas-profiling/pandas-profiling   
 https://github.com/cdpierse/transformers-interpret   transformers interprret    
