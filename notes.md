@@ -4,6 +4,7 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources   
+https://deeplearning.neuromatch.io/tutorials/intro.html   Deep Learning wth PyTorch  
 https://github.com/mauhai/awesome-jupyterlab Awesome Jupyter Lab  
 https://github.com/microsoft/ML-For-Beginners Machine Learning for Beginners - Microsoft  
 https://github.com/microsoft/Data-Science-For-Beginners Data Science for Beginners - Microsoft  
