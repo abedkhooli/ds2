@@ -4,6 +4,8 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources   
+https://github.com/microsoft/ML-For-Beginners Machine Learning for Beginners - Microsoft  
+https://github.com/microsoft/Data-Science-For-Beginners Data Science for Beginners - Microsoft  
 https://mldurga.github.io/easydl/  deep learning - vision   
 https://cds.nyu.edu/deep-learning/ NYU Deep learning (2021) - latest techniques in deep learning and representation learning (not for beginners)   
 https://colab.research.google.com/drive/1OGp9Wgm-oBM5BBhTLx6Qow4dNRSJZ-F5?usp=sharing   Arabic NER      
