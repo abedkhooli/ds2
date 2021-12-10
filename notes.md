@@ -4,6 +4,8 @@ It is currently a set of misc links and notes in no specific structure (well, al
 Use it if you find it useful. 
 
 # ML starter and great Resources   
+Online (free) Jupyter Notebooks: https://www.kaggle.com/ https://colab.research.google.com/  https://studiolab.sagemaker.aws/  
+https://d2l.ai/chapter_preface/index.html Dive into Deep Learning (PyTorch, TensorFlow and Mxnet)     
 https://deeplearning.neuromatch.io/tutorials/intro.html   Deep Learning wth PyTorch  
 https://github.com/mauhai/awesome-jupyterlab Awesome Jupyter Lab  
 https://github.com/microsoft/ML-For-Beginners Machine Learning for Beginners - Microsoft  
