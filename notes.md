@@ -5,7 +5,7 @@ Use it if you find it useful.
 Last updated: December 22, 2021  
 
 # ML starter and great Resources   
-Online (free) Jupyter Notebooks: https://www.kaggle.com/ https://colab.research.google.com/  https://studiolab.sagemaker.aws/   
+Online (free) Jupyter Notebooks: [Kaggle](https://www.kaggle.com/) - [Colab](https://colab.research.google.com/) - [SageMaker](https://studiolab.sagemaker.aws/)    
 https://christophm.github.io/interpretable-ml-book/   Interpretable Machine Learning book (free)   
 https://d2l.ai/chapter_preface/index.html Dive into Deep Learning (PyTorch, TensorFlow and Mxnet)     
 https://deeplearning.neuromatch.io/tutorials/intro.html   Deep Learning wth PyTorch  
