@@ -1,7 +1,8 @@
 ### Note/disclaimer:  
 this doc is not part of this repo in the logical sense but is being hosted here for now. 
 It is currently a set of misc links and notes in no specific structure (well, almost) or purpose or maintenance plan - most resources here are simply 'note to self' items and I am keeping them public.        
-Use it if you find it useful. 
+Use it if you find it useful.  
+Last updated: December 22, 2021  
 
 # ML starter and great Resources   
 Online (free) Jupyter Notebooks: https://www.kaggle.com/ https://colab.research.google.com/  https://studiolab.sagemaker.aws/   
@@ -11,6 +12,7 @@ https://deeplearning.neuromatch.io/tutorials/intro.html   Deep Learning wth PyTo
 https://github.com/mauhai/awesome-jupyterlab Awesome Jupyter Lab  
 https://github.com/microsoft/ML-For-Beginners Machine Learning for Beginners - Microsoft  
 https://github.com/microsoft/Data-Science-For-Beginners Data Science for Beginners - Microsoft  
+https://github.com/microsoft/recommenders Recommenders with examples - Microsoft  
 https://mldurga.github.io/easydl/  deep learning - vision   
 https://cds.nyu.edu/deep-learning/ NYU Deep learning (2021) - latest techniques in deep learning and representation learning (not for beginners)   
 https://colab.research.google.com/drive/1OGp9Wgm-oBM5BBhTLx6Qow4dNRSJZ-F5?usp=sharing   Arabic NER      
