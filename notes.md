@@ -9,6 +9,8 @@ Online (free) Jupyter Notebooks: [Kaggle](https://www.kaggle.com/) - [Colab](htt
 
 https://fullstackdeeplearning.com/spring2021/ Full Stack Deep Learning  
 https://github.com/open-mmlab/mmocr OCR library for text detection and recognition  
+https://towardsdatascience.com/5-open-source-tools-you-can-use-to-train-and-deploy-an-ocr-project-8f204dec862b OCR comparison  
+https://huggingface.co/spaces/Kforcode/Doctr_plus_TrOCR  OCR on Huggingface  
 https://christophm.github.io/interpretable-ml-book/   Interpretable Machine Learning book (free)   
 https://d2l.ai/chapter_preface/index.html Dive into Deep Learning (PyTorch, TensorFlow and Mxnet)     
 https://deeplearning.neuromatch.io/tutorials/intro.html   Deep Learning wth PyTorch  
