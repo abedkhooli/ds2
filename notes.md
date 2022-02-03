@@ -13,6 +13,7 @@ https://towardsdatascience.com/5-open-source-tools-you-can-use-to-train-and-depl
 https://huggingface.co/spaces/Kforcode/Doctr_plus_TrOCR  OCR on Huggingface  
 https://github.com/pdfminer/pdfminer.six  
 
+https://datasetsearch.research.google.com/  google datasets   
 https://christophm.github.io/interpretable-ml-book/   Interpretable Machine Learning book (free)   
 https://d2l.ai/chapter_preface/index.html Dive into Deep Learning (PyTorch, TensorFlow and Mxnet)     
 https://deeplearning.neuromatch.io/tutorials/intro.html   Deep Learning wth PyTorch  
