@@ -7,6 +7,8 @@ Last updated: December 22, 2021
 # ML starter and great Resources   
 Online (free) Jupyter Notebooks: [Kaggle](https://www.kaggle.com/) - [Colab](https://colab.research.google.com/) - [SageMaker](https://studiolab.sagemaker.aws/)  
 
+https://huggingface.co/course/chapter1/1  HuggingFace Transformers course   
+
 https://fullstackdeeplearning.com/spring2021/ Full Stack Deep Learning  
 https://github.com/open-mmlab/mmocr OCR library for text detection and recognition  
 https://towardsdatascience.com/5-open-source-tools-you-can-use-to-train-and-deploy-an-ocr-project-8f204dec862b OCR comparison  
