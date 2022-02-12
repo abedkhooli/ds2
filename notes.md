@@ -8,6 +8,7 @@ Last updated: December 22, 2021
 Online (free) Jupyter Notebooks: [Kaggle](https://www.kaggle.com/) - [Colab](https://colab.research.google.com/) - [SageMaker](https://studiolab.sagemaker.aws/)  
 
 https://huggingface.co/course/chapter1/1  HuggingFace Transformers course   
+https://github.com/dair-ai/Transformers-Recipe/blob/main/README.md transformers recipe   
 https://github.com/josephmisiti/awesome-machine-learning  Awesome machine learning    
 https://ethics-of-ai.mooc.fi/ AI Ethics MOOC   
 
