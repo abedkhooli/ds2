@@ -6,6 +6,7 @@ Last updated: December 22, 2021
 
 # ML starter and great Resources   
 Online (free) Jupyter Notebooks: [Kaggle](https://www.kaggle.com/) - [Colab](https://colab.research.google.com/) - [SageMaker](https://studiolab.sagemaker.aws/)  
+Guide to explainable AI https://christophm.github.io/interpretable-ml-book/index.html   
 
 https://huggingface.co/course/chapter1/1  HuggingFace Transformers course   
 https://github.com/dair-ai/Transformers-Recipe/blob/main/README.md transformers recipe   
