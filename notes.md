@@ -13,6 +13,7 @@ https://github.com/dair-ai/Transformers-Recipe/blob/main/README.md transformers 
 https://github.com/josephmisiti/awesome-machine-learning  Awesome machine learning    
 https://ethics-of-ai.mooc.fi/ AI Ethics MOOC   
 https://explained.ai/matrix-calculus/  Matrix calculus for deep learning     
+https://stanford-cs329s.github.io/syllabus.html ML systems design   
 
 https://fullstackdeeplearning.com/spring2021/ Full Stack Deep Learning  
 https://github.com/open-mmlab/mmocr OCR library for text detection and recognition  
