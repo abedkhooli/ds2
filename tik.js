@@ -62,7 +62,7 @@ with({
     }
 
     // Loading 1st level comments
-    var loadingCommentsBuffer = 50; // increase buffer if loading comments takes long and the loop break too soon (was 30)
+    var loadingCommentsBuffer = 20; // increase buffer if loading comments takes long and the loop break too soon (was 30)
     var numOfcommentsBeforeScroll = getAllComments().length;
     while (loadingCommentsBuffer > 0) {
 
