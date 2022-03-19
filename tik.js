@@ -62,7 +62,7 @@ with({
     }
 
     // Loading 1st level comments
-    var loadingCommentsBuffer = 20; // increase buffer if loading comments takes long and the loop break too soon (was 30)
+    var loadingCommentsBuffer = 25; // increase buffer if loading comments takes long and the loop break too soon (was 30)
     var numOfcommentsBeforeScroll = getAllComments().length;
     while (loadingCommentsBuffer > 0) {
 
@@ -114,7 +114,7 @@ with({
 
     var publisherProfileUrl = getElementsByXPath(publisherProfileUrlXPath)[0]['href'].split('?')[0];
     var nicknameAndPublishedAgoTime = getElementsByXPath(nicknameAndTimePublishedAgoXPath)[0].outerText.replaceAll('\n', ' ').split(' · ');
-    var level2commentsLength = 0 // getElementsByXPath(level2CommentsXPath).length;
+    var level2commentsLength = 0; // getElementsByXPath(level2CommentsXPath).length;
 
     var commentNumberDifference = Math.abs(getElementsByXPath(tiktokNumberOfCommentsXPath)[0].outerText - (comments.length + level2commentsLength))
 
