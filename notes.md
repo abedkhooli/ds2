@@ -2,11 +2,17 @@
 this doc is not part of this repo in the logical sense but is being hosted here for now. 
 It is currently a set of misc links and notes in no specific structure (well, almost) or purpose or maintenance plan - most resources here are simply 'note to self' items and I am keeping them public.        
 Use it if you find it useful.  
-Last updated: December 22, 2021  
+Last updated: October 24, 2022  
 
 # ML starter and great Resources   
 Online (free) Jupyter Notebooks: [Kaggle](https://www.kaggle.com/) - [Colab](https://colab.research.google.com/) - [SageMaker](https://studiolab.sagemaker.aws/)  
 Guide to explainable AI https://christophm.github.io/interpretable-ml-book/index.html   
+
+New models @ HF and others:  
+NLLB-200 (translation): [NLLB-200](https://huggingface.co/facebook/nllb-200-distilled-600M). There are larger models as well. 
+[Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) - generate image from text. Try at https://beta.dreamstudio.ai/dream     
+[Whisper](https://github.com/openai/whisper) - speech to text    
+Low resource languages (Swahili, Bengali, Hausa. Kanuri, ...): [Clear Global](https://gamayun.translatorswb.org/data/)   
 
 https://huggingface.co/course/chapter1/1  HuggingFace Transformers course   
 https://github.com/dair-ai/Transformers-Recipe/blob/main/README.md transformers recipe   
