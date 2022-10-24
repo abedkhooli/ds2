@@ -8,9 +8,10 @@ Last updated: October 24, 2022
 Online (free) Jupyter Notebooks: [Kaggle](https://www.kaggle.com/) - [Colab](https://colab.research.google.com/) - [SageMaker](https://studiolab.sagemaker.aws/)  
 Guide to explainable AI https://christophm.github.io/interpretable-ml-book/index.html   
 
-New models @ HF and others:  
+# New models @ HF and others:  
 NLLB-200 (translation): [NLLB-200](https://huggingface.co/facebook/nllb-200-distilled-600M). There are larger models as well. 
-[Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) - generate image from text. Try at https://beta.dreamstudio.ai/dream     
+[Stable Diffusion](https://huggingface.co/spaces/stabilityai/stable-diffusion) - generate image from text. Try at https://beta.dreamstudio.ai/dream  
+[DALL.E Mini](https://huggingface.co/spaces/dalle-mini/dalle-mini)  - image generation from prompt  
 [Whisper](https://github.com/openai/whisper) - speech to text    
 Low resource languages (Swahili, Bengali, Hausa. Kanuri, ...): [Clear Global](https://gamayun.translatorswb.org/data/)   
 
