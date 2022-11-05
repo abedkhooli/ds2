@@ -9,6 +9,7 @@ Online (free) Jupyter Notebooks: [Kaggle](https://www.kaggle.com/) - [Colab](htt
 Guide to explainable AI https://christophm.github.io/interpretable-ml-book/index.html   
 [Explain Paper](https://www.explainpaper.com/)  
 Full Stack Deep Learning [lectures](https://www.youtube.com/c/FullStackDeepLearning)  
+Machine Learning [study list](https://twitter.com/rasbt/status/1588881823098056704) with resources   
 
 # New models @ HF and others:  
 NLLB-200 (translation): [NLLB-200](https://huggingface.co/facebook/nllb-200-distilled-600M). There are larger models as well.  
