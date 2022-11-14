@@ -18,6 +18,7 @@ NLLB-200 (translation): [NLLB-200](https://huggingface.co/facebook/nllb-200-dist
 [DALL.E Mini](https://huggingface.co/spaces/dalle-mini/dalle-mini)  - image generation from prompt  
 [Whisper](https://github.com/openai/whisper) - speech to text    
 Low resource languages (Swahili, Bengali, Hausa. Kanuri, ...): [Clear Global](https://gamayun.translatorswb.org/data/)   
+[HF Models tutorial](https://www.youtube.com/playlist?list=PLo2EIpI_JMQvWfQndUesu0nPBAtZ9gP1o) videos     
 
 https://huggingface.co/course/chapter1/1  HuggingFace Transformers course   
 https://github.com/dair-ai/Transformers-Recipe/blob/main/README.md transformers recipe   
